@@ -1,0 +1,759 @@
+[enemies]|en|ru
+e_rat_1|Rat Champion|Крысиный Чемпион
+e_rat_2|Plague Rat|Чумная Крыса
+e_rat_3|Freak of Nature|Причуда природы
+e_spider_1|Arachnid|Паукообразный
+e_spider_2|Broodmother|Праматерь
+e_spider_3|Theraphosidae|Терафозиды
+e_cave_spider_1|Cave Spider|Пещерный Паук
+e_cave_spider_2|Venomous Skitter|Ядовитый Скитер
+e_cave_spider_3|Toxic Lurker|Ядовитый Подстерегающий
+e_skeleton_1|Bone Champion|Костяной Чемпион
+e_skeleton_2|Skeletal Ancestor|Скелетообразный Предок
+e_skeleton_3|Risen God|Воскресший Бог
+e_skeleton_archer_1|Fallen Marksman|Павший Стрелок
+e_skeleton_archer_2|Undead Sharpshooter|Снайпер - Нежить
+e_skeleton_archer_3|Rotten Archer|Никудышный Лучник
+e_skeleton_mage_1|Skeletal Archmage|Архимаг - Скелет
+e_skeleton_mage_2|Unholy Priest|Нечестивый Священник
+e_skeleton_mage_3|Satanic Pagan|Сатанинский Язычник
+e_skeleton_mage_fire_1|Burning Mage|Пылающий Маг
+e_skeleton_mage_fire_2|Flame Wizard|Волшебник Пламени
+e_skeleton_mage_fire_3|Infernal Mystic|Адский Мистик
+e_skeleton_mage_frost_1|Frost Mage|Ледяной Маг
+e_skeleton_mage_frost_2|Chilling Occultist|Леденящий Душу Оккультист
+e_skeleton_mage_frost_3|Permafrozen Pagan|Вечнозамороженный Язычник
+e_essenceOfFire_1|Essence of Pyre|Сущность костра
+e_essenceOfFire_3|Flaming Spirit|Пылающий дух 
+e_skeleton_mage_lightning_1|Lightning Mage|Маг Молнии
+e_skeleton_mage_lightning_2|Thunder Caller|Громовой Призыватель
+e_skeleton_mage_lightning_3|Storm Wizard|Волшебник Бури
+e_scarecrow_1|Scarecrow|Пугало
+e_scarecrow_2|Scarecrow|Пугало
+e_scarecrow_3|Undead Harvester|Нежить-сборщик
+e_pumpkinMage_1|Pumpkin Wraith|Тыквенный призрак
+e_pumpkinMage_2|Pumpkin Wraith|Тыквенный призрак
+e_pumpkinMage_3|Hallowing Pumpkin|Освященная тыква 
+e_maggot_1|Blood Maggot|Кровавый Опарыш
+e_maggot_2|Corpse Maggot|Трупный Опарыш
+e_maggot_3|Devouring Worm|Пожирающий Червь
+e_wendigo_1|Wendigo Scavenger|Мусорщик Вендиго
+e_wendigo_2|Throngcroft|Тронгкрофт
+e_wendigo_3|Mist Stalker|Сталкер Тумана
+e_undying_1|Undying|Бессмертный
+e_undying_2|Faceless Horror|Безликий Ужас
+e_undying_3|Unknown|Неизвестный
+e_ent_1|Ent Sapling|Лор - Саженец
+e_ent_2|Horror Branch|Ветвь Ужасов
+e_ent_3|Deadwood|Сухостой
+e_entValhalla_1|Boreal Oakling|Северный дубок
+e_entValhalla_2|Boreal Branch|Северная ветвь
+e_entValhalla_3|Grimwood Ent|Гримвуд Энт 
+e_goblin_1|Goblin Captain|Капитан Гоблинов
+e_goblin_2|Tinker|Повозиться
+e_goblin_3|Da Bling|Да Побрякушки
+e_imp_1|Nether Imp|Нижний Бес
+e_imp_2|Devil Breed|Дьявольская порода
+e_imp_3|Arch Demon|Архидемон
+e_dragon_whelp_1|Dragon Whelp|Драконий Щенок
+e_dragon_whelp_2|Red Drake|Красный Селезень
+e_dragon_whelp_3|Pinky|Мизинец
+e_yeti_1|Tundra Yeti|Тундровый йети
+e_yeti_2|Gargantuan Beast|Гигантский Зверь
+e_yeti_3|Mountain Monstrosity|Горное Чудовище
+e_nautilus_1|Nautilus|Наутилус
+e_nautilus_2|Sea Hunter|Морской Охотник
+e_nautilus_3|Colossal Nautilus|Колоссальный Наутилус
+e_horror_1|Sleeping Horror|Спящий Ужас
+e_horror_2|Slumbering Demon|Дремлющий Демон
+e_horror_3|Master of Limbo|Мастер Лимбо
+e_chilling_head_1|Chilling Head|Леденящая Голову
+e_chilling_head_2|Frozen Curse|Замороженное Проклятие
+e_chilling_head_3|Ancient Apparition|Древнее Видение
+e_jormungar_1|Ravenous Jormungar|Голодный Йормунгар
+e_jormungar_2|Tundra Crawler|Тундровый Краулер
+e_jormungar_3|Burrowing Ambusher|Роющий Засаду
+e_bride_1|Dead Bride|Мертвая Невеста
+e_bride_2|Ghost Spouse|Призрачный Супруг
+e_bride_3|Widow Anomaly|Аномалия Вдовы
+e_fetish_doll_1|Fetish Doll|Фетишистская Кукла
+e_fetish_doll_2|Fetish Shaman|Фетиш- Шаман
+e_fetish_doll_3|Cursed Doll|Проклятая Кукла
+e_parasect_1|Parasect|Паразитировать
+e_parasect_2|Hellspawn Abomination|Исчадие Ада , Мерзость
+e_parasect_3|Colossal Parasect|Колоссальный Паразит
+e_fungus_monster_1|Fungus Monster|Грибной Монстр
+e_fungus_monster_2|Faceless Mushroom|Безликий Гриб
+e_fungus_monster_3|Caclauschex|Каклаушекс
+e_desert_skeleton_1|Desert Legion|Пустынный легион
+e_desert_skeleton_2|Legion Captain|Капитан легиона
+e_desert_skeleton_3|Desert Commander|Командующий Пустыней
+e_burning_legion_1|Burning Legion|Пылающий Легион
+e_burning_legion_2|Risen Archer|Восставший Лучник
+e_burning_legion_3|Fallen Legion|Павший Легион
+e_mummy_1|Mummy|Мамочка
+e_mummy_2|Deceased Demon|Умерший Демон
+e_mummy_3|Embalmed King|Забальзамированный Король
+e_desert_beast_1|Desert Beast|Пустынный Зверь
+e_desert_beast_2|Sand Goliath|Песчаный Голиаф
+e_desert_beast_3|Colossal Behemoth|Колоссальный Бегемот
+e_earth_elemental_1|Earth Elemental|Элементаль Земли
+e_earth_elemental_2|Monument of Stone|Памятник из камня
+e_earth_elemental_3|Avalachion|Авалахион
+e_sand_wasp_1|Sand Wasp|Песчаная Оса
+e_sand_wasp_2|Desert Bee|Пустынная Пчела
+e_sand_wasp_3|Wasp Queen|Королева ос
+e_dust_feeder_1|Dust Feeder|Пылеуловитель
+e_dust_feeder_2|Devourer|Пожиратель
+e_dust_feeder_3|Colossal Devourer|Колоссальный Пожиратель
+e_karp_1|Karp|Карп
+e_karp_2|Frenzied Karp|Взбешенный Карп
+e_karp_3|Karpoga|Карпога
+e_forest_wasp_1|Forest Wasp|Лесная Оса
+e_forest_wasp_2|Toxic Stinger|Ядовитое Жало
+e_forest_wasp_3|Furious Killerfly|Разъяренная Муха - Убийца
+e_treasure_goblin_1|Treasure Goblin|Гоблин с Сокровищами
+e_treasure_goblin_2|Treasure Hoarder|Кладоискатель сокровищ
+e_treasure_goblin_3|Treasure Master|Мастер Сокровищ
+e_goblinRune_1|Rune Goblin|Рунный гоблин
+e_goblinRune_3|Rune Fiddler|Рунический скрипач
+e_goblinShadow_1|Shadow Goblin|Теневой гоблин
+e_goblinShadow_3|Shadow Hoarder|Теневой собиратель 
+e_fly_1|Fly|Летать
+e_fly_2|Frenzied Fly|Бешеная Муха
+e_fly_3|Diseased Mosquito|Больной Комар
+e_sheep_1|Sheep|Овцы
+e_sheep_2|Chaos Mutton|Чемпион Овец
+e_sheep_3|Demonhorn Enforcer|Демонический Рог Инфорсер 
+e_cursed_doll_1|Cursed Doll|Проклятая Кукла
+e_cursed_doll_2|Fetish Voodoo Doll|Фетишистская Кукла Вуду
+e_cursed_doll_3|Stygian Puppet|Стигийская Марионетка
+e_hollow_stump_1|Hollow Stump|Полый Обрубок
+e_hollow_stump_2|Hollow Terror|Пустой Ужас
+e_hollow_stump_3|Deepwood Horror|Ужас Темнолесья
+e_damned_legion_1|Damned Legion|Проклятый Легион
+e_damned_legion_2|Forsaken Soldier|Покинутый Солдат
+e_damned_legion_3|Satanic Commander|Сатанинский Командир
+e_levitating_horror_1|Levitating Horror|Парящий Ужас
+e_levitating_horror_2|Soul Horror|Ужас Души
+e_levitating_horror_3|Soul Cancer|Рак Души
+e_goblin_cannoneer_1|Goblin Cannoneer|Канонир - Гоблин
+e_goblin_cannoneer_2|Crazy Bombardier|Сумасшедший Бомбардир
+e_goblin_cannoneer_3|Explosion Expert|Эксперт по взрывам
+e_ghost_skeleton_archer_1|Archer Anomaly|Аномалия Лучника
+e_ghost_skeleton_archer_2|Lost Ghost|Потерянный Призрак
+e_ghost_skeleton_archer_3|Awaken Horror|Пробудить Ужас
+e_ghost_skeleton_1|Skeletal Ghost|Призрак - Скелет
+e_ghost_skeleton_2|Wandering Soul|Блуждающая Душа
+e_ghost_skeleton_3|Lost Anomaly|Потерянная Аномалия
+e_frost_dragon_1|Frozen Whelpling|Замороженный Щенок
+e_frost_dragon_2|Chilling Drake|Леденящий душу Дрейк
+e_frost_dragon_3|Awoken Frostburn|Разбуженный Фростберн
+e_frost_goblin_1|Tundra Goblin|Тундровый Гоблин
+e_frost_goblin_2|Chilling Tinker|Леденящий Душу Тинкер
+e_frost_goblin_3|Da Frozen Bling|Замороженные Побрякушки Da
+e_ice_elemental_1|Ice Elemental|Элементаль Льда
+e_ice_elemental_2|Dark Ice Magician|Темный Ледяной Маг
+e_ice_elemental_3|Frost Apparition|Морозное Видение
+e_shadeOfIce_1|Essence of Ice|Эссенция Льда
+e_shadeOfIce_2|Frost Essence|Эссенция Мороза
+e_shadeOfIce_3|Shade of Ice|Оттенок Льда 
+e_pyramid_guardian_1|Pyramid Guardian|Страж Пирамиды
+e_pyramid_guardian_2|Tomb Legion|Могильный Легион
+e_pyramid_guardian_3|Anubis Worshipper|Поклоняющийся Анубису
+e_frost_skeleton_1|Frost Legion|Ледяной Легион
+e_frost_skeleton_2|Dark Commander|Темный Командир
+e_frost_skeleton_3|Frozen Champion|Замороженный Чемпион
+e_goblin_devilkin_1|Devilkin|Дьяволкин
+e_goblin_devilkin_2|Slave Master|Раб - Хозяин
+e_goblin_devilkin_3|Hellspawn Shaman|Шаман - Исчадие Ада
+e_goblin_bomber_1|Goblin Bomber|Гоблин - Бомбардировщик
+e_goblin_bomber_2|Bomb Engineer|Инженер - взрывотехник
+e_goblin_bomber_3|Manic Bomber|Маниакальный Бомбардировщик
+e_organic_anomaly_1|Organic Anomaly|Органическая Аномалия
+e_organic_anomaly_2|Sack of Flesh|Мешок Плоти
+e_organic_anomaly_3|Flesh of Satan|Плоть сатаны
+e_skeleton_samurai_1|Skeletal Samurai|Скелет Самурая
+e_skeleton_samurai_2|Ancient Zen Legion|Древний дзенский Легион
+e_skeleton_samurai_3|Samurai Warlord|Военачальник - самурай
+e_piranha_1|Piranha|Пиранья
+e_piranha_2|Frenzied Piranha|Взбешенная Пиранья
+e_piranha_3|Colossal Piranha|Колоссальная Пиранья
+e_rift_grunt_1|Rift Grunt|Рифтовое Ворчание
+e_rift_grunt_2|Astral Warrior|Астральный Воин
+e_rift_grunt_3|Rift Commander|Командующий Рифтом
+e_corrosive_ooze_1|Corrosive Ooze|Едкий ил
+e_corrosive_ooze_2|Unstable Matter|Нестабильная Материя
+e_corrosive_ooze_3|Devouring Slime|Пожирающая Слизь
+e_corrupted_monk_1|Corrupted Monk|Развращенный Монах
+e_corrupted_monk_2|Enlightened Horror|Просветленный Ужас
+e_corrupted_monk_3|Shaolin Demigod|Шаолиньский Полубог
+e_giant_1|Astral Giant|Астральный Гигант
+e_giant_2|Rift Walker|Ходок по Рифтам
+e_giant_3|Gorgon Giant|Гигантская Горгона
+e_headless_butler_1|Headless Butler|Безголовый Дворецкий
+e_headless_butler_2|Butler of Death|Дворецкий Смерти
+e_headless_butler_3|Corpse Assistant|Помощник Трупа
+e_haunted_book_1|Haunted Book|Книга с Привидениями
+e_haunted_book_2|Horror Diary|Дневник ужасов
+e_haunted_book_3|Corrupted Necronomicon|Испорченный Некрономикон
+e_flesh_plant_1|Flesh Plant|Мякоть Растения
+e_flesh_plant_2|Carnivorous|Плотоядный
+e_flesh_plant_3|Fertilized Horror|Оплодотворенный Ужас
+e_spider_sibling_1|Spider Sibling|Брат - Паук
+e_spider_sibling_2|Giant Spider|Гигантский Паук
+e_spider_sibling_3|Arachnid Mother|Мать - Паукообразный
+e_slime_1|Slime|Слизь
+e_slime_2|Slime Champion|Чемпион По Слизи
+e_slime_3|Toxic Waste|Токсичные отходы
+e_hell_beast_1|Hell Beast|Адский Зверь
+e_hell_beast_2|Goliath of Hell|Голиаф из ада
+e_hell_beast_3|Sacrilegious Goliath|Святотатственный Голиаф
+e_skull_crawler_1|Skull Crawler|Краулер с черепом
+e_skull_crawler_2|Bonecrab|Костяной Граб
+e_skull_crawler_3|Bonecrab|Костяной Граб
+e_cave_slime_1|Cave Slime|Пещерная Слизь
+e_cave_slime_2|Toxic Mucus|Токсичная Слизь
+e_cave_slime_3|Toxic Mucus|Токсичная Слизь
+e_cyclops_1|Cyclops|Циклоп
+e_cyclops_2|Cyclops Goliath|Циклоп Голиаф
+e_cyclops_3|Cyclops Goliath|Циклоп Голиаф
+e_rift_skeleton_1|Rift Skeleton|Рифтовый Скелет
+e_rift_skeleton_2|Shadow Champion|Теневой Чемпион
+e_rift_skeleton_3|Rift Legion|Рифтовый Легион
+e_ooze_1|Nightmare Ooze|Кошмарная Жижа
+e_ooze_2|Corrosive Nightmare|Разъедающий Кошмар
+e_ooze_3|Sleep Paralysis|Сонный паралич
+e_graveSkeleton_1|Grave Skeleton|Могильный скелет
+e_graveZombie_1|Grave Zombie|Могильный зомби
+e_curcanLegion_1|Curacan Legion|Легион Куракан
+e_curcanLegion_3|Curacan Warchief|Вождь Куракан
+e_curacanMarksman_1|Curacan Marksman|Стрелок Куракан
+e_curacanMarksman_3|Curacan Stinger|Стингер Куракан 
+e_zombie_crawler_1|Zombie Crawler|Зомби - Краулер
+e_zombie_crawler_2|Diseased Gnawler|Больной Грызун
+e_zombie_crawler_3|Putrid Monstrosity|Гнилостное Чудовище
+e_undead_priest_1|Undead Priest|Немертвый Священник
+e_undead_priest_2|Fallen Bishop|Падший Епископ
+e_undead_priest_3|Satan Worshiper|Поклоняющийся сатане
+e_shade_1|Shade|Тень
+e_shade_2|Dark Shade|Темный Оттенок
+e_shade_3|Shadow of Evil|Тень зла
+e_shadow_anomaly_1|Shadow Anomaly|Теневая Аномалия
+e_shadow_anomaly_2|Dark Lurker|Темный Скрывающийся
+e_shadow_anomaly_3|Ancient Zealot|Древний Фанатик
+e_monk_1|Monk|Монах
+e_monk_2|Shaolin Fighter|Шаолиньский Боец
+e_monk_3|High Monk|Верховный Монах
+e_armored_knight_1|Armored Knight|Рыцарь в доспехах
+e_armored_knight_2|Horned Trooper|Рогатый солдат
+e_armored_knight_3|Legion Officer|Офицер Легиона
+e_prison_guard_1|Prison Guard|Тюремный охранник
+e_prison_guard_2|Jail Officer|Тюремный надзиратель
+e_prison_guard_3|Dungeon Marauder|Мародер Подземелий
+e_triangle_1|Triangle Charger|Треугольное Зарядное Устройство
+e_triangle_2|Champion Triangle|Чемпионский Треугольник
+e_triangle_3|Monstrous Triangle|Чудовищный Треугольник
+e_propeller_1|Propeller|Пропеллер
+e_propeller_2|Flying Shape|Летящая Форма
+e_propeller_3|Abnormal Geocube|Аномальный Геокуб
+e_cube_1|Cube Fighter|Кубический Боец
+e_cube_2|Warrior Box|Шкатулка Воина
+e_cube_3|Betawave Crusher|Двухволновая Дробилка
+e_ball_1|Geoball|Геоболл
+e_ball_2|Fractured Orb|Расколотый Шар
+e_ball_3|Fractal Monstrosity|Фрактальное Чудовище
+e_samurai_archer_1|Samurai Marksman|Стрелок - Самурай
+e_samurai_archer_2|Legion Marksman|Стрелок Легиона
+e_samurai_archer_3|Master of Arrows|Мастер Стрел
+e_gnarler_1|Gnarler|Корявый
+e_gnarler_2|Paralyzed Horror|Парализованный Ужас
+e_gnarler_3|Subconcious Demon|Подсознательный Демон
+e_casket_horror_1|Casket Horror|Ужас в Гробу
+e_casket_horror_2|Casket Horror|Ужас в Гробу
+e_casket_horror_3|Meat Logger|Мясорубка
+e_nightmare_priest_1|Nightmare Priest|Кошмарный Священник
+e_nightmare_priest_2|Nightmare Priest|Кошмарный Священник
+e_nightmare_priest_3|Hallucinated Baptist|Баптист с Галлюцинациями
+e_tundra_hog_1|Tundra Hog|Тундровый Боров
+e_tundra_hog_2|Mountain Swine|Горная Свинья
+e_tundra_hog_3|Elder Swine|Старшая Свинья
+e_forest_troll_1|Forest Troll|Лесной Тролль
+e_forest_troll_2|Swamp Roamer|Бродяга по болотам
+e_forest_troll_3|Mold Eater|Пожиратель плесени
+e_mountain_troll_1|Mountain Troll|Горный Тролль
+e_mountain_troll_2|Cave Troll|Пещерный Тролль
+e_mountain_troll_3|Troll Colossus|Колосс - Тролль
+e_corrupted_viking_1|Corrupted Viking|Развращенный Викинг
+e_corrupted_viking_2|Lost Drengr|Потерянный Дренгр
+e_corrupted_viking_3|Fallen Berserker|Павший Берсеркер
+e_naga_warrior_1|Naga Warrior|Воин - Нага
+e_naga_warrior_2|Reptilian Champion|Чемпион среди Рептилий
+e_naga_warrior_3|Slither Commander|Скользящий Командир
+e_valhalla_bear_1|Raging Bear|Разъяренный Медведь
+e_valhalla_bear_2|Mauling Bear|Растерзанный Медведь
+e_valhalla_bear_3|Alpha Bear|Альфа - Медведь
+e_naga_archer_1|Naga Archer|Нага Лучник
+e_naga_archer_2|Reptilian Bowman|Лучник - Рептилия
+e_naga_archer_3|Slither Marksman|Скользящий Стрелок
+e_colossalGolem_1|Ancient Golem|Древний Голем
+e_colossalSkeleton_1|Ancient Skeleton|Древний Скелет
+e_colossalSpider_1|Ancient Spider|Древний Паук
+e_colossalZombie_1|Ancient Zombie|Древний Зомби
+e_orc_warrior_1|Orc Warrior|Орк - Воин
+e_orc_warrior_2|Grunt Champion|Пехотинец - Чемпион
+e_orc_warrior_3|Warchief|Вождь
+e_orc_hunter_1|Orc Hunter|Охотник на Орков
+e_orc_hunter_2|Boulderer|Боулдерер
+e_orc_hunter_3|Stone Slinger|Метатель Камней
+e_alien_melee_1|Alien Grunt|Инопланетное Ворчание
+e_alien_melee_2|Astral Commander|Астральный Командир
+e_alien_melee_3|Glitch Demon|Демон - Глюк
+e_alien_ranged_1|Alien Trooper|Инопланетный Солдат
+e_alien_ranged_2|Vector Marksman|Векторный Стрелок
+e_alien_ranged_3|Triggershot|Спусковой крючок
+e_alien_devourer_1|Unknown Beast|Неизвестный Зверь
+e_alien_devourer_2|Fatal Experiment|Фатальный Эксперимент
+e_alien_devourer_3|Spectral Malfunction|Спектральная неисправность
+e_skeletal_trooper_1|Skeletal Trooper|Солдат - Скелет
+e_skeletal_trooper_2|Bone Commander|Костяной Командир
+e_skeletal_trooper_3|Skeletal Warlord|Скелетообразный Военачальник
+e_skeletal_marksman_1|Skeletal Marksman|Стрелок - Скелет
+e_skeletal_marksman_2|Guerilla Ambusher|Партизанская засада
+e_skeletal_marksman_3|Bone Maker|Производитель костей
+e_grave_ghoul_1|Grave Ghoul|Могильный Упырь
+e_grave_ghoul_2|Lurking Horror|Затаившийся Ужас
+e_grave_ghoul_3|Frenzied Anomaly|Безумная Аномалия
+e_essence_of_agony_1|Essence of Agony|Сущность Агонии
+e_essence_of_agony_2|Agonizing Anomaly|Мучительная Аномалия
+e_essence_of_agony_3|Burdened Agony|Отягощенная Агония
+e_disturbed_spirit_1|Disturbed Soul|Потревоженная Душа
+e_disturbed_spirit_2|Distorted Anima|Искаженная Анима
+e_disturbed_spirit_3|Fractured Ego|Раздробленное Эго
+e_chilling_marksman_1|Chilling Marksman|Пугающий Стрелок
+e_chilling_marksman_2|Frosted Sharpshooter|Матовый Снайпер
+e_chilling_marksman_3|White Death|Белая Смерть
+e_ogre_warrior_1|Ogre Warrior|Воин - Людоед
+e_ogre_warrior_2|Ogre Champion|Чемпион - Людоед
+e_ogre_warrior_3|Battle Warchief|Боевой Вождь
+e_amazon_spear_1|Amazon Warrior|Воин - Амазонка
+e_amazon_spear_2|Tribal Commander|Командир племени
+e_amazon_spear_3|Amazon Matriarch|Матриарх Амазонки
+e_unholy_monstrosity_1|Unholy Monstrosity|Нечестивое Чудовище
+e_unholy_monstrosity_2|Malevolent Anomaly|Зловещая Аномалия
+e_unholy_monstrosity_3|Satanic Mutation|Сатанинская Мутация
+e_crypt_skeleton_1|Fallen Trooper|Упавший Солдат
+e_crypt_skeleton_2|Moldy Champion|Заплесневелый Чемпион
+e_crypt_skeleton_3|Fallen Legion|Павший Легион
+e_crypt_archer_1|Fallen Archer|Павший Лучник
+e_crypt_archer_2|Moldy Legion|Заплесневелый Легион
+e_crypt_archer_3|Decaying Marksman|Разлагающийся Стрелок
+e_crypt_doll_1|Crypt Doll|Кукла из Склепа
+e_crypt_doll_2|Devil Child|Дьявольское Дитя
+e_crypt_doll_3|Demon's Offspring|Отпрыск демона
+e_scavenger_1|Cave Scavenger|Пещерный Падальщик
+e_scavenger_2|Mine Lurker|Мой Подстерегающий
+e_scavenger_3|Swamp Lurker|Болотный Прячущийся
+e_cyclops_ghost_1|Ghostly Brute|Призрачная Скотина
+e_cyclops_ghost_2|Haunting Giant|Преследующий Гигант
+e_cyclops_ghost_3|Spectral Colossus|Призрачный Колосс
+e_zombie_pyramid_1|Rotten Corpse|Сгнивший Труп
+e_zombie_pyramid_2|Tomb Horror|Ужас Гробницы
+e_zombie_pyramid_3|Rotting Nightmare|Гниющий Кошмар
+e_royal_skeleton_1|Skeleton Knight|Рыцарь - Скелет
+e_royal_skeleton_2|Royal Guard|Королевская гвардия
+e_royal_skeleton_3|Undead Commander|Командир Нежити
+e_legion_skeleton_1|Skeletal Legion|Легион Скелетов
+e_legion_skeleton_2|Rattling Bonelord|Гремящий Повелитель Костей
+e_legion_skeleton_3|Hulking Skullster|Неуклюжий Скулстер
+e_royal_archer_1|Rattling Archer|Грохочущий Лучник
+e_royal_archer_2|Royal Arrowskull|Королевский Череп Стрелы
+e_royal_archer_3|King's Skullguard|Королевский страж черепа
+e_legion_archer_1|Legion Marksman|Стрелок Легиона
+e_legion_archer_2|Hulking Archer|Неуклюжий Лучник
+e_legion_archer_3|Bony Deadshot|Костлявый Дэдшот
+e_fearsEssence_1|Fear’s Essence|Сущность страха
+e_fearsEssence_2|Spectral Harbringer|Призрачный Преследователь
+e_fearsEssence_3|Reaper of Seven Sins|Жнец семи грехов
+e_lurkingShadow_1|Lurking Shadow|Притаившаяся Тень
+e_lurkingShadow_2|Eclipse Assassin|Убийца из Затмения
+e_lurkingShadow_3|Shade of Eternal Night|Тень Вечной ночи
+e_maskOfTerror_1|Mask of Terror|Маска ужаса
+e_maskOfTerror_2|Visage of the Damned|Облик Проклятого
+e_maskOfTerror_3|Cursed Veil of Torment|Проклятая Завеса Мучений
+e_shadowLegion_1|Shadow Legion|Теневой Легион
+e_shadowLegion_2|Dreadlord of Shadows|Повелитель Ужаса Теней
+e_shadowLegion_3|Souldbound Shade|Бездушная Тень
+e_lurkingHorror_1|Lurking Horror|Затаившийся Ужас
+e_lurkingHorror_2|Cauflax Horror|Кошмар из Кауфлакса
+e_lurkingHorror_3|Rotting Tombwalker|Гниющий Могильщик
+e_rottingMummy_1|Rotting Mummy|Гниющая Мумия
+e_rottingMummy_2|Decaying Offspring|Разлагающееся Потомство
+e_rottingMummy_3|Defiling Carcass|Осквернение Туши
+e_tombWarrior_1|Tomb Warrior|Могильный Воин
+e_tombWarrior_2|Cauflax Guard|Защита из Кауфлакса
+e_tombWarrior_3|Cursed Commander|Проклятый Командир
+e_scorchingArcher_1|Scorching Archer|Обжигающий Лучник
+e_scorchingArcher_2|Fleshmelter|Плавильщик плоти
+e_scorchingArcher_3|Spellburned Marksman|Обожженный Заклинаниями Стрелок
+e_darkKnight_1|Dark Knight|Темный Рыцарь
+e_darkKnight_2|Unholy Templar|Нечестивый Тамплиер
+e_darkKnight_3|Reanimated Knight|Оживший Рыцарь
+e_fearsEmbodiment_1|Fear’s Embodiment|Воплощение страха
+e_fearsEmbodiment_2|Faces of Destruction|Грани разрушения
+e_fearsEmbodiment_3|Doomsday Prophecy|Пророчество О Конце Света
+e_paganPreacher_1|Pagan Preacher|Языческий проповедник
+e_paganPreacher_2|Exalted Priest|Возвышенный Священник
+e_paganPreacher_3|Fallen Saint|Падший Святой
+e_sacrilegiousLegion_1|Sacrilegious Legion|Святотатственный Легион
+e_sacrilegiousLegion_2|Keeper of Blasphemy|Хранитель Богохульства
+e_sacrilegiousLegion_3|Brimstone Commander|"Командир "" Бримстоуна """
+e_spiderCritter_1|Spider Critter|Паучья Тварь
+e_spiderCritter_2|Spider Critter|Паучья Тварь
+e_spiderCritter_3|Spider Critter|Паучья Тварь
+e_helheimSpider_1|Helheim Arachnid|Паукообразный из Хельхейма
+e_helheimSpider_2|Helheim Arachnid|Паукообразный из Хельхейма
+e_helheimSpider_3|Helheim Arachnid|Паукообразный из Хельхейма
+e_corruptedArcher_1|Corrupted Archer|Испорченный Лучник
+e_corruptedArcher_2|Freljord Marksman|Стрелок из Фрельйорда
+e_corruptedArcher_3|Frostbitten Sharpshooter|Обмороженный Снайпер
+e_tribalDoll_1|Tribal Doll|Племенная Кукла
+e_tribalDoll_2|Voodoo Lurker|Скрывающийся Вудуист
+e_tribalDoll_3|Tikitaki|Тикитаки
+e_harpy_1|Harpy|Гарпия
+e_harpy_2|Wind Gusher|Поток ветра
+e_harpy_3|Furyclaw|Фурийная Лапка
+e_mechPirate_1|Mech Pirate|Механический Пират
+e_mechPirate_2|Dreadnaut|Дредноут
+e_mechPirate_3|Ironcut Trooper|Солдат с Железными Зубами
+e_mechGunner_1|Flintlock Gunner|Стрелок с кремневым ружьем
+e_mechGunner_2|Blazecannoner|Канонир Пламени
+e_mechGunner_3|Gunsworn Sharpshooter|Закаленный в Стрельбе Снайпер
+e_valhallaBear_1|Grizzlepaw Bruin|Синяк из Сизолапки
+e_valhallaBear_2|Freljord Usant|Freljord Usant
+e_valhallaBear_3|Raging Ursus|Разъяренный Урсус
+e_crab_1|Clawlasher|Когтерез 
+e_crab_2|Coralcrusher|Коралловый дробитель 
+e_crab_3|Razorshell|Бритвенный панцирь 
+e_valhallaWraith_1|Wraith|Призрак 
+e_valhallaWraith_2|Helheim Corruptor|Хельхеймский осквернитель
+e_valhallaWraith_3|Soulfeaster|Душепожиратель
+e_bogMushroom_1|Shroomer|Грибник
+e_bogMushroom_2|Big Cap|Большая шапка
+e_bogMushroom_3|Colossal Shroom|Колоссальный гриб
+e_cursedElf_1|Cursed Elf|Проклятый эльф
+e_cursedElf_2|Possessed Elf|Одержимый эльф
+e_cursedElf_3|Damned Elf|Проклятый эльф
+e_bogNagaWarrior_1|Forest Naga|Лесная нага
+e_bogNagaWarrior_2|Bogplain Reptile|Топольная рептилия
+e_bogNagaWarrior_3|Molding Slither|Плесневеющий ползучий
+e_bogParasect_1|Shrub Parasite|Кустарниковый паразит
+e_bogParasect_2|Toxicating Anomaly|Отравляющая аномалия
+e_bogParasect_3|Leeching Monstrosity|Пиявающий монстр
+e_bellCrawler_1|Bell Crawler|Ползучий колокол
+e_bellCrawler_2|Timefueled Crab|Тайный краб
+e_bellCrawler_3|Timelost Lobster|Затерянный во времени омар
+e_fallenLegion_1|Fallen Legion|Падший легион
+e_fallenLegion_2|Commander of Time|Командир времени
+e_fallenLegion_3|Void General|Генерал пустоты
+e_fallenMage_1|Tickering Magi|Тиккинговый маг
+e_fallenMage_2|Timeless Mystic|Вневременной мистик
+e_fallenMage_3|Horizon Seeker|Искатель горизонта
+e_abyssalHatredCultist_1|Abyssal Hatred Cultist|Культист бездны ненависти
+e_abyssalHatredCultist_2|Malevolent Zealot|Злобный фанатик
+e_abyssalHatredCultist_3|High Cultist of the Abyss|Верховный культист бездны
+e_hatredcladRattlebone_1|Hatredclad Rattlebone Warrior|Одетый в ненависть воин из гремучей кости
+e_hatredcladRattlebone_2|Dreadforged Warrior of Malice|Закаленный в ужасе воин злобы
+e_hatredcladRattlebone_3|Vengeance Legionnaire|Легионер мести
+e_shadowborneWraith_1|Shadowborne Wraith of Hatred|Теневое привидение ненависти
+e_shadowborneWraith_2|Umbral Specter|Теневой призрак
+e_shadowborneWraith_3|Harbringer of Wrath|Предвестник гнева
+e_vengefulSentinel_1|Vengeful Sentinel|Мстительный страж
+e_vengefulSentinel_2|Horned Guardian|Рогатый Страж
+e_vengefulSentinel_3|Hateforged Colossus|Колосс Ненависти
+e_wrathshotBoneMarksman_1|Wrathshot Bone Marksman|Костяной стрелок Гневного выстрела
+e_wrathshotBoneMarksman_2|Cursed Spine Archer|Проклятый лучник
+e_wrathshotBoneMarksman_3|Necrostorm Arbalest|Арбалетчик Некрошторма 
+e_attackDummy_1|Attack Dummy|Атакующий Манекен
+e_attackDummyBoss_1|Attack Dummy|Атакующий Манекен
+e_evilSteve_1|Stickman Steve|Крупье Стив
+e_evilSteve_2|Stickman Steve Senior|Крупье Стив Старший
+e_evilSteve_3|Ancient Stickman Steve|Древний Крупье Стив
+||
+[Special Monsters & Boss Ads]||
+e_commander_albert_1|Commander Albert|Коммандер Альберт
+e_forgemaster_1|Forge Master|Мастер Кузницы
+e_archWizardAntero_1|Arch Wizard Antero|Верховный Волшебник Антеро
+e_forsakenHarvester_1|Forsaken Harvester|Заброшенный комбайн 
+e_colossalPumpkin_1|Colossal Pumpkin|Колоссальная тыква
+e_undeadMiner_1|Undead Miner|Нежить-шахтер
+e_nugget_1|Nugget|Самород
+e_amShaegar_1|Amshaegar|Амшаегар
+e_damienChain_1|Soul Chain|Цепь душ
+e_yoshiMiyamoto_1|Yoshi Miyamoto|Ёси Миямото 
+e_scorchwood_1|Scorchwood|Выжженное Дерево
+e_fragrat_1|Fragrat|Ароматизатор
+e_evil_pumpkin_1|Malformed Pumpkin|Уродливая Тыква
+e_collector_of_bones_1|Collector of Bones|Собиратель костей
+e_crusher_1|Crusher|Дробилка
+e_trasher_1|Trasher|Трэшер
+e_kingTuna_1|King Tuna|Королевский Тунец
+e_carnage_1|Carnage|Кровавая бойня
+e_questSquishy_1|Squishy the Delicious|Сквиши Вкусный 
+e_questXor_1|Xor|Xor
+e_questNjal_1|Njal|Дождь 
+e_odinPillar_1|Corrupted Beacon|Поврежденный Маяк
+e_mimic_1|Mimic|Имитировать
+e_huginn_1|Huginn|Обнимаю
+e_muninn_1|Muninn|Мунинн
+e_shadow_lantern_1|Shadow Lantern|Теневой Фонарь
+e_satan_left_hand_1|Satan’s Left Hand|Левая Рука Сатаны
+e_satan_right_hand_1|Satan’s Right Hand|Правая рука сатаны
+e_meviusBall_1|Chain of Mevius|Цепь Мевиуса
+e_wanderingSoul_1|Wandering Soul|Блуждающая Душа
+e_akoraWrapping_1|Demonic Wrapping|Демоническая Оболочка
+e_agonyOfAkora_1|Agony of Akora|Агония Акоры
+e_blackStoneDefender_1|Blackstone Defender|Защитник Блэкстоуна
+e_sirUngar_1|Sir Ungar|Сэр Унгар
+e_archBishopSimon_1|Arch Bishop Simon|Архиепископ Саймон
+e_manCrusher_1|MANCRUSHER|MANCRUSHER
+e_gardenColossus_1|Garden Colossus|Сад Колосса
+e_helgromBrute_1|Helgrom Brute|Хельгром Брут
+e_helgromChieftain_1|Helgrom Chieftain|Хельгром Вождь
+e_soulPillar_1|Soul Pillar|Столп Души
+e_bloodOfRa_1|Amun Ra´s Blood|Кровь Амуна Ра
+e_shadeOfSobek_1|Shade of Sobek|Тень Собека
+e_shadeOfThoth_1|Shade of Thoth|Тень Тота
+e_anubisHeart_1|Heart of Amun Ra|Сердце Амуна Ра
+e_crocolisk_1|Crocolisk|Крокодил
+e_nestUberAnubis_1|Corrupted Sarkofagus|Оскверненный саркофаг 
+e_nestAnubis_1|Anubis Sarkofagus|Анубис Саркофагус
+e_satanLeftHand_1|Satan's Left Hand|Левая рука сатаны
+e_satanRightHand_1|Satan's Right Hand|Правая рука сатаны
+e_damienHead_1|Damien's Head|Голова Дэмиена
+e_damiensMask_1|Damien’s Mirror|Зеркало Дэмиена
+e_blackPlague_1|Black Plague|Черная чума
+e_roninMarksman_1|Ronin Marksman|Ронинский стрелок
+e_karpSpawn_1|Karpspawn|Порождение Карпа
+e_bloodSeeker_1|Bloodseeker|Кровожадный командир
+e_damnedCommander_1|Damned Commander|Сжимающее искажение
+e_clampingDistortion_1|Clamping Distortion|Жгучая агония
+e_reakingAgony_1|Reaking Agony|Великий дворецкий
+e_theGrandButler_1|The Grand Butler|Древний ронин
+e_ancientRonin_1|Ancient Ronin|Падший еретик
+e_fallenHeretic_1|Fallen Heretic|Чемпион-разбойник
+e_rogueChampion_1|Rogue Champion|Хранитель
+e_odinAncientSkeleton_1|Guardian of Helheim|Хельхейма
+e_mortalBride_1|Mortal Bride|Смертная невеста
+e_sassyTheSasquach_1|Sassy the Sasquach|Сэсси Снежный человек
+e_wanderingCaptain_1|Wandering Captain|Странствующий капитан
+e_queenBee_1|Queen Bee|Королева пчёл
+e_scorchingLegion_1|Scorching Legion|Опаляющий легион
+e_moltenBreath_1|Molten Breath|Расплавленное дыхание
+e_skinWalker_1|Skinwalker|Перевёртыш
+e_stormAnomaly_1|Storm Anomaly|Аномалия бури
+e_commanderOfDamned_1|Commander of the Damned|Командир проклятых
+e_hellSpawnGuardsman_1|Hellspawn Guardsman|Гвардеец порождений ада
+e_servantOfDevil_1|Servant of the Devil|Слуга дьявола
+e_grizzMaw_1|Grizzmaw|Медвежья Пасть
+e_scaleTip_1|Scaletip|Чешуйчатый наконечник
+e_mossWalkTroll_1|Mosswalk Troll|Тролль мохоходов
+e_abomination_1|Gluttony|Чревоугодие
+e_colossalMummy_1|Pyramid Terror|Ужас пирамиды
+e_gargantumGuardsman_1|Gargantum Guardsman|Гвардеец Гаргантума 
+||
+[Bosses]||
+e_krampus_1|Krampus|Крампус 
+e_valkyrie_1|Corrupted Valkyrie|Оскверненная валькирия
+e_enragedOdin_1|Enraged Odin|Разгневанный Один
+e_grimbone_1|Grimbone|Гримбон
+e_jadeStoneGazer_1|Jadestone Gazer|Нефритовый зефир
+e_redBeard_1|Red Beard|Рыжая борода
+e_akora_1|Akora|Акора
+e_demonZealot_1|Demon Zealot|Демон-фанатик
+e_uberKingRakhul_1|King Rakhul|Король Рахул
+e_uberSungLee_1|Sung Lee|Санг Ли
+e_uberGabriel_1|Gabriel the Fallen Angel|Габриэль Падший ангел
+e_sheep_king_1|The Sheep King|Король овец
+e_uberChaosTower_1|Rogue Chaos Tower|Башня разбойника Хаоса
+e_gaben_1|Lord Gaben|Лорд Габен
+e_shadowreaper_1|Shade of Death|Тень смерти
+e_mevius_1|Mevius|Мевиус
+e_satan_1|Satan|Сатана
+e_karp_king_1|The Karp King|Король Карпов
+e_reaper_1|Grim Reaper|Мрачный жнец
+e_damien_1|Damien|Дэмиен
+e_anubis_1|Anubis|Анубис
+e_uberEndrixia_1|Endrixia|Эндриксия
+e_uberAnubis_1|Amun Ra|Амун Ра
+e_uberLuna_1|Possessed Luna|Одержимая Луна
+e_gurag_1|Gurag the Fallen King|Гураг Падший король
+e_horrorBranch_1|Horror Branch|Ветвь ужаса
+e_puppetQueen_1|Puppet Queen|Королева марионеток
+e_kingSteve_1|King Steve|Король Стив
+e_mimicColossus_1|Mimic Colossus|Мимический колосс
+e_jormungandr_1|Jormungandr|Йормунганд 
+e_uberArchitect_1|Architect of Ruin|Архитектор руин
+e_uberArchitectClone_1|Mirror of Ruin|Зеркало руин 
+||
+[Boss Spells]||
+spell_sheepKing_01|Wooly Charge|Шерстяной натиск
+spell_sheepKing_02|Waves of Wool|Волны шерсти
+spell_sheepKing_03|Sheepacolypse|Овечья колыбель
+spell_jormungandr_0|Serpent's Surge|Змеиный прилив
+spell_jormungandr_1|Shadow Barrage|Теневой шквал
+spell_jormungandr_2|Seismic Screech|Сейсмический визг
+spell_jormungandr_3|Call of the World Serpent|Зов мирового змея
+spell_jormungandr_4|Final Breath|Последний вздох 
+spell_valkyrie_0|Impale|Пронзить
+spell_valkyrie_1|Unholy Blast|Нечестивый Взрыв
+spell_valkyrie_2|Call of the Valkyrie|Зов валькирии
+spell_valkyrie_3|Rain of Spears|Дождь из Копий
+spell_grimbone_0|Summon Undead|Призывать Нежить
+spell_grimbone_1|Pincer Charge|Заряд клещей
+spell_grimbone_2|Shadow Cleave|Расщепление Тени
+spell_grimbone_3|Grim Fissure|Мрачная Трещина
+spell_odin_phase_2_0|Ground Smash|Удар о землю
+spell_odin_phase_2_1|Meteor Shower|Метеоритный дождь
+spell_odin_phase_2_2|Shove|Толкать
+spell_odin_phase_2_3|Engulfing Flames|Всепоглощающее Пламя
+spell_odin_phase_2_4|Last Stand|Последняя битва
+spell_odin_phase_2_pillar_0|Repel Wave|Отталкивающая Волна
+spell_odin_phase_1_0|Lightning Burn|Молния Горит
+spell_odin_phase_1_1|Shadow Orb|Теневой Шар
+spell_odin_phase_1_2|Storm Break|Штормовой Перерыв
+spell_odin_phase_1_3|Summon Raven|Призови Ворона
+spell_muninn_0|Corrupted Memories|Искаженные Воспоминания
+spell_huginn_0|Fearful Thoughts|Страшные Мысли
+spell_anubis_0|Meteor Shower|Метеоритный дождь
+spell_anubis_1|Wall of Thunder|Стена грома
+spell_anubis_2|Wrath of Anubis|Гнев Анубиса
+spell_end_game|End Game|Окончание игры
+spell_sung_lee_0|Lethal Smash|Смертельный Удар
+spell_sung_lee_1|Earthquake|Землетрясение
+spell_sung_lee_2|Rain of Doom|Роковой дождь
+spell_sung_lee_3|Summon Weapon|Оружие Призыва
+spell_king_rakhul_04|Raging Charge|Яростный Заряд
+spell_king_rakhul_02|Arena Traps|Ловушки на Арене
+spell_king_rakhul_01|Colossal Slam|Колоссальный Удар
+spell_king_rakhul_03|Shockwave|Ударная волна
+spell_uber_reaper_1|Pentagram Slam|Удар Пентаграммой
+spell_uber_reaper_2|Scythe Strike|Удар Косой
+spell_uber_reaper_3|Shadow Skull|Теневой Череп
+spell_uber_reaper_4|Execution|Исполнение
+spell_uber_reaper_5|Shadow Lantern|Теневой Фонарь
+spell_treasure_goblin_0|Vorpal Escape|Побег Ворпала
+spell_satan_0|Spawn Minions|Порождать Миньонов
+spell_satan_1|Lava Storm|Лавовый Шторм
+spell_satan_2|Wall of Agony|Стена Агонии
+spell_gurag_0|Earthen Fury|Земная Ярость
+spell_gurag_1|Avalanche|Лавина
+spell_gurag_2|Totems|Тотемы
+spell_gurag_3|Grow|Расти
+spell_reaper_01|Death Coil|Лик Смерти 
+spell_reaper_02|Soul Eruption|Извержение души
+spell_reaper_03|Soul Pillar|Столп души 
+spell_horrorBranch_0|Conjured Forest|Заколдованный лес
+spell_horrorBranch_1|Living Forest|Живой лес
+spell_horrorBranch_2|Trunkade|Транкейд
+spell_horrorBranch_3|Crackling|Трескучий 
+spell_jadeStoneGazer_0|Jadestone Roots|Корни из Нефритового камня
+spell_jadeStoneGazer_1|Stone Guards|Каменные Стражи
+spell_jadeStoneGazer_2|Deadly Gaze|Смертоносный Взгляд
+spell_puppetQueen_0|Rain of Judgement|Дождь Суда
+spell_puppetQueen_1|Time of Reckoning|Время Расплаты
+spell_puppetQueen_2|Showtime|Время Шоу
+spell_redBeard_0|Anchor Strike|Удар Якоря
+spell_redBeard_1|Bomb Barrage|Бомбовый шквал
+spell_redBeard_2|Shiver Me Timbers|Трещины, дрожь
+gabriel_spell_01|Gabriel’s Shadow|Тень Габриэля
+gabriel_spell_02|Defile|Осквернение
+gabriel_spell_03|Fallen Heretic|Падший Еретик
+gabriel_spell_04|Annihilation|Уничтожение
+uberLuna_spell_01|Crystal Ball|Хрустальный Шар
+uberLuna_spell_02|Black Hole|Черная Дыра
+uberLuna_spell_03|Starstruck|Звездный Порыв
+uberLuna_spell_04|Cosmic Winds|Космические Ветры
+uberLuna_spell_05|Starshower|Звездный Поток
+uberAnubis_spell_01|Crushing Meteor|Сокрушительный Метеор
+uberAnubis_spell_02|Decaying Wall|Разлагающаяся Стена
+uberAnubis_spell_03|Corrupted Sarkofagi|Оскверненный Саркофаг
+uberAnubis_spell_04|Amun Ra´s Curse|Проклятие Амуна Ра
+uberAnubis_spell_05|Unholy Voltage|Нечестивое Напряжение
+uberAnubis_spell_06|Blood of Amun Ra|Кровь Амуна Ра
+spell_endrixia_01|Pillars of Destruction|Столпы Разрушения
+spell_endrixia_02|Falling Sky|Падающее Небо
+spell_endrixia_03|Dragonflight|Полет Дракона
+spell_akora_0|Demonic Wrappings|Демонические Обертывания
+spell_akora_1|Grasp of Horror|Хватка Ужаса
+spell_akora_2|Siphon Essence|Вытягивание Эссенции
+spell_demonZealot_0|Demonic Charge|Демонический Заряд
+spell_demonZealot_1|Wandering Soul|Блуждающая Душа
+spell_demonZealot_2|Soul Harvest|Сбор Душ
+spell_uberChaosTower_01|Waves of Blood|Волны Крови
+spell_uberChaosTower_02|Chaos Turrets|Башни Хаоса
+spell_uberChaosTower_03|Corrosive Rain|Коррозийный Дождь
+spell_uberChaosTower_04|Time To Reap|Время Жатвы
+spell_damien_01|Unleashed Agony|Освобожденная Агония
+spell_damien_02|Mirror’s of Darkness|Зеркала Тьмы
+spell_damien_03|Masked Agony|Замаскированная Агония
+spell_damien_04|Blood Surge|Кровавый Прилив
+spell_damien_05|Pools of Agony|Озера Агонии 
+spell_uberArchitect_1|Vector Shards|Векторные осколки
+spell_uberArchitect_2|Rift Collapse|Коллапс Разлома
+spell_uberArchitect_3|Precision Matters|Точность имеет значение
+spell_uberArchitect_4|Temporal Snap|Временной щелчок
+spell_uberArchitect_5|Rewind|Перемотка
+spell_uberArchitect_6|Distortion Zones|Зоны искажения
+spell_uberArchitect_7|Gravity Shifts|Сдвиги гравитации
+spell_uberArchitect_8|Architecture of Pain|Архитектура боли
+spell_uberArchitect_9|Fragment Barrage|Осколки обстрела
+spell_uberArchitect_10|Ability Inversion|Инверсия способностей
+spell_uberArchitect_11|AI Mimicry|Мимикрия ИИ
+spell_uberArchitect_12|Reality Fracture|Разлом реальности
+spell_karp_king_0|Balls of Doom|Шары смерти
+spell_karp_king_1|Megabeam|Мегалуч
+spell_karp_king_2|Zen Pools|Дзен-бассейны
+spell_mevius_0|Dimension Portal|Портал измерений
+spell_mevius_1|Summon Disciples|Призыв учеников
+spell_mevius_2|Wall of Tentacles|Стена щупалец 
+||
+[Affixes]||
+champion|Champion|Чемпион
+championFractal|Fractal|Фрактальный
+championRaging|Raging|Бешеный
+championEnraged|Enraged|Разъяренный
+championHaunted|Haunted|Призрачный
+championVampiric|Vampiric|Вампирский
+championFallenAngel|Fallen Angel|Падший ангел
+championBurstShot|Burst Shot|Взрывной выстрел
+championColossus|Colossus|Колосс
+ancientPossessed|Possessed|Одержимый
+ancientExtraFast|Extra Fast|Экстра быстрый
+ancientExtraStrong|Extra Strong|Экстра сильный
+ancientStoneSkin|Stoneskin|Каменная кожа
+ancientColdEnchanted|Cold Enchanted|Зачарованный холодом
+ancientFireEnchanted|Fire Enchanted|Зачарованный огнем
+ancientLightningEnchanted|Lightning Enchanted|Зачарованный молнией
+ancientMagicResistant|Magic Resistant|Сопротивляющийся магии
+ancientManaBurn|Manaburn|Ожог маны
+ancientMultishot|Multishot|Мультишот
+ancientTreasureGobbler|Treasure Gobbler|Пожиратель сокровищ
+ancientArcanasCurse|Arcana’s Curse|Проклятие арканы
+ancientVenomous|Venomous|Ядовитый
+ancientPunisher|Punisher|Каратель
+ancientFallenAngel|Fallen Angel|Падший ангел
+ancientCommander|Commander|Командир
+ancientGuardianOfHell|Guardian of Hell|Хранитель ада
+ancientBloating|Bloating|Вздутие
+ancientSharpShooter|Sharpshooter|Меткий стрелок
+ancientPyromaniac|Pyromaniac|Пироман
+ancientBerserker|Berserker|Берсерк
+ancientProximityTangible|Proximity Tangible|Осязаемый близость
+ancientDivine|Divine|Божественный
+ancientShielding|Shielding|Щит 
+ancientFearless|Fearless|Бесстрашный
+ancientThickSkin|Thick Skin|Толстая кожа
+ancientAntimagus|Antimagus|Антимагус
+ancientColossal|Colossal |Колоссальный
+ancientStealthy|Stealthy|Скрытный 

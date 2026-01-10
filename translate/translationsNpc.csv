@@ -1,0 +1,660 @@
+[npc]|en|ru
+||
+wooden_sign|Wooden Sign| Деревянный Знак
+||
+tutorial_0001|You can open the Stat & Skill screen by pressing ”[input_talents]” to assign Attribute and Skill Points. You also have 12 additional skill binds on top of the left and right click. [tutorial_bind_skill] You can also change these binds from the options! Good luck hero!| Вы можете открыть экран Статы и умения, нажав ”[input_talents]”, чтобы назначить очки атрибутов и навыков. У вас также есть 12 дополнительных привязок навыков поверх левого и правого щелчка. [tutorial_bind_skill] Вы также можете изменить эти привязки из опций! Удачи, герой!
+tutorial_0001_end|You will gain 4 Attribute Points and 1 Skill Point every time you level up to level 100!| Вы будете получать 4 очка характеристик и 1 очко навыков каждый раз, когда достигнете 100-го уровня!
+tutorial_0002|I will drop you a key that you can pick up and check in your key ring inside your inventory. Then you can head north and open the golden chest by the well!| Я дам вам ключ, который вы можете забрать и положить в связку ключей в вашем инвентаре. Затем вы можете отправиться на север и открыть золотой сундук у колодца!
+tutorial_0002_end|You will get various keys along your way, each having a unique purpose! Good luck!| По пути вы получите различные ключи.
+tutorial_0003|Let’s enable autofilling potions into your belt!| Давайте включим функцию автоматического наполнения пояса зельями!
+tutorial_0003_end|You can now enable or disable this feature as you wish! Good luck!| Теперь вы можете включить или отключить эту функцию по своему желанию! Удачи!
+tutorial_0004|Jump by pressing ”[input_jump]”, your character will land on the location of your cursor.| Прыжок по нажатию ”[input_jump]”
+tutorial_0004_end|Well done!| Отличная работа!
+tutorial_0005|Scorchwood is a menace to our town. The corrupted ent is located north east from here, go make some firewood out of that beast!| Скорчвуд — угроза нашему городу. Оскверненный энт находится на северо-востоке отсюда.
+tutorial_0005_end|Finally! Thank you stranger!| Наконец-то! Спасибо, незнакомец!
+||
+tutorial_0001_keyboard|In order to bind a skill, click on the right button skill slot, hover a skill you want to bind and press the skill button bind it.| Чтобы привязать навык
+tutorial_0001_gamepad|In order to bind a skill, press [input_skill_bind], select a skill slot you want to bind and press the skill button bind it.| Чтобы привязать навык
+||
+||
+heimdall0|Welcome to Bifröst! Choose your destination wisely..| Добро пожаловать в Бифрост! Выбирайте пункт назначения с умом.
+heimdall1|May the allfather be by your side!|Да будет Всеотец рядом с тобой!
+heimdall2|Heimdall sees all.| Хеймдалль видит все.
+heimdall3|I am Heimdall. A noble servant of the allfather and the guardian of Bifröst.| Я Хеймдалль. Благородный слуга Всеотца и хранитель Бифрёста.
+heimdall4|From dusk till dawn may the divine light shine on you.| От заката до рассвета пусть вас освещает божественный свет.
+heimdall5|Let the allfather guide you towards your destiny.| Позвольте Всеотцу вести вас к вашей судьбе.
+||
+chaos_pillar_npc|Chaos Pillar| Теневой торговец
+chaos_pillar_text_common|Activate the pillar?|
+chaos_pillar_text|Activate the pillar using a [c_red]Chaos Key?[c_reset]| Странствующий торговец
+black_market_npc_title|Shady Merchant| Маклер
+traveling_merchant|Traveling Merchant| Мэр Иноя
+broker_npc_title|Broker| Лидер клана
+landlord_npc_title_1|Mayor of Inoya| Старейшина деревни
+landlord_npc_title_2|Clan Leader| Совет Гномов
+landlord_npc_title_3|Village Elder| Военачальник
+landlord_npc_title_4|Dwarven Council| Архиепископ
+landlord_npc_title_5|Warlord| Гном-шахтер
+landlord_npc_title_6|Arch Bishop| Охотник
+yogvan_npc_title|Dwarven Miner| Принцесса
+edward_npc_title|Hunter| Строительный рабочий
+kirill_npc_title|Princess| Бард
+mario_npc_title|Construction Worker| Рождественское письмо
+bard_npc_name|Bard| Снеговик
+christmas_letter_npc_name|Christmas Letter| Снеговик без головы
+snowman_npc_name|Snowman| Тыква
+snowman_headless_npc_name|Headless Snowman| Скелет
+pumpkin_npc_name|Pumpkin| Ведьма
+skeleton_npc_name|Skeleton| Джек Потрошитель
+witch_npc_name|Witch| Оскверненный Один
+jack_the_ripper_npc_name|Jack the Ripper| Доска поощрений
+corrupted_odin|Corrupted Odin| Ежедневная охота
+bounty_board|Bounty Board| Посмотреть ежедневный квест
+bounty_board_hunt|Daily Hunt| Ювелир
+bounty_board_quest|View Daily Quest| Проспектрон RX9000
+kleiton_npc_title|Jewelcrafter|
+prospector_npc|Prospectron RX9000| Спасибо.
+|| Я здесь, чтобы помочь.
+thank_you|Thank you.| До свидания!
+here_to_help|I'm here to help.| Да, пожалуйста!
+goodbye|Goodbye!| Нет, спасибо.
+yes_please|Yes please!| Следующий
+no_thanks|No thanks.| Сбросить все реликвии.
+dialog_next|Next| Купить
+reset_relics|Reset all relics.| Купить товары
+buy|Buy| Купить/Продать
+buy_items|Buy Items| Сбросьте уровень червоточины.
+sell_items|Buy/Sell|
+reset_wormhole_level|Reset wormhole level.|Меня зовут домовладелец Кукконен. Я мэр Иноя. Надеюсь, вам понравится пребывание
+|| Я Асгар.
+kukkonen|My name is landlord Kukkonen. I am the mayor of Inoya. Hope you have a pleasant stay, noble hero!| Добро пожаловать! Я Афсин.
+asgar|I am Asgar, the commander of Danethorpe. We are here to watch your back, hero!| Приветствую тебя, незнакомец! Добро пожаловать в Дорн Фарум! Можешь называть меня Кодатин.
+afsin|Welcome! I am Afsin, the eldest warrior of Mos'Arathim. We are in need of your strength!| Добро пожаловать в Shujo Retreat! Пришло время нашему клану вернуть себе контроль над Карпонией!
+kodatin|Greetings stranger! Welcome to Dhorn Farum! You may call me Kodatin.| Привет, незнакомец. Добро пожаловать в Dawn's Chapel.
+nobunaga|Welcome to Shujo Retreat! Its time our clan takes back the control of Karponia!| Наступило время великого отчаяния...
+abaddon|Hello stranger. Welcome to Dawn's Chapel, may God's grace be upon you.| Привет, Герой! Меня зовут Саркастер, и я городской кофеман! Хочешь присоединиться к моему Кофейному Клубу?
+kujala|Time of great despair is upon us...| Привет, Герой! Меня зовут Саркастер, и я городской кофеман!
+sarcaster_club|Hello Hero! My name is Sarcaster and I am the towns coffee addict! Would you like to join my Coffee Club?| Приспешники Дэмиена становятся сильнее с каждым днем. Используйте боевые манекены, чтобы поддерживать свою скорость и силу!
+sarcaster|Hello Hero! My name is Sarcaster and I am the towns coffee addict!| Присоединяйтесь к Кофейному клубу.
+garnor|Damien's minions grow stronger every day. Use the combat dummies to maintain your speed and power!| Чем я могу вам помочь сегодня?
+join_coffee_club|Join Coffee Club.| Тестовый урон в секунду.
+jack_the_ripper|Greetings! What can I do for you?|Приветствую! Чем я могу вам помочь? 
+gar_nor_test_dps|Test damage per second.| Я могу показать тебе будущее, если у тебя есть ключ... Хочешь увидеть?
+gar_nor_lock_exp|Lock / Unlock experience.| Хотите ли вы открыть червоточину?
+um|I can show you the future if you have the key... Would you like to see?| Вы уверены, что хотите сбросить уровень червоточины?
+dr_tinker_dink|Would you like to open a wormhole?| Вы уверены, что хотите сбросить свои реликвии?
+wormhole_reset|Are you sure you want to reset your wormhole level?|Для доступа требуется уровень 80+ и уровень сложности «Ад»
+relic_reset|Are you sure you want to reset your relics?| Требуется уровень 100
+requires_max_level_inferno|Access requires level 80+ & Inferno difficulty| Это место не такое святое, как кажется...
+requires_max_level|Requires level 100| Эй! Возвращайся позже, и я покажу тебе свое последнее изобретение...
+tinker_chappel|This place is not as holy as it seems...| Откройте свой разум и увидите вселенную...
+tinker_normal|Heya! Come back later and I'll show you my latest invention...| Хотите ли вы научиться благородному искусству горного дела?
+um_regular|Open your mind and see the universe...| Эй! Возвращайся ко мне, когда освоишься в городе, и я покажу тебе, как добывать руду, как гном!
+yogvan|Would ye like to learn the noble art of mining?| Тебе еще многому надо научиться! Возвращайся, когда запачкаешь руки.
+yogvan_meet|Oi! Get back t' me when you've gotten familiar with the town and I'll show ye how to mine like a dwarf!| Теперь ты понял... Посмотрим, сможешь ли ты заставить этого парня Торстейна помочь тебе с твоей рудой!
+yogvan_learn|Ye still got a lot ta learn! Get back when you've gotten yer hands dirty.| Возвращайтесь ко мне, как только разведаете руду!
+yogvan_got_it|Ye've got it now... See if you can get dat lad Torstein ta help ye with yer ores!| Отлично! Теперь вы знаете, как искать и добывать материалы, которые можно использовать для создания блестящих вещей!
+kleiton_learn|Come back to me once you have prospected the ores!| Эй! Похоже, ты бы оценил качественные драгоценности. А что, если я научу тебя, как их сделать?
+kleiton_got_it|Great! Now you know how to prospect and get materials that you can use to craft shiny things!| Если я вставлю это сюда
+kleiton_quest|Hey! You look like you'd appreciate some quality jewels. How about I teach you how to make some?|
+kleiton_greet|If I socket this here, I can... Oh, hello!| Тристан Ли-Джонсон
+|| Приветствую вас, сэр!
+tristan_npc|Tristan Lee-Johnson| Чудесный день, не правда ли?
+tristan_quip_0|Greetings Sir!| Я бы сейчас отдал всё на свете за чашечку чая!
+tristan_quip_1|A splendid day isn't it?|Что вы ищете, сэр?
+tristan_quip_2|I'd kill for a cup of Tee right now!| Черт, мне действительно нужно отполировать свой монокль..
+tristan_quip_3|What are you looking for Sir?| Уф...
+tristan_quip_4|Damn I really need to polish my monocle..|
+tristan_quip_5|Oof...| Вы уверены, что хотите войти в Eternal Battlefield?
+|| Как хранитель Рубиновых садов
+portal_eternal_battlefield|Are you sure you want to enter Eternal Battlefield for| Открытые сады Руби
+ruby_entrance|As the guardian of Ruby Gardens, I grant passage to those who have proven their worth by finding a rare [c_red]Ruby Key[c_reset] usually held by treasure gobblers. Do you wish to enter?| Нам нужно использовать Пространственные Осколки, чтобы открыть эти врата и убить демона внутри...
+open_ruby|Open Ruby Gardens| Откройте Портал за (40) Осколков
+asheen|We need to use the Dimensional Shards to open this gate and kill the demon inside...| Что ты покупаешь?
+open_shadow|Open the Portal for (40) | Взгляните на мои товары!
+veras|Whaddaya buyin'?| Я слышал рассказы о твоих подвигах в Вальхалле. Легенда гласит:
+traveling_merchant_dialog|Take a look at my wares!| Ух ты
+kukkonen_grimbone|I've heard tales of your exploits in Valhalla. Legend says, there is a mighty beast in the deepest depths of Niflhel, with scythes as hands as large as a man. They would make a mighty fine trophy... I'll offer a round of my best moonshine for everyone in town if I could get my hands on those scythes!|
+kukkonen_grimbone_buff|Wow, would you look at those scythes! Here's your moonshine, as promised!| Добро пожаловать, искатель приключений!
+|| Для кого-то башня — кладбище.
+chaos_tower_master_1|Welcome Adventurer, the tower awaits those who are bold enough to enter.| Я останусь и буду охранять вход.
+chaos_tower_master_2|The tower is a graveyard for some, but a treasure trove for others.| Впустите меня!
+chaos_tower_master_3|I'll stay back and guard the entrance, you go ahead...| Башни Хаоса завершены:
+chaos_tower_open|Let me in!| Получите вознаграждение.
+chaos_towers_completed|Chaos Towers completed:| Хотите получить награду и сбросить свой прогресс?
+chaos_tower_reward|Claim reward.| Вот ты... Подожди.
+chaos_tower_prompt|Would you like to claim your reward and reset your progress?| Идите прямо по лестнице.
+chaos_tower_no_reward|Here you g- Wait, you haven't cleared enough towers. Get out of here!| Путь открыт.
+chaos_tower_opened_1|Take the stairs straight ahead.| Ты дурак?
+chaos_tower_opened_2|The way is open.|
+chaos_tower_opened_3|Are you stupid?| Ой
+||
+dialog_hellShadowRealm|WANTED: Shadow Reaper. Collect dimensional shards and enter the gate within the shadow realm.|РАЗЫСКИВАЕТСЯ: Shadow Reaper. Соберите пространственные осколки и войдите во врата в царстве теней.
+dialog_hellShadowRealm_end|Great job hero! Here is your reward for your endevours!|Отличная работа, герой! Вот твоя награда за твои старания!
+dialog_hellBattleField|WANTED: Sung Lee. Collect battle fragments and enter the eternal battle field.|РАЗЫСКИВАЕТСЯ: Sung Lee. Соберите фрагменты битвы и войдите на вечное поле битвы.
+dialog_hellBattleField_end|Bless you hero! Take your reward!|Благослови тебя, герой! Возьми свою награду!
+dialog_hellChaosTower|WANTED: Chaos Tower. Enter a chaos tower and purge it from the undead.|РАЗЫСКИВАЕТСЯ: Chaos Tower. Войдите в башню хаоса и очистите ее от нежити.
+dialog_hellChaosTower_end|Well done hero, the lands are now a little safer! Take your reward!|Молодец, герой, теперь земли стали немного безопаснее! Возьми свою награду!
+dialog_hellFallenInoya|WANTED: Damien. Collect parts from Act I-VI bosses, craft a key of terror and enter fallen inoya|РАЗЫСКИВАЕТСЯ: Дэмиен. Соберите детали с боссов Акта I-VI, создайте ключ ужаса и войдите в падшую иною
+dialog_hellFallenInoya_end|That one was a nightmare wasnt it? Here is your reward noble hero!|Это был кошмар, не так ли? Вот твоя награда, благородный герой! 
+dialog_hellCodex|Find a codex of eternity, use it and clear its undead infested zone!|Найдите кодекс вечности, используйте его и очистите зону, кишащую нежитью! 
+dialog_hellCodex_end|Fine purging hero! Here is your well earned reward!|Отличный герой-очиститель! Вот твоя заслуженная награда! 
+|| Я должен собрать камешки.
+ct_penguin_1|Oh, you found me! Wait, I can TALK!?| Краах
+ct_penguin_2|I must collect pebbles, I have no time for chit-chat!| Ррррреееее
+ct_penguin_3|Kraah| РРРриии Краааа
+ct_penguin_4|Rrrrreeeeee| Какаааааааа
+ct_penguin_5|RRRreee Kraaaah|
+ct_penguin_6|Cacaaaaaaa| Это... Место... Нечестиво... Проклято... Найди Кук... конен...
+||Это не будущее... Я предвидел... Найди Кукконена...
+ct_um_dying_1|This... Place... Is unholy... Cursed... Find Kuk... konen...| Наша временная линия завершена... Вам нужно найти дорогу обратно в Кукконен...
+ct_um_dying_2|This is not the future... I foresaw... Find Kukkonen...| Помоги мне, герой! Я должен немедленно вернуться в город!
+ct_um_dying_3|Our timeline is finished... You must find the way back to Kukkonen...| Спасибо, что спас меня, герой... Но будь осторожен.
+ct_kukkonen_1|Help me hero! I must return to town at once!|
+ct_kukkonen_2|Thank you for saving me hero... Be careful though, something evil lies ahead.| Таретиэль нужна помощь. Не смотри на меня.
+|| Мир полон злых существ... Если бы я только создал Героя, чтобы убить их... Теперь вы можете приступить к работе.
+ct_god_1|Tarethiel could use some help. Don't look at me, I don't want to go down there.| Я очень занят, разве ты не видишь? Нелегко быть ответственным за Небеса.
+ct_god_2|The world is full of evil beings... If only I created a Hero to slay them... You can get to work now, goodbye.| Хорошо
+ct_god_3|I am extremely busy can you not see? It isn't easy being in charge of Heaven.|
+ct_god_give_item|Alright, I have something for you here, you're welcome!| Уйди! Ты убиваешь мой поток...
+|| Не делай как я
+ct_elias_1|Go away! You're killing my flow...| Да
+ct_jussi_1|Don't do as I do, do as I say.| Просто создаю искусство
+bd_jussi_1|Yes, what? Can't I even have one smoke break in peace?| Какой смысл водить машину, если это не Мерседес?
+ct_mika_1|Just making art, trying not to panic.| Хотите услышать мой шедевр?
+ct_anton_1|What is the worth of driving a car if it is not a Mercedes ?| Я все равно сыграю!
+ct_antti_1|Only in flame will the secret breathe, Where paths once easy now seethe. Walk backward, feel the scorch. Find fruit beneath the blazing torch.|
+ct_rexi_1|Want to hear my masterpiece?| Ты только что проиграл «Игру», [имя героя] ;)
+ct_rexi_2|I shall play it anyway!| Не избегайте того, чтобы колокольчик не звонил.
+ct_tomi_1|"You just lost ""The Game"", [heroname] ;)"| Что я здесь делаю? О боже... это мой худший кошмар. Они поместили меня в игру!
+ct_marcio_1|Do not avoid not making the bell not ring.| Разработчик
+ct_alias_1|What am I doing here? Oh god... this is my worst nightmare. They put me inside a game!| Добро пожаловать в алтарь генератора случайных чисел
+ct_severus_1|Developr, developer... Gaame makker game makker, [heroname] lol| Я благословлю тебя в любом случае. Это не повредит.
+rng_shrine|Welcome to the altar of the RNG, brave hero. Here you can pray to me, and I will give you my blessing.| Святой Петр
+rng_shrine_2|I shall bless you anyway. It can’t hurt, right?| Ключи падшего ангела... Хотите ли вы увидеть великолепие Небес?
+st_peter_npc|St. Peter| Мне жаль
+st_peter_1|The fallen angel's keys... Would you like to see the splendor of Heaven?| Хотите подняться?
+st_peter_no_key|I am sorry, I can't let you access Heaven without an [c_yellow]Angelic Key[c_reset]. They are very rare, but fallen angels might carry them.| спрайт
+st_peter_ascend|Would you like to ascend?| В настоящее время ведется работа над червоточиной.
+what_is_angelic_realm|[sprite,UI_Question_spr] What is the Angelic Realm?| В настоящее время идет прохождение подземелья испытаний.
+wormhole_in_progress|A Wormhole is currently in progress.| В настоящее время ведутся работы по созданию Ruby Gardens.
+challenge_dungeon_in_progress|A Challenge Dungeon is currently in progress.| Следующий квест будет доступен через
+ruby_garden_in_progress|Ruby Gardens is currently in progress.| Рекорды
+daily_quest_next|Next quest will be available in|
+chaos_tower_highscore_board|Highscores|
+||
+|| Волшебники
+|| МАГИЯ?! ХАХА! Я создаю магию с помощью науки! Просто возвращайся позже и увидишь! Хи-хи-ха!
+dialog_garnor|Magicians, engineers? BWAH! All you need is a huge weapon and strong arms! Test your might against these training dummies!| Невооруженным глазом не все видно. К сожалению.
+dialog_tinkerdink|MAGIC?! HAHA! I create magic with science! Just come back later and you'll see! Hihihaha!| Привет! Я могу купить у тебя лишние вещи или помочь с изготовлением нового снаряжения.
+dialog_um|Naked eye can't see everything. Sadly, I've seen too much. Are you ready to see our future?| Слава Всеотцу!
+dialog_torstein|Hey there! I can buy excess items off you or help you with crafting new gear.|
+dialog_haldor|Hail the Allfather!|
+|| Не могли бы вы вернуть мои кофейные зерна?
+[Sarcaster]|| Мои драгоценные кофейные зерна!! Спасибо!
+dialog_coffeeBeans|Could you retrieve my coffee beans, [heroname]? I've lost them somewhere in the Outskirts of Inoya. I really need to make coffee... hrrrr.....| Мой дом рухнул во время шторма на прошлой неделе.
+dialog_coffeeBeans_end|My precious coffee beans!! Thank you!| Чудесно! Наконец-то мой дом снова в целости и сохранности!
+dialog_coffeeBricks|My house collapsed in the storm last week, could you help me collect some bricks from the Fields of Battle? I'd really appreciate it!| У меня закончилась вода, и я начинаю сходить с ума! Не могли бы вы принести мне немного с тыквенной грядки? У меня есть кое-что действительно крутое для вас взамен!!
+dialog_coffeeBricks_end|Marvellous! Finally my house is back intact!| Наконец-то я могу сварить кофе и поддерживать тепло в доме!
+dialog_coffeeHotWater|I've run out of water and I'm starting to lose my mind! Could you bring me some from the Pumpkin Patch? I have something really cool for you in return!!|
+dialog_coffeeHotWater_end|Finally I can brew my coffee and keep the house warm! |
+|| Я здесь, чтобы помочь нашим героям. Возвращайся ко мне, когда станешь сильнее, и я смогу помочь тебе с каким-нибудь снаряжением.
+[Normal Main Quest]||
+dialog_mainLookAround|I'm here to help our heroes. Come back to me when you've grown stronger and I can help you with some gear.| Раньше это был мирный лес.
+dialog_mainLookAround_end|| Математично! Я воспользуюсь этим с пользой..
+dialog_mainPurgingTheLands|This used to be peaceful forest, but something is corrupting it. Bring me some body parts for research.| Магистр Куджала ошибается! Это не магический акт. Я считаю, что существам леса просто нужна... Шоковая терапия, хихихахахахах!
+dialog_mainPurgingTheLands_end|Mathematical! I will make good use of these..| Молодец! Запах пепла.. Аааа!!
+dialog_mainShocker|Magister Kujala is wrong! This is no magic act. I believe creatures of the forest just need some... Shock therapy hihihahahohoo!| Похоже, эта «шоковая терапия» не сработала. Мои исследования говорят мне,
+dialog_mainShocker_end|Well done! The smell of ash.. Ahh!!| Конец правления Гурага — большая победа для Таретиэль! Пусть этот артефакт поможет вам на вашем пути!
+dialog_mainGurag|Seems like this 'shock therapy' didn't work too well. My research tells me, Gurag is the one causing problems in the forest.| Мне кажется, Гураг не одинок в этом безумии. Даже эти жадные гоблины помогают своим хозяевам.
+dialog_mainGurag_end|The end of Gurag´s reign is a big win for Tarethiel! May this artifact help you on your path!| Мы наконец-то можем восстановить нашу торговую деятельность
+dialog_mainEnchanters|I feel like Gurag isn't alone in this madness. Even those greedy goblins are helping their masters.| Это серьезнее, чем я думал. Мы должны уничтожить саму смерть!
+dialog_mainEnchanters_end|We can finally restore our merchant activity, may the allfather bless you on your journey!| Ваше мужество не будет забыто! Примите это в знак нашей признательности.
+dialog_mainReaper|This is more serious than I thought. We have to bring death itself down!|Кто-то должен остановить это безумие. Не оставлять выживших!
+dialog_mainReaper_end|Your courage shall not be forgotten! Take this as a token of our appreciation.| Наконец-то стало безопаснее путешествовать по этим землям
+dialog_mainCleanse|Somebody needs to stop this madness. Leave no survivors!| Анубис использовал свои силы против нас
+dialog_mainCleanse_end|The lands are finally safer to travel, we are grateful for your aid!| Вы герой, спасший Мос'Аратим?
+dialog_mainAnubis|Anubis has used his powers against us, you know what to do!| Неподалеку находится старая медная шахта, которая с тех пор захвачена злыми силами. Сможете ли вы очистить ее от этих мерзостей? Шахта должна быть открыта
+dialog_mainAnubis_end|Are you the hero who saved Mos'Arathim?| Возвращаетесь так скоро?
+dialog_mainDungeonMine|There is an Old Copper Mine nearby which has since been taken over by evil forces. Could you clear it from these abominations? The mine should still be open, but be quick, things might change when the creatures grow stronger.| Мы забыли некоторое оборудование в горных пещерах во время эвакуации. Не могли бы вы собрать и доставить его Тастуну в Оскверненных пещерах?
+dialog_mainDungeonMine_end|Back so soon?| Отличная работа, путешественник! Спасибо, что вернули наше драгоценное шахтерское снаряжение!
+dialog_mainHighlandMines|We have forgotten some equipment within the highland caves during the evacuation. Could you collect and deliver them to Thastun within the Corrupted Caves?| До сих пор вы хорошо справлялись.
+dialog_mainHighlandMines_end|Great job traveler! Thank you for returning our precious mining gear!| Чудесно! Убирать этих вредителей с дороги — постоянная неприятность!
+dialog_mainSlayer|You've done well so far, but we must be fast to stop their spawning!| Найдите и убейте Проклятого Командира и всех его приспешников, бродящих по этим нечестивым землям!
+dialog_mainSlayer_end|Marvellous! Keeping these pests out of our way is a constant nuisance! | Мы бы не смогли сделать это без вас.
+dialog_mainDemonsLair|Find and slay the Damned Commander and all of his minions roaming these unholy lands!| Я должен был знать. Дэмиен — тот, кто дергает за ниточки. Остановите его, и у нас появится шанс предотвратить апокалипсис!
+dialog_mainDemonsLair_end|We couldn´t have done this without you, may the allfather bless you!| Сын Сатаны пал.
+dialog_mainDamien|I should have known. Damien is the one pulling strings. Stop him and we have a chance to prevent the apocalypse!|Часть граждан попала в плен. Помогите им выбраться оттуда!
+dialog_mainDamien_end|The son of Satan has fallen, bless you hero! Here is our gift to you!| Твой благородный поступок никогда не будет забыт, путник! Пусть Всеотец благословит твой путь!
+dialog_mainPrisoners|Some of the citizens were captured. Help them to get out of there!| Похоже, ты можешь сам о себе позаботиться. Не мог бы ты проредить несколько демонов из города? Тебя ждет награда.
+dialog_mainPrisoners_end|Your noble act will never be forgotten traveler! May the allfather bless your path!| Вы дали этим монстрам то, что они заслужили?
+dialog_mainAct2Kill|You look like you can handle yourself. Would you mind thinning out some demons out of town? There's a reward in for you.| Возьми эту книгу и закрой демонические порталы в соборе!
+dialog_mainAct2Kill_end|Did you give those monsters what they deserve?| Да благословит тебя Всевышний, путник!
+dialog_mainDepthsHighway|Take this book and shut down the demonic portals within the cathedral!| Нам нужно положить конец вмешательству в разлом. Найдите путь в подсознание и убейте Мевиуса!
+dialog_mainDepthsHighway_end|May the allfather bless you traveler!| Замечательно! Граждане Таретиэля очень благодарны за вашу помощь! Вот вам кое-что за ваши хлопоты!
+dialog_mainWrathMevius|We need to put an end to the interference to the rift. Find the way into the sub concious mind and slay Mevius!| Вот ты где! Я тебя искал! Падение Мевиуса вызвало крупное потрясение в Таретиэле. Древний портал в нашем городе был активирован какими-то темными силами.
+dialog_mainWrathMevius_end|Wonderful! The citizen of Tarethiel are really thankful for your help! Here is something for your troubles!| Что.. это за место?? Мевиус прямо там!! Ааааргх!
+dialog_valhallaPortal|Here you are! I was looking for you! The fall of Mevius has caused a major disturbance within Tarethiel.. The ancient portal in our town has been activated by some dark forces, go take a look but be careful!|Хайль! Ты производишь сильное впечатление, мой друг! Ты, должно быть, ищешь легендарные залы Вальхаллы
+dialog_valhallaPortal_end|What.. is this place?? Mevius is right there!! Aaaargh!| Есть только одна крошечная проблема
+dialog_valhallaWelcome_01|Heil! You make quite an entrance my friend! You must be seeking the legendary halls of Valhalla, just like me.| Уф! Это был... Тот еще поход...
+dialog_valhallaWelcome_02|There is just one teensy tiny problem, the gate is locked for some reason or the other. However, I've heard there's an actual Valkyrie in the outskirts who carries a key. Will you join me to find her and see if she's willing to let us in?| Дай мне быстро перевести дух.
+dialog_valhallaWelcome_end|Phew! That was... Quite a hike...| [font_combat][shake_letter][c_red]ГЛУПЫЙ СМЕРТНЫЙ!
+dialog_valhallaValkyrie|Let me catch my breath real quick, you go on ahead and see if you can find that Valkyrie!| Знай, что это ты освободил меня из моей тюрьмы.[пауза]
+dialog_valhallaGates_01|[font_combat][shake_letter][c_red]FOOLISH MORTAL!| Все, что вы когда-либо любили, будет уничтожено, когда пророчество сбудется[пауза
+dialog_valhallaGates_02|Know that it was you who freed me from my prison.[pause,15] [pause,0][nl]As I have taken the form of [c_lime]Odin[c_reset], I shall grant you the pleasure of seeing your own afterlife in ruins before your ultimate demise.| Привет
+dialog_valhallaGates_03|Everything you've ever loved will be obliterated as the prophecy unfolds[pause,15]...| Из Вальхаллы говоришь? Ты, должно быть, очень сильный и храбрый тогда! Ведь это наша последняя остановка перед тем, как мы наконец прибудем в Хельхейм и вечный мир
+dialog_valhallaDenied|Hey, where did you come from?| Спасибо, герой! Теперь мы все можем покоиться с миром.
+dialog_valhallaPeace_01|From Valhalla you say? You must be really strong and brave then! As this is our last stop before finally arriving to Helheim and eternal peace, I have to ask if you'd be able to find my sons toy bear on our trail. He would be devastated if it didn't accompany him 'till the end...| Я лишил тебя Валгаллы
+dialog_valhallaPeace_02|Thank you hero! Now we may all rest in peace.|
+dialog_valhallaPeace_03|I have denied Valhalla from you, as you shall deny Helheim from these filthy pests.[pause,15] [pause,0][nl]You are only human, your mind will break and your body will follow.[pause,15] | Где я? Кто я?
+|| Я чувствую чувство... оторванности от этого мира.
+dialog_valhallaDenied_purged|Where am I? Who am I?| Кто... ты? Мое существо чувствует, что все больше и больше отдаляется от существования.
+dialog_valhallaPeace_01_purged|I feel a sense of... disconnection from this world, as if I've been severed from my own life and memories. Please, find my son's [c_yellow]Toy Bear[c_reset] and bring it here. It is the last thing I remember needing, althought I am unsure as to why... maybe it will bring some memories back.| [shake_letter][c_aqua]Я чувствую себя странно... Что случилось? Где я?[c_reset][shake_reset]
+dialog_valhallaPeace_02_purged|Who... are you? My very being feels being pulled more and more away from existence, but somehow this [c_yellow]Toy Bear[c_reset] brings me a feeling of warmth and hope. Thank you for bringing it to me. I feel like I should pass this to someone. Why do I feel like I have a son? This must be his...| [shake_letter][c_aqua].........?[c_reset][shake_reset]
+dialog_valhallaPurged_Astrid|[shake_letter][c_aqua]I feel strange... What happened? Where am I?[c_reset][shake_reset]|
+dialog_valhallaPurged_common|[shake_letter][c_aqua].........?[c_reset][shake_reset]|
+||Приветствую тебя, Герой! Силы зла усиливаются в Черной Башне.
+[Nightmare Quest]|| Это было быстрее, чем ожидалось! Возьми эти руны
+dialog_mainMagicStones|Greetings Hero! The forces of evil are getting stronger within the Black Tower, will you help us slay their commander?| У нас проблемы с борьбой с дикой природой, поскольку они, похоже, объединились с нежитью. Не могли бы вы помочь нам убить их?
+dialog_mainMagicStones_end|That was faster than expected! Take these runes, you might have more use for them than me.| Наш народ благодарен вам за помощь! Примите это в знак нашей признательности!
+dialog_mainHuntingWild|We are having problems fighting the wild life as they seem to have allied with the undead. Could you help us slaying them?| Пустыня и наша священная пирамида Мос'Аратим захвачены нежитью. Пожалуйста, помогите нам очистить это святое место, чтобы мы могли воздать ему почести, когда обретем его!
+dialog_mainHuntingWild_end|Our people are thankful for your aid! Take these as a token of our appreciation!| Да благословят тебя боги, герой! Вот тебе подарок от нашего народа!
+dialog_mainTombRaider|The desert and our sacred pyramid of Mos’Arathim is taken over by the undead. Please help us cleanse this holy place so we can charish it once gain!| Аххх, как раз когда я искал кого-то. Моя спина уже не так хороша, как раньше... Не могли бы вы помочь мне, убив Мастера кузницы в шахте Абадонед и добыв для меня немного железной руды? Я вознагражу вас соответственно!
+dialog_mainTombRaider_end|May the gods bless you hero! Here is a gift from our people!| Спасибо большое! Очень признателен!!! Вот
+dialog_mainSecretsIron|Ahhh just as I was looking for someone. My back is not as good as it used to be... Could you help me by slaying the Forge Master within the Abadoned mine and mining some Iron Ore for me? I will reward you accordingly!| Приветствую тебя, герой! Если ты хочешь присоединиться к нашему клану, мне нужно, чтобы ты доказал свои боевые навыки и убил легион нежити в Карпонии! Да будут боги на твоей стороне!
+dialog_mainSecretsIron_end|Thank you so much! Highly appreciated!!! Here, take these valuables!|Хахаха.. *Преклоняюсь перед тобой*. Ты сделал нас гордыми, брат. Возьми это оружие
+dialog_mainWarlordTraining|Greetings hero! If you wish to join our clan I need you to prove your combat skills and slay a legion of undead monsters within karponia! May the gods be by your side!| Благодать тебе, герой! Часовня Рассвета ищет твоей помощи в очищении наших земель от злых духов! Ты поможешь нам?
+dialog_mainWarlordTraining_end|Hahaha.. *Bows before you*. You have made us proud brother. Take this weapon, the clan will always have your back!| Благослови тебя, герой! Возьми это и да пребудет с тобой Господь!
+dialog_mainSoulsOfDead|Grace to you hero! The Dawn’s Chappel seeks your aid on purifying our lands of the malevolent spirits! Will you aid us?| Черт возьми! Я потерял свое руководство в искаженных горизонтах, и теперь оно заполнено этими странными монстрами из параллельной вселенной. Не могли бы вы помочь мне вернуть его? Я вознагражу вас за ваши хлопоты!
+dialog_mainSoulsOfDead_end|Bless you hero! Take these and may the lord be with you!| Мой мануал!!! Спасибо большое! Возьми это
+dialog_mainLostManual|Gosh darnit! I lost my manual inside the distorted horizons and now its filled with these weird monsters from a parallel universe. Could you help me retrieve it? I will reward you for your trouble!| Привет, незнакомец! Я вижу, у тебя там есть довольно много оборудования! Ты выглядишь как тот, кого я пытался найти. Не мог бы ты помочь нам избавиться от восьминогой проблемы, с которой столкнулся наш город?
+dialog_mainLostManual_end|My manual!!! Thank you so much! Take this, hopefully it serves you better!| Наконец-то! Теперь я могу исследовать пещеры! Я нашел этот камень, который выглядит ценным
+dialog_mainEightLegMonst|Hello stranger! I see you have quite the equipment there! You look just like someone I was trying to find. Would you help us remove an eight legged problem that our town is having?|
+dialog_mainEightLegMonst_end|Finally! I can go explore the caves now! I found this stone that looks valuable, you might make more use of it.|
+|| А.. Я как раз тебя искал. Нежить выходит из-под контроля! Можешь помочь нам сдержать их?
+[Hell Quest]|| Чудесно! Вот твоя награда!
+dialog_mainGrandPurge|Ah.. I was just looking for you. The undead are getting out of control! Could you help us contain them?|Приветствую, герой! Наши войска отстают, и нам крайне необходимо подкрепление! Присоединишься ли ты и поможешь нам уничтожить нежить и заполнить наши продовольственные склады?
+dialog_mainGrandPurge_end|Marvellous! Here is your reward!| Отличная работа! Вот
+dialog_mainProtectWilderness|Greetings hero! Our troops are falling short and we are in dire need of reinforcements! Will you join and help us slay the undead and stack our food storages?| Доброго дня, герой! Земли Мос'Аратима столкнулись с каким-то проклятием. Мы были бы признательны за помощь в освобождении запертых в пустынях душ.
+dialog_mainProtectWilderness_end|Great work! Here, take these for your trouble!| Благослови тебя! Вот твоя награда!
+dialog_mainFreeSpirits|Good day hero! The lands of Mos’Arathim have encountered some kind of curse. We would appreciate a helping hand with freeing trapped souls within the deserts.| Чудесный день, герой! Я ищу немного руды таретия. Не хотели бы вы добыть ее для меня? Я щедро вознагражу вас!
+dialog_mainFreeSpirits_end|Bless you! Here is your reward!| Отлично!! Вот награда, которая вас действительно обрадует!
+dialog_mainTarethiumsEssence|Splendid day hero! I am looking for some tarethium ores. Would you be interested in mining some for me? I will reward you greatly!| Приветствую тебя, герой! Ты готов к высшей боевой подготовке?
+dialog_mainTarethiumsEssence_end|Excellent!! Here is a reward that should make you really happy!| Ты настоящий воин! Возьми это!
+dialog_mainWarlordsCommand|Greetings hero! Are you ready for the ultimate combat training? | Благословенного дня, странник! Мы просим твоей помощи в очищении земель от нечестивых сил. Ты примешь?
+dialog_mainWarlordsCommand_end|You are a true warrior! Take these!| Да благословит вас Бог! Пусть эти богатства благословят ваш день!
+dialog_mainPurification|Blessed day stranger! We seek your aid in purifying the lands of unholy forces. Will you accept?| Ох, боже... Мы облажались и вызвали кучу глюков. Ты нам поможешь?
+dialog_mainPurification_end|God bless you! May these riches bless your day!| Уф... Это было близко. Вот
+dialog_mainFixingGlitches|Oh boy... We messed up big time and caused a bunch of glitches. Will you help us?|Ой-ой... Горожане боятся выходить из города.
+dialog_mainFixingGlitches_end|Phew... That was close. Here, take this for your journey!| Мы бесконечно благодарны за вашу помощь! Пожалуйста, примите это в знак признательности!
+dialog_mainCleansingValhalla|Uh oh... The townsfolk are scared to go out of the town, there are undead everywhere!! Please help us hero!|
+dialog_mainCleansingValhalla_end|We are eternally grateful for your help! Please take these as a token of appreciation!|
+|| Нам нужно положить конец тьме. Мы должны убить Гавриила и Амона-Ра.
+[Inferno Quest]|| Я преклоняюсь перед тобой, благородный герой! Мы будем вечно благодарны за то, что ты сделал для нас всех!
+dialog_fallOfDarkness|We need to bring an end to the darkness.. We must slay Gabriel and Amun-Ra, the sooner the better.. For all of us..| Пожалуйста.. Помогите нам!! Силы зла становятся слишком сильны!
+dialog_fallOfDarkness_end|I bow before you noble hero! We will forever be grateful for what you have done for us all!| Спасибо, благородный воин. Прими это в знак нашей признательности!
+dialog_theLightOfDawn|Please.. Help us!! The forces of evil are growing too strong! |
+dialog_theLightOfDawn_end|Thank you noble warrior.. Take these as a token of our appreciation!|
+||
+||
+|| Ооооо, какая головная боль... Я больше никогда не выпью столько тыквенного эля. Эй!
+[Halloween Quest]|| Что тебя так долго держало?! Учитывая, как ты медленно шел
+halloween_event_0|This looks like a good place to hang the skull.|
+halloween_event_1|Oooooh what a headache... I'm never having that much pumpkin ale again. Hey, where am I? Who are you? I can't feel my legs... I can't feel any of my body parts! But I can feel that friendly maggot in my eye socket. Hey you, my minion! Go fetch rest of... Well, me.| Ааа
+halloween_event_2|What took you so long?! Considering how slow you were, you are going to need that backbone much more than I do. BWAHAAHAHHA! No please, don't take it back...| Окончательно
+halloween_event_3|Aah, my right hand and my pelvis. Can you name more dynamic duo? Peanut and butter you say? Well I guess you are right... Get back in there, I'm only half a skeleton! Or half-a-ton BWAHAhahaa... Oh nevermind...| Ты готов к гонке? Посмотрим, кто первый выберется из города, используя только одну ногу. Ты думаешь, я сбегу? Нет
+halloween_event_4|Finally, I have both of my arms! And since you are such a slacker, I might just lift myself off this pole and run to freedom! Uhm... crawl to freedom. Oh, who am I kidding. Handsome guy like me is nothing with out his beautiful legs!| Я должен сказать
+halloween_event_5|Are you ready for a race? Let's see who is first to get outside of the town using only one leg. You think that I'm going to escape? No, of course not! I promise I'll hang myself back to this lovely pole after the race. Oh, screw you! Go fetch my other leg, you fleshy scumbag!| Привет
+halloween_event_6|I've got to say, you impress me with your dedication. For all your troubles, I'm going to give you this hat. Some dude named Herry Patter gave it to me at the Halloween party and I can't stand it. It just keeps talking and talking about school stuff. So now, how about letting me down so I can go sleep this headache away? What do you mean I'm a Halloween decoration?! When I get down from here, I sure have a bone to pick with you #!%@&!| Иногда приходится создавать собственные развлечения. Видели бы вы лицо доктора Тинкера Динка, когда он прошел мимо меня, а я его напугал! Его очки пролетели через весь город БВАХАХАХА!
+halloween_line_1|Hey, thanks for letting me hang over here. And since I'm a nice skeleton, I wish you would be hanging here instead. This is so much fun...|Этот монах — эгоистичный ублюдок. Ты слушаешь этого парня? Просто повторяет его имя снова и снова в течение долгого времени. Я ненавижу людей, которые зазнались.
+halloween_line_2|Sometimes you have to create your own entertainment. You should have seen Dr. Tinker Dink's face when he walked past me and I scared him! His goggles flew across the town BWAHAHAHA!|" Хозяин Кукконен говорит что-то вроде ""У меня есть мечта"". Но я видел, как он пьет тот самогон, который для него собирали люди. Может, это его мечта?"
+halloween_line_3|That monk is one selfish bastard. Are you listening to that guy? Just repeating his name over and over for a long period of time. I hate people who are full of themselves.| Знаешь, что действительно раздражает? Люди, которые храпят! А еще больше раздражает, когда Гар Нор кричит во сне. Он кричал что-то вроде «Не ходи туда!»
+halloween_line_4|Landlord Kukkonen is talking something about 'I have a dream'. But I've seen him drink that moonshine people have been collecting for him. Maybe that's his dream?| Саркастер думает, что он такой смешной. Он предложил мне кофе. Сказал, что он сделает меня счастливым и даст мне немного энергии. Конечно
+halloween_line_5|You know what's really annoying? People who snore! And even more annoying is when Gar Nor is yelling while he is asleep. He yelled something about 'Don't go over there!'| Магистр Куджала думает, что я какая-то лабораторная крыса. Он пробовал на мне какую-то абракадабру, но ничего не вышло. Ему стоит попрактиковаться в этом фокусе-покусе немного больше.
+halloween_line_6|Sarcaster thinks he is soooo funny. He offered me coffee. Said it's gonna make me happy and give me some energy. Sure, skeleton hanging like a ragdoll needs energy. What an ass...| Джек Потрошитель. Больше похоже на Джека Обдиралиста! Не могу поверить, что кто-то действительно продает ему вещи. И он предлагает «услугу», где он отдает вам реликвии. О
+halloween_line_7|Magister Kujala thinks I'm some sort of lab rat. He tried some abrakadabra stuff on me but everything failed. He should practice that hocus-pocus a bit more.|Привет, красавица... Не могла бы ты мне помочь кое с чем? Ой
+halloween_line_8|Jack The Ripper. More like Jack The Rip off! I can't believe someone would actually sell stuff to him. And he offers a 'service' where he takes you relics. Oh, you've done those things? Aaaawkwaaaaaard...| Все девушки время от времени хотят получить подарок. Не могли бы вы сделать мне подарок?
+quest_halloween_1|Hello there beauty... Would you kindly help me with something? Oh, aren't you as sweet as a pumpkin pie!| Я устал от этих кур. Я слышу их даже из замерзшей земли. Выщипайте мне их перья.
+quest_halloween_2|All girls want a present every now and then. Would you kindly get me one?| Разве ты не ненавидишь Мрачного Жнеца? Он заботится о мертвых, но теперь он пытается контролировать живых. Иди и покажи ему, кто здесь главный!
+quest_halloween_3|I'm sick of those chickens. I can hear them all the way from the frozen land. Pluck their feathers for me, I have an idea.| В пустыне живет много интересных существ. Я хочу изучить, что я могу с ними сделать. Или с их частями тела
+quest_halloween_4|Don't you just hate Grim Reaper? He takes care of the dead but now he is trying to control the living. Go show him who is the boss!| Еще один повелитель Смерти угрожает мне. Ты можешь в это поверить?! Я всего лишь молодая красивая леди. Ты поможешь нуждающейся леди?
+quest_halloween_5|A lot of interesting creatures live in the desert. I want to study what I could do with them. Or with their body parts, hehe.| Дэмиен приблизился ко мне, и мне показалось, что на меня кричат тысячи голов. У меня есть для тебя кое-что, чтобы заткнуть эти головы!
+quest_halloween_6|Another lord of Death is threatening me. Can you believe that?! I'm just a young beautiful lady. Will you help a lady in need?|
+quest_halloween_7|Damien approached me and it sounded like thousand heads were yelling at me. I have something for you to shut those heads up!|
+|| Еще одно! Ты только что пришел, так что ты, должно быть, голоден! У меня тут небольшой костерок
+[Valhalla Side Quest]|| По бороде Одина
+dialog_valhallaHungryHaldor|One more thing! You just got here so you must be hungry! I have a small campfire right here, and I think you should eat something. There is a rumor of a Legendary Boar roaming around here, see if you can slay him for food!| Эйййййй! Ты! Да
+dialog_valhallaHungryHaldor_end|By Odin’s beard, that is a good looking beef! Care to share some, traveler?| Хороший
+dialog_valhallaHurrdurr|Heyyyyyy! You! Yes, you! I am Hurrdurr and I love riding my mining cart all over the place. Some mean monsters just stole the wheels of my cart and left laughing. Can you believe that? Please find the wheels and attach them back to my cart so I can go [shake_letter][c_yellow]fast![c_reset][shake_reset]| Вопросы и ответы!
+dialog_valhallaHurrdurr_end|Nice, with wheelz on this bad boy nothing is ever going to stop me!| Вот это да!
+dialog_valhallaBaldurMuspelheim|Questii tarjolla!|Хей! Я пытался сражаться с этими нагами, чтобы очистить эти затопленные равнины для восстановления. Эти существа крепки, и мне нужно соответствовать им. Не мог бы ты собрать мне немного чешуи нагов, чтобы я мог изготовить себе нормальную броню, чтобы иметь шанс на победу?
+dialog_valhallaBaldurMuspelheim_end|Questi ois valamis!| Ваши усилия высоко ценятся. Как только я создам эту броню, я смогу убивать этих змей Нага так, будто завтра не наступит никогда!
+dialog_valhallaFroyaSkins|Hej! I've been trying to combat these Nagas to clear out these flooded plains for rebuilding. These creatures are tough and I'd need to match that. Could you collect me some Naga scales so I can craft myself a proper armor to have a fighting chance?| Эй, ты! Пожалуйста... болезнь... этой земли... она меня зацепила. Я слаб... слишком слаб, чтобы продолжать свой путь. У меня... есть рецепт... лечебного зелья... Не могли бы вы... помочь *кашляет* мне?
+dialog_valhallaFroyaSkins_end|Your efforts are much appreciated. Once I craft this armor I'll be able to slay these Naga snakes like there is no tomorrow!| Ты... Ты вернулся! Я не могу достаточно отблагодарить тебя... Слава старым богам!
+dialog_valhallaTiredViking|Hey you! Please... the sickness... of this land... it got me. I am weak... too weak to continue my journey. I... have a recipe... for healing potion... Could you... help *cough cough* me? | [shake_letter][c_lime]*Чух-чух-чух*... Я чувствую, как это работает!
+dialog_valhallaTiredViking_end|You…. You came back! I can not thank you enough… Praise the old gods!| [shake_letter][c_yellow]Я чувствую себя странно...
+dialog_valhallaTiredViking_01|[shake_letter][c_lime]*Chug chug chug*... I can feel it working!| [shake_letter][c_red]Тьма придет и за тобой!
+dialog_valhallaTiredViking_02|[shake_letter][c_yellow]I feel strange...|
+dialog_valhallaTiredViking_03|[shake_letter][c_red]The darkness comes for you too!| Судьбу невозможно отрицать. [пауза
+||
+odin_boss_intro|There is no denying fate.[pause,15] [pause,0][nl]It was written that one day I shall rule the afterlife as I please, and that you'd be the catalyst for my reign.[pause,15] [pause,0][nl]Today you have fulfilled your part in the plan of the ancients and I have no further use for you.[pause,30] [pause,0][nl]You are hereby banished from death![pause,30] [pause,0]| Этот портал приведет нас к реке Гьёлль. Он почти готов.
+|| Завтра мы продолжим путь к реке Гьёлль.
+helheim_npc_portal|This portal will take us close to river Gjöll. It's almost ready, I just need a few more moments to channel it... Please excuse me, I have to concentrate my power to the portal...|Я так рада наконец увидеть Хельхейм! Мои родители сказали, что тогда они наконец смогут отдохнуть и поиграть со мной.
+helheim_npc_elder|Tomorrow we shall continue to river Gjöll, towards the gates of Helheim.| Я покончил с этими опасными пещерами и существами... Я надеялся, что смерть станет концом...
+helheim_npc_child|I'm so excited to finally see Helheim! My parents said they can finally rest and play with me then.| Ааа
+helheim_npc_anxious|I'm done with these perilous caves and creatures… I was hoping death would be the end...| Я был лесорубом... И до сих пор им остаюсь! Нет ничего более расслабляющего, чем рубка дров.
+helheim_npc_peaceful|Ah, will you join me and enjoy this moment of respite?| Ну привет!
+helheim_npc_wood|I used to be a lumberjack... And I still am! There's nothing more relaxing than chopping up some wood.| Я беспокоился, что никто не будет сопровождать меня сегодня через реку. В последнее время народу было больше, чем моя старая лодка могла унести. Ты не видел ни одной из этих бедняжек по пути? Неважно
+dialog_valhallaPurge|Well hello there!| Ааа
+dialog_valhallaRiver|I was worried nobody would accompany me cross the river today. Lately there have been more folks than my ol' boat can carry. Didn't you see any of those poor souls on your way? Nevermind, you must been keen on getting to rest already. Let me cross you over your final obstacle...| Молодец! Уверен, это была легкая задача для такого великого воина, как ты [имя героя]. Это последний отрезок пути. Пусть Всеотец благословит твой путь.
+dialog_valhallaRiver_1|Ah, it looks like our path is blocked. There must be a way to open the gate! Perhaps head to the land to see if you can find something?| Это последний отрезок пути. Пусть Всеотец благословит твой путь.
+dialog_valhallaRiver_2_normal|Well done! I am sure that was an easy task for a great warrior like you [heroname]. This is the last stretch. May the Allfather bless your way.| Этот путь приведет вас к Вратам Хельхейма. Действуйте осторожно.
+dialog_valhallaRiver_2_nmhell|This is the last stretch. May the Allfather bless your way.| Мы сделали это! Мы убили зверя! Спасибо, что помогли мне с этим. Не расстраивайтесь, если вам было страшно.
+dialog_valhallaRiver_3|This path will lead you to the Gates of Helheim. Proceed with caution, as you never know what could be lurking ahead. Beware, even in the afterlife, you can very well get killed [heroname]…| Сейчас
+dialog_valhallaRiver_complete|We did it! We slayed the beast! Thank you for helping me with that. Don’t feel bad if you felt scared, most souls do when they encounter a terrifying beast.| Ряд
+dialog_valhallaRiver_Gates|Now, go through those gates and fulfill your destiny!| Я просто побуду здесь немного.
+ferryman_idle_1|Row, row, row your boat...|Просто запрыгивайте, и мы отправимся в путь!
+ferryman_idle_2|I'll just hang here a while, you go on and do your thing...| Клянусь моим веслом! Ворота закрылись!
+ferryman_lets_go|Just hop on and we'll be on our way!| ГАААА! Что это?!
+ferryman_shoutbox_1|By my paddle! The gate has closed! | Я нужен в другом месте, РЕЕЕЕ!! ААААГХ!
+ferryman_shoutbox_2|GAAAH! What is that?!| Встретимся на другой стороне!
+ferryman_shoutbox_3|I’m needed elsewheREEEE!! AAGH!| Привет, герой! Можно мне минутку твоего времени?
+ferryman_other_side|I'll meet you on the other side!| Большой
+valhalla_troll_patrol_start|Hello there hero! Could I have a minute of your time? | Ох, ладно
+valhalla_troll_patrol_yes|Great, we have a small shelter here by the rocks, can you come with me, I'll show you. We can talk safely there. | Большое спасибо
+valhalla_troll_patrol_no|Oh okay, perhaps another time then... | Тролли! Они нас раскусили!
+valhalla_troll_patrol_complete|Thank you so much, you can not imagine what help you brought to us... Our chances at surviving this place just got bigger! | Это было близко... Я не могу достаточно отблагодарить тебя.
+valhalla_troll_patrol_trolls|Trolls! They are on to us!| Как вы думаете, мы могли бы получить еще одну партию?
+valhalla_troll_patrol_killed|That was a close one... I can not thank you enough, hero. | Это сделано?
+valhalla_troll_patrol_one_more|Do you recon we could get one more load? | Собирайте награду!
+valhalla_troll_patrol_mid|Is it done?| Следующее задание будет опубликовано в [c_lime][var
+bounty_board_collect_bounty|Collect Bounty!| Он пуст... Следующее задание будет опубликовано в [c_lime][var
+bounty_board_quest_complete|Next assignment will be posted in [c_lime][var,hourLeft] hours and [var,minuteLeft] minutes.[c_reset]| У вас все еще есть [c_lime][var
+bounty_board_empty|It's empty... Next assignment will be posted in [c_lime][var,hourLeft] hours and [var,minuteLeft] minutes.[c_reset]| Перечислено несколько наград. Какую из них вы хотели бы увидеть?
+bounty_board_on_quest|You still have [c_lime][var,hourLeft] hours and [var,minuteLeft] minutes to complete the quest![c_reset]| Bounty Board — это место, где жители Таретиэля могут просить о помощи по любым вопросам, которые они считают достаточно серьезными, чтобы попросить о помощи. Похоже на [c_yellow][var
+bounty_board_multiple|There are multiple bounties listed. Which one would you like to see?| Это конец? На мгновение
+bounty_board_info|Bounty Board serves as a place for the people of Tarethiel to request assistance with any issues they deem serious enough to ask help with. It looks like [c_yellow][var,assigneeName][c_reset] is in need of assistance.[nl][c_lime]The assignment expires in [var,hourLeft] hours and [var,minuteLeft] minutes.[c_reset]| Тьма, которая меня развратила, была побеждена.
+odin_good_quest|Is it over? For a moment, I felt the weight of Valhalla's fall, as if the very fabric of our realm had been torn asunder. The threads that bound us to the land's heart were frayed, and I feared that all was lost... but now, with your triumph, those threads are mended, and the light of Asgard shines brighter than ever.| Слава Богу!
+odin_good_common|The darkness that corrupted me has been vanquished, and the true Odin stands before you once more. I was shrouded in a mist of despair, my heart frozen by the shadows that sought to consume us all. But your bravery has shattered that veil, and the nine realms are saved. May the blessings of the All-Father be upon you, and may your name be etched into the annals of Valhalla's history.|Я очень надеюсь, что с нами ничего плохого не случится.
+troll_patrol_room_astrid|Praise be!| Вы слышали о Хуррдурре?
+troll_patrol_room_npc1|Boy I sure hope nothing bad will happen to us later.|Я очень надеюсь, что с нами ничего плохого не случится.
+troll_patrol_room_npc2|Have you heard about Hurrdurr?|
+troll_patrol_room_npc5|Boy I sure hope nothing bad will happen to us later.| Возможно, ворота соединены с каменными платформами...
+|| Может быть, мне сначала поговорить с Хальдором?
+valkyrie_gate_stones|Maybe the gate is connected to the stone platforms...|
+valkyrie_gate_haldor|Maybe I should talk to Haldor first?| Вы можете атаковать, нажимая кнопки в правом нижнем углу.
+|| Вы можете атаковать с помощью [Мыши]
+tutorial_sign_1_mobile|You can attack by pressing the buttons on the bottom right corner.| Вы можете атаковать своим
+tutorial_sign_1|You can attack with your [Mouse]| Настройте свои способности, нажав на значок дерева талантов в правом верхнем углу.
+tutorial_sign_1_gamepad|You can attack with your| Установите свои способности, нажав
+tutorial_sign_2_mobile|Set your abilities by tapping the talent tree icon in the top right corner.| Откройте свой инвентарь, нажав на значок меча в правом верхнем углу.
+tutorial_sign_2|Set your abilities by pressing| Откройте свой инвентарь, нажав
+tutorial_sign_3_mobile|Open your inventory by tapping the sword icon in the top right corner.| Вы можете перепрыгнуть через уступ, нажав кнопку прыжка в правой части экрана.
+tutorial_sign_3|Open your Inventory by pressing| Вы можете перепрыгнуть через уступ, нажав
+tutorial_sign_4_mobile|You can jump over the ledge by tapping the jump button on the right side of the screen.| РАЗЫСКИВАЕТСЯ - Скорчвуд - Городу нужно выжечь этого мародерствующего энта! - Хозяин Кукконен
+tutorial_sign_4|You can jump over the ledge by pressing|
+tutorial_sign_5|WANTED - Scorchwood - The town needs that marauding ent scorched! - Landlord Kukkonen, Mayor of Inoya| Герой
+|| Какую награду вы выберете?
+angelic_realm_open|Hero, you shall be granted one of Heaven's reward. The gate to the left will grant you the powers no man has seen before. The gate to the right strengthens obtained power even more.| Улучшение брони
+angelic_realm_choice|Which reward shall you choose, Hero of Tarethiel?| Улучшение улучшения
+angelic_realm_left|Armor Augment| Очень хорошо
+angelic_realm_right|Upgrade Augment| Очень хорошо
+angelic_realm_left_chosen|Very well, you shall be granted an Angelic augment.| Прощай, Герой. Мы с тобой ещё встретимся в будущем.
+angelic_realm_right_chosen|Very well, your armor shall receive the Angelic blessing.|
+angelic_realm_farewell|Farewell Hero. You and I shall meet again in the future.|Привет, путешественник! Я могу показать тебе твое будущее.
+|| Посмотрим... Хрустальный шар показывает мне этот артефакт [ПРЕДМЕТ]. Да благословит тебя Всеотец на твоем пути!
+fortune_teller_1|Hello there traveler! I can show you your future, if you are brave enough and willing to look into eternity..| Ваша удача вот-вот исполнится. Будьте терпеливы и доверьтесь космосу..
+fortune_teller_2|Let´s see.. The crystal ball shows me this artifact [ITEM]. May the allfather bless you in your path! | Приходите ко мне снова, как только звезды сойдутся.
+fortune_teller_3|Your fortune is about to be fullfilled. Be patient and trust in the cosmos.. | Увидимся позже, путешественник! Я буду здесь.
+fortune_teller_4|Visit me again once the stars are aligned, you will be granted safe passage!|
+fortune_teller_5|See you later traveler! I will be here, waiting to fullfill your fortune..|
+||
+||
+||
+||
+||
+||
+|| Только что пришло письмо с Северного полюса.
+|| Ну, как дела у Санты?
+quest_krampus_1|A letter from North Pole just arrived, Santa is in trouble! I'm sending an expedition to investigate the situation. Are you in? | Счастливого Рождества, [имя героя]! Ты принес огромную радость жителям Инои!
+quest_krampus_2|So how was Santa?| Нам нужно украсить город к праздникам.
+quest_xmas_snowman_fanfare|Merry Christmas [heroname]! You have brought tremendous joy to the residents of Inoya!| Отлично! Сотни [c_aqua]Леденцов[c_reset] будет вполне достаточно. Спасибо
+quest_xmas_annihilation|We need to decorate the town for the holidays, [heroname]! And we need your help! First things first, we ordered a ton of [c_aqua]Candy Canes[c_reset] from Danethrope, but the foul creatures of the lands between us intercepted the shipment and mauled the carriage driver to death! Never mind him, he sucked at his job, but now we need those [c_aqua]Candy Canes[c_reset] back! Help us, please!| Мои [c_aqua]Рождественские чулки [c_reset]украли! Помогите мне еще раз
+quest_xmas_annihilation_complete|Perfect! A hundred [c_aqua]Candy Canes[c_reset] will do nicely. Thank you, hero!| Спасибо
+quest_xmas_stockings|My [c_aqua]Christmas stockings [c_reset]have been stolen! Help me once more, [heroname]? Surely the Mayor of the town will lose all credibility without his [c_yellow]funny[c_lime] colored [c_green]socks[c_reset]. This is a disaster! Will you help?| Спасибо
+quest_xmas_stockings_complete|Thank you, authority restored and feet warmed! My grandmother made them. Aren’t they nice?| Эй! Меня зовут [c_yellow]буква[c_reset]. Шучу. На самом деле я [c_purple][shake_letter]волшебная буква[shake_reset][c_reset]
+quest_xmas_stockings_complete_2|Thank you, [heroname]. I heard from a celestial being that in another universe these are something called [c_aqua]programmer socks[c_reset]. I do not know what that means.| И вот так просто
+quest_xmas_snowman|Hey! My name is [c_yellow]a letter[c_reset]. Just kidding. I am actually a [c_purple][shake_letter]magical letter[shake_reset][c_reset], summoned by the spirit of Christmas! My request to you, dear friend, is for you to build me! One who reads this letter gets the power to bring me to life. Collect snowballs and build a snowman!|Что-то не так. Не спрашивай, как я могу говорить без головы. Я просто могу. Но я все равно хотел бы вернуть свою [c_aqua]голову[c_reset]. Она у [c_red]Жнеца[c_reset]. Этот злой вестник смерти всегда пытается найти новые способы уничтожить мое существование.
+quest_xmas_snowman_complete|And just like that, I have come to life! Thank you.| Намного лучше. Ты гениален.
+quest_xmas_snowmanhead|Something is not quite right. Do not ask how I can talk without a head. I just can. But I would still like to get my [c_aqua]head[c_reset] back. [c_red]The Reaper[c_reset] has it. That evil death bringer always tries to find new ways to decimate my existence, but you can not destroy the spirits of Christmas! Would you do me a favor and get me back my [c_aqua]head[c_reset]?| У меня есть кое-что для вас, попробуйте.
+quest_xmas_snowmanhead_complete|Much better. You are brilliant, [heroname]! Did the Reaper take a bite out of my nose?| Было ли это так весело, как я себе представлял?
+quest_xmas_snowballfight|I have a little something for you to try, just for fun! It is a [c_yellow]Snowball Relic[c_reset]. Take it out for a test drive will you?| Я только что разговаривал с мэром. Он сказал, что городу все еще нужны рождественские украшения, и я согласен! Сначала нам нужны [c_aqua]огни[c_reset] для украшения! По какой-то причине монстрам и существам в пустыне очень нравятся эти огни, и я не знаю, где их взять побольше за такой короткий срок. Может быть, было бы проще просто одолжить эти огни у монстров
+quest_xmas_snowballfight_complete|Was it as fun as I had imagined?| Отлично. Теперь нам просто нужна елка!
+quest_xmas_lights|I was just talking to the Mayor. He said that the town still needs some Christmas decorations and I agree! First we need decoration [c_aqua]lights[c_reset]! For some reason the monsters and creatures in the desert really like those lights and I don’t know where to get more of them in such a short notice. Maybe it would be easier just to borrow those lights from the monsters, what do you say [heroname]?| Слушай, я правда не знаю почему.
+quest_xmas_lights_complete|Excellent. Now we just need a Christmas tree!| Отлично. Давайте выставим это напоказ! Эти огни хорошо сочетаются с елкой…
+quest_xmas_tree|Look I really do not know why, but apparently [c_red]Anubis[c_reset] has a [c_aqua]Christmas tree[c_reset] in his possession. Mayor Kukkonen wants exactly THAT [c_aqua]Christmas tree[c_reset]. I don’t get it, but that’s how it is. Can you help stea- I mean borrow it from [c_red]Anubis[c_reset]?| Огни на елке красивые.
+quest_xmas_tree_complete|Great. Let’s put it on display! These lights go nicely with the tree…| Дерево выглядит прекрасно! Спасибо.
+quest_xmas_decorations|The lights are nice on the tree, but I feel like we could do more! I made you another [c_yellow]relic[c_reset]. With this you could [c_purple]yoink[c_reset] any items that would go nicely as decorations for the tree. Try it on a monster!|Еще один последний штрих
+quest_xmas_decorations_complete|The tree is looking beautiful! Thanks, [heroname].| [shake_letter]ЭТО ПРЕКРАСНО![shake_reset] Спасибо
+quest_xmas_star|One more final touch, and the [c_aqua]Christmas tree[c_reset] is complete! The tree needs a [c_aqua]star[c_reset] on top of it, wouldn’t you agree? Can you help and go find a [c_aqua]star[c_reset] for the tree, [heroname]?| [shake_letter][c_yellow]РОЖДЕСТВО [c_lime] [c_aqua] ЗДЕСЬ[c_reset]![shake_reset] Спасибо, [heroname]! Ты принес свет в сердца людей Инои!
+quest_xmas_star_complete|[shake_letter]IT IS BEAUTIFUL![shake_reset] Thank you, [heroname]. With the [c_aqua]star[c_reset] on top of the tree, the Christmas spirit is officially here!|
+xmas_snowman_fanfare|[shake_letter][c_yellow]CHRISTMAS [c_lime] IS [c_aqua] HERE[c_reset]![shake_reset] Thank you [heroname]! You have brought light to the hearts of the people of Inoya!|
+|| [shake_letter][c_red]ТЫ НИКОГДА НЕ ВОЗЬМЁШЬ МЕНЯ ЖИВЫМ! УМРИ![c_reset][shake_reset]
+|| Вы оставляете Амулет в маленьком контейнере рядом с доской объявлений. Анита наверняка будет рада получить свой амулет обратно!
+xor_found_dialog|[shake_letter][c_red]YOU WILL NEVER TAKE ME ALIVE! DIE![c_reset][shake_reset]| Мэр Кукконен разместил небольшую записку поверх плаката «Разыскивается». Она гласит: «Спасибо
+bb_anitas_amulet_complete|You leave the Amulet to the small container by the bounty board’s side. Anita will surely be happy to have her amulet back!| Доска почета опустела
+bb_wanted_xor_complete|Mayor Kukkonen has posted a small note on top of the Wanted poster. It reads “Thank you, [heroname]! I have a feeling that this is not the last we have seen of these evil creatures, but you have done a good job warning them what will come should they be a problem again!| Эм оставил записку, в которой просто написано: «Ты лучший!»
+bb_afwul_abominations_complete|The Bounty Board is emptied, as you have done a great job handling Gar Nor’s assignment.|Добрый вечер, [heroname]. Вижу, ты заинтересовался моим [c_aqua]квестом[c_reset]. Очень хорошо. Есть лжепророк по имени Лютор, который поставил себе целью заставить добрых людей этих земель поклоняться ему и его злобным планам культа. Когда в последний раз я и несколько других столкнулись с ним, он скрылся в [c_red]Соборе[c_reset]. Было бы очень удобно, если бы его нашли и [shake_letter][c_yellow]с ним произошел несчастный случай[c_reset][shake_reset]. Я слышал, что [c_yellow]окна[c_reset] Собора не в очень хорошем состоянии. Несчастные случаи случаются.
+bb_chaos_tower_complete|Um has left a note which simply reads “You are the best!”| Эй, ты там! Дом Люторов приветствует тебя как нового члена! Мы — божественные
+dialog_dailyFalseProphet|Good evening [heroname]. I see you have taken an interest on my [c_aqua]quest[c_reset]. Very well. There is a false prophet named Luthor who has made it his mission to turn the good people of these lands to worship him and his malicious cult’s agenda. When last confronted by me and a few others he went into hiding to [c_red]The Cathedral[c_reset]. It would be very convenient if he was to be found and [shake_letter][c_yellow]an accident[c_reset][shake_reset] were to happen to him. I hear the Cathedrals [c_yellow]windows[c_reset] are not in a very good shape. Accidents happen.| Что ты делаешь!? Отпусти меня немедленно! Трогать Лютора — смертный грех!
+false_prophet_dialog_1|You there! The House of Luthor welcomes you as a new member! We are the divine, we are the chosen! Join us!| Хочешь золота? У меня много золота! Просто поставь меня на землю, и мы поговорим!
+false_prophet_dialog_2|What are you doing!? Put me down this instant! Touching Luthor is a cardinal sin!| Единый истинный Бог говорит со мной! Ты будешь вечно гореть в глубинах Ада, если не успокоишься!
+false_prophet_dialog_3|You want gold? I have lots of gold! Just put me down and we can talk!| ПОЖАЛУЙСТА, ОТПУСТИТЕ МЕНЯ!
+false_prophet_dialog_4|The one true God speaks to me! You will burn in the depths of Hell for all eternity if you do not calm down!| НЕТ ...
+false_prophet_dialog_5|PLEASE LET ME GO!|Я знал, что ты поймешь, о чем я говорю! Я прощаю тебя, ведь я Лютор.
+false_prophet_fall|NOOOoooo....|
+false_prophet_fail|I knew you would see reason! I forgive you for I am Luthor, the voice of the one true God!|
+||
+||
+||
+|| Похоже, у тебя есть настоящая смелость. Готовы к вызову?
+|| В книге есть несколько страниц о разных драгоценных камнях. Какой из них вы хотели бы увидеть?
+challenge_npc_dialog|You look like you have some real guts. Up for a challenge?| Камень души Гурага наделяет своего владельца защитными способностями.
+grind_gem_info|The book contains multiple pages on different gemstones. Which one would you like to see?| Камень Души Жнеца наделяет своего владельца леденящими силами.
+grind_gem_info_1|Gurag's Soul Gem gives its wielder guarding powers.| Камень души Анубиса наделяет своего владельца силой попутного ветра.
+grind_gem_info_2|Reaper's Soul Gem gives its wielder chilling powers.| Камень души Дэмиена наделяет своего владельца ядовитыми силами.
+grind_gem_info_3|Anubis' Soul Gem gives its wielder tailwind powers.| Камень души короля Карпа наделяет своего владельца электризующими силами.
+grind_gem_info_4|Damien's Soul Gem gives its wielder toxic powers.| Камень Души Сатаны наделяет своего владельца огненными силами.
+grind_gem_info_5|Karp King's Soul Gem gives its wielder electrifying powers.| Камень Души Мевиуса наделяет своего владельца мистическими силами.
+grind_gem_info_6|Satan's Soul Gem gives its wielder fiery powers.| Камень Души Одина наделяет своего владельца разрушительными силами.
+grind_gem_info_7|Mevius' Soul Gem gives its wielder mystical powers.|
+grind_gem_info_8|Odin's Soul Gem gives its wielder destructive powers.|
+|| Привет
+|| Отличная работа.
+valhalla_grind_0|Greetings, Hero! I am very excited to be meeting you, as I need the help of a great adventurer! I recently got my hands on this book, the Book of Soulforge. It contains instructions for forging very powerful magic into objects, but some pages are missing! Help me to find these missing pages and as a reward I will create you the mightiest, magical ring to help you on your Hero's journey! I have information that the stone king himself, Gurag, might be in posession of a page. That's where I would start looking.| Я только что узнал, что одна из страниц находится во владении самой смерти! Отправляйтесь на север и попытайтесь найти ее! Какая закономерность? Здесь определенно нет никакой закономерности, когда дело касается местоположений страниц…
+valhalla_grind_0_complete|Excellent work, [heroname]! I have a few old friends of mine trying to find more information about the rest of the page's whereabouts. Come talk to me later!|УРАААААА! Честно говоря, я не думала, что можно найти так много браггита так быстро! Такое количество драгоценных минералов вызывает у меня покалывание... Точно! Так! Потрясающее кольцо! Дело в том,
+valhalla_grind_1|I just learned that one of the pages is in the posession of death itself! Head north and try to find it! What pattern? There surely is not a pattern here when it comes to the pages locations…| Ты действительно великий воин.
+valhalla_grind_1_complete|WHOOOAAAAA! I did not honestly think you could find so much braggite this quickly! This amount of precious minerals is giving me a tingling sensation… Right! So! Awesome Ring! The thing is, we still need some [c_yellow]essence of the gods[c_reset], but that should be easy to come up with. A lot easier than this… precious… mineral… oh boy.| Ну, ну, ну. Смотри, у кого есть сущность богов! Я не думаю, что тебе вообще понадобится это кольцо! Но обещание есть обещание. Теперь мне просто нужно будет использовать 25 брэггитов и 5 эссенций, которые ты мне дал, и кольцо готово! Я сказал 25 и 5? Нет, нет
+valhalla_grind_2|You are truly a great warrior, [heroname]. We'll be sure to find the rest of the pages in no time! My guys are reporting back later for more page locations! I'd send my dog Mörski to sniff around a little bit as well, but he has been kinda quiet lately…| Эм... Небольшая проблема. В кольце чего-то не хватает. Третье
+valhalla_grind_2_complete|Well well well. Look who's got the essence of the gods! I don't think you'd even need this ring! But a promise is a promise. Now I'll just have to use the 25 braggites and 5 essences you got me and the ring is ready! Did I say 25 and 5? No no, I meant ummh… 50 braggites and 7 essences. Yeah that sounds about right. No way I was sending you to get excess amounts of stuff for me to enjoy all by myself… hehe.| Ты сделал это! Это прекрасно... так
+valhalla_grind_3|Uhmm... A small problem. The ring is missing something. A third, final component to unlock its true potential. The base of the ring is super sexy… but we want more. The whole package! I think I know what the ring is missing. The stone! And like with all gemstones, size matters. And quality too, I guess. Let me think…A-ha! Yes. Yes. Here! [c_aqua]Look at this scroll![c_reset] Get me a [c_yellow]gemstone[c_reset] and we will talk again!| Örre
+valhalla_grind_3_complete|You did it! This is beautiful… so, so pretty. You have done an exceedingly awesome job collecting these awesome parts for the awesome ring. It's all just awesome. If anyone deserves this ring, it's you. Take it. Take it, take it, take it! Mörski, my loyal cave dog, we're back in the BS game!| Привет, чуваа ...
+orre_npc_name|Örre| Мой верный пес [c_red]Mörski[c_reset] в последнее время немного притих. Думаю, это пещера его угнетает. Передай привет славному Герою
+valhalla_grind_inprogress_0|Hi duuude!| [c_yellow]Сущность богов[c_reset] очень редка.
+valhalla_grind_inprogress_1|My loyal dog [c_red]Mörski[c_reset] has been a bit quiet lately. I guess its the cave depressing him. Say hello to the nice Hero, [c_red]Mörski![c_white]| Хорошо
+valhalla_grind_inprogress_2|The [c_yellow]essence of the gods[c_reset] is very rare, but I trust your ability to get it without aaaaany problems.| Интересно, что случилось с моим сводным братом Хуррдурром. Может, мне стоит пойти и поискать его.
+valhalla_grind_inprogress_3|Well, did you get a good look at the scroll yet?|
+valhalla_grind_inprogress_4|I wonder what happened to my half brother Hurrdurr. Maybe I should go look for him.|
+|| Таинственный Ключ
+||Осматривая таинственный ключ, вы обнаруживаете выгравированный на его рукоятке текст: «Если он утерян,
+grind_key_name|Mysterious Key| Есть прочная замочная скважина из камня и кварца какого-то. Ключ, кажется, идеально подходит.
+grind_key_dialog|As you inspect the mysterious key you find an engraved text written on its handle: “If lost, return to Örre in Dhorn Farum”.| Привет
+grind_key_complete|There is a sturdy keyhole made out of stone and a quartz of some kind. The key seems to fit in perfectly.| Отличная работа.
+grind_0|Greetings, Hero! I am very excited to be meeting you, as I need the help of a great adventurer! I recently got my hands on this book, the Book of Soulforge. It contains instructions for forging very powerful magic into objects, but some pages are missing! Help me to find these missing pages and as a reward I will create you the mightiest, magical ring to help you on your Hero's journey! I have information that the stone king himself, Gurag, might be in posession of a page. That's where I would start looking.| Я только что узнал, что одна из страниц находится во владении самой смерти! Отправляйтесь на север и попытайтесь найти ее! Какая закономерность? Здесь определенно нет никакой закономерности, когда дело касается местоположений страниц…
+grind_0_complete|Excellent work, [heroname]! I have a few old friends of mine trying to find more information about the rest of the page's whereabouts. Come talk to me later!| Ты действительно великий воин.
+grind_1|I just learned that one of the pages is in the posession of death itself! Head north and try to find it! What pattern? There surely is not a pattern here when it comes to the pages locations…| Слава богу, ты здесь [heroname]. Мой друг Хурнир был уверен, что одна из страниц находится внутри Пирамиды, и отправился на ее поиски. С тех пор я не слышал от него ничего и начинаю беспокоиться. Пожалуйста, отправляйся к Пирамиде как можно скорее и узнай, нужна ли ему помощь!
+grind_1_complete|You are truly a great warrior, [heroname]. We'll be sure to find the rest of the pages in no time! My guys are reporting back later for more page locations! I'd send my dog Mörski to sniff around a little bit as well, but he has been kinda quiet lately…| Я знала, что могу рассчитывать на тебя! Спасибо.
+grind_2|Thank god you're here [heroname]. My friend Hurnir was certain that one of the pages was inside the Pyramid and went to look for it. I have not heard back from him since and I am getting worried. Please get to the Pyramid with haste and see if he needs help!| Еще один день
+grind_2_complete|I knew I could count on you! Thank you, [heroname]. Hurnir is back on his feet and searching for additional pages. I'll let you know more as soon as he reports back.| Снова
+grind_3|Another day, another page found! It's somewhere in Damien's domain. Do you have what it takes, [heroname]?| Рыбак из приюта Сюдзё
+grind_3_complete|Once again, marvelous work! We're only missing two pages!| Здесь очень волнительно
+grind_4|A fisherman from Shujo Retreat, Aki I believe was his name, had page 15. He said he would have sold it to me, but it was swallowed by [c_yellow]THE BIGGEST KARP EVER[c_reset] when a storm rocked his boat and his belongins dropped into the depths of the Karponian sea. Now, I know that fishermen always exaggerate their stories, but that's what we got to go with. See if you can find the page?| Отличное время! Хорошие новости и плохие новости: Хорошие новости в том, что я знаю, где находится последняя страница. Плохие новости в том, что это место — Седьмой слой ада. Вот именно
+grind_4_complete|Getting very excited here, [heroname]! Just one more page to go!| ТЫ, КРАСИВЫЙ УБЛЮДОК! ТЫ СДЕЛАЛ ЭТО! Теперь, когда Книга Соулфорджа завершена, мне не терпится узнать, какие секреты она раскрывает! Вот
+grind_5|Great timing! Good news and bad news: The good news is that I know where the last page is. Bad news is that that place is the Seventh Layer of Hell. That's right, Hell! Satan himself has it! I don't know, [heroname]. Is the last page worth it? I completely understand if you have doubts, but the page also contains key information without which the book is useless.| Как я и обещал тебе
+grind_5_complete|YOU BEATIFUL BASTARD! YOU DID IT! With the Book of Soulforge now complete I can not wait to learn what secrets it reveals! Here, I made you a little something as a reward for helping me. It's not that impressive, but once I learn the secrets in this book I will enchant it for you!| Мне жаль [имя героя]
+grind_6|Like I promised you, I can make you a ring more powerful than any man has ever worn! As per the instructions in the Book of Soulforge, I have gathered all the materials I need, except for one: Soul essence. Soul essence can be harvested from powerful creatures all over Tarethiel, although it's very rare to find on the mostly soulless creatures that infest these lands. Anyway, I need a lot of it. A lot. Return to me with a big pile of it and the ring shall be yours!|Клянусь моим молотом! Я совсем забыл! Может, моя старая голова размягчается в этой пещере… Кольцу все еще что-то нужно. Души. Не только сущность
+grind_6_complete|I am sorry [heroname], I completely forgot about one more ingredient. But for a champ like you, that should be easy to handle thought!| Теперь мы готовы! Дай мне закончить это кольцо для тебя!
+grind_7|By my hammer! I completely forgot! Maybe my old head is going soft in this cave… The ring still needs something. Souls. Not just essence, the actual souls. Not too much, but a couple of them. Ideally some strong, raw souls that once had a strong will and heart for battle. You know those piles you see laying around? Maybe, just maybe, you might find what is needed from those. Well, off you go. I’ll see you when you have them!|
+grind_7_complete|Now we are ready! Let me finish that ring for you!| Вух! Могу заверить, что я вполне жив и уж точно не мертвая куча костей. Вух!
+|| Мои коллеги ищут местоположение следующей страницы. Возвращайтесь позже!
+morski_alive_dialog|Vuh! I can assure that I am quite alive and definitely not a dead pile of bones. Vuh!| Мой верный пес [c_red]Mörski[c_reset] в последнее время немного притих. Думаю, это пещера его угнетает. Передай привет славному Герою
+grind_inprogress_0|My associates are searching for the location of the next page. Come back later!| Просто поищите еще пару куч! Я думаю, эти души довольно распространены
+grind_inprogress_1|My loyal dog [c_red]Mörski[c_reset] has been a bit quiet lately. I guess its the cave depressing him. Say hello to the nice Hero, [c_red]Mörski![c_white]| Как тебе это кольцо?
+grind_inprogress_2|Just search a couple more piles! I think those souls are quite common, but what would I know?| Так взволнован! Я стану величайшим кузнецом на свете!
+grind_inprogress_3|How do you like that ring, [heroname]?| Ты умудрился потерять свое Кольцо? Черт возьми
+grind_inprogress_4|So excited! I'm going to be the greatest blacksmith ever!| Пожалуйста
+grind_ring_lost|You managed to lose your Ring? Damn it, [heroname]. You have to be more careful. I had some leftover materials from the previous crafting, which I was hoping to save for later, but I guess I can help you out. Do you need a new [c_aqua]Soulforged Ring[c_reset]?| Не сейчас. Хорошего дня.
+grind_craft_new|Please, Örre. Make me another!| Здесь ничего не происходит.
+grind_nocraft|Not now. Have a good day.| Дидидии... Ла лал лаааа
+grind_craft_1|Here goes nothing, [heroname]!| Посмотрите на мои навыки в BS!
+grind_craft_2|Dididii... La lal laaaa|
+grind_craft_3|Witness my skills in BS!| Örre послал тебя искать меня? Как мило. Мне просто нужен небольшой отдых, и я буду готова. Я нашла страницу
+|| Продолжайте побеждать [c_red]Анубиса[c_reset] и найдите страницу
+hurnir_grind_dialog|Örre sent you to look for me? How sweet. I just need a short rest and I'll be good to go. I found the page, but I was overwhelmed by these damn monsters. I barely escaped, but they took the page and I am sure it's now in the posession of [c_red]Anubis[c_reset] himself. Go get your page, [heroname]. I'll be fine.|
+hurnir_grind_dialog_2|Go on to defeat [c_red]Anubis[c_reset] and find the page, I'll be fine.|
+||[c_yellow]Валькирии[c_reset] — это те, кто ведет души павших героев в одно из двух измерений. Половина тех, кто погибает в битве, попадает в загробную жизнь Фрейи.
+[valhalla raven statues]|| [c_aqua]Хугинн[c_reset]
+valhalla_lore_valkyrie|[c_yellow]Valkyries[c_reset] are the ones who guide the souls of fallen Heroes into one of two realms. Half of those who die in battle are taken to Freyas afterlife, [c_lime]Fólkvangr[c_reset]. The other half go to Gods hall called [c_lime]Valhalla[c_reset]. | [c_aqua]Мунинн[c_reset]
+valhalla_lore_huginn|[c_aqua]Huginn[c_reset], ''Thought'', is the brother of [c_red]Muninn[c_reset]. As one of the Odin's ravens he travels around the world, reporting back to Odin.| [c_aqua]Тролли[c_reset] — существа леса.
+valhalla_lore_muninn|[c_aqua]Muninn[c_reset], ''Memory'', is the brother of [c_red]Huginn[c_reset]. As one of the Odin's ravens he travels around the world, reporting back to Odin.| [c_aqua]Нага[c_reset] — это гибриды человека и змеи, которые предпочитают жить около или в воде. Обычно они живут в укрытиях в восточных королевствах, и пока неизвестно, как они попали в [c_lime]Вальхаллу[c_reset] и заразили ее. Всем героям рекомендуется убивать их на месте.
+valhalla_lore_trolls|[c_aqua]Trolls[c_reset] are creatures of the forest, who live under the rocks and caves. They are known for being quite dumb and very hostile against humans.| Предупреждение: [c_red]Суртур[c_reset] заточен в этой пещере. НЕ ПОДХОДИТЕ!
+valhalla_lore_naga|[c_aqua]Naga[c_reset] are human-snake hybrids which prefer to live near or in water. They usually live in hiding at the eastern kingdoms and it is not yet known how they traveled to and infested [c_lime]Valhalla[c_reset]. All the heroes are adviced to kill them on sight.| [c_aqua]Ёрмунганд
+valhalla_lore_surtur|Warning: [c_red]Surtur[c_reset] has been imprisoned in this here cave. DO NOT APPROACH!|
+valhalla_lore_jormungandr|[c_aqua]Jormungandr, the World Serpent[c_reset], born of [c_red]Loki's[c_reset] mischief, stretches his massive coils around the realms, filling oceans and swallowing storms. Bound to the prophecy of Ragnarok, his hunger for destruction lies coiled in the depths. When he rises, gods will tremble, the skies will split, and his venom will seep into the world.| Ариман
+|| Хранитель ворон
+ahriman_npc_name|Ahriman| Эй, ты там! Ты выглядишь как крутой искатель приключений, готовый убить несколько монстров! Я Ариман
+ahriman_npc_title|Crow Keeper| Спасибо
+ahriman_chain_1|You there! You look like a tough adventurer ready to slay some monsters! I am Ahriman, the keeper of Crows. I have a problem, there is a large rat bastard I've named [c_red]Fragrat[c_reset] who murdered and ate one of my belowed crows. I want you to find and kill Fragrat! I'll pay you handsomely. Last time I saw the bastard he took shelter in a Rat Den. Help me out, will you?| Мои птицы голодные! После инцидента с Фрагратом
+ahriman_chain_1_complete|Thank you, [heroname]. Here is your handsome reward! I also have another task for you, should you be interested…| Это очень вкусно. С этим рагу мои вороны восстановят силы и будут готовы к работе! Мне еще нужно от тебя одно.
+ahriman_chain_2|My birds are hungry! After the incident with Fragrat, they deserve a proper feast! Collect me some maggots and [c_red]crimson pumpkins[c_reset] and make some nice maggot stew to feed them. Should you accept, I'll meet you at my house in [c_yellow]The Dark Woods[c_reset]!|У меня была книга заклинаний под названием «Убийство Ворон», которая позволяла мне полностью контролировать свою стаю. Ее украл один из приспешников Гурага давным-давно. Если ты сможешь найти ее и принести мне, я стану самым могущественным Хранителем Ворон, которого когда-либо видела Таретиэль! Я совершенно уверен, что книга спрятана где-то в подземельях Гурага. Найди ее и принеси мне.
+ahriman_chain_2_complete|This is delicious. With this stew my crows will be re-energized and ready to work! There is still one thing I require from you.| [c_aqua]УБИЙСТВО ВОРОН[c_reset]! Подождите... это не та книга заклинаний. Это что-то совсем другое. Я не могу понять ничего из написанного здесь. Честная попытка
+ahriman_chain_3|I used to have a spellbook called ''Murder of Crows'' which allowed me to have full control of my flock. It was stolen by one of Gurag's minions a long time ago. If you can find it and bring it back to me I shall be the most powerful Crow Keeper Tarethiel has ever seen! I am quite confident that the book is hidden somewhere in the Gurag's dungeons. Find it and bring it to me, and I will forever be in your debt.|
+ahriman_chain_3_complete|The [c_aqua]MURDER OF CROWS[c_reset]! Wait… this is not the right spellbook. This is something else entirely. I can't understand anything written here. A fair attempt, hero, but this is not what I wanted. You can keep it, maybe it will be useful to you… I'll see you around.| Продолжать
+|| Да будет благословен [имя героя]!
+ahriman_chain_inprogress|Go on, stranger!|
+ahriman_bless|Blessed be [heroname]!| Анита
+|| Травник
+anita_npc_name|Anita| Помогите! Меня зовут Анита.
+anita_npc_title|Herbalist| Вы сделали это! Большое спасибо. Я поеду обратно в Данатхорп, чтобы полностью восстановиться.
+anita_chain_1|Help! My name is Anita, I'm a herbalist from Danethorpe. I was on my regular path collecting herbs, but I got attacked and mauled by a grizzly bear. I don't have long, the wounds are going to take me soon, unless you help me! Bring me some Ginseng and I can heal my wounds! Please, help me...| Привет
+anita_chain_1_complete|You did it! Thank you so much. I'll be heading back to Danathorpe to fully recover, but I have another task for you later, if you don't mind helping a lady in distress a little bit more.| Очень хорошо сделано.
+anita_chain_2|Greetings, hero! I am so thankful to you that words can not express it. I still have a huge problem though. I had to abandon the Herbalism pouch while running away from the bear. I think it dropped near the frozen cellar. Can you locate the bag and bring it back to me? It's filled with the most potent and rare herbs I had, I really need it back.| Медведь, который чуть не растерзал меня до смерти, — огромный медведь гризли, которого местные называют Карнаж. Я хочу, чтобы он умер! Если ты сможешь выследить и убить Карнажа, я отомщу, а ты получишь свою броню. Принеси мне шкуру Карнажа!
+anita_chain_2_complete|Very well done, hero. This is everything I lost! You know, to express my gratitude I could make you a very powerful armor. The only thing I need to finish it would require revenge on a certain bear...|Карнаж мертв! Мой маршрут сбора стал намного менее опасным. Здесь
+anita_chain_3|The bear that almost mauled me to death is a huge Grizzly Bear the locals know as Carnage. I want him dead! If you can track and kill Carnage I get my revenge and you will get your armor. Bring me Carnage's hide!|
+anita_chain_3_complete|Carnage is dead! My gathering route just got way less dangerous. Here, hero, I finished your armor. You have definitely earned it. [shake_letter]blows kiss| ...
+||
+anita_chain_inprogress|...| Джаспер Джексон
+|| Археолог
+jasper_npc_name|Jasper Jackson| Эй, ты! Да!
+jasper_npc_title|Archeologist| Ты слишком долго. Вот тебе немного золота. Убирайся с глаз моих.
+jasper_chain_1|Hey you! Yeah, I'm talking to you, whatever the hell you are supposed to be. I have a job for you. Go get my trusty whip. I would do it myself, but I don't have my trusty whip. Some orc must have taken it.| Я слышал о карте. Эта карта должна показать, где находится Посох Анубиса. ДАЙТЕ МНЕ ЭТУ КАРТУ! По моим данным, это место называется «Гробница Кауфлакс», как бы там ни было. Убирайтесь немедленно.
+jasper_chain_1_complete|Took you long enough. Here's some gold. Get out of my sight, you are ruining the scenery.| Что тебя так долго держало?
+jasper_chain_2|"I heard about a map. This map would show where the Staff of Anubis is located. GET ME THAT MAP! My intel tells me it's somewhere called ""Cauflax Tomb"" whatever the hell that place is. Go away now."| Карта показывает, что посох спрятан в отдаленной гробнице внутри сокровищницы в таинственной пирамиде. Я бы сам пошел и взял его
+jasper_chain_2_complete|What took you so long? Whatever, don't answer. Here is some gold. Let me inspect the map.| Я не делаю бессмысленных комплиментов.
+jasper_chain_3|The map shows that the staff is hidden in a remote tomb inside the Treasure Room in Mysterious Pyramid. I would go get it myself, but you are already familiar with the map. Just go. Bring me the staff and I'll pay you more than you can spend. GO!|
+jasper_chain_3_complete|I don't give meaningless compliments, but in this case I'll make an exception. Good job. Now take your reward and move it.| Приступайте к работе!
+||
+jasper_chain_inprogress|Get to work!| Рагнар
+|| Алкогольный
+ragnar_npc_name|Ragnar| [shake_letter]ОТРЫГ[shake_reset] а?? О, привет... [shake_letter]ОТРЫГ[shake_reset] Помогите мне
+ragnar_npc_title|Alcoholic| Ах, этот [shake_letter]BURP[shake_reset] — это хорошо. Уже лучше. Выпей немного Beer Belly
+ragnar_chain_1|[shake_letter]BURP[shake_reset] huh?? Oh hey... [shake_letter]BURP[shake_reset] Help me out, friend. I've got a terrible hangover from all the Belly Beer me and my friend [c_lime]Hurrdurr[c_reset] were drinking last night. [shake_letter]BURP[shake_reset]... If you can get me some Devils Cabbage from the Old Copper Mine it would really pick me up if you catch my drift. [shake_letter]BURP[shake_reset].| Как я и сказал
+ragnar_chain_1_complete|Ahhh this [shake_letter]BURP[shake_reset] is the good stuff. Already feeling better. Have some Beer Belly, friend. Don't drink too much of it!| Тележка Хёррдурра... но где [c_lime]Хёррдурр[c_reset]?
+ragnar_chain_2|Like I said, I was out with Hurrdurr last night... and I haven't heard from him since! My memories from last night are a bit foggy, you know. I hope nothing bad has happened to him. Last thing I remember from last night was partying it out with Hurrdurr at the Abandoned Mine. Maybe you could find some clues to his whereabouts over there?|О нет! Хёррдурр обожает эту шахтерскую тележку. Он в ней практически живёт. СТОП! Я вспомнил ещё кое-что... Да! Вчера вечером в Царстве Дэмиена мы попали в довольно странную ситуацию. Пожалуйста, посмотрите. Я так за него волнуюсь. Хёррдурр не совсем там
+ragnar_chain_2_complete|Hurrdurr's cart... but where is [c_lime]Hurrdurr[c_reset]?| Хррр...дурр. Тебя Рагнар послал спасти меня? Думаю, уже слишком поздно, мой друг. Все в порядке.
+ragnar_chain_3|Oh no! Hurrdurr loves that Mining Cart. He basically lives in it. WAIT! I remember something else... Yes! We got into a pretty funky situation last night at the Damien's Realm. Please check it out. I'm so worried about him. Hurrdurr is not all there, you know. Something really bad might have happened.| В Вальхаллу! [shake_letter][c_lime]Уииииииииииииииииииииии!
+ragnar_chain_3_complete|Hurr…durr. Did Ragnar send you to rescue me? I think it's too late my friend. It is allright, Hurrdurr dies to his wounds from a glorious battle and will be taking his place in Valhalla! I just hope I get to take my Mining Cart to the afterlife…| [shake_letter]ОТРЫЖКА
+ragnar_chain_3_complete_wee|To Valhalla! [shake_letter][c_lime]Weeeeeeeeeeeeeeeee!|
+ragnar_chain_inprogress|[shake_letter]BURP| Аки
+|| Рыбак
+aki_npc_name|Aki| Туманное утро.
+aki_npc_title|Fisherman| Это прочное удилище! Очень мило. Теперь мне нужна только леска и крючок!
+aki_chain_1|Misty morning, traveler. My name is Aki and I could use your help. I caught a HUGE tuna fish with my trysty rod, but the damn monster got away along with my fishing rod! I need you to collect some materials, so I can make a new, sturdier one! Bamboo should work, will you help me out? You are welcome to use my workbench over there| Для этой удочки нужна прочная леска и подходящий к ней крючок! В подземном саду должно быть несколько паутин, которые я могу использовать для создания лески. Однако крючок немного сложнее. Посмотрите на дно моря, чтобы увидеть, сможете ли вы найти что-нибудь полезное.
+aki_chain_1_complete|This is a sturdy rod! Very nice. Now I just need a fishing line and a hook!| Отлично сделано! С этой новой удочкой я отправлюсь на побережье Фудзи, чтобы провести второй раунд с чертовым тунцом! Встретимся там
+aki_chain_2|This fishing rod needs a sturdy line and a hook to match! Underground garden should have some spider webs that I can use to create the line. The hook however is a bit trickier. Look at the bottom of the seabed to see if you can locate anything useful.|Я увидел чертового тунца там, у волн! Я собираюсь закинуть наживку. Ты можешь мне помочь, если эта чертова штука будет сопротивляться?
+aki_chain_2_complete|Nicely done! With this new fishing rod I'll be heading to the Fuji Coast to have a round two with the damn tuna! Meet me there, will you?| Спасибо, что спасли меня! Теперь мне осталось только заправить этого тунца. Прямо как на Окинаве в 95-м... Воспоминания...
+aki_chain_3|I Sighted the damn tuna over there by the waves! I'm going to throw the bait. Can you help me out if the damn thing puts up a fight?|
+aki_chain_3_complete|Thank you for rescuing me! Now all that's left for me to do is to file this tuna. Just like in Okinawa back in '95... The memories...| [shake_letter]РЫБА
+|| [shake_letter]О![shake_reset] У меня есть живой!
+aki_chain_inprogress|[shake_letter]F I S H| [c_yellow]ОНО СЛИШКОМ СИЛЬНОЕ![shake_letter] ПОМОГИТЕ!
+aki_cutscene_bubble_1|[shake_letter]OH![shake_reset] I got a live one!|
+aki_cutscene_bubble_2|[c_yellow]IT'S TOO STRONG![shake_letter] HELP!| Лили
+|| Демон семени
+lily_npc_name|Lily| Вы находитесь далеко от дома.
+lily_npc_title|Semen Demon| Нашли? Хвала. Треть артефакта готова! Следующий может оказаться гораздо сложнее
+lily_chain_1|You are far away from home, lost soul! I am Lily. I want to break free of these depths, but I need your help in doing so. To break my curse, I will need a powerful artifact. The Eternal Chalice is the first part I need. If you help me, I will in return help you to slay the one you are here for.| Мне нужно, чтобы ты отправился в ТЮРЬМУ и забрал мне несколько потерянных душ, запертых там. После этого
+lily_chain_1_complete|You found it? Praise be. One third of the artifact is complete! This next one may prove much more difficult, but I'm confident you will prevail, should you keep on helping me.| Спасибо. Теперь помоги мне с ритуалом!
+lily_chain_2|I need you to head on to the PRISON and collect me some of the lost souls trapped in there. After that, I need you to go to Unmarked Graves and search them. There should be one that holds a seal of great power. After using the seal to bless the Eternal Chalice with the souls, bring it to me. And about the prisoners... don't worry about them, they are where they are for a reason.| Мне нужна твоя помощь, чтобы направить силу этого артефакта и снять проклятие! Прими мой последний квест, и я вознагражу тебя сверх твоих самых смелых верований!
+lily_chain_2_complete|Thank you. Now help me with the ritual!| Так
+lily_chain_3|I need your help to channel the power of this artifact and break the curse! Accept my final quest and I shall reward you beyond your wildest beliefs!| [c_red]Дело сделано... Дурак!
+lily_chain_3_complete|So, Lilith fooled you. But it was Lilith, who was foolish enough to think that a simple demonic ritual could make her strong enough to match your might. Praise be! Have a blessed day!| Бедная потерянная душа...
+lily_chain_transform_dialog|[c_red]The deed is done... You fool!|
+lily_chain_inprogress|Poor lost soul...| Мойра
+|| Астролог
+moira_npc_name|Moira|Привет
+moira_npc_title|Astrologist| Спасибо
+moira_chain_1|Hello, starchild! I am Moira, an astrologist! I see from your aura that you are a clear Taurus! Oh, you are not? I knew that. Of course you are not a Taurus. Anyway, I can see from your aura that you are a very capable warrior. Can you help me with a slight problem? My telescope is in Deep Space so I can look into the stars and see what secrets they have to tell! But the area is overrun by horrible monsters. If you slay the monsters lurking the area I'll pay you!| Чтобы поблагодарить вас
+moira_chain_1_complete|Thank you, starchild! That was very brave, are you sure you are not a Taurus? I'll be heading back to my telescope then!| О нет! Я, наверное, положил слишком много Звездной пыли в чай! Мне так жаль
+moira_chain_2|To thank you, I've prepared some Stardust Infused Tea for you! Have a sip and the whole Cosmos opens before your eyes! Don't be afraid, it's only slightly radioactive.| О нет! Я, наверное, положил слишком много Звездной пыли в чай! Мне так жаль
+moira_chain_2_complete|Oh no! I must have put too much Stardust into the tea! I'm so sorry, the stars told me to! You don't have long. There is an antidote for Stardust poisoning! Look for a Nebula Vial in the Distorted Horizons and consume it quickly!| Мне так жаль! Не могу поверить, что этот рецепт не сработал. Пожалуйста, примите мои извинения.
+moira_chain_3|Oh no! I must have put too much Stardust into the tea! I'm so sorry, the stars told me to! You don't have long. There is an antidote for Stardust poisoning! Look for a Nebula Vial in the Distorted Horizons and consume it quickly!| Мне так жаль! Не могу поверить, что этот рецепт не сработал. Пожалуйста, примите мои извинения.
+moira_chain_3_complete_good|I'm so sorry! I can't believe this recipe did not work. Please accept my apologies.| Мне очень жаль, что так вышло с чаем. Но звезды рассказали мне о другом рецепте! С этим рецептом я могу сделать чай, который [shake_letter]удвоит твою силу навсегда![shake_reset] И не волнуйся
+moira_chain_3_complete_bad|I'm so sorry! I can't believe this recipe did not work. Please accept my apologies.| Отличная работа
+moira_chain_4|I am so very sorry about that whole thing with the tea. But the stars told me about another recipe! With this recipe I can make a tea that will [shake_letter]double your strength forever![shake_reset] And don't you worry, Taurus. This time I will try it first to make sure it's not harmful! I just need a couple of ingredients from the Parallel Dimension.|
+moira_chain_4_complete|Well done, starchild. I finally got it! You must be a Capricorn! What? Not Capricorn either? I'll get there. This tea will allow me to see your aura more clearly. I'll have a taste test and then you can take the rest to get your [shake_letter]permanently tripled magic find![shake_reset]|
+|| Хорошего вам дня
+[guild master kranosh]|| Чем вы сейчас занимаетесь?
+kranosh_create_guild|Good day to you, [heroname]! My name is Kranosh, I'm keeping tabs of all the [c_yellow]Guilds[c_reset]. For a small amount of coin I can let you register your own guild, if you are interested of course.| Вы уже являетесь членом уважаемой гильдии [globalvar
+kranosh_guild_owner|What is your business now, [heroname]? Are you not happy with your [c_yellow]Guild[c_reset]?|
+kranosh_in_guild|You are already a member of the respectable guild [globalvar,guildName]! What is it?| Создать новую гильдию
+|| Изменить тег гильдии
+kranosh_option_create_guild|Create a new guild| Удалить гильдию
+kranosh_option_change_guild_tag|Change Guild Tag| Моя ошибка.
+kranosh_option_delete_guild|Delete Guild| Оставьте [globalvar
+kranosh_option_bye|My mistake, bye!| [heroname]! Подписывая эту бумагу, вы официально основываете новую гильдию!
+kranosh_option_leave_guild|Leave [globalvar,guildName]|
+guild_create_dialog|[heroname]! By signing this paper you are officially founding a new guild!|
+|| Олоф
+terasawa_1|Domo arigato mistah robato... DOMO!!!|
+terasawa_2|Sssshhh!|
+terasawa_3|Effo's out there somewhere, I'm sure of it.|
+terasawa_4|Walleye, Bass, Perch, Pike... I see them all!|
+terasawa_5|Leave me alone, I need to meet Effo at THE tree in a few.|
+terasawa_6|Ah! [heroname]… your kind knows nothing about fishing!|
+terasawa_7|You want my tips? Show me the money!|
+terasawa_8|"Effo told me a [heroname] would come to meet me, I was not expecting ""this""."|
+terasawa_9|You are too noisy.|
+terasawa_10|Stay quiet! it's near.|
+terasawa_11|30 years ago... let me tell you [heroname], there was much more fish and much bigger ones.|
+terasawa_12|I know your father.|
+terasawa_13|Don't ever call me bro. Ever.|
+terasawa_14|My back is suffering, but the bites are that good. Feels like the first time every time.|
+terasawa_15|Hmmmmppphhh.  Oh boy.  That's a big one, get the net ready.|
+||
+[Additional Side Quest NPCs]|| Охотник на пенсии
+olof_npc_name|Olof| Доброе утро
+olof_npc_title|Retired hunter| Глюг
+olof_chain_1|Good morning, adventurer! Or is it evening? I can hardly tell. I really need my medicine, but I dropped the vial somewhere at the Arctic Tundra. Please help me and find my medicine, will you? It must have slipped into one of those nasty icy cracks that are all over the place. [c_yellow]I really, REALLY need it![c_reset]| Ты уже нашел мое лекарство? Я уверен, что оно где-то в арктической тундре!
+olof_chain_1_complete|Glug, glug, glug... ah! This medicine is called the [c_aqua]Hair of the Dog[c_reset]. It really helps!| Не забывайте принимать лекарства ежедневно!
+olof_chain_1_pending|Did you find my medicine yet? I’m sure it’s somewhere in the Arctic Tundra!|
+olof_chain_all_complete|Remember to take your medicine daily!|
+||
+[Bosses]||
+dialog_luna|Hahahahahahahahahaha.. Thank you for bringing me to Vanaheim you fool! Odin was too weak but now I posses the eternal power of the cosmos. Its time to finish what I started and BANISH YOU INTO THE ETHER!|Хахахахахахахаха.. Спасибо, что привёл меня в Ванахейм, дурачок! Один был слишком слаб, но теперь я обладаю вечной силой космоса. Пришло время закончить то, что я начал, и ИЗГНАТЬ ТЕБЯ В ЭФИР! 
+||
+dialog_stabilizingTheRifts|Find and purge unstable rifts and we can expand your capacity of carrying essence vaults!|
+dialog_stabilizingTheRifts_end|That was quick, enjoy your expanded capacity!|
+dialog_essenceLockPicking|Obtain and open essence vaults and I will make sure to increase your capacity even more!|
+dialog_essenceLockPicking_end|Great tinkering! Your capacity to carry vaults is now significant!|
+dialog_vaultMaster|Craft essence vaults and open Tier A+ essence vaults and I will maximize your capacity!|
+dialog_vaultMaster_end|May the alfather bless your path!|

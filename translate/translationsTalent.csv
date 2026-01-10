@@ -1,0 +1,1528 @@
+|en|ru
+talent_name_basicMovement|Movement| Движение
+talent_desc_basicMovement|Move around without attacking.| Передвигайтесь, не атакуя.
+talent_name_basicAttack|Attack| Атака
+talent_desc_basicAttack|Basic Attack| Базовая атака
+||
+talent_name_weaponMaster|Weapon Master| Мастер Оружия
+talent_name_charge|Charge| Рывок
+talent_name_devastatingCharge|Devastating Charge| Разрушительный рывок
+talent_name_shieldMaster|Shield Master| Мастер Щита
+talent_name_stoneskin|Stoneskin| Каменная Кожа
+talent_name_norseResistance|Norse Resistance| Северное Сопротивление
+talent_name_defensiveShout|Defensive Shout| Защитный Крик
+talent_name_odinsFury|Odin's Fury| Ярость Одина
+talent_name_battleAgility|Battle Agility| Боевая Ловкость
+talent_name_combatOrders|Combat Orders| Боевые Приказы
+talent_name_seismicSlam|Seismic Slam| Сейсмический Удар
+talent_name_bruteForce|Brute Force| Грубая Сила
+talent_name_zeal|Zeal| Рвение
+talent_name_monsterThrow|Throw!| Бросок!
+talent_name_ymirsChampion|Ymir's Champion| Чемпион Имира
+talent_name_whirlwind|Whirlwind| Вихрь
+talent_name_shockwave|Shockwave| Ударная Волна
+talent_name_berserk|Berserk| Берсерк
+talent_name_demolishingWinds|Demolishing Winds| Разрушительные Ветры
+||
+talent_desc_weaponMaster|Increases your attack damage and attack rating when you are using weapons without a shield.| Увеличивает урон и рейтинг атаки при использовании оружия без щита.
+talent_desc_charge|Charge forward dealing arcane damage and stunning monsters on impact.| Рывок вперед, наносящий урон тайной магией и оглушающий монстров при ударе.
+talent_desc_devastatingCharge|When hitting monsters with Charge release a pulse dealing additional arcane damage and decreasing monster attack rating.| При ударе по монстрам с помощью Рывка высвобождается импульс, наносящий дополнительный урон от тайной магии и снижающий рейтинг атаки монстров.
+talent_desc_shieldMaster|Increases your attack damage and attack rating when using a Shield.| Увеличивает урон от атаки и рейтинг атаки при использовании щита.
+talent_desc_stoneskin|Increases your defense rating.| Повышает ваш рейтинг защиты.
+talent_desc_norseResistance|Increases all of your resistances.| Увеличивает все ваши сопротивления.
+talent_desc_defensiveShout|Powerful warcry which buffs your and your party members defense rating.| Мощный боевой клич, который повышает ваш рейтинг защиты и рейтинг защиты членов вашей группы.
+talent_desc_odinsFury|Powerful warcry which deals arcane damage and stuns monsters around you.| Мощный боевой клич, наносящий урон тайной магией и оглушающий монстров вокруг вас.
+talent_desc_battleAgility|Increases your movement speed.| Увеличивает скорость передвижения.
+talent_desc_combatOrders|Powerful warcry which buffs your and your party members maximum life and mana.| Мощный боевой клич, увеличивающий максимальный запас здоровья и маны у вас и членов вашей группы.
+talent_desc_seismicSlam|Smash monsters in front of you dealing damage and knocking them up and stunning them.| Крушите монстров перед собой, нанося им урон, подбрасывая их в воздух и оглушая.
+talent_desc_bruteForce|Increases your chance of critical strike and critical strike damage.| Увеличивает вероятность критического удара и урон от критического удара.
+talent_desc_zeal|Strike three fast and powerful attacks with increased attack rating.| Нанесите три быстрых и мощных удара с повышенным рейтингом атаки.
+talent_desc_monsterThrow|Pick up and throw a monster which deals area of effect arcane damage and stuns monsters upon landing.| Подберите и бросьте монстра, который наносит урон тайной магией по области и оглушает монстров при приземлении.
+talent_desc_ymirsChampion|Perform a cold enhanced strike with additive cold damage, Increased attack damage and attack rating. Attacks also freeze monsters and summons a spinning axe that deals additional damage.| Наносит усиленный холодом удар с дополнительным уроном от холода, повышенным уроном и рейтингом атаки. Атаки также замораживают монстров и призывают вращающийся топор, наносящий дополнительный урон.
+talent_desc_whirlwind|Spin your weapons around you dealing damage to monsters struck.| Вращайте свое оружие вокруг себя, нанося урон пораженным монстрам.
+talent_desc_shockwave|Smash the ground causing a shockwave that deals area of effect damage and stuns monsters. | Ударьте по земле, вызвав ударную волну, которая наносит урон по области и оглушает монстров.
+talent_desc_berserk|Every successful hit with berserk increases your attack damage, attack speed and movement speed for berserk stacking up to 8 times.| Каждый успешный удар берсерка увеличивает урон от атаки, скорость атаки и скорость передвижения. Эффект суммируется до 8 раз.
+talent_desc_demolishingWinds|Whirlwind now unleashes tornadoes dealing portion of the Whirlwinds damage to monsters struck.| Вихрь теперь выпускает торнадо, нанося часть урона от Вихря пораженным монстрам.
+||
+talent_name_blazingTrail|Blazing Trail| Пылающий След
+talent_name_fireEnchant|Fire Enchant| Огненные Чары
+talent_name_phoenixFlight|Phoenix Flight| Полет Феникса
+talent_name_infernoSlash|Inferno Slash| Инферно
+talent_name_ignite|Ignite| Воспламенение
+talent_name_fireShield|Fire Shield| Огненный Щит
+talent_name_searingChains|Searing Chains| Жгучие Цепи
+talent_name_livingBomb|Living Bomb| Живая Бомба
+talent_name_fieryPresence|Fiery Presence| Огненное Присутствие
+talent_name_avatarOfFire|Avatar of Fire| Аватар Огня
+talent_name_fireBall|Fireball| Огненный Шар
+talent_name_breathOfFire|Breath of Fire| Дыхание Огня
+talent_name_meteor|Meteor| Метеор
+talent_name_scorchingAura|Scorching Aura| Обжигающая Аура
+talent_name_hydra|Hydra| Гидра
+talent_name_comet|Comet| Комета
+talent_name_fireNova|Fire Nova| Огненная Нова
+talent_name_volcano|Volcano| Вулкан
+talent_name_armageddon|Armageddon| Армагеддон
+||
+talent_desc_blazingTrail|Leave behind a trail of fire dealing fire damage to monsters.| Оставляет за собой огненный след, наносящий урон монстрам.
+talent_desc_fireEnchant|Enchant your attacks with additive fire damage inflicting burning on monsters. Your spells also apply a stack of Ignite. | Зачаруйте свои атаки дополнительным огненным уроном, вызывающим горение у монстров. Ваши заклинания также накладывают эффект воспламенения.
+talent_desc_phoenixFlight|Charge forward through the air dealing area of effect fire damage when landing.| Прорывайтесь вперед по воздуху, нанося урон огнем по области при приземлении.
+talent_desc_infernoSlash|Send forward a fire enchanted cleave attack dealing increased damage and additional fire damage.| Отправьте вперед огненную зачарованную атаку рассекающим ударом, наносящую увеличенный урон и дополнительный урон от огня.
+talent_desc_ignite|All fire enchanted attacks add a stack of ignite on the monster, causing them to combust at 10 stacks dealing area of effect fire damage.| Все атаки, зачарованные огнем, накладывают на монстра заряд воспламенения. При накоплении 10 зарядов монстр взрывается, нанося урон огнем по области.
+talent_desc_fireShield|Cast a shield of fire that increases your damage reduction and deals fire damage to monsters around you. | Создайте огненный щит, который увеличивает поглощение урона и наносит урон от огня окружающим вас монстрам.
+talent_desc_searingChains|When striking a monster unleash a powerful chain attack dealing increased damage, additional fire damage and stunning monsters struck.| При ударе по монстру вызывает мощную цепную атаку, наносящую повышенный урон, дополнительный урон огнем и оглушающую пораженных монстров.
+talent_desc_livingBomb|Throw a molten bomb which explodes and sticks a ticking bomb on the monsters dealing damage over time and finally exploding. monsters within explosion radius also get the debuff.| Бросьте расплавленную бомбу, которая взрывается и прикрепляет к монстрам тикающую бомбу, наносящую урон с течением времени и в конце взрывающуюся. Монстры в радиусе взрыва также получают дебафф.
+talent_desc_fieryPresence|Increases your fire skill damage.| Увеличивает урон от вашего навыка огня.
+talent_desc_avatarOfFire|Temporarily turns you into an avatar of fire; Increasing your attack speed, fire resistance and attack rating.| Временно превращает вас в аватар огня, увеличивая скорость атаки, сопротивление огню и рейтинг атаки.
+talent_desc_fireBall|Cast a fireball dealing fire damage to monsters.| Выпускает огненный шар, наносящий урон монстрам.
+talent_desc_breathOfFire|Breathe burning flames dealing fire damage and inflicting burning on hit.| Выдыхает пылающее пламя, наносящее урон от огня и вызывающее горение при попадании.
+talent_desc_meteor|Cast a powerful meteor forwards dealing area of effect fire damage on impact.| Бросает вперед мощный метеор, наносящий урон огнем по области при ударе.
+talent_desc_scorchingAura|Scorch monsters around you dealing fire damage.| Поджигайте монстров вокруг себя, нанося урон огнем.
+talent_desc_hydra|Spawn a fiery hydra that shoots fireballs with area of effect fire damage towards the closest monster.| Создайте огненную гидру, которая стреляет огненными шарами, наносящими урон по области действия, в ближайшего монстра.
+talent_desc_comet|Call down a huge comet exploding on impact dealing area of effect fire damage.| Вызовите огромную комету, которая при ударе взрывается и наносит урон огнем по области.
+talent_desc_fireNova|Cast a nova of fire around you dealing fire damage.| Создайте вокруг себя огненную звезду, нанося урон от огня.
+talent_desc_volcano|Spawn a molten volcano that deals fire damage around it and spews out burning rocks that explode on hit.| Создайте расплавленный вулкан, который наносит урон огнем вокруг себя и извергает горящие камни, взрывающиеся при попадании.
+talent_desc_armageddon|Call down a rain of meteors from the sky dealing area of effect fire damage to monsters struck.| Вызовите с неба дождь из метеоров, наносящих урон огнем по области пораженным монстрам.
+||
+talent_name_trickShot|Trickshot| Выстрел с Подвохом
+talent_name_vault|Vault| Прыжок
+talent_name_multishot|Multishot| Мультивыстрел
+talent_name_arrowRampage|Arrow Rampage| Буйство Стрел
+talent_name_arrowRain|Arrow Rain| Ливень Стрел
+talent_name_homingMissile|Homing Missile| Самонаводящийся Снаряд
+talent_name_agility|Agility| Ловкость
+talent_name_criticalAccuracy|Critical Accuracy| Критическая Точность
+talent_name_volatileShot|Volatile Shot| Разрывной Выстрел
+talent_name_fragGrenade|Frag Grenade| Осколочная Граната
+talent_name_arrowTurret|Arrow Turret| Стрелковая Турель
+talent_name_landMine|Landmine| Мина
+talent_name_beacon|B.E.A.C.O.N.| МАЯК
+talent_name_masterMechanic|Master Mechanic| Главный Механик
+talent_name_turretMastery|Turret Mastery| Мастерство Турелей
+talent_name_cannonTurret|Cannon Turret| Пушечная Турель
+talent_name_rocketTurret|Rocket Turret| Ракетная Турель
+talent_name_gunnerDrone|Gunner Drone| Дрон-Стрелок
+||
+talent_desc_trickShot|Shoot an arrow with increased attack rating that bounces from monster to monster dealing increased attack damage.| Выпускает стрелу с повышенным рейтингом атаки, которая отскакивает от монстра к монстру, нанося повышенный урон от атаки.
+talent_desc_vault|Vault in the direction aimed unleashing arrows towards nearby monsters dealing increased damage.| Прыжок в указанном направлении, выпуская стрелы в ближайших монстров, нанося повышенный урон.
+talent_desc_multishot|Fire multiple arrows in an arc dealing increased damage.| Выпускает несколько стрел по дуге, нанося повышенный урон.
+talent_desc_arrowRampage|Unleash a swarm of arrows towards the direction aimed dealing arcane and physical damage.| Выпустите рой стрел в указанном направлении, нанося магический и физический урон.
+talent_desc_arrowRain|Unleash a rain of arrows from the sky dealing increased damage.| Обрушьте на врага град стрел, наносящих повышенный урон.
+talent_desc_homingMissile|Launch a barrage of homing missiles which seeks down its target dealing area of effect arcane and physical damage.| Запустите залп самонаводящихся ракет, которые находят цель и наносят урон по области магией и физическим уроном.
+talent_desc_agility|Temporarily increases your movement speed and attack speed.| Временно увеличивает скорость передвижения и скорость атаки.
+talent_desc_criticalAccuracy|Increases your attack rating and critical strike damage.| Увеличивает рейтинг атаки и критический урон.
+talent_desc_volatileShot|Fire a colossal arrow exploding on hit dealing area of effect damage.|Выпускает колоссальную стрелу, которая взрывается при попадании, нанося урон по области.
+talent_desc_fragGrenade|Throw a frag grenade dealing area of effect arcane damage launching shrapnel around.| Бросьте осколочную гранату, наносящую урон тайной магией по области и разбрасывающую осколки.
+talent_desc_arrowTurret|Build an arrow turret that shoots arrows at the closest monster dealing arcane damage.| Постройте башню, которая стреляет стрелами в ближайшего монстра, нанося урон тайной магией.
+talent_desc_landMine|Lay down a landmine at the target location exploding shortly after detecting a nearby monster dealing arcane damage.| Установите мину в указанном месте, которая взорвется вскоре после обнаружения поблизости монстра, наносящего урон тайной магией.
+talent_desc_beacon|Build a beacon that increases nearby allies arcane skill damage and mana replenish.| Постройте маяк, который увеличит урон от тайных умений и восполнение маны у ближайших союзников.
+talent_desc_masterMechanic|Temporarily increase the attack speed and arcane damage of all your turrets and drones!| Временно увеличьте скорость атаки и урон от тайной магии всех ваших турелей и дронов!
+talent_desc_turretMastery|Increase arcane damage and attack speed of all turrets and drones.| Увеличьте урон от тайной магии и скорость атаки всех турелей и дронов.
+talent_desc_cannonTurret|Build a cannon turret that launches cannonballs towards the nearest monster that explode into shrapnel, dealing area of effect arcane damage.| Строит пушечную турель, которая запускает ядра в ближайшего монстра; ядра взрываются осколками, нанося чародейский урон по области.
+talent_desc_rocketTurret|Build a rocket turret that shoots rockets towards the nearest monster dealing area of effect arcane damage.| Постройте ракетную башню, которая стреляет ракетами в ближайшего монстра, нанося урон тайной магией по области действия.
+talent_desc_gunnerDrone|Build a gunner drone which follows you and shoots bullets that bounce from monster to monster dealing arcane damage.| Создайте дрон-стрелок, который будет следовать за вами и стрелять пулями, которые отскакивают от монстра к монстру, нанося урон тайной магией.
+||
+talent_name_explosiveBarrel|Explosive Barrel| Бочка со Взрывчаткой
+talent_name_buckshot|Buckshot| Картечь
+talent_name_bombBarrage|Bomb Barrage| Заградительный Огонь
+talent_name_cannonball|Cannonball| Пушечное Ядро
+talent_name_grenado|Grenade Jump| Прыжок с Гранатой
+talent_name_powderTrail|Powder Trail| Пороховой След
+talent_name_explosiveBullet|Explosive Bullets| Разрывные Пули
+talent_name_kneeCap|Kneecap| Коленная Чашечка
+talent_name_rapidFire|Rapid Fire| Беглый Огонь
+talent_name_freezeChainShot|Freezing Chain Shot| Замораживающий Цепной Выстрел
+talent_name_torrent|Torrent| Поток
+talent_name_setSail|Set Sail| Поднять Паруса
+talent_name_parrot|Parrot| Попугай
+talent_name_anchorSwing|Anchor Swing| Взмах Якорем
+talent_name_remiges|Remiges| Маховые Перья
+talent_name_frozenLead|Frozen Lead| Замороженный Свинец
+talent_name_treasureHunter|Treasure Hunter| Охотник за Сокровищами
+talent_name_landAhoy|Land Ahoy!| Земля на Горизонте!
+||
+talent_desc_explosiveBarrel|Spawn a barrel of explosives which detonates after some time or when shot with a projectile dealing fire damage.| Создает бочку со взрывчаткой, которая детонирует через некоторое время или при попадании в нее снаряда, наносящего урон огнем.
+talent_desc_buckshot|Quick draw your musket and release a ranged buckshot with increased damage and additional fire damage.| Быстро выхватите мушкет и выстрелите картечью с увеличенным уроном и дополнительным уроном от огня.
+talent_desc_bombBarrage|Start rapidly firing cannonballs dealing area of effect fire damage.| Начните быстро стрелять ядрами, нанося урон огнем по области.
+talent_desc_cannonball|Shoot a cannonball that launches in the air on hit and deals area of effect damage when landing.| Выстрелите пушечным ядром, которое при попадании подпрыгивает в воздух и наносит урон по области при приземлении.
+talent_desc_grenado|Blast yourself into the air leaving a cluster of grenades behind dealing fire damage.| Поднимитесь в воздух, оставив за собой гроздь гранат, наносящих урон огнем.
+talent_desc_powderTrail|Throw a keg of gunpowder causing a chain of explosions dealing fire damage.| Бросьте бочку с порохом, вызвав цепочку взрывов, наносящих урон от огня.
+talent_desc_explosiveBullet|Striking a monster leaves a charge in them that detonates after a short delay dealing area of effect fire damage. If you have Explosive Barrel skilled, attacking has a chance to spawn barrels in a line around the target exploding shortly after.| Удар по монстру оставляет в нем заряд, который детонирует после короткой задержки, нанося урон огнем по области. Если изучен навык «Бочка со взрывчаткой», атаки могут призвать бочки в ряд вокруг цели, которые вскоре взорвутся.
+talent_desc_kneeCap|Increases your attack rating and chance for critical strike.| Увеличивает ваш рейтинг атаки и шанс нанести критический удар.
+talent_desc_rapidFire|Temporarily increase your attack speed and attack rating.| Временно увеличьте скорость атаки и рейтинг атаки.
+talent_desc_freezeChainShot|Shoot a piercing chain shot that freezes and deals cold damage to monsters struck.| Выстрел пронзительной цепью, которая замораживает и наносит урон холодом пораженным монстрам.
+talent_desc_torrent|Summon a pool of corrupted water on target location bursting into a massive torrent that knocks up monsters struck dealing cold damage.| Призывает в указанном месте бассейн с зараженной водой, который превращается в мощный поток, подбрасывающий пораженных монстров и наносящий урон холодом.
+talent_desc_setSail|Temporarily increases your cold skill damage and mana replenish.       | Временно увеличивает урон от холодных умений и восполнение маны.
+talent_desc_parrot|Summon a parrot to peck your monsters dealing cold damage.| Призовите попугая, который будет клевать ваших монстров, нанося урон холодом.
+talent_desc_anchorSwing|Unleash a massive anchor swinging around you dealing cold damage.| Выпустите огромный якорь, вращающийся вокруг вас и наносящий урон холодом.
+talent_desc_remiges|Increases your parrots cold damage and attack speed.       | Увеличивает урон от холода и скорость атаки ваших попугаев.
+talent_desc_frozenLead|Use specially hand crafted frozen lead to increase your cold skill damage.| Используйте специально изготовленный вручную замороженный свинец, чтобы увеличить урон от холодного умения.
+talent_desc_treasureHunter|Search for a treasure from the corpses of dead monsters with additional magic find.       | Ищите сокровища среди трупов убитых монстров с помощью дополнительных магических находок.
+talent_desc_landAhoy|Call for the main ship to bombard the targeted area dealing area of effect cold damage.       | Призвать главный корабль к бомбардировке выбранной области, нанося урон холодом по области.
+||
+talent_name_sandCarver|Sand Carver| Резчик по Песку
+talent_name_cloudOfSand|Cloud of Sand| Облако Песка
+talent_name_sandGush|Sand Gush| Песчаный Поток
+talent_name_sandEntombment|Sand Entombment| Захоронение в Песке
+talent_name_oasisAura|Oasis Aura| Аура Оазиса
+talent_name_sandTremors|Sand Tremors| Песчаные Толчки
+talent_name_mysticSand|Mystic Sand| Мистический Песок
+talent_name_dissipatingTornado|Dissipating Tornado| Рассеивающийся Торнадо
+talent_name_sandVortex|Sand Vortex| Песчаный Вихрь
+talent_name_bladeStrike|Blade Strike| Удар Клинком
+talent_name_scimitarCharge|Scimitar Charge| Рывок с Ятаганом
+talent_name_eyeOfRa|Eye of Ra| Глаз Ра
+talent_name_sunRay|Healing Sunrays| Целебные Солнечные Лучи
+talent_name_flyingScimitar|Flying Scimitar| Летающий Ятаган
+talent_name_rupture|Rupture| Разрыв
+talent_name_chainSlice|Chainslice| Цепной Разрез
+talent_name_phantomBlade|Phantom Blade| Фантомный Клинок
+talent_name_hemorrhage|Hemorrhage| Кровотечение
+||
+talent_desc_sandCarver|Perform an attack that flings sand at monsters with increased damage and attack rating.| Выполните атаку, которая швыряет песок в монстров с увеличенным уроном и рейтингом атаки.
+talent_desc_cloudOfSand|Unleash a cloud of sand that travels forwards dealing arcane damage, by casting the skill again Nomad will re-locate on the sand clouds position dealing area of effect arcane damage and stunning nearby monsters.| Выпускает облако песка, которое движется вперед, нанося чародейский урон. При повторном использовании Кочевник перемещается к облаку, нанося чародейский урон по области и оглушая ближайших монстров.
+talent_desc_sandGush|Unleash a gush of sand that spawns tornadoes dealing arcane damage.| Выпускает поток песка, создающий торнадо, которые наносят чародейский урон.
+talent_desc_sandEntombment|Chance on kill to unleash a pulse of sand dealing arcane area of effect damage.| При убийстве есть шанс высвободить импульс песка, наносящий чародейский урон по области.
+talent_desc_oasisAura|When active, increases your and your party members attack rating and movement speed.| Когда активна, увеличивает рейтинг атаки и скорость передвижения вам и членам вашей группы.
+talent_desc_sandTremors|Strike a target causing sand tremors to hit nearby monsters dealing increased damage and attack rating.| Ударяет цель, вызывая сотрясение песка, которое поражает ближайших монстров, нанося им повышенный урон и рейтинг атаки.
+talent_desc_mysticSand|Increases your arcane skill damage and cast rate.| Увеличивает урон и скорость колдовства чародейских навыков.
+talent_desc_dissipatingTornado|Summon a dissipating tornado around you that pulls nearby monsters and causes you to dodge all attacks and unleash sand at monsters when they strike you dealing arcane damage.| Призывает вокруг вас рассеивающийся торнадо, который притягивает ближайших монстров, позволяет уклоняться от всех атак и обрушивает на монстров песок при их атаке, нанося чародейский урон.
+talent_desc_sandVortex|Summon a massive vortex of quick sand that pulls monsters inside dealing arcane damage.| Призывает огромный вихрь зыбучего песка, который затягивает монстров внутрь, нанося чародейский урон.
+talent_desc_bladeStrike|Perform a cleave attack with increased chance for critical strike, critical strike damage and attack rating.| Выполняет атаку с рассечением, повышенным шансом критического удара, уроном от критического удара и рейтингом атаки.
+talent_desc_scimitarCharge|Charge a short distance unleashing scimitar strike around you dealing increased damage to monsters struck.| Совершает рывок на короткое расстояние, нанося удар ятаганом вокруг себя и нанося увеличенный урон пораженным монстрам.
+talent_desc_eyeOfRa|Perform a light enchanted attack bringing rays of sun down to nearby monsters dealing increased damage.| Выполняет атаку, усиленную светом, обрушивая на ближайших монстров солнечные лучи и нанося им повышенный урон.
+talent_desc_sunRay|Increases your life stolen per hit.| Увеличивает похищение жизни за удар.
+talent_desc_flyingScimitar|Throw a huge piercing scimitar dealing increased damage to monsters in its path which returns back to you after a short delay.| Бросает огромный пронзающий ятаган, наносящий повышенный урон монстрам на своем пути и возвращающийся к вам через некоторое время.
+talent_desc_rupture|Perform a rupturing area of effect attack inflicting bleed to targets on hit.| Проводит разрушительную атаку по области, вызывая кровотечение у пораженных целей.
+talent_desc_chainSlice|Perform an enhanced attack that causes a sharp blade to chain between nearby monsters dealing damage.| Выполняет усиленную атаку, при которой острое лезвие перескакивает между ближайшими монстрами, нанося урон.
+talent_desc_phantomBlade|Spawn a ghostly blade that attacks nearby monsters dealing increased damage and additional arcane damage.| Создает призрачный клинок, который атакует ближайших монстров, нанося повышенный урон и дополнительный чародейский урон.
+talent_desc_hemorrhage|Rupture inflicts armor break on all bleeding targets.| «Разрыв» вызывает пробитие брони у всех целей с кровотечением.
+||
+talent_name_moonshineMolotov|Moonshine Molotov| Самогонный Коктейль
+talent_name_pipeBombs|Pipe Bombs| Самодельные Бомбы
+talent_name_oilSpill|Oil Spill| Разлив Масла
+talent_name_tireFire|Tire Fire| Пожар в Шинах
+talent_name_spontaneousCombustion|Spontaneous Combustion| Самовозгорание
+talent_name_hillbillyRage|Hillbilly Rage| Ярость Деревенщины
+talent_name_moonshineMadness|Moonshine Madness| Безумие Лунного Света
+talent_name_combustibleOil|Combustible Oil| Горючее Масло
+talent_name_pickupRaid|Pickup Raid| Налет на Пикапе
+talent_name_chainsawSlash|Chainsaw Slash| Удар Бензопилой
+talent_name_durableWear|Durable Wear| Прочная Одежда
+talent_name_chainsawMassacre|Chainsaw Massacre| Резня Бензопилой
+talent_name_chainsawMastery|Chainsaw Mastery| Мастерство Бензопилы
+talent_name_revvedUp|Revved Up| На Полных Оборотах
+talent_name_experiencedLogger|Experienced Logger| Опытный Лесоруб
+talent_name_loggersEndurance|Logger’s Endurance| Выносливость Лесоруба
+talent_name_rogueChainsaw|Rogue Chainsaw| Безумная Бензопила
+talent_name_treeTrunkTriumph|Tree Trunk Triumph| Триумф Ствола Дерева
+||
+talent_desc_moonshineMolotov|Throw a bottle of moonshine that ignites the impacted area on fire and sends out burning oil.| Бросьте бутылку самогона, который подожжет пораженный участок и выпустит горящее масло.
+talent_desc_pipeBombs|Throw a barrage of handcrafted pipe bombs dealing area of effect fire damage.| Бросьте шквал самодельных бомб, наносящих урон огнем по области.
+talent_desc_oilSpill|Spill oil on the ground slowing and lowering monster attack rating. Oil also ignites into flames when coming in contact with Moonshine Molotov dealing additional burning damage.| Проливая масло на землю, вы замедляете и снижаете рейтинг атаки монстров. Масло также воспламеняется при контакте с коктейлем Молотова «Лунный свет», нанося дополнительный урон от горения.
+talent_desc_tireFire|Throw a truck tire that deals fire damage on hit.| Бросьте грузовую шину, которая при попадании наносит урон огнем.
+talent_desc_spontaneousCombustion|When igniting oil in flames, also make the monsters combust dealing area of effect fire damage around them.| При возгорании масла также заставляет монстров взрываться, нанося урон огнем по области вокруг них.
+talent_desc_hillbillyRage|Temporarily increases your fire skill damage.| Временно увеличивает урон от ваших огненных навыков.
+talent_desc_moonshineMadness|Increases your attack rating and movement speed.| Увеличивает ваш рейтинг атаки и скорость передвижения.
+talent_desc_combustibleOil|Increases your fire skill damage.| Увеличивает урон от ваших огненных навыков.
+talent_desc_pickupRaid|Call your hillbilly friends to siege your opponents in a pickup truck dealing fire damage.| Призывает ваших друзей-деревенщин, которые атакуют противников на пикапе, нанося урон огнем.
+talent_desc_chainsawSlash|Perform an area of effect attack attaching a spinning chainsaw on monsters for a short period of time.| Выполняет атаку по области, прикрепляя вращающуюся бензопилу к монстрам на короткое время.
+talent_desc_durableWear|Increases your defense rating.| Повышает ваш рейтинг защиты.
+talent_desc_chainsawMassacre|Violently spin your chainsaw dealing damage to monsters around you. Going the full distance unleashes a whirl attack with increased damage and area of effect.| Яростно вращает бензопилу, нанося урон монстрам вокруг вас. При прохождении полной дистанции совершает вихревую атаку с увеличенным уроном и областью действия.
+talent_desc_chainsawMastery|Increases your damage and attack rating when using a chainsaw.| Увеличивает урон и рейтинг атаки при использовании бензопилы.
+talent_desc_revvedUp|Temporarily increases your attack speed and damage.| Временно увеличивает вашу скорость атаки и урон.
+talent_desc_experiencedLogger|Increases your chance for critical strike and critical strike damage.| Увеличивает шанс критического удара и урон от критического удара.
+talent_desc_loggersEndurance|Increases your life and life replenish.| Увеличивает ваш запас здоровья и его восполнение.
+talent_desc_rogueChainsaw|Throw a chainsaw on the ground spinning and dealing increased damage and additional arcane damage to monsters struck.| Бросает бензопилу на землю; она вращается, нанося увеличенный урон и дополнительный чародейский урон пораженным монстрам.
+talent_desc_treeTrunkTriumph|Summon a massive tree and cut it down on nearby monsters dealing increased damage and additional arcane damage.| Призывает огромное дерево и обрушивает его на ближайших монстров, нанося повышенный урон и дополнительный чародейский урон.
+||
+talent_name_boneShred|Bone Shred| Костяные Осколки
+talent_name_meatShield|Meat Shield| Мясной Щит
+talent_name_meatBomb|Meat Bomb| Мясная Бомба
+talent_name_poisonBreath|Poison Breath|Ядовитое Дыхание
+talent_name_boneSpear|Bone Spear| Костяное Копье
+talent_name_cursedGround|Cursed Ground| Проклятая Земля
+talent_name_boneSpirit|Bone Spirit| Костяной Дух
+talent_name_poisonNova|Poison Nova| Ядовитая Нова
+talent_name_corpseExplosion|Corpse Explosion| Взрыв Трупа
+talent_name_raiseSkeletonWarrior|Raise Skeleton| Призыв Скелета-Воина
+talent_name_skeletonMastery|Summon Mastery| Мастерство Призыва
+talent_name_amplifyDamage|Amplify damage| Усиление Урона
+talent_name_raiseSkeletonMage|Raise Skeleton Mage| Призыв Скелета-Мага
+talent_name_lifeTap|Life Tap| Жизнеотвод
+talent_name_summonFrenzy|Summon Frenzy| Ярость Прислужников
+talent_name_summonDamnedLegion|Summon Damned Legion| Призыв Проклятого Легиона
+talent_name_summonResistances|Summon Resistances| Сопротивление Прислужников
+talent_name_summonVengefulSpirit|Summon Vengeful Spirit| Призыв Мстительного Духа
+talent_name_recallSummons|Recall Summons| Отозвать Прислужников
+||
+talent_desc_boneShred|Unleash bone fragments dealing arcane damage to monsters.| Высвобождайте фрагменты костей, нанося монстрам урон тайной магией.
+talent_desc_meatShield|Cast a meat shield reducing physical damage taken.| Создает мясной щит, уменьшающий получаемый физический урон.
+talent_desc_meatBomb|Throw a huge lump of meat that explodes on impact dealing arcane damage and leaving corpse on the ground.| Бросьте огромный кусок мяса, который взрывается при ударе, нанося урон тайной магией и оставляя труп на земле.
+talent_desc_poisonBreath|Unleash a rotten breath of toxins dealing poison damage.| Выпустите гнилое дыхание токсинов, наносящее ядовитый урон.
+talent_desc_boneSpear|Launch a piercing bone spear dealing arcane damage.| Запустить пронзительное костяное копье, наносящее урон тайной магией.
+talent_desc_cursedGround|Corrupt the ground in the target area inflicting poison break on monsters affected area.| Оскверняет землю в указанной области, снижая сопротивление яду у находящихся там монстров.
+talent_desc_boneSpirit|Spawn a bone spirit which seeks out the nearest monster and explodes on impact dealing area of effect arcane damage.| Создает костяного духа, который ищет ближайшего монстра и взрывается при ударе, нанося чародейский урон по области.
+talent_desc_poisonNova|Unleash a toxic poison nova dealing poison damage and inflicting Poisoned on all monsters hit.| Выпускает ядовитую нову, нанося урон ядом и отравляя всех пораженных монстров.
+talent_desc_corpseExplosion|Cause all corpses in target area to explode and deal area of effect arcane damage.| Заставляет все трупы в указанной области взорваться, нанося чародейский урон по области.
+talent_desc_raiseSkeletonWarrior|Raise a skeleton warrior from target corpse to fight on your side.| Поднимает из трупа скелета-воина, который будет сражаться на вашей стороне.
+talent_desc_skeletonMastery|Increases the life and arcane damage of all your summons.| Увеличивает запас здоровья и чародейский урон всех ваших прислужников.
+talent_desc_amplifyDamage|Curse monsters in the target area decreasing their damage dealt and inflicting arcane break.| Проклинает монстров в указанной области, уменьшая наносимый ими урон и накладывая эффект чародейского прорыва.
+talent_desc_raiseSkeletonMage|Raise a skeleton mage from target corpse to fight on your side.| Поднимает из трупа скелета-мага, который будет сражаться на вашей стороне.
+talent_desc_lifeTap|Curse monsters in the target area increasing any attackers life steal when striking the target.| Проклинает монстров в указанной области, увеличивая похищение жизни у любого атакующего при ударе по цели.
+talent_desc_summonFrenzy|Temporarily enrage your summons increasing their attack speed and movement speed.| Временно приводит в ярость ваших прислужников, увеличивая их скорость атаки и передвижения.
+talent_desc_summonDamnedLegion|Summon a damned legion to fight on your side.| Призывает проклятый легион, который будет сражаться на вашей стороне.
+talent_desc_summonResistances|Increases all resistances and physical damage reduction of your summons.| Увеличивает все сопротивления и снижение физического урона ваших прислужников.
+talent_desc_summonVengefulSpirit|Summon a vengeful spirit to fight on your side.| Призывает мстительного духа, который будет сражаться на вашей стороне.
+talent_desc_recallSummons|Recalls all your summons.| Отзывает всех ваших прислужников.
+||
+talent_name_quickSlash|Quickslash| Быстрый Удар
+talent_name_battleGlance|Battle Glance| Боевой Взгляд
+talent_name_evasion|Evasion| Уклонение
+talent_name_smokeBomb|Smoke Bomb| Дымовая Шашка
+talent_name_shurikenThrow|Shuriken Throw| Бросок Сюрикена
+talent_name_warriorsSpirit|Warrior’s Spirit| Дух Воина
+talent_name_bushido|Bushido| Бусидо
+talent_name_explosiveKunai|Explosive Kunai| Взрывной Кунай
+talent_name_liveByTheSword|Live by the Sword| Жизнь Мечом
+talent_name_fanOfKnives|Fan of Knives| Веер Ножей
+talent_name_bladeBarrier|Blade Barrier| Барьер Клинков
+talent_name_omnislash|Omnislash| Омнислэш
+talent_name_explodingBolas|Exploding Bolas| Взрывающиеся Боласы
+talent_name_wayOfTheWarrior|Way of the Warrior| Путь Воина
+talent_name_forHonor|For Honor| За Честь
+talent_name_shadowStep|Shadow Step| Шаг Тени
+talent_name_burstOfSpeed|Burst of Speed| Всплеск Скорости
+talent_name_empiresSlash|Empire’s Slash| Имперский Разрез
+||
+talent_desc_quickSlash|Perform a quick dash unleashing area of effect slash dealing increased physical damage and knocking up monsters.| Совершите быстрый рывок, вызвав удар по области, наносящий повышенный физический урон и подбрасывающий монстров.
+talent_desc_battleGlance|Perform an area of effect attack with increased damage and attack rating.| Выполнить атаку по области с повышенным уроном и рейтингом атаки.
+talent_desc_evasion|Gain a chance to evade melee and ranged attacks.| Получите шанс уклониться от атак ближнего и дальнего боя.
+talent_desc_smokeBomb|Explode a smoke bomb dealing arcane damage.| Взорвите дымовую шашку, нанося урон тайной магией.
+talent_desc_shurikenThrow|Throw three piercing Shurikens at your target dealing increased damage.| Бросьте в цель три пронзающих сюрикена, нанося повышенный урон.
+talent_desc_warriorsSpirit|Increases your attack speed.| Увеличивает скорость атаки.
+talent_desc_bushido|Activate to gain a buff that increases your attack damage for every 10% of missing Life.| Активируйте, чтобы получить бафф, увеличивающий урон от атак за каждые 10% недостающей Жизни.
+talent_desc_explosiveKunai|Throw an explosive kunai that explodes on impact dealing area of effect arcane damage.| Бросьте взрывной кунай, который взрывается при ударе, нанося урон тайной магией по области действия.
+talent_desc_liveByTheSword|Temporarily increases your attack speed and movement speed.| Временно увеличивает скорость атаки и скорость передвижения.
+talent_desc_fanOfKnives|Attacks have a chance to throw knives around you dealing damage to nearby monsters. Additionally the knives have a chance to ricochet to nearby monsters.| Атаки могут вызвать бросок ножей вокруг вас, наносящих урон ближайшим монстрам. Ножи также могут рикошетить в другие цели.
+talent_desc_bladeBarrier|Summon a barrier of rotating blades around you dealing increased damage and additional arcane damage.| Создает вокруг вас барьер из вращающихся лезвий, наносящих повышенный урон и дополнительный чародейский урон.
+talent_desc_omnislash|Become untargetable and rapidly strike monsters multiple times with increased attack rating dealing increased damage.| Вы становитесь неуязвимым для выбора цели и быстро наносите серию ударов по монстрам с повышенным рейтингом атаки и уроном.
+talent_desc_explodingBolas|Throw bolas that deal arcane damage on impact and again when they explode after a short delay. | Бросает боласы, которые наносят чародейский урон при попадании и повторно при взрыве через некоторое время.
+talent_desc_wayOfTheWarrior|Increases your attack damage and magic skill damage.| Увеличивает урон от атак и магических навыков.
+talent_desc_forHonor|Temporarily increases your attack damage and movement speed.| Временно увеличивает урон от атак и скорость передвижения.
+talent_desc_shadowStep|Step into the shadows re-appearing at target location dealing area of effect damage and additional arcane damage to all nearby monsters.| Вы шагаете в тень и появляетесь в указанном месте, нанося урон по области и дополнительный чародейский урон всем ближайшим монстрам.
+talent_desc_burstOfSpeed|Gain increased movement speed for a short period after killing an monster.| После убийства монстра ваша скорость передвижения на короткое время увеличивается.
+talent_desc_empiresSlash|Perform an area of effect attack blinking a short distance and dealing damage to monsters in its path. Empire slash lowers Omnislashes cooldown when it strikes a monster.| Выполняет атаку по области, мгновенно перемещаясь на небольшое расстояние и нанося урон монстрам на своем пути. Удары этим навыком сокращают время восстановления «Омнислэша».
+||
+talent_name_vengeance|Vengeance| Возмездие
+talent_name_thunderShield|Thunder Shield| Громовой Щит
+talent_name_lightningFury|Lightning Fury| Молниеносная Ярость
+talent_name_holyShockAura|Holy Shock Aura| Аура Святого Шока
+talent_name_divineStorm|Divine Storm| Божественный Шторм
+talent_name_fanaticismAura|Fanaticism Aura| Аура Фанатизма
+talent_name_ballLightning|Ball Lightning| Шаровая Молния
+talent_name_eyeOfTheStorm|Eye of the Storm| Око Бури
+talent_name_thorsFury|Thor's Fury| Ярость Тора
+talent_name_holyBolt|Holy Bolt| Святая Стрела
+talent_name_divineWisdom|Divine Wisdom| Божественная Мудрость
+talent_name_holyAura|Holy Aura| Святая Аура
+talent_name_holyHammer|Holy Hammer| Святой Молот
+talent_name_holyRetribution|Holy Retribution| Святое Возмездие
+talent_name_lightsEmbrace|Light's Embrace| Объятия Света
+talent_name_fistOfTheHeavens|Fist of the Heavens| Кулак Небес
+talent_name_holyNova|Holy Nova| Святая Нова
+talent_name_theVeneratedOne|The Venerated One| Почитаемый
+||
+talent_desc_vengeance|Strike monsters with a lightning shock that splits towards nearby monsters, dealing increased damage and additive lightning damage.| Поражает монстров электрическим разрядом, который разделяется и перескакивает на ближайшие цели, нанося повышенный урон молнией.
+talent_desc_thunderShield|Cast a shield of thunder reducing magic damage taken and shocking monsters attacking you dealing lightning damage.| Создает грозовой щит, уменьшающий получаемый магический урон и бьющий атакующих вас монстров током, нанося урон молнией.
+talent_desc_lightningFury|Strike monsters with increased attack damage causing lightning to chain between them dealing lightning damage.| Атакует монстров с повышенным уроном, вызывая цепную молнию между ними.
+talent_desc_holyShockAura|When active shock monsters around you dealing lightning damage.| Когда активна, поражает монстров вокруг вас током, нанося урон молнией.
+talent_desc_divineStorm|Turn your attack into a divine storm dealing area of effect lightning damage around you.| Превращает вашу атаку в божественный шторм, наносящий урон молнией по области вокруг вас.
+talent_desc_fanaticismAura|When active, increases your and your party members attack speed.| Когда активна, увеличивает скорость атаки вам и членам вашей группы.
+talent_desc_ballLightning|Turn into a ball of lightning and dash towards to the target location exploding for lightning damage to nearby monsters upon landing.| Превращает вас в шаровую молнию, которая устремляется к цели и взрывается при приземлении, нанося урон молнией.
+talent_desc_eyeOfTheStorm|Increases your lightning skill damage.| Увеличивает урон от ваших навыков молнии.
+talent_desc_thorsFury|Temporarily increases your attack speed and lightning skill damage.| Временно увеличивает вашу скорость атаки и урон от навыков молнии.
+talent_desc_holyBolt|Cast a piercing bolt of holy light dealing arcane damage to monsters hit.| Выпускает пронзительный заряд святого света, наносящий чародейский урон пораженным монстрам.
+talent_desc_divineWisdom|Increases your mana and mana replenish.| Увеличивает ваш запас маны и ее восполнение.
+talent_desc_holyAura|When active, increases your and your party members attack damage and magic skill damage.| Когда активна, увеличивает урон от атак и магических навыков вам и членам вашей группы.
+talent_desc_holyHammer|Summon a holy hammer that spirals outwards dealing arcane damage on hit.| Призывает святой молот, который вращается по спирали, нанося чародейский урон при попадании.
+talent_desc_holyRetribution|Increases your mana after kill.| Восполняет ману после убийства.
+talent_desc_lightsEmbrace|Increases your cast rate.| Увеличивает скорость колдовства.
+talent_desc_fistOfTheHeavens|Call down a fist of divine energy exploding into multiple Holy Bolts dealing arcane damage.| Обрушивает кулак божественной энергии, который распадается на множество святых стрел, наносящих чародейский урон.
+talent_desc_holyNova|Cast a nova of holy light dealing arcane damage to monsters and healing all allies hit.| Создает вспышку святого света, наносящую чародейский урон монстрам и исцеляющую всех затронутых союзников.
+talent_desc_theVeneratedOne|Temporarily increases your cast rate and mana replenish.| Временно увеличивает скорость колдовства и восполнение маны.
+||
+talent_name_noxiousStrike|Noxious Strike| Ядовитый Удар
+talent_name_causticSpearhead|Caustic Spearhead| Едкий Наконечник Копья
+talent_name_leapingAmbush|Leaping Ambush| Прыгающая Засада
+talent_name_deathFromAbove|Death from Above| Смерть с Небес
+talent_name_toxicRemains|Toxic Remains| Токсичные Останки
+talent_name_masterPoisoner|Master Poisoner| Мастер Ядов
+talent_name_jungleCamouflage|Jungle Camouflage| Камуфляж Джунглей
+talent_name_thrillOfTheHunt|Thrill of the Hunt| Азарт Охоты
+talent_name_envenom|Envenom| Отравление
+talent_name_astropesGift|Astrope's Gift| Дар Астропы
+talent_name_feint|Feint| Финт
+talent_name_rebound|Rebound| Рикошет
+talent_name_spearnage|Spearnage| Резня Копьями
+talent_name_stormDash|Storm Dash| Штормовой Рывок
+talent_name_thunderGoddessesChosen|Thunder Goddesses Chosen| Избранник Богини Грома
+talent_name_chooserOfTheSlain|Chooser of the Slain| Избиратель Павших
+talent_name_thunderFury|Thunder Fury| Громовая Ярость
+talent_name_astropesBattleMaiden|Astrope's Battle Maiden| Боевая Дева Астропы
+||
+talent_desc_noxiousStrike|Unleash a poisonous strike with increased damage and additional poison damage. Every third strike sends out piercing poisonous projectiles dealing damage and inflicting Poisoned on hit.| Наносит ядовитый удар с повышенным уроном. Каждый третий удар выпускает пронзающие ядовитые снаряды, отравляющие цели.
+talent_desc_causticSpearhead|Perform a burst attack dealing increased damage, additional poison damage and inflicting Poisoned on hit.| Выполняет взрывную атаку, нанося повышенный урон, дополнительный урон ядом и отравляя цель при попадании.
+talent_desc_leapingAmbush|Jump towards target location dealing poison damage and knocking up monsters around you upon landing.| Прыжок в указанное место, наносящий урон ядом и подбрасывающий монстров вокруг при приземлении.
+talent_desc_deathFromAbove|Call down a rain of falling spears on target location dealing poison damage and slowing monsters struck.| Обрушивает дождь из копий в указанную область, нанося урон ядом и замедляя пораженных монстров.
+talent_desc_toxicRemains|Killing an monster causes them to explode into toxic gas inflicting Poisoned on monsters hit.| Убийство монстра вызывает его взрыв, высвобождающий токсичный газ, который отравляет пораженных монстров.
+talent_desc_masterPoisoner|Increases your poison skill damage.| Увеличивает урон от ваших ядовитых навыков.
+talent_desc_jungleCamouflage|Temporarily increases your poison skill damage.| Временно увеличивает урон от ваших ядовитых навыков.
+talent_desc_thrillOfTheHunt|Increases your movement speed.| Увеличивает скорость передвижения.
+talent_desc_envenom|Strikes have a chance to unleash toxic fissures on all monsters around you dealing poison damage and inflicting Poisoned.| Удары могут вызвать появление токсичных трещин вокруг вас, наносящих урон ядом и вызывающих отравление.
+talent_desc_astropesGift|Perform a lightning enhanced attack with increased damage and additive lightning damage.| Выполняет атаку, усиленную молнией, с повышенным уроном и дополнительным уроном от молнии.
+talent_desc_feint|Gain a chance to evade melee and ranged attacks.| Дает шанс уклониться от атак ближнего и дальнего боя.
+talent_desc_rebound|Perform an attack with increased damage and additional lightning damage that rebounds to the closest monster.| Выполняет атаку с повышенным уроном и дополнительным уроном от молнии, который рикошетит в ближайшего монстра.
+talent_desc_spearnage|Furiously throw lightning enchanted spears towards target location.| Яростно мечет зачарованные молнией копья в указанную область.
+talent_desc_stormDash|Dash towards target location striking nearby monsters with chain lightning.| Рывок в указанное место, поражающий ближайших монстров цепной молнией.
+talent_desc_thunderGoddessesChosen|Increases lightning skill damage.| Увеличивает урон от навыков молнии.
+talent_desc_chooserOfTheSlain|Increases your life and mana after kill.| Восполняет здоровье и ману после убийства.
+talent_desc_thunderFury|Perform an attack with increased damage that spreads lightning behind the target.| Выполняет атаку с повышенным уроном, которая распространяет молнии позади цели.
+talent_desc_astropesBattleMaiden|Temporarily increases your lightning skill damage and attack speed.| Временно увеличивает урон от навыков молнии и скорость атаки.
+||
+talent_name_triggerFinger|Trigger Finger| Быстрый Палец
+talent_name_eagleEye|Eagle Eye| Орлиный Глаз
+talent_name_execute|Execute| Казнь
+talent_name_bulletHell|Bullet Hell| Пулевой Ад
+talent_name_shredderTrap|Shredder Trap| Ловушка-Измельчитель
+talent_name_possessedBullet|Possessed Bullet| Одержимая Пуля
+talent_name_demonsPresence|Demon´s Presence| Присутствие Демона
+talent_name_concentrationAura|Concentration Aura| Аура Концентрации
+talent_name_absoluteMayhem|Absolute Mayhem| Абсолютный Хаос
+talent_name_fastSlices|Fast Slices| Быстрые Разрезы
+talent_name_demonsCalling|Demon´s Calling| Призыв Демона
+talent_name_heartAttack|Heart Attack| Сердечный Приступ
+talent_name_shadowAnomalies|Shadow Anomalies| Теневые Аномалии
+talent_name_soulLeech|Soul Leech| Похищение Души
+talent_name_swordHandler|Sword Handler| Мастер Меча
+talent_name_demonsShield|Demon´s Shield| Щит Демона
+talent_name_sliceOfShadows|Slice of Shadows| Теневой Разрез
+talent_name_demonForm|Demon Form| Облик Демона
+||
+talent_desc_triggerFinger|Fire a burst shot with increased attack damage and attack rating.| Выстреливает очередью с повышенным уроном и рейтингом атаки.
+talent_desc_eagleEye|Increases your attack damage, additional physical damage and critical strike damage when using ranged weapons.| Увеличивает урон от атак, дополнительный физический урон и урон от критических ударов при использовании оружия дальнего боя.
+talent_desc_execute|Deal extra attack damage to monsters below 30% Life.| Наносит дополнительный урон монстрам, у которых менее 30% здоровья.
+talent_desc_bulletHell|Fire a barrage of bullets towards the aimed direction dealing increased damage.| Выпускает шквал пуль в указанном направлении, нанося повышенный урон.
+talent_desc_shredderTrap|Throw a shredder on the ground spinning with deadly speed dealing physical damage.| Бросает на землю измельчитель, который вращается со смертельной скоростью, нанося физический урон.
+talent_desc_possessedBullet|Fire a satanic bullet possessed by darkness which explodes into multiple bullets on impact dealing damage.| Выпускает сатанинскую пулю, одержимую тьмой, которая при попадании распадается на несколько снарядов, наносящих урон.
+talent_desc_demonsPresence|Temporarily increase your attack speed and attack damage.| Временно увеличивает вашу скорость атаки и урон от атак.
+talent_desc_concentrationAura|When active, increases your and your party members attack rating.| Когда активна, увеличивает рейтинг атаки вам и членам вашей группы.
+talent_desc_absoluteMayhem|Harness the power of your inner demon and fire multiple massive bullets in a line dealing increased damage.| Обуздайте силу своего внутреннего демона и выпустите несколько мощных пуль по линии, нанося повышенный урон.
+talent_desc_fastSlices|Perform a series of dashing attacks, dealing area of effect damage on second attack and stunning monsters around you on the final attack.| Проводит серию стремительных атак, нанося урон по области вторым ударом и оглушая монстров вокруг финальным ударом.
+talent_desc_demonsCalling|Become airborne and smash the ground dealing area of effect arcane damage and stunning monsters around you.| Вы взмываете в воздух и обрушиваетесь на землю, нанося чародейский урон по области и оглушая монстров вокруг.
+talent_desc_heartAttack|Increases your chance for critical strikes and critical strike damage when using a melee weapon.| Увеличивает шанс критического удара и урон от критического удара при использовании оружия ближнего боя.
+talent_desc_shadowAnomalies|Casting Demon's Calling now spawns five shadow anomalies that perform Demon's Calling with increased arcane damage.| Использование «Призыва демона» теперь создает пять теневых аномалий, которые повторяют это умение с увеличенным чародейским уроном.
+talent_desc_soulLeech|Leech life out of monsters in target area dealing arcane damage and healing you.| Высасывает жизнь из монстров в указанной области, нанося чародейский урон и исцеляя вас.
+talent_desc_swordHandler|Increases your life stolen per hit, attack rating and damage when using swords.| Увеличивает похищение жизни за удар, рейтинг атаки и урон при использовании мечей.
+talent_desc_demonsShield|Increases all resistances and movement speed.| Увеличивает все сопротивления и скорость передвижения.
+talent_desc_sliceOfShadows|Perform an attack that releases a wave of shadow dealing increased damage.| Выполняет атаку, которая выпускает теневую волну, наносящую повышенный урон.
+talent_desc_demonForm|Temporarily turn into a demon gaining increased attack damage and attack speed.| Временно превращает вас в демона, увеличивая урон от атак и скорость атаки.
+||
+talent_name_boneFragments|Bone Fragments| Осколки Костей
+talent_name_impale|Impale| Пронзание
+talent_name_boneStorm|Bone Storm| Костяной Шторм
+talent_name_singleOut|Single Out| Изоляция
+talent_name_ossification|Ossification| Окостенение
+talent_name_cartilageBuildUp|Cartilage Build Up| Наращивание Хряща
+talent_name_ominousPresence|Ominous Aura| Зловещая Аура
+talent_name_spinalTap|Spinal Tap| Удар в Позвоночник
+talent_name_boneBarrage|Bone Barrage| Костяной Обстрел
+talent_name_gutSpread|Gut Spread| Разрыв Внутренностей
+talent_name_bloodBolts|Blood Bolts| Кровавые Стрелы
+talent_name_manaPoolAura|Manapool Aura| Аура Источника Маны
+talent_name_bloodSurge|Blood Surge| Прилив Крови
+talent_name_demonicPresence|Demonic Presence| Демоническое Присутствие
+talent_name_manaShield|Mana Shield| Щит Маны
+talent_name_manaDevour|Mana Devour| Пожирание Маны
+talent_name_bloodDemons|Blood Demons| Демоны Крови
+talent_name_bloodTendrils|Blood Tendrils| Кровавые Усики
+||
+talent_desc_boneFragments|Cast fragments of bone towards target location dealing arcane damage.| Бросает осколки костей в указанное место, нанося чародейский урон.
+talent_desc_impale|Summon spikes from the ground impaling monsters in a target area dealing arcane damage and knocking them up.| Призывает из земли шипы, которые пронзают монстров в указанной области, нанося чародейский урон и подбрасывая их.
+talent_desc_boneStorm|Summon a storm of bone and cartilage surrounding you dealing arcane damage.| Призывает бурю из костей и хрящей вокруг вас, наносящую чародейский урон.
+talent_desc_singleOut|Monsters that have no other monsters around them take increased arcane damage.| Монстры, рядом с которыми нет других врагов, получают повышенный чародейский урон.
+talent_desc_ossification|Increases your defense and gives you a burst of movement speed after killing an monster.| Увеличивает вашу защиту и дает всплеск скорости передвижения после убийства монстра.
+talent_desc_cartilageBuildUp|When damaged by cartilage and bone monsters are stacked up and at 10 stacks they explode spreading bone and cartilage around them dealing arcane damage. | При получении урона от хрящей и костей на монстрах накапливаются заряды; при 10 зарядах они взрываются, разбрасывая кости и хрящи и нанося чародейский урон.
+talent_desc_ominousPresence|When active, increases your and your party members arcane skill damage.| Когда активна, увеличивает урон от чародейских навыков вам и членам вашей группы.
+talent_desc_spinalTap|Rip the spine out of monsters at target location dealing arcane damage.| Вырывает позвоночники у монстров в указанном месте, нанося чародейский урон.
+talent_desc_boneBarrage|Unleash a barrage of bones in target direction dealing arcane damage.| Выпускает шквал костей в указанном направлении, нанося чародейский урон.
+talent_desc_gutSpread|Every 6th cast causes your intestines to boil and burst lumps of blood around you dealing a portion of blood bolts damage as arcane damage.| Каждое 6-е использование навыка заставляет ваши внутренности вскипать и разбрасывать сгустки крови, нанося часть урона «Кровавых стрел» в виде чародейского урона.
+talent_desc_bloodBolts|Unleash bolts of blood towards target location dealing arcane damage.| Выпускает кровавые стрелы в указанном направлении, нанося чародейский урон.
+talent_desc_manaPoolAura|When active, increases your and your party members mana replenish.| Когда активна, увеличивает восполнение маны вам и членам вашей группы.
+talent_desc_bloodSurge|Channel a massive surge of blood towards target direction dealing arcane damage to enemies in its path.| Направляет мощный поток крови в указанном направлении, нанося чародейский урон врагам на своем пути.
+talent_desc_demonicPresence|Increases your arcane skill damage.| Увеличивает урон от ваших чародейских навыков.
+talent_desc_manaShield|When active, create a mana shield around you that reduces physical damage taken and absorbs a portion of damage taken as mana.| Когда активна, создает вокруг вас щит маны, который снижает получаемый физический урон и поглощает часть урона за счет маны.
+talent_desc_manaDevour|Instantly restores a portion of your mana.| Мгновенно восстанавливает часть вашей маны.
+talent_desc_bloodDemons|Chance on spellcast to summon a blood demon towards the closest monster dealing arcane damage.| При использовании заклинания есть шанс призвать демона крови к ближайшему монстру, наносящего чародейский урон.
+talent_desc_bloodTendrils|Blood surge now causes its target to release blood tendrils for a portion of its damage.| «Прилив крови» теперь заставляет цель выпускать кровавые усики, наносящие часть урона.
+||
+talent_name_tectonicBoulder|Tectonic Boulder| Тектонический Валун
+talent_name_twisters|Twisters| Вихри
+talent_name_rockFragments|Rock Fragments| Осколки Скал
+talent_name_earthBind|Earth Bind| Оковы Земли
+talent_name_tornado|Tornado| Торнадо
+talent_name_earthsGrace|Earth's Grace|Благодать Земли
+talent_name_meteorStorm|Meteor Storm| Метеоритный Шторм
+talent_name_naturesProphet|Nature's Prophet| Пророк Природы
+talent_name_fissures|Fissures| Разломы
+talent_name_earthTotem|Earth Totem| Тотем Земли
+talent_name_spiritualGuide|Spiritual Guide| Духовный Наставник
+talent_name_stormTotem|Storm Totem| Тотем Шторма
+talent_name_spiritWolves|Spirit Wolves| Призрачные Волки
+talent_name_scentOfTheWolf|Scent of the Wolf| Запах Волка
+talent_name_fireTotem|Fire Totem| Тотем Огня
+talent_name_fractalMind|Fractal Mind| Фрактальный Разум
+talent_name_astralIntellect|Astral Intellect| Астральный Интеллект
+talent_name_chaosTotem|Chaos Totem| Тотем Хаоса
+||
+talent_desc_tectonicBoulder|Unleash a massive boulder that travels forward dealing arcane damage.| Выпускает огромный валун, который катится вперед, нанося чародейский урон.
+talent_desc_twisters|Unleash small twisters towards target location dealing arcane damage to monsters on their path.| Выпускает небольшие вихри в сторону цели, наносящие чародейский урон монстрам на своем пути.
+talent_desc_rockFragments|Unleash rock fragments towards target location dealing arcane damage.| Выпускает осколки скал в сторону цели, наносящие чародейский урон.
+talent_desc_earthBind|Raise vines from the ground dealing poison damage, poisoning and rooting monsters in place.| Поднимает лозы из земли, наносящие урон ядом, отравляющие и обездвиживающие монстров.
+talent_desc_tornado|Summon a tornado traveling towards target direction dealing arcane damage to monsters on its path.| Призывает торнадо, движущееся в указанном направлении и наносящее чародейский урон монстрам на своем пути.
+talent_desc_earthsGrace|Increases your maximum life and mana.| Увеличивает ваш максимальный запас здоровья и маны.
+talent_desc_meteorStorm|Call down a meteor storm on target location dealing arcane damage.| Обрушивает метеоритный шторм в указанную область, нанося чародейский урон.
+talent_desc_naturesProphet|Increases your arcane skill damage.| Увеличивает урон от ваших чародейских навыков.
+talent_desc_fissures|Rip the ground open with magic causing cracks that release fissures dealing arcane damage.| Разрывает землю магией, создавая трещины, наносящие чародейский урон.
+talent_desc_earthTotem|Summon a totem that fires rock fragments that deal area of effect arcane damage on hit.| Призывает тотем, стреляющий осколками скал, которые наносят чародейский урон по области при попадании.
+talent_desc_spiritualGuide|Increases your mana and mana replenish.| Увеличивает ваш запас маны и ее восполнение.
+talent_desc_stormTotem|Summon a totem that releases chain lightning on nearby monsters dealing lightning damage.| Призывает тотем, выпускающий цепную молнию в ближайших монстров и наносящий урон молнией.
+talent_desc_spiritWolves|Spawn a spirit wolf to fight on your side.| Призывает призрачного волка, который сражается на вашей стороне.
+talent_desc_scentOfTheWolf|Increases spirit wolves arcane damage and life.| Увеличивает чародейский урон и запас здоровья призрачных волков.
+talent_desc_fireTotem|Spawn a totem that casts piercing fire projectiles dealing fire damage.| Создает тотем, выпускающий пронзающие огненные снаряды, наносящие урон огнем.
+talent_desc_fractalMind|Increases your movement speed and magic skill damage.| Увеличивает скорость передвижения и урон от магических навыков.
+talent_desc_astralIntellect|Cast to move all spawned totems to you. Passively increases the attack range of all totems. | При использовании перемещает все созданные тотемы к вам. Пассивно увеличивает дальность атаки всех тотемов.
+talent_desc_chaosTotem|Summon a totem that rapidly shoots chaos bolts dealing arcane damage.| Призывает тотем, который быстро стреляет стрелами хаоса, нанося чародейский урон.
+||
+talent_name_satansMark|Satan’s Mark| Знак Сатаны
+talent_name_restlessSpirits|Restless Spirits| Беспокойные Духи
+talent_name_digestSouls|Digest Souls| Поглощение Душ
+talent_name_shadowBolt|Shadow Bolt| Стрела Тьмы
+talent_name_soulSpurn|Soul Spurn| Изгнание Души
+talent_name_martyr|Martyr| Мученик
+talent_name_darkOath|Dark Oath| Темная Клятва
+talent_name_malediction|Malediction| Проклятие
+talent_name_blackMass|Black Mass| Черная Месса
+talent_name_heavenlyFire|Heavenly Fire| Небесный Огонь
+talent_name_burstOfLight|Burst of Light| Вспышка Света
+talent_name_flashHeal|Flash Heal| Быстрое Исцеление
+talent_name_benediction|Benediction| Благословение
+talent_name_divineHealing|Divine Healing| Божественное Исцеление
+talent_name_chainOfHolyLight|Chain of Holy Lightning| Цепь Святой Молнии
+talent_name_holyShield|Holy Shield| Святой Щит
+talent_name_healingZone|Healing Zone| Зона Исцеления
+talent_name_manaOrb|Mana Orb| Сфера Маны
+||
+talent_desc_satansMark|Mark the monsters on target area for satan causing them to unleash pulses of arcane damage when struck by other abilities and attacks. | Помечает монстров в указанной области меткой Сатаны, заставляя их выпускать импульсы чародейского урона при получении ударов от других способностей и атак.
+talent_desc_restlessSpirits|Unleash restless spirits from an unholy dimension to seek new hosts inflicting arcane damage to the target.| Выпускает беспокойных духов из нечестивого измерения на поиски новых хозяев, нанося цели чародейский урон.
+talent_desc_digestSouls|By sacrificing your victims to the devil temporarily gain increased mana replenish and arcane skill damage after killing a monster.| Принося жертвы дьяволу, вы временно увеличиваете восполнение маны и урон чародейских навыков после убийства монстра.
+talent_desc_shadowBolt|Gather your inner darkness and unleash a powerful piercing shadow bolt that deals arcane damage to monsters on its path. The shadow bolt slows down after hitting a target.| Выпускает мощную пронзающую стрелу тьмы, наносящую чародейский урон монстрам на своем пути. Стрела замедляется после попадания в цель.
+talent_desc_soulSpurn|Rip the souls from nearest monsters dealing arcane damage and restoring your life and mana.| Вырывает души из ближайших монстров, нанося чародейский урон и восстанавливая вам здоровье и ману.
+talent_desc_martyr|Sacrifice your own blood when taking damage from any source temporarily increasing your life and mana replenish.| При получении урона вы жертвуете собственной кровью, что временно увеличивает восполнение вашего здоровья и маны.
+talent_desc_darkOath|Conjure an aura that unleashes waves of unholy energy around you inflicting arcane damage to nearby monsters.| Создает ауру, выпускающую волны нечестивой энергии, которые наносят чародейский урон ближайшим монстрам.
+talent_desc_malediction|Your unholy essence drives birds into insanity, casts have a chance to send crows towards random nearby monsters combusting into arcane damage on impact.| Ваша нечестивая сущность сводит птиц с ума: заклинания могут натравить ворон на случайных ближайших монстров, которые взрываются чародейским уроном при попадании.
+talent_desc_blackMass|Summon all the coven's cultists to march in the name of satan inflicting arcane damage to monsters on their path.| Призывает культистов ковена, которые маршируют во имя Сатаны, нанося чародейский урон монстрам на своем пути.
+talent_desc_heavenlyFire|Light the target location into holy fire dealing arcane damage.| Поджигает указанную область священным огнем, наносящим чародейский урон.
+talent_desc_burstOfLight|Cast a ray of divine light dealing arcane damage and lights monsters on heavenly fire.| Испускает луч божественного света, наносящий чародейский урон и поджигающий монстров небесным огнем.
+talent_desc_flashHeal|Heal yourself and any nearby allies.| Исцеляет вас и всех ближайших союзников.
+talent_desc_benediction|When healed by your abilities, smite monsters around you with holy lightning.| При исцелении вашими способностями поражает монстров вокруг вас святой молнией.
+talent_desc_divineHealing|Using flash heal temporarily increases your life replenish.| Использование быстрого исцеления временно увеличивает восполнение вашего здоровья.
+talent_desc_chainOfHolyLight|Cast a holy lightning jumping from monster to monster dealing arcane damage.| Выпускает святую молнию, перескакивающую между монстрами и наносящую чародейский урон.
+talent_desc_holyShield|By the power of god bless yourself and any nearby allies with immortality for a short period.| Силой Бога дарует вам и ближайшим союзникам неуязвимость на короткое время.
+talent_desc_healingZone|Bless the area around you with divine energy healing yourself and nearby allies.| Благословляет область вокруг вас божественной энергией, исцеляющей вас и ближайших союзников.
+talent_desc_manaOrb|Summon a pulsating orb of mana that replenishes mana for players and deals arcane damage to monsters.| Призывает пульсирующий шар маны, который восполняет ману игрокам и наносит чародейский урон монстрам.
+||
+talent_name_heavyBall|Heavy Ball| Тяжелое Ядро
+talent_name_bouncingGrenade|Bouncing Grenade| Прыгающая Граната
+talent_name_unstableBomb|Unstable Bomb| Нестабильная Бомба
+talent_name_theBigBoom|The Big Bo-oM| Большой Бум
+talent_name_wreckingBall|Wrecking Ball| Шаровой Таран
+talent_name_crazyGrapple|Crazy Grapple| Безумный Захват
+talent_name_flailMastery|Flail Mastery| Мастерство Владения Цепом
+talent_name_bombardment|Bombardment| Бомбардировка
+talent_name_forceOverwhelming|Force Overwhelming| Подавляющая Сила
+talent_name_serratedChains|Serrated Chains| Зазубренные Цепи
+talent_name_retiariusNet|Retiarius Net| Сеть Ретиария
+talent_name_chainTrap|Chain Trap| Цепная Ловушка
+talent_name_titaniumChains|Titanium Chains| Титановые Цепи
+talent_name_masterTrapMaker|Master Trap Maker| Мастер Ловушек
+talent_name_rendFlesh|Rend Flesh| Разрыв Плоти
+talent_name_madnessControl|Madness Control| Контроль Безумия
+talent_name_resilientGladiator|Resilient Gladiator| Несокрушимый Гладиатор
+talent_name_annihilation|Annihilation| Уничтожение
+||
+talent_desc_heavyBall|Flail a big chained spike ball dealing damage to monsters on its path. | Размахивает большим шипастым шаром на цепи, нанося урон монстрам на своем пути.
+talent_desc_bouncingGrenade|Throw a grenade that bounces, leaving the ground scorched and exploding into shrapnel on impact, dealing area of effect fire damage.| Бросает гранату, которая отскакивает, выжигая землю и взрываясь осколками при ударе, нанося урон огнем по области.
+talent_desc_unstableBomb|All bombs scatter small bombs around when exploding dealing fire damage.| Все бомбы при взрыве разбрасывают вокруг себя небольшие бомбы, наносящие урон огнем.
+talent_desc_theBigBoom|Throw a huge bo-omb scattering into shrapnell on impact dealing area of effect fire damage.| Бросает огромную бомбу, разлетающуюся при ударе на осколки, наносящие урон огнем по области.
+talent_desc_wreckingBall|Increases the damage and range of Heavy Ball.| Увеличивает урон и дальность действия «Тяжелого ядра».
+talent_desc_crazyGrapple|Throw a massive spike ball into target location dealing area of effect fire damage and dragging yourself towards it through the air.| Бросает огромный шипастый шар в указанное место, нанося урон огнем по области и подтягивая вас к нему по воздуху.
+talent_desc_flailMastery|Increase attack speed, attack damage and cast rate when using mace weapons.| Увеличивает скорость атаки, урон от атак и скорость колдовства при использовании кистеней и палиц.
+talent_desc_bombardment|Rapidly throw a barrage of small bombs in target direction dealing area of effect fire damage.| Быстро бросает шквал небольших бомб в указанном направлении, нанося урон огнем по области.
+talent_desc_forceOverwhelming|Temporarily increase your attack damage, attack rating and attack speed.| Временно увеличивает ваш урон от атак, рейтинг атаки и скорость атаки.
+talent_desc_serratedChains|Perform an area of effect attack with increased attack rating and damage attaching serrated chains to monsters. | Выполняет атаку по области с повышенным рейтингом атаки и уроном, прикрепляя зазубренные цепи к монстрам.
+talent_desc_retiariusNet|Throw a retiarius net dealing area of effect arcane damage and stunning monsters hit.| Бросает сеть ретиария, наносящую чародейский урон по области и оглушающую пораженных монстров.
+talent_desc_chainTrap|Throw a chain trap into the target location dealing arcane damage and hooking nearby monsters with chains.| Бросает в указанное место цепную ловушку, которая наносит чародейский урон и приковывает цепями ближайших монстров.
+talent_desc_titaniumChains|Monsters affected by Serrated Chains explode upon death dealing physical damage.| Монстры, пораженные зазубренными цепями, взрываются после смерти, нанося физический урон.
+talent_desc_masterTrapMaker|Passively increases the arcane damage dealt by chain traps and provides a chance for critical hits as well as a proc chance for traps to activate rapidly causing the trap and its hooks to travel faster.| Пассивно увеличивает чародейский урон цепных ловушек, дает шанс критического удара и шанс быстрого срабатывания ловушек, ускоряя движение крюков.
+talent_desc_rendFlesh|Attacks have a chance to inflict bleeding on monsters in a small area around the target.| Атаки могут вызвать кровотечение у монстров в небольшой области вокруг цели.
+talent_desc_madnessControl|Hook all nearby monsters towards you stunning them and dealing arcane damage. Additionally summon a bomb from the sky onto your location dealing area of effect arcane damage. | Притягивает всех ближайших монстров к вам, оглушая их и нанося чародейский урон. Также обрушивает на вас бомбу с неба, наносящую чародейский урон по области.
+talent_desc_resilientGladiator|Increases your damage reduction and life.| Увеличивает поглощение урона и запас здоровья.
+talent_desc_annihilation|Violently rip all serrated chains out of monsters dealing area of effect damage. Targets affected by retiarius net take increased damage.| Жестоко вырывает все зазубренные цепи из монстров, нанося урон по области. Цели, пораженные сетью ретиария, получают повышенный урон.
+||
+talent_name_surgicalBloodLetting|Surgical Blood Letting| Хирургическое Кровопускание
+talent_name_malpractice|Malpractice| Врачебная Ошибка
+talent_name_crowMasksPresence|Crow Mask's Presence| Присутствие Маски Ворона
+talent_name_bloodSustenance|Blood Sustenance| Подпитка Кровью
+talent_name_miasma|Miasma| Миазмы
+talent_name_boosterShot|Booster Shot| Стимулирующая Инъекция
+talent_name_lifeBloodAura|Lifeblood Aura| Аура Жизненной Силы
+talent_name_devoutDoctor|Devout Doctor| Набожный Доктор
+talent_name_defunctSurgeon|Defunct Surgeon| Мертвый Хирург
+talent_name_plagueOfRats|Plague of Rats| Нашествие Крыс
+talent_name_toxicFlask|Toxic Flask| Токсичная Колба
+talent_name_crematus|Crematus| Крематус
+talent_name_oops|Oops| Упс
+talent_name_chantOfWeakness|Chant of Weakness| Песнь Слабости
+talent_name_explodingMice|Exploding Mice| Взрывающиеся Мыши
+talent_name_jarOfLeeches|Jar of Leeches| Банка с Пиявками
+talent_name_plagueMaster|Plague Master| Мастер Чумы
+talent_name_randyTheRancidRat|Randy the Rancid Rat| Рэнди — Прогорклый Крыс
+||
+talent_desc_surgicalBloodLetting|Throw a surgical knife with razor sharp accuracy that bounces from monster to monster dealing physical damage.| Метает хирургический нож с идеальной точностью, который рикошетит между монстрами, нанося физический урон.
+talent_desc_malpractice|Increases the force of surgical blood letting causing targets to bleed.| Усиливает хирургическое кровопускание, вызывая кровотечение у целей.
+talent_desc_crowMasksPresence|Increases your life and all resistances.| Увеличивает ваш запас здоровья и все сопротивления.
+talent_desc_bloodSustenance|Gain increased attack damage and life stolen per hit from bleeding targets.| Увеличивает урон от атак и похищение жизни при ударах по истекающим кровью целям.
+talent_desc_miasma|Empower your attack with a mixture of chemicals causing the monster to release a toxic cloud dealing additional damage.| Усиливает вашу атаку смесью химикатов, заставляя монстра выпускать токсичное облако, наносящее дополнительный урон.
+talent_desc_boosterShot|When attacking have a chance to inject yourself with a mRNA gene altering shot temporarily increasing your attack damage and movement speed.| При атаке есть шанс сделать себе инъекцию, временно увеличивающую урон от атак и скорость передвижения.
+talent_desc_lifeBloodAura|When active, increases your and your party members Life and life replenish.| Когда активна, увеличивает запас здоровья и его восполнение вам и членам вашей группы.
+talent_desc_devoutDoctor|Gain additive physical damage based on your maximum life.| Дает дополнительный физический урон в зависимости от вашего максимального запаса здоровья.
+talent_desc_defunctSurgeon|Temporarily increase your attack speed and life stolen per hit. When active lose a portion of your maximum life per second (Non-fatal).| Временно увеличивает скорость атаки и похищение жизни за удар. При активации вы теряете часть здоровья каждую секунду (не смертельно).
+talent_desc_plagueOfRats|Send plague rats in target direction dealing poison damage on impact. | Выпускает чумных крыс в указанном направлении, наносящих урон ядом при попадании.
+talent_desc_toxicFlask|Throw a bouncing toxic flask towards target location dealing poison damage.| Бросает прыгающую ядовитую колбу, наносящую урон ядом.
+talent_desc_crematus|Unleash a breath of toxic flames dealing poison damage.| Выпускает дыхание токсичного пламени, наносящее урон ядом.
+talent_desc_oops|Toxic flask also leaves a pool of poisonous substance on the ground dealing poison damage, plaguing and slowing monsters. Oops.| Ядовитая колба также оставляет лужу яда, которая заражает и замедляет монстров. Упс.
+talent_desc_chantOfWeakness|Plagued targets take increased poison damage.| Зараженные цели получают повышенный урон ядом.
+talent_desc_explodingMice|Plague rats explode on impact causing area of effect poison damage.| Чумные крысы взрываются при попадании, нанося урон ядом по области.
+talent_desc_jarOfLeeches|Throw a glass jar towards target location releasing leeches dealing poison damage on impact.| Бросает стеклянную банку, из которой выползают пиявки, наносящие урон ядом при попадании.
+talent_desc_plagueMaster|Cause all plagued targets on target location to spread the plague and deal poison damage to monsters around them.| Заставляет все зараженные цели в указанной области распространять чуму и наносить урон ядом окружающим монстрам.
+talent_desc_randyTheRancidRat|Summon randy the rancid rat to fight for you dealing poison damage.| Призывает Рэнди, мерзкую крысу, которая сражается на вашей стороне и наносит урон ядом.
+||
+talent_name_gloriousStrike|Glorious Strike| Славный Удар
+talent_name_commendingBanner|Commending Banner| Знамя Почета
+talent_name_battleCharge|Battle Charge| Боевой Рывок
+talent_name_lanceThrust|Lance Thrust| Выпад Копьем
+talent_name_parry|Parry| Парирование
+talent_name_armorCrush|Armor Crush| Разрушение Брони
+talent_name_crushingLance|Crushing Lance| Сокрушительное Копье
+talent_name_lanceThrow|Lance Throw| Метание Копья
+talent_name_glory|Glory| Слава
+talent_name_shieldSlam|Shield Slam| Удар Щитом
+talent_name_taunt|Taunt| Насмешка
+talent_name_counter|Counter| Контрудар
+talent_name_knightsResilience|Knight's Resilience| Стойкость Рыцаря
+talent_name_damageReflect|Damage Reflect| Отражение Урона
+talent_name_honedDefenses|Honed Defenses| Отточенная Защита
+talent_name_shieldWall|Shield Wall| Стена Щитов
+talent_name_knightsVigor|Knight´s Vigor| Рыцарская Сила
+talent_name_lastStand|Last Stand| Последний Бой
+||
+talent_desc_gloriousStrike|Perform a powerful attack dealing physical area of effect damage.| Проводит мощную атаку, наносящую физический урон по области.
+talent_desc_commendingBanner|Place a commending banner on the target location increasing nearby players attack speed and attack rating.| Устанавливает знамя почета в указанном месте, увеличивая скорость атаки и рейтинг атаки ближайших игроков.
+talent_desc_battleCharge|Charge towards target location stunning and dealing arcane damage to monsters on impact.| Рывок в указанное место, оглушающий монстров и наносящий им чародейский урон при попадании.
+talent_desc_lanceThrust|Perform a long ranged lance attack piercing monsters in a line dealing physical damage. If the lance comes in contact with a commending banner you get dragged to the banner smashing the ground stunning monsters on impact.| Выполняет дальнюю атаку копьем, пронзающую монстров на линии. Если копье коснется знамени почета, вас притянет к нему, и вы ударите по земле, оглушая монстров.
+talent_desc_parry|Gives you a chance to parry incoming attacks.| Дает шанс парировать входящие атаки.
+talent_desc_armorCrush|Battle charge inflicts armor break and lowers monster attack rating on hit. | «Боевой рывок» пробивает броню и снижает рейтинг атаки монстров при попадании.
+talent_desc_crushingLance|Call a crushing lance down from the sky smashing the target location dealing area of effect damage.| Обрушивает сокрушительное копье с неба, наносящее урон по области в указанном месте.
+talent_desc_lanceThrow|When casting you have a chance to throw a piercing lance at a nearby monster dealing damage.| При использовании способностей есть шанс метнуть пронзающее копье в ближайшего монстра.
+talent_desc_glory|Gain increased attack damage and magic skill damage for a short period.| Временно увеличивает урон от атак и магических навыков.
+talent_desc_shieldSlam|Strike with your shield dealing physical damage based on the defense of your shield.| Удар щитом, наносящий физический урон в зависимости от показателя защиты щита.
+talent_desc_taunt|Taunt monsters to attack you. Additional points increase the monster amount and duration.| Заставляет монстров атаковать вас. Дополнительные очки увеличивают количество целей и длительность.
+talent_desc_counter|When active all monster attacks get countered with thrusting lances dealing arcane damage.| Когда активно, все атаки монстров парируются выпадами копий, наносящими чародейский урон.
+talent_desc_knightsResilience|Increases your life and all resistances.| Увеличивает ваш запас здоровья и все сопротивления.
+talent_desc_damageReflect|Increases your damage return.| Увеличивает отражение урона.
+talent_desc_honedDefenses|Every time you get hit by an monster attack gain stacks. At maximum stacks unleash a huge area of effect pulse dealing arcane damage to monsters around you. Can also be casted early to consume the stacks.       | Каждый раз при получении удара вы накапливаете заряды. При максимуме зарядов выпускает мощный чародейский импульс по области. Можно активировать досрочно, чтобы поглотить заряды.
+talent_desc_shieldWall|Cast a wall of shields around you blocking monster projectiles dealing arcane and physical damage on hit.| Создает вокруг вас стену щитов, блокирующую снаряды и наносящую чародейский и физический урон при контакте.
+talent_desc_knightsVigor|Gain increased maximum life and vitality.| Увеличивает максимальный запас здоровья и живучесть.
+talent_desc_lastStand|Restore yourself to full life and temporarily gain increased magic skill damage and physical damage reduction.| Полностью восстанавливает здоровье и временно увеличивает урон магических навыков и снижение физического урона.
+||
+talent_name_sandGuardian|Sand Guardians| Песчаные Стражи
+talent_name_callForWar|Call For War| Призыв к Войне
+talent_name_circleOfGuardians|Circle of Guardians| Круг Хранителей
+talent_name_piercingSand|Piercing Sand| Пронзающий Песок
+talent_name_linkOfSand|Link of Sand| Песчаная Связь
+talent_name_dissipation|Dissipation| Рассеивание
+talent_name_spiritLink|Spirit Link| Духовная Связь
+talent_name_cheapShot|Cheapshot| Подлый Удар
+talent_name_combatOrder|Combat Order| Боевой Порядок
+talent_name_ageProliferation|Age Proliferation| Распространение Старения
+talent_name_gravitationalSlam|Gravitation Slam| Гравитационный Удар
+talent_name_splitReality|Split Reality| Разделенная Реальность
+talent_name_sandsOfTime|Sands of Time| Пески Времени
+talent_name_timeDeceleration|Time Deceleration| Замедление Времени
+talent_name_dimensionalDisplacement|Dimensional Displacement| Пространственное Смещение
+talent_name_precognition|Precognition| Предвидение
+talent_name_expansiveMind|Expansive Mind| Экспансивный Разум
+talent_name_temporalHeroes|Temporal Heroes| Герои Времени
+||
+talent_desc_sandGuardian|Conjure a Sand Guardian that attacks nearby monsters dealing arcane damage. | Призывает песчаного стража, который атакует ближайших монстров, нанося чародейский урон.
+talent_desc_callForWar|Command all Sand Guardians to charge to target area. Passively increases Sand Guardian dash range.| Приказывает всем песчаным стражам совершить рывок в указанную область. Пассивно увеличивает дальность их рывка.
+talent_desc_circleOfGuardians|Conjure a circle of Sand Guardians around you increasing Sand Guardians’ arcane damage.| Создает вокруг вас круг из песчаных стражей, увеличивая их чародейский урон.
+talent_desc_piercingSand|Sand Guardians break monster arcane resistances on attack.| Песчаные стражи при атаке снижают сопротивление монстров магии.
+talent_desc_linkOfSand|Pull yourself into the closest Sand Guardian in the target location temporarily empowering all nearby Sand Guardians arcane damage.| Притягивает вас к ближайшему песчаному стражу в указанном месте, временно усиливая чародейский урон всех ближайших стражей.
+talent_desc_dissipation|Sand Guardians explode upon expiration dealing area of effect arcane damage.| По истечении времени жизни песчаные стражи взрываются, нанося чародейский урон по области.
+talent_desc_spiritLink|Link of Sand now increases your magic skill damage and physical damage reduction for a short period.| «Песчаная связь» теперь на короткое время увеличивает урон ваших магических навыков и снижает получаемый физический урон.
+talent_desc_cheapShot|Sand Guardians gain a chance to deal a deadly attack with increased arcane damage and stunning their target.| Песчаные стражи получают шанс нанести смертельный удар с повышенным чародейским уроном и оглушить цель.
+talent_desc_combatOrder|Sand Guardians gain a chance to perform an area of effect attack dealing arcane damage.| Песчаные стражи получают шанс провести атаку по области, наносящую чародейский урон.
+talent_desc_ageProliferation|Channel waves of fractal energy on the target monster sending pulses out dealing arcane damage to nearby monsters.| Направляет волны фрактальной энергии на цель, испуская импульсы, которые наносят чародейский урон ближайшим монстрам.
+talent_desc_gravitationalSlam|Raise monsters in target location into the air smashing them down with quantum force dealing arcane damage.| Поднимает монстров в указанном месте в воздух и обрушивает их вниз с квантовой силой, нанося чародейский урон.
+talent_desc_splitReality|Detach from your quantum self leaving your fractal self behind that explodes when coming in contact with an monster dealing arcane damage.| Вы отделяете от себя фрактальную копию, которая взрывается при контакте с монстром, нанося чародейский урон.
+talent_desc_sandsOfTime|Temporarily increase your arcane skill damage and cast rate.| Временно увеличивает урон и скорость колдовства чародейских навыков.
+talent_desc_timeDeceleration|Break time and space causing all nearby monsters to take arcane damage and Slowing them.| Разрывает время и пространство, нанося чародейский урон всем ближайшим монстрам и замедляя их.
+talent_desc_dimensionalDisplacement|Warp a short distance towards target location temporarily gaining increased movement speed.| Мгновенно перемещает вас на небольшое расстояние, временно увеличивая скорость передвижения.
+talent_desc_precognition|Increases your arcane skill damage.| Увеличивает урон от ваших чародейских навыков.
+talent_desc_expansiveMind|Increases your mana and mana replenish.| Увеличивает ваш запас маны и ее восполнение.
+talent_desc_temporalHeroes|Summon a fractal Viking, Pyromancer and Marksman to fight on your side.| Призывает фрактальных Викинга, Пироманта и Стрелка, которые сражаются на вашей стороне.
+||
+talent_name_frozenBoulder|Frozen Boulder| Замороженный Валун
+talent_name_breathOfIce|Breath of Ice| Дыхание Льда
+talent_name_powerOfTheAncients|Power of the Ancients| Сила Древних
+talent_name_orbOfFrost|Orb of Frost| Ледяная Сфера
+talent_name_frozenHide|Frozen Hide| Замороженная Шкура
+talent_name_icicles|Icicles| Сосульки
+talent_name_portalOfIce|Portal of Ice| Портал Льда
+talent_name_avatarOfFrost|Avatar of Frost| Аватар Льда
+talent_name_blizzard|Blizzard| Метель
+talent_name_glacialTremors|Glacial Tremors| Ледниковые Толчки
+talent_name_flashFreeze|Flash Freeze| Мгновенная Заморозка
+talent_name_freezingLeap|Freezing Leap| Замораживающий Скачок
+talent_name_permaFrost|Permafrost| Вечная Мерзлота
+talent_name_glacialArmor|Glacial Armor| Ледяная Броня
+talent_name_frostSunder|Frost Sunder| Раскол Льда
+talent_name_avalanche|Avalanche| Лавина
+talent_name_absoluteZero|Absolute Zero| Абсолютный Ноль
+talent_name_theEmbodimentOfAurgelmir|The Embodiment of Aurgelmir| Воплощение Аургельмира
+||
+talent_desc_frozenBoulder|Throw a frozen boulder dealing cold damage to monsters on its path.| Бросает замороженный валун, наносящий урон холодом монстрам на своем пути.
+talent_desc_breathOfIce|Breathe glacial air freezing and dealing cold damage to monsters.| Выдыхает ледяной воздух, замораживая монстров и нанося им урон холодом.
+talent_desc_powerOfTheAncients|Gain additional cold skill damage based on your mana.| Дает дополнительный урон навыков холода в зависимости от вашего запаса маны.
+talent_desc_orbOfFrost|Cast a frozen orb traveling in target direction releasing icicles, freezing and dealing cold damage to monsters on its path.| Выпускает ледяную сферу, летящую в указанном направлении и выпускающую сосульки, которые замораживают и наносят урон холодом монстрам на своем пути.
+talent_desc_frozenHide|Cast a frost enhanced shield on yourself reducing incoming physical damage, freezing and dealing cold damage to monsters that attack you.| Накладывает на вас ледяной щит, снижающий входящий физический урон и наносящий урон холодом атакующим вас монстрам.
+talent_desc_icicles|Every 5th time you cast a spell also release Icicles dealing cold damage.| Каждое 5-е использование заклинания также выпускает сосульки, наносящие урон холодом.
+talent_desc_portalOfIce|Teleport to the target location and release a frost nova dealing cold damage.| Телепортирует вас в указанное место и выпускает ледяную нову, наносящую урон холодом.
+talent_desc_avatarOfFrost|Increases your cold skill damage.| Увеличивает урон от ваших навыков холода.
+talent_desc_blizzard|Cast a freezing blizzard dealing area of effect cold damage and freezing monsters in the target area.| Призывает ледяную метель, наносящую урон холодом по области и замораживающую монстров.
+talent_desc_glacialTremors|Every 4th attack unleashes an area of effect blast dealing cold damage.| Каждая 4-я атака вызывает взрыв по области, наносящий урон холодом.
+talent_desc_flashFreeze|Perform an attack enhanced with ice that unleashes a chaining orb of ice, exploding into icicles at the end dealing additional cold damage.| Выполняет атаку, усиленную льдом, которая выпускает цепную ледяную сферу, взрывающуюся сосульками в конце и наносящую дополнительный урон холодом.
+talent_desc_freezingLeap|Leap through the air into target location freezing and dealing cold damage to monsters when landing.| Прыжок в указанное место, замораживающий монстров и наносящий им урон холодом при приземлении.
+talent_desc_permaFrost|Frozen monsters have a chance explode into an area of effect pulse when shattered.| Замороженные монстры при смерти могут взорваться, нанося урон холодом по области.
+talent_desc_glacialArmor|Increases your all resistances.| Увеличивает все ваши сопротивления.
+talent_desc_frostSunder|Unleash a barrage of piercing icicles dealing cold and physical damage freezing on hit.| Выпускает шквал пронзающих сосулек, наносящих урон холодом и физический урон, а также замораживающих цели.
+talent_desc_avalanche|Release a bellowing shout dealing cold damage to all monsters around you.| Издает оглушительный крик, наносящий урон холодом всем монстрам вокруг вас.
+talent_desc_absoluteZero|Break monster cold resistances on attack.| Снижает сопротивление монстров холоду при атаке.
+talent_desc_theEmbodimentOfAurgelmir|Summon the power of Aurgelmir and temporarily turn into a war machine of the frozen tundra increasing your attack damage, attack speed and life replenish.| Призывает силу Аургельмира и временно превращает вас в боевую машину ледяной тундры, увеличивая урон от атак, скорость атаки и восполнение здоровья.
+||
+talent_name_scorchingWhip|Scorching Whip| Обжигающий Кнут
+talent_name_whiplash|Whiplash| Удар Хлыстом
+talent_name_solarFlare|Solar Flare| Солнечная Вспышка
+talent_name_shineBright|Shine Bright| Свети Ярко
+talent_name_solarDash|Solar Dash| Солнечный Рывок
+talent_name_blindingLight|Blinding Light| Ослепительный Свет
+talent_name_solarForm|Solar Form| Солнечная Форма
+talent_name_solarBurst|Solar Burst| Солнечный Взрыв
+talent_name_supernova|Supernova| Сверхновая
+talent_name_collision|Collision| Столкновение
+talent_name_darkSideofTheMoon|Dark Side of the Moon| Темная Сторона Луны
+talent_name_tsunami|Tsunami| Цунами
+talent_name_asteroid|Asteroid| Астероид
+talent_name_lunarForm|Lunar Form| Лунная Форма
+talent_name_lunarOrbit|Lunar Orbit| Лунная Орбита
+talent_name_bloodMoon|Blood Moon| Кровавая Луна
+talent_name_moonlight|Moonlight| Лунный Свет
+talent_name_blackHole|Black Hole| Черная Дыра
+||
+talent_desc_scorchingWhip|Cast a scorching solar flare that whips forward dealing fire damage to monsters hit.| Выпускает палящую солнечную вспышку, которая устремляется вперед и наносит урон огнем пораженным монстрам.
+talent_desc_whiplash|Scorching Whip now creates a chaining fire ball that bounces between monsters. Fire balls can hit the same target multiple times.| «Обжигающий кнут» теперь создает цепной огненный шар, который перескакивает между монстрами. Огненные шары могут поражать одну и ту же цель несколько раз.
+talent_desc_solarFlare|Unleash solar flare projectiles that homes towards monsters.| Выпускает снаряды солнечной вспышки, которые сами наводятся на монстров.
+talent_desc_shineBright|Gain increased movement speed and attack speed.| Увеличивает скорость передвижения и атаки.
+talent_desc_solarDash|Turn into a burning ball of fire traveling towards target location dealing fire damage leaving a trail of flames behind you.| Превращает вас в пылающий огненный шар, который несется к цели, нанося урон огнем и оставляя за собой огненный след.
+talent_desc_blindingLight|You emit a blinding light that gives you chance to evade monster attacks. You also have increased cast rate while in Solar Form| Вы излучаете ослепительный свет, дающий шанс уклониться от атак монстров. Также увеличивает скорость колдовства в солнечной форме.
+talent_desc_solarForm|Turn into a living sun and gain additional fire damage. Every time you cast an active ability in solar form you unleash a fiery pulse around you.| Превращает вас в живое солнце, давая дополнительный урон огнем. Каждое использование способности в этой форме выпускает огненный импульс вокруг вас.
+talent_desc_solarBurst|When you kill an monster, summon a burning burst of solar fire beneath the dead monster that deals area of effect fire damage.| При убийстве монстра призывает под ним вспышку солнечного огня, наносящую урон огнем по области.
+talent_desc_supernova|Explode into a supernova dealing fire damage on a large radius.| Вы взрываетесь сверхновой, нанося урон огнем в большом радиусе.
+talent_desc_collision|Leap forward from your orbit and smash the ground dealing area of effect cold damage. Then dash forward on the surface of earth for short period of time and deal cold damage.| Прыжок вперед с орбиты, наносящий урон холодом по области при ударе о землю. Затем вы совершаете рывок вперед, нанося урон холодом.
+talent_desc_darkSideofTheMoon|While active, slow monsters around you and increase your mana replenish.| Пока активна, замедляет монстров вокруг вас и увеличивает восполнение маны.
+talent_desc_tsunami|Direct your lunar mass to cast a wave of tsunami forward dealing cold damage.| Направляет лунную массу, создавая волну цунами, наносящую урон холодом.
+talent_desc_asteroid|Cast down an asteroid from the sky dealing cold damage when landing.| Обрушивает астероид с неба, наносящий урон холодом при приземлении.
+talent_desc_lunarForm|Turn into a living moon and gain additional cold damage. Every time you jump, cast Collision instead.| Превращает вас в живую луну, давая дополнительный урон холодом. При каждом прыжке вместо него используется «Столкновение».
+talent_desc_lunarOrbit|Unleash small moons in your orbit dealing cold damage on hit. | Выпускает на вашей орбите малые луны, наносящие урон холодом при попадании.
+talent_desc_bloodMoon|Turn the orbiting moons into blood moons increasing their cold damage and causing them to inflict bleeding on hit.| Превращает орбитальные луны в кровавые, увеличивая их урон холодом и заставляя их вызывать кровотечение.
+talent_desc_moonlight|Increases your movement speed and cold damage dealt.| Увеличивает скорость передвижения и наносимый урон холодом.
+talent_desc_blackHole|Cast a black hole on target location that slows and pulls monsters towards it dealing cold damage.| Создает в указанном месте черную дыру, которая замедляет и притягивает монстров, нанося урон холодом.
+||
+talent_name_slicingThrow|Slicing Throw| Режущий Бросок
+talent_name_furiousStrike|Furious Strike| Яростный Удар
+talent_name_holyForm|Holy Form| Священная Форма
+talent_name_unholyForm|Unholy Form| Нечестивая Форма
+talent_name_sacrilegiousScorn|Sacrilegious Scorn| Кощунственное Презрение
+talent_name_endingFate|Ending Fate| Конечная Судьба
+talent_name_spiritualDuality|Spiritual Duality| Духовная Двойственность
+talent_name_awakeningFury|Awakening Fury| Пробуждение Ярости
+talent_name_insatiableHunger|Insatiable Hunger| Ненасытный Голод
+talent_name_chainRip|Chain Rip| Цепной Разрыв
+talent_name_brutalizingSlash|Brutalizing Slash| Жестокий Удар
+talent_name_fuelToFire|Fuel to Fire| Топливо для Огня
+talent_name_hungerForBlood|Hunger For Blood| Жажда Крови
+talent_name_butchersHook|Butchers Hook| Крюк Мясника
+talent_name_chainSwing|Chain Swing| Взмах Цепью
+talent_name_submergedKnives|Submerged Knives| Погруженные Ножи
+talent_name_enragedMania|Enraged Mania| Разъяренная Мания
+talent_name_blender|Blender| Блендер
+talent_name_daisysCall|Daisy´s Call| Призыв Дейзи
+||
+talent_desc_slicingThrow|Throw your weapon like a boomerang returning back to you dealing physical damage to monsters on its path. You can activate Daisy's Call to re-appear where the last thrown slicing throw is at any point in the flight.| Бросает оружие как бумеранг, нанося физический урон монстрам на своем пути. Вы можете активировать «Призыв Дейзи», чтобы мгновенно переместиться к летящему оружию.
+talent_desc_furiousStrike|Perform a powerful area of effect attack dealing increased damage and infecting monsters struck with a stack of rabies. Each stack of rabies increases damage dealt to the monster.| Выполняет мощную атаку по области, нанося повышенный урон и заражая монстров бешенством. Каждый заряд бешенства увеличивает урон, получаемый монстром.
+talent_desc_holyForm|Activate Holy Form gaining increased life replenish and life steal at the cost of damage dealt. Any damage dealt while in this form is decreased.| Активирует святую форму, увеличивая восполнение здоровья и похищение жизни, но снижая наносимый урон.
+talent_desc_unholyForm|Activate Unholy Form gaining increased damage at the cost inflicting a portion of your max life as damage to your self every time you cast, attack or proc something. Any life replenish when in this form is lowered.| Активирует нечестивую форму, увеличивая урон, но нанося вам часть максимального здоровья при каждом использовании навыка или атаке. Восполнение здоровья в этой форме снижено.
+talent_desc_sacrilegiousScorn|While in Holy Form gain increased attack speed and while in Unholy Form gain increased Critical damage.| В святой форме увеличивает скорость атаки, а в нечестивой — критический урон.
+talent_desc_endingFate|While in Holy Form gain increased base life regen after killing an monster and while in Unholy Form rip the monster apart after killing an monster causing huge area of effect damage.| В святой форме увеличивает регенерацию здоровья после убийства монстра, а в нечестивой — разрывает убитого монстра на части, нанося огромный урон по области.
+talent_desc_spiritualDuality|While in Holy Form increases your life Per Hit and while in Unholy Form increases your attack damage.| В святой форме увеличивает здоровье за удар, а в нечестивой — урон от атак.
+talent_desc_awakeningFury|On hit gain a chance to increase your attack damage for a short duration.| При попадании есть шанс на короткое время увеличить урон от атак.
+talent_desc_insatiableHunger|Awaken the full potential of both holy and unholy to gain both benefits for a short period of time with increased effectiveness.| Пробуждает полный потенциал обеих форм, давая их преимущества одновременно с повышенной эффективностью на короткое время.
+talent_desc_chainRip|Perform a powerful attack pulling all nearby monsters infront of you.| Выполняет мощную атаку, притягивая всех ближайших монстров к вам.
+talent_desc_brutalizingSlash|Attack with brutalizing area of effect attack causing monsters to bleed.| Жестокая атака по области, вызывающая кровотечение у монстров.
+talent_desc_fuelToFire|Increase your damage dealt for a short period of time. Every corpse close to you will be siphoned for additional damage.| Временно увеличивает наносимый урон. Каждый труп рядом с вами поглощается для получения дополнительного бонуса к урону.
+talent_desc_hungerForBlood|Deal increased damage to bleeding targets.| Наносит повышенный урон истекающим кровью целям.
+talent_desc_butchersHook|Flail a huge meat hook around you gathering all monsters struck then pulling and stunning them infront of you.| Размахивает огромным мясным крюком, собирая всех задетых монстров, притягивая их к вам и оглушая.
+talent_desc_chainSwing|Throw a meat hook that pulls you into it when connecting with monster or environment. Additionally fires chains to nearby monsters when landing.| Бросает мясной крюк, который притягивает вас к цели или окружению. При приземлении выпускает цепи в ближайших монстров.
+talent_desc_submergedKnives|Smash the ground pushing waves of butchers knives out of the ground dealing massive damage. Deals extra damage to bleeding targets.| Удар по земле, вызывающий волны мясницких ножей, наносящих огромный урон. Наносит дополнительный урон истекающим кровью целям.
+talent_desc_enragedMania|Increase attack area of effect range and attack speed.| Увеличивает радиус атаки и скорость атаки.
+talent_desc_blender|Swing two huge butchers knives around you dealing physical damage.| Размахивает двумя огромными мясницкими ножами, нанося физический урон.
+talent_desc_daisysCall|Instantly teleport to your last existing Slicing Throw.| Мгновенно телепортирует вас к летящему оружию.
+||
+talent_name_chargedBolts|Charged Bolts| Заряженные Стрелы
+talent_name_manaFiend|Manafiend| Манафинд
+talent_name_pulsingCharge|Pulsing Charge| Пульсирующий Заряд
+talent_name_lightningSurge|Lightning Surge| Удар Молнии
+talent_name_gateway|Gateway| Врата
+talent_name_chainLightning|Chain Lightning| Цепная Молния
+talent_name_staticShock|Static Shock| Статический Шок
+talent_name_stormCloud|Storm Cloud| Грозовое Облако
+talent_name_symphonyOfThunder|Symphony of Thunder| Симфония Грома
+talent_name_electricCells|Electric Cells| Электрические Элементы
+talent_name_stormBolt|Storm Bolt| Штормовой Заряд
+talent_name_highVoltageAura|High Voltage Aura| Аура Высокого Напряжения
+talent_name_loadedPulse|Loaded Pulse| Загруженный Импульс
+talent_name_waveLength|Wave Length| Длина Волны
+talent_name_theBatteryWithin|The Battery Within| Внутренний Заряд
+talent_name_hyperCharged|Hyper Charged| Гиперзаряд
+talent_name_apocalypticThunder|Apocalyptic Thunder| Апокалиптический Гром
+talent_name_afterShock|Aftershock| Афтершок
+||
+talent_desc_chargedBolts|Unleash multiple sparking bolts of electricity dealing lightning damage on hit.| Выпускает несколько искрящихся разрядов электричества, наносящих урон молнией при попадании.
+talent_desc_manaFiend|Reduce the mana cost of all skills| Снижает стоимость маны всех навыков.
+talent_desc_pulsingCharge|Charged bolts pulse when hitting an monster| Заряженные стрелы пульсируют при попадании в монстра.
+talent_desc_lightningSurge|Unleash a surge of lightning dealing lightning damage.| Выпускает волну молний, наносящую урон молнией.
+talent_desc_gateway|Instantly teleport to target spot| Мгновенно телепортирует в указанное место.
+talent_desc_chainLightning|Lightning Surge now unleashes chain lightning when colliding with an monster| «Удар молнии» теперь выпускает цепную молнию при попадании в монстра.
+talent_desc_staticShock|Shock target location with static electricity inflicting monsters with static shock dealing lightning damage over time. | Поражает указанную область статическим электричеством, нанося монстрам периодический урон молнией.
+talent_desc_stormCloud|Conjure a storm cloud at target location striking monsters with surges of lightning dealing lightning damage.| Создает грозовое облако в указанном месте, поражающее монстров разрядами молний.
+talent_desc_symphonyOfThunder|Gain increased lightning damage for a short period of time also zapping all monsters with thunderbolts when hit by a lightning skill.| Временно увеличивает урон молнией и поражает всех монстров молниями при использовании навыков молнии.
+talent_desc_electricCells|Gain increased flat mana replenish and energy| Увеличивает восполнение маны и энергию.
+talent_desc_stormBolt|Unleash a bolt of lightning dealing area of effect lightning damage.| Выпускает разряд молнии, наносящий урон молнией по области.
+talent_desc_highVoltageAura|Increases your and party members lightning skill damage.| Увеличивает урон от навыков молнии вам и членам вашей группы.
+talent_desc_loadedPulse|Storm Bolt now creates an additional static pulse dealing increased area of effect lightning damage.| «Штормовой заряд» теперь создает дополнительный статический импульс, наносящий увеличенный урон молнией по области.
+talent_desc_waveLength|Increases the projectile speed of all skills.| Увеличивает скорость снарядов всех навыков.
+talent_desc_theBatteryWithin|Gain increased life, mana and all resistances| Увеличивает запас здоровья, маны и все сопротивления.
+talent_desc_hyperCharged|Chance on Cast to gain increased faster cast rate for a short period of time| При использовании навыка есть шанс временно увеличить скорость колдовства.
+talent_desc_apocalypticThunder|Cast a high voltage thunder bolt on target spot stunning and dealing massive area of effect damage.| Обрушивает высоковольтный разряд молнии в указанную точку, оглушая врагов и нанося огромный урон по области.
+talent_desc_afterShock|Chance on kill to cast Apocalyptic Thunder on the closest monster with increased lightning damage.| При убийстве есть шанс обрушить «Апокалиптический гром» на ближайшего монстра.
+||
+talent_name_slayingRiffs|Slaying Riffs| Убийственные риффы
+talent_name_insaneRiff|Insane Riff| Безумный рифф
+talent_name_visceralGrowl|Visceral Growl| Висцеральный рык
+talent_name_ampingUp|Amping Up| Усиление
+talent_name_sacrilegiousSymphony|Sacrilegious Symphony| Кощунственная симфония
+talent_name_satansMelody|Satan´s Melody| Мелодия Сатаны
+talent_name_soundsOfSilence|Sounds of Silence| Звуки тишины
+talent_name_highDb|High dB| Высокий дБ
+talent_name_progeniesOfTheGreatCataclysm|Progenies of the Great Cataclysm| Потомки Великого Катаклизма
+talent_name_headBanger|Headbanger| Тряска головой
+talent_name_crowdPummeler|Crowd Pummeler| Усмиритель толпы
+talent_name_crowdDiver|Crowd Dive| Прыжок в толпу
+talent_name_adrenalineMomentum|Adrenaline Momentum| Адреналиновый импульс
+talent_name_cravingForAttention|Craving For Attention| Жажда внимания
+talent_name_pyroTechnician|Pyro Technician| Пиротехник
+talent_name_cravingForAnotherKilling|Craving For Another Killing| Жажда еще одного убийства
+talent_name_antiSocialPitFighter|Antisocial Pit Fighter| Боец-одиночка
+talent_name_moshpitMassacre|Moshpit Massacre| Мошпитская резня
+||
+talent_desc_slayingRiffs|Drop an amplifier from the sky smashing the ground and send notes towards it dealing lightning damage. Dropping an amplifier on another one causes it to explode.| Обрушивает усилитель с неба и посылает к нему ноты, наносящие урон молнией. Если сбросить усилитель на другой, он взорвется.
+talent_desc_insaneRiff|Every fifth spell cast is empowered.| Каждое пятое заклинание усиливается.
+talent_desc_visceralGrowl|Unleash a visceral growl in a frontal cone dealing lightning damage.| Издает жуткий рык перед собой, нанося урон молнией.
+talent_desc_ampingUp|Chance on spellhit or strike to gain a stack of amping up increasing your cast rate for a short duration.| Шанс получить заряд усиления, временно увеличивающий скорость колдовства.
+talent_desc_sacrilegiousSymphony|Channel for a brief moment before unleashing a massive area of effect pulse around you dealing lightning damage.| Короткая подготовка, после которой выпускается мощный импульс по области, наносящий урон молнией.
+talent_desc_satansMelody|Gain increased lightning skill damage for a short duration and a chance to unleash guitar picks in an arc on hit.| Временно увеличивает урон навыков молнии и дает шанс выпустить гитарные медиаторы по дуге при попадании.
+talent_desc_soundsOfSilence|Converts a portion of your intelligence into lightning skill damage.| Преобразует часть вашего интеллекта в урон навыков молнии.
+talent_desc_highDb|Notes have a chance to unleash a sonar pulse on hit dealing increased lightning damage.| При попадании ноты могут выпустить сонарный импульс, наносящий повышенный урон молнией.
+talent_desc_progeniesOfTheGreatCataclysm|Summon a massive amplifier playing black metal at high volume sending piercing notes towards nearby monsters bouncing from terrain dealing lightning damage. If you are too far from the amplifier it is pulled back to your position.| Призывает огромный усилитель, играющий блэк-метал и посылающий пронзительные ноты в ближайших монстров. Если вы отойдете слишком далеко, усилитель переместится к вам.
+talent_desc_headBanger|Every third attack unleashes a headbang dealing area of effect damage. | Каждая третья атака вызывает удар головой, наносящий урон по области.
+talent_desc_crowdPummeler|chance to unleash notes from monsters on hit dealing physical damage.| Шанс выбить из монстров ноты при ударе, наносящие физический урон.
+talent_desc_crowdDiver|Charge towards target location knocking monsters up on hit dealing physical damage.| Рывок в указанное место, подбрасывающий монстров и наносящий физический урон.
+talent_desc_adrenalineMomentum|chance to gain a stack of adrenaline momentum on hit increasing your movement speed and attack speed.| Шанс получить заряд адреналина при ударе, увеличивающий скорость передвижения и атаки.
+talent_desc_cravingForAttention|Gain fire skill damage for a portion of your total enhanced damage.| Увеличивает урон от огненных навыков на часть вашего общего бонуса к урону.
+talent_desc_pyroTechnician|Blink into the closest monster to target location unleashing an area of effect attack dealing physical and fire damage.| Мгновенно перемещает вас к ближайшему монстру в указанной области, совершая атаку по области с физическим и огненным уроном.
+talent_desc_cravingForAnotherKilling|Increases your attack damage, life per hit and attack speed for a short duration.| Временно увеличивает ваш урон от атак, похищение жизни за удар и скорость атаки.
+talent_desc_antiSocialPitFighter|Chance to apply increased magic find on kill.| Шанс увеличить показатель поиска магических предметов при убийстве.
+talent_desc_moshpitMassacre|Summon a death metal crowd to fight monsters within the area radius draining a portion of your maximum mana over time dealing physical damage.| Призывает толпу фанатов дэт-метала, которые сражаются с монстрами, постепенно расходуя вашу ману и нанося физический урон.
+||
+talent_name_mercenaryMeleeWarriorsMight|Warrior's Might| Мощь Воина
+talent_name_mercenaryMeleeDefenses|Defenses| Защита
+talent_name_mercenaryMeleeChargeStrike|Charge Strike| Удар с Разбега
+talent_name_mercenaryMeleeFatalStrike|Fatal Strike| Смертельный Удар
+talent_name_mercenaryMeleeSpikedArmor|Spiked Armor| Шипастая Броня
+talent_name_mercenaryMeleeTaunt|Taunt| Насмешка
+talent_name_mercenaryMeleeStackedRage|Stacked Rage| Накопленная Ярость
+talent_name_mercenaryMeleeSwordGrip|Sword Grip| Хват Меча
+talent_name_mercenaryMeleePlatedArmor|Plated Armor| Пластинчатая Броня
+talent_name_mercenaryMeleeStackedPain|Stacked Pain| Накопленная Боль
+talent_name_mercenaryMeleeHulkingRage|Hulking Rage| Громадная Ярость
+talent_name_mercenaryMeleeAuraExpert|Aura Expert| Мастер Аур
+talent_name_mercenaryMeleeEvasiveTactics|Evasive Tactics| Тактика Уклонения
+talent_name_mercenaryMeleeCommandersHeart|Commander's Heart| Сердце Командира
+talent_name_mercenaryMeleeBlessedStrike|Blessed Strike| Благословенный Удар
+talent_name_mercenaryMeleeBrutalBash|Brutal Bash| Жестокий Удар
+talent_name_mercenaryMeleeBacklash|Backlash| Ответный Удар
+talent_name_mercenaryMeleeProtectingCharge|Protecting Charge| Защитный Рывок
+||
+talent_desc_mercenaryMeleeWarriorsMight|Increases the Mercenarys Strength.| Увеличивает силу наемника.
+talent_desc_mercenaryMeleeDefenses|Increases the Mercenarys Armor.| Увеличивает броню наемника.
+talent_desc_mercenaryMeleeChargeStrike|The Mercenary charges into the closest monster stunning and damaging all monsters around.| Наемник бросается на ближайшего монстра, оглушая и нанося урон всем врагам вокруг.
+talent_desc_mercenaryMeleeFatalStrike|Increases the Mercenarys critical attack damage.| Увеличивает урон от критических атак наемника.
+talent_desc_mercenaryMeleeSpikedArmor|Increases damage return from monster attacks.| Увеличивает отражение урона от атак монстров.
+talent_desc_mercenaryMeleeTaunt|The Mercenary taunts nearby monsters.| Наемник провоцирует ближайших монстров.
+talent_desc_mercenaryMeleeStackedRage|Each attack on an monster generates a stack of rage. When fully stacked the Mercenary releases a powerful area of effect attack that deals damage and breaks monster armor.| Каждая атака накапливает ярость. При полном накоплении наемник проводит мощную атаку по области, которая наносит урон и пробивает броню.
+talent_desc_mercenaryMeleeSwordGrip|Increases damage done by melee attacks.| Увеличивает урон атак ближнего боя.
+talent_desc_mercenaryMeleePlatedArmor|Increases damage reduction from all sources.| Увеличивает снижение урона из всех источников.
+talent_desc_mercenaryMeleeStackedPain|Incoming attacks generated stacks of pain. Once fully stacked, release a powerful area of effect pulse that deals damage and stuns monsters.| Получаемые удары накапливают заряды боли. При полном накоплении выпускает мощный импульс по области, наносящий урон и оглушающий монстров.
+talent_desc_mercenaryMeleeHulkingRage|Increases life per hit from melee attacks.| Увеличивает похищение жизни за удар в ближнем бою.
+talent_desc_mercenaryMeleeAuraExpert|Increases the value of Mercenarys aura.| Увеличивает эффективность ауры наемника.
+talent_desc_mercenaryMeleeEvasiveTactics|Increases the Mercenarys Dodge chance.| Увеличивает шанс уклонения наемника.
+talent_desc_mercenaryMeleeCommandersHeart|Increases Mercenary health regeneration.| Увеличивает регенерацию здоровья наемника.
+talent_desc_mercenaryMeleeBlessedStrike|The Mercenary unleashes a powerful long ranged attack.| Наемник проводит мощную дальнюю атаку.
+talent_desc_mercenaryMeleeBrutalBash|The Mercenary has a chance on attack to deal additional damage, knock back monsters and slow them.| Наемник имеет шанс нанести дополнительный урон, отбросить и замедлить монстров.
+talent_desc_mercenaryMeleeBacklash|monsters have a chance to get stunned when attacking the Mercenary.| Монстры могут быть оглушены при атаке наемника.
+talent_desc_mercenaryMeleeProtectingCharge|The Mercenary detects monsters attacking the player charging, stunning and dealing damage to them.| Наемник обнаруживает монстров, атакующих игрока, и совершает защитный рывок, оглушая их.
+||
+talent_name_mercenaryRangedTriggerPower|Trigger Power| Сила Выстрела
+talent_name_mercenaryRangedRapidfire|Rapidfire| Скорострельность
+talent_name_mercenaryRangedPowershot|Powershot| Мощный Выстрел
+talent_name_mercenaryRangedRavensClaw|Raven's Claw| Коготь Ворона
+talent_name_mercenaryRangedSpreadshot|Spreadshot| Веерный Выстрел
+talent_name_mercenaryRangedHeatseekingMissile|Heatseeking Missile| Ракета с Тепловым Наведением
+talent_name_mercenaryRangedExplosiveShot|Explosive Shot| Взрывной Выстрел
+talent_name_mercenaryRangedHawkEye|Hawk Eye| Ястребиный Глаз
+talent_name_mercenaryRangedPiercingshot|Piercingshot| Пронзительный Выстрел
+talent_name_mercenaryRangedAbilityExpert|Ability Expert| Мастер Способностей
+talent_name_mercenaryRangedSoulFunnel|Soul Funnel| Душевная Воронка
+talent_name_mercenaryRangedAuraExpert|Aura Expert| Мастер Аур
+talent_name_mercenaryRangedShatterArmor|Shatter Armor| Разрушение Брони
+talent_name_mercenaryRangedQuickslugs|Quickslugs| Быстрые Пули
+talent_name_mercenaryRangedArtilleryCommand|Artillery Command| Артиллерийское Командование
+talent_name_mercenaryRangedBrainfreeze|Brainfreeze| Заморозка Мозгов
+talent_name_mercenaryRangedBurstofAgility|Burst of Agility| Всплеск Ловкости
+talent_name_mercenaryRangedHuntersTrap|Hunter's Trap| Ловушка Охотника
+||
+talent_desc_mercenaryRangedTriggerPower|Increases the Mercenarys Strength.| Увеличивает силу наемника.
+talent_desc_mercenaryRangedRapidfire|Increases the Mercenarys attack speed.| Увеличивает скорость атаки наемника.
+talent_desc_mercenaryRangedPowershot|The Mercenary shoots a powerful piercing shot that stuns monsters on impact.| Наемник совершает мощный пронзающий выстрел, который оглушает монстров при попадании.
+talent_desc_mercenaryRangedRavensClaw|Increases the Mercenarys Critical attack damage and Critical Rate.| Увеличивает шанс и урон критических ударов наемника.
+talent_desc_mercenaryRangedSpreadshot|The Mercenary has a chance on attack to shoot multiple projectiles with increased damage.| Наемник имеет шанс выпустить несколько снарядов с повышенным уроном.
+talent_desc_mercenaryRangedHeatseekingMissile|The Mercenary launches a barrage of Heat Seeking Missiles.| Наемник выпускает залп ракет с тепловым наведением.
+talent_desc_mercenaryRangedExplosiveShot|Each attack on an monster stacks up. When fully stacked the Mercenary shoots a projectile that explodes on collision.| Каждая атака накапливает заряды. При полном накоплении наемник выпускает снаряд, который взрывается при попадании.
+talent_desc_mercenaryRangedHawkEye|Increases the Mercenarys Attack Power.| Увеличивает силу атаки наемника.
+talent_desc_mercenaryRangedPiercingshot|The Mercenary has a chance on attack to shoot a piercing projectile with increased damage.| Наемник имеет шанс выпустить пронзающий снаряд с повышенным уроном.
+talent_desc_mercenaryRangedAbilityExpert|Increases the Mercenarys Explosion area of effect.| Увеличивает радиус взрывов наемника.
+talent_desc_mercenaryRangedSoulFunnel|Increases the Mercenarys life per hit.| Увеличивает похищение жизни за удар наемника.
+talent_desc_mercenaryRangedAuraExpert|Increases the value of Mercenarys aura.| Увеличивает эффективность ауры наемника.
+talent_desc_mercenaryRangedShatterArmor|The Mercenary has a chance on attack to break monster resistances.| Наемник имеет шанс при атаке снизить сопротивления монстров.
+talent_desc_mercenaryRangedQuickslugs|The Mercenary has a chance on attack to perform a burstshot.| Наемник имеет шанс при атаке произвести выстрел очередью.
+talent_desc_mercenaryRangedArtilleryCommand|The Mercenary drops a huge bomb into the nearest monster which scatters arrows around when hitting the ground.| Наемник сбрасывает огромную бомбу, которая при ударе о землю разбрасывает стрелы.
+talent_desc_mercenaryRangedBrainfreeze|The Mercenary has a chance on attack to deal area of effect damage and confuse all monsters impacted.| Наемник имеет шанс нанести урон по области и дезориентировать пораженных монстров.
+talent_desc_mercenaryRangedBurstofAgility|The Mercenary has a chance on attack to give the Player and Mercenary an attack speed boost.| Наемник имеет шанс временно увеличить скорость атаки себе и игроку.
+talent_desc_mercenaryRangedHuntersTrap|The Mercenary throws a trap that hooks nearby monsters in damaging and stunning them.| Наемник бросает ловушку, которая притягивает ближайших монстров, нанося им урон и оглушая их.
+||
+talent_name_mercenarySpellElementalIntellect|Elemental Intellect| Стихийный Интеллект
+talent_name_mercenarySpellTomeofPower|Tome of Power| Том Силы
+talent_name_mercenarySpellArcaneBlast|Arcane Blast| Чародейский Взрыв
+talent_name_mercenarySpellArcaneFire|Arcane Fire| Чародейский Огонь
+talent_name_mercenarySpellReplenishingTouch|Replenishing Touch| Восстанавливающее Прикосновение
+talent_name_mercenarySpellMagicChain|Magic Chain| Магическая Цепь
+talent_name_mercenarySpellArcanesBlessing|Arcane's Blessing| Благословение Чар
+talent_name_mercenarySpellCosmicBolt|Cosmic Bolt| Космический Заряд
+talent_name_mercenarySpellArcaneMeteor|Arcane Meteor| Чародейский Метеор
+talent_name_mercenarySpellManaflux|Manaflux| Поток Маны
+talent_name_mercenarySpellSpellburn|Spellburn| Магический Ожог
+talent_name_mercenarySpellAuraExpert|Aura Expert| Мастер Аур
+talent_name_mercenarySpellReptilianBrain|Reptilian Brain| Рептильный Мозг
+talent_name_mercenarySpellArcaneNova|Arcane Nova| Чародейская Нова
+talent_name_mercenarySpellArcaneLink|Arcane Link| Чародейская Связь
+talent_name_mercenarySpellArcaneBarrage|Arcane Barrage| Чародейский Обстрел
+talent_name_mercenarySpellWordofProtection|Word of Protection| Слово Защиты
+talent_name_mercenarySpellArcaneApocalypse|Arcane Apocalypse| Чародейский Апокалипсис
+||
+talent_desc_mercenarySpellElementalIntellect|Increases the Mercenarys magic skill damage.| Увеличивает урон магических навыков наемника.
+talent_desc_mercenarySpellTomeofPower|Increases the Mercenarys arcane damage.| Увеличивает чародейский урон наемника.
+talent_desc_mercenarySpellArcaneBlast|The Mercenary blasts the nearest monster with a powerful Arcane Blast.| Наемник поражает ближайшего монстра мощным чародейским взрывом.
+talent_desc_mercenarySpellArcaneFire|The Mercenary has a chance on attack to scorch the ground beneath the target.| Наемник имеет шанс при атаке поджечь землю под целью.
+talent_desc_mercenarySpellReplenishingTouch|The Mercenary replenishes mana.| Наемник восполняет ману.
+talent_desc_mercenarySpellMagicChain|The Mercenary casts a chain of Arcane that bounces from monster to monster dealing damage and lowering their magic resistance.| Наемник выпускает чародейскую цепь, которая перескакивает между монстрами, нанося урон и снижая их сопротивление магии.
+talent_desc_mercenarySpellArcanesBlessing|The Mercenary has a chance on attack to buff Player and Mercenary Ability Power.| Наемник имеет шанс при атаке увеличить силу способностей игрока и наемника.
+talent_desc_mercenarySpellCosmicBolt|Taking damage stacks up. Once fully stacked the Mercenary casts a Cosmic Bolt towards the nearest monster.| Получаемый урон накапливает заряды. При полном накоплении наемник выпускает космический заряд в ближайшего монстра.
+talent_desc_mercenarySpellArcaneMeteor|The Mercenary has a chance on attack to cast an Arcane Meteor down from the sky damaging monsters it impacts.| Наемник имеет шанс обрушить чародейский метеор с неба на врагов.
+talent_desc_mercenarySpellManaflux|Increases Mercenary’s Maximum Mana.| Увеличивает максимальный запас маны наемника.
+talent_desc_mercenarySpellSpellburn|The Mercenary has a chance on attack to burn and slow monsters.| Наемник имеет шанс при атаке поджечь и замедлить монстров.
+talent_desc_mercenarySpellAuraExpert|Increases the value of Mercenarys aura.| Увеличивает эффективность ауры наемника.
+talent_desc_mercenarySpellReptilianBrain|The Mercenary gains cooldown reduction.| Наемник получает сокращение времени восстановления способностей.
+talent_desc_mercenarySpellArcaneNova|The Mercenary has a chance on attack to unleash an Arcane Nova dealing damage to monsters.| Наемник имеет шанс выпустить чародейскую нову, наносящую урон монстрам.
+talent_desc_mercenarySpellArcaneLink|The Mercenary creates an Arcane Link between the Mercenary and the Player dealing damage to monsters it collides with.| Наемник создает чародейскую связь между собой и игроком, наносящую урон монстрам при контакте.
+talent_desc_mercenarySpellArcaneBarrage|The Mercenary has a chance on attack to unleash a barrage of arcane bolts.| Наемник имеет шанс выпустить шквал чародейских стрел.
+talent_desc_mercenarySpellWordofProtection|The Mercenary has a chance on attack to shield the player for a portion of maximum health.| Наемник имеет шанс при атаке наложить на игрока щит в размере части его максимального здоровья.
+talent_desc_mercenarySpellArcaneApocalypse|The Mercenary blasts all nearby monsters with arcane explosions dealing damage and slowing them.| Наемник поражает всех ближайших монстров чародейскими взрывами, нанося урон и замедляя их.
+||
+talent_name_holyFreezeAura|Holy Freeze Aura| Аура Святой Заморозки
+talent_name_thornsAura|Thorn’s Aura| Аура Шипов
+talent_name_defianceAura|Defiance Aura| Аура Неповиновения
+talent_name_redemptionAura|Redemption Aura| Аура Искупления
+talent_name_teleport|Teleport| Телепортация
+talent_name_eyeOfTarethiel|Eye of Tarethiel| Око Таретиэль
+talent_name_grimBones|Grim Bones| Мрачные Кости
+talent_name_odinsDemise|Odin’s Demise| Гибель Одина
+talent_name_faultLine|Fault Line| Линия Разлома
+talent_name_gabrielsGlory|Gabriel’s Glory| Слава Гавриила
+talent_name_steve|Steve’s Itchy Sack| Зудящий мешок Стива
+talent_name_shrapnelShells|Shrapnel Shells| Осколочные Снаряды
+talent_name_frozenCanisterRounds|Frozen Canister Rounds| Замороженные Патроны
+talent_name_overwhelmingPower|Overwhelming Power| Подавляющая Сила
+talent_name_faceBreakers|Face Breakers| Крушители Лиц
+talent_name_shadowWeave|Shadow Weave| Плетение Теней
+talent_name_shitaMorphosis|Shitamorphosis| Шитаморфоз
+talent_name_angelicVibrance|Angel’s Vibrance Aura| Аура Ангельского Резонанса
+talent_name_lunarAura|Lunar Aura| Лунная Аура
+talent_name_mirrorAura|Mirror Aura| Зеркальная Аура
+talent_name_truthSeeker|Truth Seeker| Искатель Истины
+talent_name_judgement|Judgement| Правосудие
+talent_name_despair|Despair| Отчаяние
+talent_name_stormCaller|Storm Caller| Призыватель Бури
+talent_name_arcaneInfusedPsychosis|Arcane Infused Psychosis| Чародейский Психоз
+talent_name_melonForm|Melon Form| Облик Дыни
+talent_name_theShopIsOpen|The Shop is Open| Магазин Открыт
+talent_name_rakhulsCarnage|King Rakhul’s Carnage| Резня Короля Рахула
+talent_name_lilithsRage|Lilith’s Rage| Ярость Лилит
+talent_name_valorsDefender|Valor’s Defender| Защитник Доблести
+talent_name_agonyOfSouls|Agony of Souls| Агония Душ
+talent_name_cornered|Cornered| Загнанный в Угол
+talent_name_spiderlings|Spiderlings| Паучки
+talent_name_deliriumTremens|Drunken Delirium| Пьяный Бред
+talent_name_scorchingFlames|Scorching Flames| Палящее Пламя
+talent_name_deadlyWhirl|Deadly Whirl| Смертельный Вихрь
+talent_name_ricochet|Ricochet| Рикошет
+talent_name_manaBender|Mana Bender| Маг Маны
+talent_name_summonAbomination|Summon Abomination| Призыв Мерзости
+talent_name_gabrielsShadow|Gabriel’s Shadow| Тень Габриэля
+talent_name_summonHeretic|Summon Heretic| Призыв Еретика
+talent_name_gabrielsRevenge|Gabriel’s Revenge| Месть Габриэля
+talent_name_wingsOfHatred|Wings of Hatred| Крылья Ненависти
+talent_name_celestialMight|Celestial Might| Небесная Мощь
+talent_name_demolitionExpert|Demolition Expert| Эксперт по Сносу
+talent_name_gabrielsAnnihilation|Gabriel’s Annihilation| Уничтожение Гавриила
+talent_name_fuelTheFlames|Fuel the Flames!!| Подливаем масла в огонь!!
+talent_name_soulBurn|Soulburn| Душеожог
+talent_name_forkingProjectiles|Forking Projectiles| Разветвляющиеся Снаряды
+talent_name_returningProjectiles|Returning Projectiles| Возвращающиеся Снаряды
+talent_name_coffeeMug|Caffeinated| Под Кофеином
+talent_name_thornOfVitality|Thorn of Vitality| Шип Живучести
+talent_name_mirrorDimension|Mirror Dimension| Зеркальное Измерение
+talent_name_thunderOrb|Thunder Orb| Громовая Сфера
+talent_name_collector|Collector| Коллекционер
+talent_name_freshCut|Fresh Cut| Свежая Нарезка
+talent_name_lingeringFrost|Lingering Frost| Затяжной Мороз
+talent_name_fatality|Fatality| Фаталити
+talent_name_zooooooom|Zoooooom| Вжжжжух
+talent_name_reapersCulling|Reaper´s Culling| Жатва Жнеца
+talent_name_reapingThrow|Reaping Throw| Бросок Косы
+talent_name_warriorsPath|Warrior´s Path| Путь Воина
+talent_name_rimskinAssassin|Rimskin Assassin| Убийца из Римскина
+talent_name_walsonsAid|Walson´s Aid| Помощь Уолсона
+talent_name_lostAtSea|Lost at Sea| Затерянные в Море
+talent_name_ladyLuck|Roll the Dice| Бросок Костей
+talent_name_execution|Execution| Казнь
+talent_name_liquidContainers|Liquid Containers| Контейнеры для Жидкостей
+talent_name_shadowFlames|Shadowflames| Пламя Теней
+talent_name_reverseCard|Card Throw| Бросок Карты
+talent_name_flockOfVultures|Flock of Vultures| Стая Стервятников
+talent_name_shadeOfSobek|Shade of Sobek| Тень Собека
+talent_name_wallOfEternity|Wall of Eternity| Стена Вечности
+talent_name_eternalArmor|Eternal Armor| Вечная Броня
+talent_name_tideOfBlood|Tide of Blood| Прилив Крови
+talent_name_laserSight|Laser Sight| Лазерный Прицел
+talent_name_burstOfVenom|Burst of Venom| Взрыв Яда
+talent_name_jaggedGauntlet|Jagged Gauntlet| Зубчатая Перчатка
+talent_name_acceleratedFlames|Accelerated Flames| Ускоренное Пламя
+talent_name_fallenJustice|Fallen Justice| Падшее Правосудие
+talent_name_commandersValor|Commander´s Valor| Доблесть Командира
+talent_name_fallenGodsBloodLust|Fallen God´s Bloodlust| Кровожадность Падшего Бога
+talent_name_radiantPower|Radiant Power| Лучистая Сила
+talent_name_programmersDelirium|Programmer´s Delirium| Бред Программиста
+talent_name_aimbot|Aimbot| Аимбот
+talent_name_unboundPower|Unbound Power| Неудержимая Сила
+talent_name_dragonsPresence|Dragon´s Presence| Присутствие Дракона
+talent_name_dragonsWrath|Dragon´s Wrath| Гнев Дракона
+talent_name_magnumOpus|MAGNUM OPUS| ВЕЛИКИЙ ОПУС
+talent_name_wizardsRoll|Wizard´s Roll| Бросок Волшебника
+talent_name_gladiatorsRoll|Gladiator´s Roll| Бросок Гладиатора
+talent_name_smartFuse|Smart Fuse| Умный Предохранитель
+talent_name_hexBeast|Hex Beast| Проклятый Зверь
+talent_name_fishing|Fishing| Рыбалка
+talent_name_relicCharmedBlood|Charmed Blood| Зачарованная Кровь
+talent_name_stoneSkinAura|Stoneskin Aura| Аура Каменной Кожи
+talent_name_hastefulAura|Hasteful Aura| Аура Спешки
+talent_name_balefulAura|Baleful Aura| Аура Погибели
+talent_name_fortunateAura|Fortunate Aura| Аура Удачи
+talent_name_soulBurst|Soul Burst| Всплеск Души
+talent_name_tremblingSmash|Trembling Smash| Сотрясающий Удар
+talent_name_arcaneWrath|Arcane Wrath| Чародейский Гнев
+||
+talent_desc_holyFreezeAura|Freezes and deals cold damage to all nearby monsters| Замораживает и наносит урон холодом всем ближайшим монстрам.
+talent_desc_thornsAura|Causes monster attacks to reflect a portion of their damage back to them| Заставляет атаки монстров отражать часть их урона обратно им.
+talent_desc_defianceAura|Increases Defense for you and all party members| Увеличивает защиту для вас и всех членов группы.
+talent_desc_redemptionAura|Increases life replenish for you and all party members| Увеличивает восполнение здоровья для вас и всех членов группы.
+talent_desc_teleport|Move through the ether for a short distance instantaneously| Мгновенно перемещает сквозь эфир на короткое расстояние.
+talent_desc_eyeOfTarethiel|Activates your third eye for a short period, shocking any nearby monsters with Chain Lightning dealing Lightning damage| Активирует ваш третий глаз на короткое время, поражая ближайших монстров цепной молнией с уроном от молнии.
+talent_desc_grimBones|Send forward a shockwave of bone spikes dealing physical damage.| Выпускает ударную волну костяных шипов, наносящих физический урон.
+talent_desc_odinsDemise|Conjure a ball of ethereal energy homing towards the nearest monster causing the ground to burn and unleashing spinning axes to orbit the flames dealing arcane damage| Создает шар эфирной энергии, который наводится на ближайшего монстра, поджигает землю и выпускает вращающиеся топоры, наносящие чародейский урон.
+talent_desc_faultLine|Send forward a shockwave that cracks the earth below all monsters around the initial target dealing physical damage| Выпускает ударную волну, которая раскалывает землю под всеми монстрами вокруг цели, нанося физический урон.
+talent_desc_gabrielsGlory|Unleash a nova of holy energy dealing arcane damage| Выпускает вспышку святой энергии, наносящую чародейский урон.
+talent_desc_steve|Send’s Stickman Steve on the offense dealing arcane damage| Отправляет Стикмена Стива в атаку, нанося чародейский урон.
+talent_desc_shrapnelShells|Infuses your attacks with Burning damage based on your attack damage, draining your mana with every attack| Наделяет ваши атаки уроном от горения в зависимости от урона атаки, расходуя ману при каждом ударе.
+talent_desc_frozenCanisterRounds|Infuses your attacks with extra cold damage and Freezing, draining your mana with every attack| Наделяет ваши атаки дополнительным уроном от холода и заморозкой, расходуя ману при каждом ударе.
+talent_desc_overwhelmingPower|Increases your attack damage based on your maximum Mana| Увеличивает урон от атак в зависимости от вашего максимального запаса маны.
+talent_desc_faceBreakers|Increases your attack damage| Увеличивает урон от атак.
+talent_desc_shadowWeave|Increases your Skill damage| Увеличивает урон от ваших навыков.
+talent_desc_shitaMorphosis|Merges your essence with the almighty Steve impairing your movement speed and causing you to become Paralyzed| Объединяет вашу сущность с всемогущим Стивом, снижая скорость передвижения и парализуя вас.
+talent_desc_angelicVibrance|Increases all resistances, life replenish and mana replenish for you and all party members| Увеличивает все сопротивления, восполнение здоровья и маны вам и членам вашей группы.
+talent_desc_lunarAura|Increases your attack rating, additive arcane damage and all resistances| Увеличивает ваш рейтинг атаки, дополнительный чародейский урон и все сопротивления.
+talent_desc_mirrorAura|Causes all of your skills to be double casted| Заставляет все ваши навыки срабатывать дважды.
+talent_desc_truthSeeker|Causes all projectiles to become homing| Делает все снаряды самонаводящимися.
+talent_desc_judgement|Unleash a powerful area of effect spell dealing arcane damage| Выпускает мощное заклинание по области, наносящее чародейский урон.
+talent_desc_despair|Reduces your movement speed and all resistances| Снижает вашу скорость передвижения и все сопротивления.
+talent_desc_stormCaller|Call down bolts of thunder striking all monsters around the target dealing Lightning damage| Обрушивает удары грома на всех монстров вокруг цели, нанося урон молнией.
+talent_desc_arcaneInfusedPsychosis|Breaks target’s Arcane Resistance causing all skills to deal increased arcane damage| Снижает сопротивление цели магии, заставляя все навыки наносить увеличенный чародейский урон.
+talent_desc_melonForm|Become the ultimate Elemelon| Станьте величайшим Элемелоном.
+talent_desc_theShopIsOpen|Summon Torstein and his toys| Призывает Торстейна и его игрушки.
+talent_desc_rakhulsCarnage|Perform a powerful leap attack smashing all monsters infront of you with physical damage and stunning them| Выполняет мощную атаку в прыжке, нанося физический урон всем монстрам перед вами и оглушая их.
+talent_desc_lilithsRage|Cause monsters to explode dealing damage based on their maximum life, monsters hit by this explosion will also be affected by Lilith’s Rage. This explosion doesnt benefit from any explosion modifiers.| Заставляет монстров взрываться, нанося урон в зависимости от их максимального здоровья. Пораженные взрывом монстры также попадают под действие «Ярости Лилит». На этот взрыв не действуют модификаторы взрывов.
+talent_desc_valorsDefender|Summon two big shields that are orbited by Spiked Shields| Призывает два больших щита, вокруг которых вращаются шипастые щиты.
+talent_desc_agonyOfSouls|Unleash a soul nova dealing fire damage| Выпускает нову душ, наносящую урон огнем.
+talent_desc_cornered|Your attacks cause monsters to get knocked back with increased damage, if they are knocked into the wall they get stunned.| Ваши атаки отбрасывают монстров назад с повышенным уроном; при ударе о стену они оглушаются.
+talent_desc_spiderlings|Summon spiderlings for a short period| Призывает паучков на короткое время.
+talent_desc_deliriumTremens|Loose control of your movement due to this tragic state of mind| Вы теряете контроль над движениями из-за этого трагического состояния ума.
+talent_desc_scorchingFlames|Scorches the ground with flames dealing fire damage.| Выжигает землю пламенем, нанося урон огнем.
+talent_desc_deadlyWhirl|Throw your weapon at the closest monster when striking an monster with Whirlwind or Chainsaw Massacre dealing physical damage.| Бросает оружие в ближайшего монстра при использовании «Вихря» или «Резни бензопилой», нанося физический урон.
+talent_desc_ricochet|Projectiles with physical damage bounce off of walls.| Снаряды с физическим уроном отскакивают от стен.
+talent_desc_manaBender|Converts a portion of your Energy into Magic damage.| Преобразует часть вашей энергии в магический урон.
+talent_desc_summonAbomination|Summon an Abomination to fight on your side.| Призывает Мерзость, которая сражается на вашей стороне.
+talent_desc_gabrielsShadow|Summon’s Gabriels shadow charging through the screen dealing physical damage to monsters on its path.| Призывает тень Габриэля, которая проносится через экран, нанося физический урон монстрам на своем пути.
+talent_desc_summonHeretic|Summon a Fallen Heretic to fight on your side.| Призывает падшего еретика, который сражается на вашей стороне.
+talent_desc_gabrielsRevenge|Summon three unholy swords behind you slicing forward dealing arcane damage to monsters on hit.| Призывает три нечестивых меча позади вас, которые наносят удары вперед, нанося чародейский урон.
+talent_desc_wingsOfHatred|Removes jumping collisions and reduces diminishing when landing after jumping.| Убирает столкновения при прыжках и уменьшает штраф при приземлении.
+talent_desc_celestialMight|All Elemental Skill damage increases are converted to Arcane.| Все бонусы к урону стихийных навыков преобразуются в чародейский урон.
+talent_desc_demolitionExpert|chance to throw additional grenades.| Шанс бросить дополнительные гранаты.
+talent_desc_gabrielsAnnihilation|Unleash a surge of unholy lightning dealing Lightning damage.| Выпускает волну нечестивых молний, наносящих урон молнией.
+talent_desc_fuelTheFlames|Throw oil all around you on a large area.| Разбрызгивает масло на большой площади вокруг вас.
+talent_desc_soulBurn|Causes your fire damage skills to inflict burning on monsters for a short period.| Заставляет ваши огненные навыки поджигать монстров на короткое время.
+talent_desc_forkingProjectiles|Physical projectiles split into two projectiles on the first hit, also splitting the damage.| Физические снаряды разделяются на два при первом попадании, также разделяя урон.
+talent_desc_returningProjectiles|Projectiles return after a short delay with reduced damage.| Снаряды возвращаются через некоторое время с уменьшенным уроном.
+talent_desc_coffeeMug|Increases your movement speed for a short period of time!| Увеличивает вашу скорость передвижения на короткое время!
+talent_desc_thornOfVitality|Converts every point of Vitality into damage return.| Преобразует каждую единицу живучести в отражение урона.
+talent_desc_mirrorDimension|Gives you a chance to open the dimensional portal and mirror spell casts.| Дает шанс открыть пространственный портал и дублировать заклинания.
+talent_desc_thunderOrb|Conjures a traveling orb of thunder shocking nearby monsters with chainlightning.| Создает движущуюся грозовую сферу, поражающую ближайших монстров цепной молнией.
+talent_desc_collector|Activates a random Shrine event.| Активирует случайное событие святилища.
+talent_desc_freshCut|Throw pieces of fresh hot kebab meat dealing damage and setting monsters on fire.| Бросает куски горячего кебаба, нанося урон и поджигая монстров.
+talent_desc_lingeringFrost|Converts all elemental skill damage to cold skill damage. All skills now scale from cold damage.| Преобразует весь урон стихийных навыков в урон холодом. Все навыки теперь зависят от урона холодом.
+talent_desc_fatality|When a bleeding monster dies it will explode and deal physical area of effect damage to nearby monsters.| Когда истекающий кровью монстр умирает, он взрывается и наносит физический урон по области.
+talent_desc_zooooooom|Zoom Zoom Zoom!| Вжжжжух!
+talent_desc_reapersCulling|You can no longer critically hit or miss the target and now deal increased physical damage.| Вы больше не можете наносить критические удары или промахиваться, но наносите повышенный физический урон.
+talent_desc_reapingThrow|Summon Grim Reaper´s scythe and throw with deadly force dealing Elemental damage.| Призывает косу Жнеца и мечет ее со смертоносной силой, нанося стихийный урон.
+talent_desc_warriorsPath|Increases your attack damage and magic skill damage for a short period.| Временно увеличивает урон от атак и магических навыков.
+talent_desc_rimskinAssassin|Your melee physical attacks have a chance to uppercut monsters launching them in to air stunning and dealing area of effect damage when landing.| Ваши атаки ближнего боя могут подбросить монстров в воздух апперкотом, оглушая их и нанося урон по области при приземлении.
+talent_desc_walsonsAid|Walson orbits you and attacks monsters stunning and dealing area of effect cold damage.| Уолсон кружит вокруг вас и атакует монстров, оглушая их и нанося урон холодом по области.
+talent_desc_lostAtSea|Gives Walson a chance to cast Tsunami when attacking.| Дает Уолсону шанс вызвать цунами при атаке.
+talent_desc_ladyLuck|The die has been rolled.. if the crowns combined stats surpass 777 gain lady luck´s blessing as bonus stats.| Кости брошены... если сумма характеристик корон превысит 777, вы получите благословение Госпожи Удачи.
+talent_desc_execution|Your melee physical attacks have a chance to execute low health monsters.| Ваши атаки ближнего боя могут мгновенно убить монстров с низким уровнем здоровья.
+talent_desc_liquidContainers|Your left foremost potions are now permanently active with a portion of the power. You can no longer use potions.| Ваши крайние левые зелья теперь активны постоянно с частью своей силы. Вы больше не можете использовать зелья вручную.
+talent_desc_shadowFlames|Unleash flames of shadow traveling forward dealing arcane damage.| Выпускает теневое пламя, наносящее чародейский урон.
+talent_desc_reverseCard|chance to throw a reverse card towards target on hit dealing a portion of the damage.| Шанс бросить карту в цель при попадании, нанося часть урона.
+talent_desc_flockOfVultures|Unleash a swarm of flying crows dealing fire damage on a large radius inflicting burning on hit.| Выпускает стаю ворон, наносящих урон огнем в большом радиусе и поджигающих цели.
+talent_desc_shadeOfSobek|Chance on cast to summon the shade of sobek to fight by your side for a short duration.| При использовании навыка есть шанс призвать тень Собека на короткое время.
+talent_desc_wallOfEternity|Chance when struck to unleash a wall of marching mummies dealing damage and knocking back monsters on hit.| При получении удара есть шанс вызвать стену марширующих мумий, наносящих урон и отбрасывающих врагов.
+talent_desc_eternalArmor|Increases your total damage return by a portion of your armor.| Увеличивает отражение урона на часть вашего показателя брони.
+talent_desc_tideOfBlood|Unleash a falling blood moon exploding into smaller moons which explode into smaller moons dealing magic damage.| Обрушивает кровавую луну, которая распадается на более мелкие луны, наносящие магический урон.
+talent_desc_laserSight|Provides a visual reference point for better accuracy.| Обеспечивает визуальную точку отсчета для большей точности.
+talent_desc_burstOfVenom|Your attacks inject a stack of venom on hit causing them to unleash a burst of venom at six stacks.| Ваши атаки накладывают заряды яда; при накоплении 6 зарядов происходит ядовитый взрыв.
+talent_desc_jaggedGauntlet|Spells and attacks have a chance to deal increased damage based on your critical strike damage. This effect does not count as a critical hit. Your critical chance is halved and your critical damage is capped.| Заклинания и атаки могут нанести повышенный урон в зависимости от вашего урона критического удара. Этот эффект не считается критическим ударом. Шанс критического удара уменьшен вдвое, а урон ограничен.
+talent_desc_acceleratedFlames|Increases the speed of your projectiles.| Увеличивает скорость ваших снарядов.
+talent_desc_fallenJustice|When hitting monsters with a skill or an attack you have a chance to unleash a powerful earth shock at the target location dealing damage on a large radius.| При попадании навыком или атакой есть шанс вызвать мощный удар земли, наносящий урон в большом радиусе.
+talent_desc_commandersValor|Summons gain increased critical strike chance and critical strike damage.| Прислужники получают повышенный шанс и урон критического удара.
+talent_desc_fallenGodsBloodLust|Converts a portion of your attack speed into faster cast rate.| Преобразует часть вашей скорости атаки в скорость колдовства.
+talent_desc_radiantPower|Gain magic skill damage based on your maximum mana for a short duration.| Временно увеличивает урон магических навыков в зависимости от вашего максимального запаса маны.
+talent_desc_programmersDelirium|Increases the power of stats on your ring slots.| Усиливает характеристики в слотах колец.
+talent_desc_aimbot|All casts and attacks are targeted towards the closest target.| Все заклинания и атаки автоматически направляются в ближайшую цель.
+talent_desc_unboundPower|Enables equipping any type of weapon.| Позволяет экипировать любой тип оружия.
+talent_desc_dragonsPresence|Inflicts monsters on flames when struck.| Поджигает монстров при попадании.
+talent_desc_dragonsWrath|Executes monsters below a threshold.| Мгновенно убивает монстров с низким уровнем здоровья.
+talent_desc_magnumOpus|You can now roll critical strike multiple times until failior, every consequent critical strike roll lowers the chance of the next one.| Позволяет наносить несколько критических ударов подряд до первой неудачи; каждый последующий шанс ниже предыдущего.
+talent_desc_wizardsRoll|Roll the dice when casting for a random effect.| Бросает кости при использовании навыка для получения случайного эффекта.
+talent_desc_gladiatorsRoll|Roll the dice when attacking for a random effect.| Бросает кости при атаке для получения случайного эффекта.
+talent_desc_smartFuse|Grenade now explodes instantly instead of after a delay.| Гранаты теперь взрываются мгновенно, без задержки.
+talent_desc_hexBeast|Follower projectiles explode on impact dealing additional damage on a large radius.| Снаряды спутников взрываются при попадании, нанося дополнительный урон в большом радиусе.
+talent_desc_fishing|Throw a lure at a nearby fishing spot.| Забросить приманку в ближайшее место для рыбалки.
+talent_desc_relicCharmedBlood|Your life leech lasts for longer without penalty.| Похищение жизни длится дольше без штрафов.
+talent_desc_stoneSkinAura|Increases damage reduction for all nearby party members.| Увеличивает снижение урона для всех ближайших членов группы.
+talent_desc_hastefulAura|Increases movement speed and cast rate for all nearby party members.| Увеличивает скорость передвижения и колдовства для всех ближайших членов группы.
+talent_desc_balefulAura|Increases magic skill damage and attack damage for all nearby party members.| Увеличивает урон магических навыков и атак для всех ближайших членов группы.
+talent_desc_fortunateAura|Increases magic find and experience gain for all nearby party members.| Увеличивает поиск магических предметов и получение опыта для всех ближайших членов группы.
+talent_desc_soulBurst|Chance on kill to randomly gain increased movement speed, attack speed or faster cast rate.| При убийстве есть шанс случайно увеличить скорость передвижения, атаки или колдовства.
+talent_desc_tremblingSmash|Smash the ground infront of you dealing massive area of effect damage.| Удар по земле перед собой, наносящий огромный урон по области.
+talent_desc_arcaneWrath|Causes your arcane damage skills to inflict shadow burn on monsters for a short period.| Заставляет ваши чародейские навыки накладывать эффект теневого ожога на короткое время.
+||
+talent_name_bloodOfSpartan|Spartan Defense| Спартанская защита
+talent_name_bottleOfRadogate|Fleet Footwork| Быстрая работа ног
+talent_name_bottleOfSake|Drunken Kung Fu| Пьяное кунг-фу
+talent_name_caffeinatedCoffeeContainer|The Fragrance of Dark Coffee| Аромат темного кофе
+talent_name_elixirOfDeath|Berserker’s Rage| Ярость берсерка
+talent_name_elixirOfUnworldlyCognition|Untamed Knowledge| Необузданное знание
+talent_name_emptyBottleOfVodka|Drunken Infused Wisdom| Пьяная мудрость
+talent_name_ghostlyPotion|Parallel Dimension| Параллельное измерение
+talent_name_goldInlaidMysteriousPotion|Endless Wealth| Бесконечное богатство
+talent_name_maggotEyeElixir|Absolute Power| Абсолютная власть
+talent_name_powerOfVoid|Chaos Unleashed| Высвобожденный хаос
+talent_name_praetorianBlood|Vampirism| Вампиризм
+talent_name_prismaticPotion|Prismatic Skin| Призматическая кожа
+talent_name_proteinShake|Flexing| Флекс
+talent_name_radBull|Hyper Activity| Гиперактивность
+talent_name_sungLeesUnleashedRage|Momentary Insanity| Кратковременное безумие
+talent_name_surstromming|Taste of Heaven| Вкус рая
+talent_name_witchesPotion|Conjured Replenishment| Магическое восполнение
+talent_name_wizardPotion|Rapidcaster| Быстрое колдовство
+talent_name_commandMinions|Command Minions| Командовать прислужниками
+talent_name_corrosionDarkness|Corrosion of Darkness| Коррозия тьмы
+talent_name_amunRasDemise|Amun Ra´s Demise| Кончина Амона Ра
+||
+talent_desc_bloodOfSpartan|Increases your Defense and damage return for a short period of time| Временно увеличивает вашу защиту и отражение урона.
+talent_desc_bottleOfRadogate|Increases your movement speed and gives you Phasing for a short period of time| Временно увеличивает скорость передвижения и дает эффект фазирования.
+talent_desc_bottleOfSake|Increases your attack damage and Critical Strike damage for a short period of time| Временно увеличивает урон от атак и критических ударов.
+talent_desc_caffeinatedCoffeeContainer|Increases your Burning damage for a short period of time| Временно увеличивает урон от горения.
+talent_desc_elixirOfDeath|Increases your damage and magic skill damage for a short period of time| Временно увеличивает ваш урон и урон магических навыков.
+talent_desc_elixirOfUnworldlyCognition|Increases your Experience Gain for a short period of time| Временно увеличивает получение опыта.
+talent_desc_emptyBottleOfVodka|Increases All Skills for a short period of time| Временно повышает уровень всех навыков.
+talent_desc_ghostlyPotion|Increases your Skill damage for a short period of time| Временно увеличивает урон от навыков.
+talent_desc_goldInlaidMysteriousPotion|Increases your Magic Find and Extra Gold from kills for a short period of time| Временно увеличивает поиск магических предметов и количество выпадающего золота.
+talent_desc_maggotEyeElixir|Increases your attack speed and attack rating for a short period of time| Временно увеличивает скорость атаки и рейтинг атаки.
+talent_desc_powerOfVoid|Causes your skills to rain down comets dealing fire damage for a short period of time| Заставляет ваши навыки обрушивать кометы, наносящие урон огнем, в течение короткого времени.
+talent_desc_praetorianBlood|Increases your life Steal for a short period of time| Временно увеличивает похищение жизни.
+talent_desc_prismaticPotion|Increases your all resistances for a short period of time| Временно увеличивает все ваши сопротивления.
+talent_desc_proteinShake|Increases your Strength and Vitality for a short period of time| Временно увеличивает вашу силу и живучесть.
+talent_desc_radBull|Increases your attack speed and movement speed for a short period of time| Временно увеличивает скорость атаки и передвижения.
+talent_desc_sungLeesUnleashedRage|Increases your Bleed damage for a short period of time| Временно увеличивает урон от кровотечения.
+talent_desc_surstromming|Increases your life replenish and mana replenish for a short period of time| Временно увеличивает восполнение здоровья и маны.
+talent_desc_witchesPotion|Instantly recover full life and Mana, increasing your life replenish and mana replenish for a short period of time| Мгновенно восстанавливает здоровье и ману, временно увеличивая их восполнение.
+talent_desc_wizardPotion|Increases your cast rate for a short period of time| Временно увеличивает скорость колдовства.
+talent_desc_commandMinions|Command all of your minions to either move to a location or attack an monster| Приказывает всем вашим прислужникам переместиться в указанное место или атаковать монстра.
+talent_desc_corrosionDarkness|Increases your Poisoned damage for a short period of time.| Временно увеличивает урон от отравления.
+talent_desc_amunRasDemise|Monsters have a chance to explode on death dealing a portion of their maximum life as fire damage.| Монстры могут взорваться при смерти, нанося урон огнем в зависимости от их максимального здоровья.
+||
+talent_name_glyphOfGreed|Glyph of Greed| Символ жадности
+talent_name_glyphOfGoblin|Glyph of Goblin| Символ гоблина
+talent_name_glyphOfLoot|Glyph of Loot| Символ добычи
+talent_name_glyphOfGamba|Glyph of Gamba| Символ азарта
+talent_name_glyphOfTreasure|Glyph of Treasure| Символ сокровищ
+talent_name_glyphOfAngel|Glyph of Angel| Символ ангела
+talent_name_glyphOfAlchemist|Glyph of Alchemist| Символ алхимика
+talent_name_glyphOfKeyMaster|Glyph of Key Master| Символ мастера ключей
+talent_name_glyphOfShadow|Glyph of Shadow| Символ тени
+talent_name_glyphOfTower|Glyph of Tower| Символ башни
+talent_name_glyphOfBattle|Glyph of Battle| Символ битвы
+talent_name_glyphOfRunemaster|Glyph of Runemaster| Символ мастера рун
+talent_name_glyphOfJewelcrafter|Glyph of Jewelcrafter| Символ ювелира
+talent_name_glyphOfGeras|Glyph of Geras| Символ Гераса
+talent_name_glyphOfRift|Glyph of Rift| Символ разлома
+talent_name_glyphOfBifrost|Glyph of Bifröst| Символ Биврёста
+talent_name_glyphOfAlfather|Glyph of Alfather| Символ Всеотца
+talent_name_glyphOfRelic|Glyph of Relic| Символ реликвии
+talent_name_glyphOfSatanicDice|Glyph of Satanic Dice| Символ сатанинских костей
+talent_name_glyphOfPrimeEvil|Glyph of Prime Evil| Символ первородного зла
+talent_name_glyphOfArtisan|Glyph of Artisan| Символ ремесленника
+||
+talent_desc_glyphOfGreed|Adds a chance to drop extra gold on monster kills.| Добавляет шанс выпадения дополнительного золота при убийстве монстров.
+talent_desc_glyphOfGoblin|Adds a chance to summon a treasure goblin when killing an ancient monster.| Добавляет шанс призыва гоблина сокровищ при убийстве древнего монстра.
+talent_desc_glyphOfLoot|Adds a chance to increase loot amount on monster kills.| Добавляет шанс увеличить количество добычи при убийстве монстров.
+talent_desc_glyphOfGamba|Increases the chance of shrines spawning as a gamba machine when entering a fresh zone.| Увеличивает шанс появления игровых автоматов вместо святилищ при входе в новую зону.
+talent_desc_glyphOfTreasure|Increases the chance of higher value chests when entering a fresh zone.| Увеличивает шанс появления ценных сундуков при входе в новую зону.
+talent_desc_glyphOfAngel|Adds a chance to increase magic find value of monster kills.| Добавляет шанс увеличить показатель поиска магических предметов при убийстве монстров.
+talent_desc_glyphOfAlchemist|Adds a chance to spawn a treasure chest when killing an ancient monster.| Добавляет шанс появления сундука с сокровищами при убийстве древнего монстра.
+talent_desc_glyphOfKeyMaster|Increases the chance to drop dungeon keys.| Увеличивает шанс выпадения ключей от подземелий.
+talent_desc_glyphOfShadow|Increases the chance to spawn shadow realm when entering a fresh zone.| Увеличивает шанс появления теневого царства при входе в новую зону.
+talent_desc_glyphOfTower|Increases the chance to spawn a chaos tower when entering a fresh zone.| Увеличивает шанс появления башни хаоса при входе в новую зону.
+talent_desc_glyphOfBattle|Increases the chance to spawn eternal battlefield when entering a fresh zone.| Увеличивает шанс появления вечного поля битвы при входе в новую зону.
+talent_desc_glyphOfRunemaster|Adds a chance to increase rune drop chance on monster kills.| Добавляет шанс выпадения рун при убийстве монстров.
+talent_desc_glyphOfJewelcrafter|Adds a chance to increase gem drop chance on monster kills.| Добавляет шанс выпадения драгоценных камней при убийстве монстров.
+talent_desc_glyphOfGeras|Increases the chance to spawn a traveling merchant when entering a fresh zone.| Увеличивает шанс появления странствующего торговца при входе в новую зону.
+talent_desc_glyphOfRift|Increases the chance to spawn an unstable rift when entering a fresh zone.| Увеличивает шанс появления нестабильного разлома при входе в новую зону.
+talent_desc_glyphOfBifrost|Increases the chance to drop a bifröst key on monster kills.| Увеличивает шанс выпадения ключа Биврёста при убийстве монстров.
+talent_desc_glyphOfAlfather|Increases the chance to drop an angelic key on monster kills.| Увеличивает шанс выпадения ангельского ключа при убийстве монстров.
+talent_desc_glyphOfRelic|Increases the chance to drop a relic on monster kills.| Увеличивает шанс выпадения реликвии при убийстве монстров.
+talent_desc_glyphOfSatanicDice|Increases the chance to drop a satanic dice on monster kills.| Увеличивает шанс выпадения сатанинских костей при убийстве монстров.
+talent_desc_glyphOfPrimeEvil|Increases the chance to drop prime evil parts from act bosses.| Увеличивает шанс выпадения частей первородного зла из боссов актов.
+talent_desc_glyphOfArtisan|Increases the chance to drop jewels and orbs on monster kills.| Увеличивает шанс выпадения драгоценностей и сфер при убийстве монстров.
+||
+tree_1_0|Shield Bearer| Щитоносец
+tree_2_0|Berserker| Берсерк
+tree_1_1|Flame Diviner| Провидец Пламени
+tree_2_1|Arsonist| Поджигатель
+tree_1_2|Sharpshooter| Меткий Стрелок
+tree_2_2|Engineer| Инженер
+tree_1_3|Gunner| Стрелок
+tree_2_3|Plunderer| Грабитель
+tree_1_4|Wanderer| Странник
+tree_2_4|Vagabond| Бродяга
+tree_1_5|Hillbilly| Деревенщина
+tree_2_5|Logger| Лесоруб
+tree_1_6|Venomancer| Веномант
+tree_2_6|Lord of the Dead| Повелитель Мертвых
+tree_1_7|Ronin| Ронин
+tree_2_7|Emperor's Blade| Клинок Императора
+tree_1_8|Justiciar| Юстициар
+tree_2_8|Lionheart| Львиное Сердце
+tree_1_9|Huntress| Охотница
+tree_2_9|Valkyrie| Валькирия
+tree_1_10|Gunslinger| Стрелок
+tree_2_10|Executioner| Палач
+tree_1_11|Bone Conjurer| Заклинатель Костей
+tree_2_11|Blood Lord| Кровавый Лорд
+tree_1_12|Elementalist| Элементалист
+tree_2_12|Chieftain| Вождь
+tree_1_13|Zealot| Фанатик
+tree_2_13|Divine Being| Божественное Существо
+tree_1_14|Juggernaut| Джаггернаут
+tree_2_14|Gladiator| Гладиатор
+tree_1_15|Sanguine Physician| Сангвиник-Врач
+tree_2_15|Plague Caller| Призыватель Чумы
+tree_1_16|Champion| Чемпион
+tree_2_16|Knight| Рыцарь
+tree_1_17|Son of Ymir| Сын Имира
+tree_2_17|Son of Aurgelmir| Сын Аургельмира
+tree_1_18|Sand Manipulator| Манипулятор Песка
+tree_2_18|Chronomancer| Хрономант
+tree_1_19|Solar Prophet| Солнечный Пророк
+tree_2_19|Lunar Prophet| Лунный Пророк
+tree_1_20|Face of Duality| Лик Двойственности
+tree_2_20|Flesh Ripper| Потрошитель Плоти
+tree_1_21|Storm Conjurer| Заклинатель Бури
+tree_2_21|Essence of Storm| Сущность Шторма
+tree_1_22|Metal Guitarist| Метал-Гитарист
+tree_2_22|Pit Fighter| Боец Ямы
+||
+node_magic|Magic Node| Магический узел
+node_heroic|Heroic Node| Героический узел
+||
+node_mythic_fury|Mythic Node of Fury| Мифический Узел Ярости
+node_mythic_potential|Mythic Node of Potential| Мифический Узел Потенциала
+node_mythic_purepower|Mythic Node of Pure Power| Мифический Узел Чистой Силы
+node_mythic_grandintellect|Mythic Node of Grand Intellect| Мифический Узел Великого Интеллекта
+node_mythic_longlife|Mythic Node of Long Life| Мифический Узел Долгой Жизни
+node_mythic_endlessenergy|Mythic Node of Endless Energy| Мифический Узел Бесконечной Энергии
+node_mythic_rage|Mythic Node of Rage| Мифический Узел Гнева
+node_mythic_tactician|Mythic Node of Tactician| Мифический Узел Тактика
+node_mythic_rapidfire|Mythic Node of Rapid Fire| Мифический Узел Беглого Огня
+node_mythic_recovery|Mythic Node of Recovery| Мифический Узел Восстановления
+node_mythic_brilliance|Mythic Node of Brilliance| Мифический Узел Гениальности
+node_mythic_soulhunger|Mythic Node of Soul Hunger| Мифический Узел Голода Души
+node_mythic_absoluteresistance|Mythic Node of Absolute Resistance| Мифический Узел Абсолютного Сопротивления
+node_mythic_godspresence|Mythic Node of God’s Presence| Мифический Узел Присутствия Бога
+node_mythic_manmadeluck|Mythic Node of Man-made Luck| Мифический Узел Рукотворной Удачи
+node_mythic_swiftness|Mythic Node of Swiftness| Мифический Узел Стремительности
+node_mythic_champion|Mythic Node of Champion| Мифический Узел Чемпиона
+node_mythic_master|Mythic Node of Master| Мифический Узел Мастера
+node_mythic_jeweler|Mythic Node of Jeweler| Мифический Узел Ювелира
+node_mythic_craftsman|Mythic Node of Craftsman| Мифический Узел Ремесленника
+||
+incarnation_tutorial_1_header|Welcome to Incarnation Tree!| Добро пожаловать в Древо воплощений!
+incarnation_tutorial_1_text|You unlock [c_red]Incarnation Tree[c_reset] after reaching level 100 on your character.[nl]You receive 2 Incarnation Points for each Hero Level, which you can spend on the tree.[nl]Use [c_green]LMB[c_reset] to add points, [c_green]RMB[c_reset] to remove points and [c_green]LMB & Mouse Scroll[c_reset] to navigate and zoom in and out the tree. [nl]Assigning and removing points costs gold, so before saving, ensure your selections are as desired![nl]You can edit your selections at any time.| Вы разблокируете [c_red]Древо воплощений[c_reset] по достижении 100-го уровня.[nl]Вы получаете по 2 очка воплощения за каждый уровень героя.[nl]Используйте [c_green]ЛКМ[c_reset] для добавления очков, [c_green]ПКМ[c_reset] для удаления и [c_green]ЛКМ + колесико мыши[c_reset] для навигации и масштабирования.[nl]Распределение и сброс очков стоят золота, поэтому делайте выбор обдуманно![nl]Вы можете изменить свой выбор в любое время.
+incarnation_tutorial_1_gpad_text|You unlock [c_red]Incarnation Tree[c_reset] after reaching level 100 on your character.[nl]You receive 2 Incarnation Points for each Hero Level, which you can spend on the tree.[nl]Use [c_green]A[c_reset] to add points, [c_green]X[c_reset] to remove points and [c_green]Right Stick[c_reset] to Zoom In and Out. [nl]Assigning and removing points costs gold, so before saving, ensure your selections are as desired![nl]You can edit your selections at any time.| Вы разблокируете [c_red]Древо воплощений[c_reset] по достижении 100-го уровня.[nl]Вы получаете по 2 очка воплощения за каждый уровень героя.[nl]Используйте [c_green]A[c_reset] для добавления очков, [c_green]X[c_reset] для удаления и [c_green]правый стик[c_reset] для масштабирования.[nl]Распределение и сброс очков стоят золота, поэтому делайте выбор обдуманно![nl]Вы можете изменить свой выбор в любое время.
+incarnation_tutorial_2_header|Magic Nodes| Магические узлы
+incarnation_tutorial_2_text|There are 6 different [c_aqua]Magic Nodes[c_reset] to choose from, each corresponding to a different attribute. [nl]Each [c_aqua]Magic Node[c_reset] grants you +1 to the attribute it provides: [c_coin]Strength, Dexterity, Intelligence, Energy, Armor or Vitality[c_reset].| На выбор предлагается 6 различных [c_aqua]Магических узлов[c_reset], каждый из которых соответствует определенному атрибуту.[nl]Каждый [c_aqua]Магический узел[c_reset] дает +1 к своему атрибуту: [c_coin]Сила, Ловкость, Интеллект, Энергия, Броня или Живучесть[c_reset].
+incarnation_tutorial_3_header|Mythic Nodes| Мифические узлы
+incarnation_tutorial_3_text|[c_purple]Mythic Nodes[c_reset] are powerful and unique, offering various useful stats.[nl]They can provide significant boosts in power, utility or defense.[nl]Hover over a node to see its tooltip and learn about its specific benefits, then plan your route accordingly.| [c_purple]Мифические узлы[c_reset] — это мощные и уникальные узлы, дающие различные полезные характеристики.[nl]Они могут значительно повысить вашу силу, полезность или защиту.[nl]Наведите на узел, чтобы увидеть подсказку и узнать о его бонусах, а затем планируйте свой путь.
+incarnation_tutorial_4_header|Heroic Nodes| Героические узлы
+incarnation_tutorial_4_text|[c_heroic]Heroic Nodes[c_reset] are the most potent nodes on the Incarnation Tree.[nl]While they do not provide immediate benefits, you can socket unique [c_heroic]Glyphs[c_reset] to them to gain powerful passive abilities.[nl]To further ehance the power of the [c_heroic]Glyph[c_reset], pay attention to its properties.[nl][c_heroic]Glyphs[c_reset] can increase in power for each assigned [c_aqua]Magic Node[c_reset] in a [c_coin]5 x 5 area around[c_reset] the [c_heroic]Heroic Node[c_reset] where the [c_heroic]Glyph[c_reset] is socketed.| [c_heroic]Героические узлы[c_reset] — самые сильные узлы в Древе воплощений.[nl]Сами по себе они не дают бонусов, но в них можно вставить уникальные [c_heroic]Глифы[c_reset] для получения мощных пассивных способностей.[nl]Чтобы усилить [c_heroic]Глиф[c_reset], обратите внимание на его свойства.[nl]Сила [c_heroic]Глифов[c_reset] может расти за каждый активированный [c_aqua]Магический узел[c_reset] в области [c_coin]5 x 5[c_reset] вокруг [c_heroic]Героического узла[c_reset].
+incarnation_tutorial_5_header|Glyphs| Глифы
+incarnation_tutorial_5_text|[c_heroic]Glyphs[c_reset] can only be obtained from Key Dungeons.[nl]Each unique [c_heroic]Glyph[c_reset] can also be leveled up to a maximum of [c_coin]Level 7[c_reset] after completing a Key Dungeon.[nl]Next to the [c_red]Reward Chest[c_reset], an [c_red]Altar of Incarnation[c_reset] spawns where you can place your [c_heroic]Glyph[c_reset] and allocate [c_purple]Incarnation Experience[c_reset] to it.[nl]You gain [c_purple]Incarnation Experience[c_reset] from each monster killed inside a Key Dungeon, with higher dungeon tiers yielding more experience.| [c_heroic]Глифы[c_reset] можно получить только в Ключевых подземельях.[nl]Каждый [c_heroic]Глиф[c_reset] можно развить до [c_coin]7-го уровня[c_reset] после прохождения подземелья.[nl]Рядом с [c_red]сундуком с наградой[c_reset] появится [c_red]Алтарь воплощения[c_reset], где можно вложить [c_purple]Опыт воплощения[c_reset] в ваш [c_heroic]Глиф[c_reset].[nl]Вы получаете [c_purple]Опыт воплощения[c_reset] за каждого убитого монстра в Ключевом подземелье.
+||
+[GUILD_PERKS]||
+guild_perk_name_0|Guild Stash| Тайник гильдии
+guild_perk_text_0|Unlock the guild stash| Разблокирует тайник гильдии.
+guild_perk_name_1|Mercenary Contract| Контракт наемника
+guild_perk_text_1|Lowers the cost of hiring Mercenaries by 10%| Снижает стоимость найма наемников на 10%.
+guild_perk_name_2|Resurrection Contract| Контракт на воскрешение
+guild_perk_text_2|Lowers the cost of resurrecting Mercenaries by 10%| Снижает стоимость воскрешения наемников на 10%.
+guild_perk_name_3|Magic Finder| Поиск магических предметов
+guild_perk_text_3|Increases guild member Magic Find by 5%| Увеличивает шанс поиска магических предметов у членов гильдии на 5%.
+guild_perk_name_4|Footwork| Работа ног
+guild_perk_text_4|Increases guild member movement speed by 5%| Увеличивает скорость передвижения членов гильдии на 5%.
+guild_perk_name_5|Cashier| Кассир
+guild_perk_text_5|Increases Gold drops from monster kills by 10%| Увеличивает количество выпадающего золота на 10%.
+guild_perk_name_6|Businessman| Бизнесмен
+guild_perk_text_6|Lowers vendor prices by 5%| Снижает цены у торговцев на 5%.
+guild_perk_name_7|Top Tier Guild| Гильдия высшего уровня
+guild_perk_text_7|All Heroes of the guild receive an additional 5% experience from kills and quests. Guild stash extra tab unlocked!| Все герои гильдии получают на 5% больше опыта. Разблокирована дополнительная вкладка в тайнике гильдии!
+||
+[ANGELIC AUGMENTS]||
+talent_name_gutRippersSpikeball|Gut Ripper's Spikeball| Шипастый Шар Потрошителя
+talent_name_doubleSwing|Double Swing| Двойной Взмах
+talent_name_weaponThrow|Weapon Throw| Метание Оружия
+talent_name_soulTap|Soul Tap| Похищение Души
+talent_name_vacuumingStrike|Vacuuming Strike| Вакуумный Удар
+talent_name_sproutingIvy|Sprouting Ivy| Прорастающий Плющ
+talent_name_fleetFeet|Fleet Feet| Быстрые Ноги
+talent_name_touchDown|Touch Down| Тачдаун
+talent_name_rupturingStrike|Rupturing Strike| Разрывной Удар
+talent_name_berserkersRage|Berserker's Rage| Ярость Берсерка
+talent_name_butchersFury|Butcher's Fury| Ярость Мясника
+talent_name_odinsWrath|Odin's Wrath| Гнев Одина
+talent_name_warsong|Warsong| Песнь Войны
+talent_name_divinePiercing|Divine Piercing| Божественное Пробитие
+talent_name_homingMissiles|Homing Missiles| Самонаводящиеся Ракеты
+talent_name_flurry|Flurry| Шквал
+talent_name_doomCannon|Doomcannon| Пушка Рока
+talent_name_superShot|Supershot| Супервыстрел
+talent_name_impetus|Impetus| Импульс
+talent_name_staticShot|Staticshot| Статический Выстрел
+talent_name_spreadShot|Spreadshot| Веерный Выстрел
+talent_name_awareness|Awareness| Осведомленность
+talent_name_powerShot|Powershot| Мощный Выстрел
+talent_name_lethalTempo|Lethal Tempo| Смертельный Темп
+talent_name_artilleryAid|Artillery Aid| Артиллерийская Помощь
+talent_name_powderKeg|Powder Keg| Пороховая Бочка
+talent_name_mageFury|Magefury| Магическая Ярость
+talent_name_conjuredHex|Conjured Hex| Магическое Проклятие
+talent_name_wizardsWrath|Wizard's Wrath| Гнев Волшебника
+talent_name_mysticOrb|Mystic Orb| Мистическая Сфера
+talent_name_deathsAnguish|Death's Anguish| Смертельные Муки
+talent_name_touchOfDeath|Touch of Death| Прикосновение Смерти
+talent_name_hellFire|Hellfire| Адский Огонь
+talent_name_shroomOfDoom|Shroom of Doom| Гриб Рока
+talent_name_shadowBarrage|Shadow Barrage| Теневой Шквал
+talent_name_gravesGrasp|Grave's Grasp| Хватка Могилы
+talent_name_seedOfDestruction|Seed of Destruction| Семя Разрушения
+talent_name_shadowsGrasp|Shadow's Grasp| Хватка Тени
+talent_name_freezingEnchant|Freezing Enchant| Замораживающие Чары
+talent_name_glyphPrecision|Precision| Точность
+talent_name_glyphMysticInsight|Mystic Insight| Мистическое Прозрение
+talent_name_glyphSpellSlinger|Spellslinger| Заклинатель
+talent_name_glyphTempestStrikes|Tempest Strikes| Удары Бури
+talent_name_glyphCorrosion|Corrosion| Коррозия
+talent_name_glyphSingularity|Singularity| Сингулярность
+talent_name_glyphEcho|Echoes of the Void| Отголоски Пустоты
+talent_name_glyphSurvivorsShield|Survivor’s Shield| Щит Выжившего
+talent_name_glyphMagistriker|Magistriker| Магистрайкер
+talent_name_glyphAvarice|Avariciousness | Скупость
+talent_name_glyphTitansPower|Titan’s Power| Сила Титана
+talent_name_glyphOverloaded|Overloader| Перегрузчик
+talent_name_glyphNordicWinter|Nordic Winter| Северная Зима
+talent_name_glyphDrunkard|Drunkard Mayhem| Пьяный Хаос
+talent_name_glyphMinionMastery|Minion Mastery| Мастерство Прислужников
+talent_name_glyphArtfulDodger|Artful Dodger| Ловкий Плут
+talent_name_glyphLongevity|Longevity| Долголетие
+talent_name_glyphMonstrosity|Monstrosity| Чудовищность
+talent_name_glyphElementalist|Elementalist| Элементалист
+talent_name_glyphTinkerer|Tinkerer| Мастер на Все Руки
+talent_name_glyphMixture|Mixture of Doom| Смесь Гибели
+talent_name_glyphInfinity|Infinity| Бесконечность
+talent_name_glyphGravity|Gravity | Гравитация
+talent_name_glyphZapper|Zapper| Заппер
+||
+||
+talent_desc_gutRippersSpikeball|Summons a deadly Spike Ball to orbit around you for a short period| Призывает смертоносный шипастый шар, который вращается вокруг вас в течение короткого времени.
+talent_desc_doubleSwing|Causes your attacks to happen twice with increased damage| Заставляет ваши атаки срабатывать дважды с увеличенным уроном.
+talent_desc_weaponThrow|Throw your weapon dealing increased damage| Метает ваше оружие, нанося повышенный урон.
+talent_desc_soulTap|Infuses the souls of all monsters in target area to increase your life Steal for a short period| Поглощает души всех монстров в указанной области, временно увеличивая ваше похищение жизни.
+talent_desc_vacuumingStrike|Pulls all monsters in front of you dealing physical damage| Притягивает всех монстров перед собой, нанося физический урон.
+talent_desc_sproutingIvy|Unleash a chain of venom dealing poison damage and Poisoning monsters| Выпускает цепь яда, наносящую урон ядом и отравляющую монстров.
+talent_desc_fleetFeet|Increases your chance of Dodging monster attacks and projectiles for a short period| Временно увеличивает ваш шанс уклонения от атак и снарядов.
+talent_desc_touchDown|Throw the target monster dealing physical damage to other monsters around when landing| Бросает выбранного монстра, нанося физический урон окружающим врагам при его приземлении.
+talent_desc_rupturingStrike|Deal increased attack damage and cause monsters struck to Bleed| Наносит повышенный урон от атак и вызывает кровотечение у пораженных монстров.
+talent_desc_berserkersRage|Gain Increased Life Steal and attack damage, decreasing your all resistances| Увеличивает похищение жизни и урон от атак, но снижает все ваши сопротивления.
+talent_desc_butchersFury|Unleash a shockwave of blood dealing physical damage and stunning monsters| Выпускает ударную волну крови, наносящую физический урон и оглушающую монстров.
+talent_desc_odinsWrath|Summon two spinning axes orbiting the target location dealing physical damage| Призывает два вращающихся топора в указанном месте, наносящих физический урон.
+talent_desc_warsong|Curse monsters in target location to deal reduced damage| Проклинает монстров в указанной области, снижая наносимый ими урон.
+talent_desc_divinePiercing|Causes your attacks to Pierce and break monster armor| Заставляет ваши атаки пронзать цели и разрушать их броню.
+talent_desc_homingMissiles|Unleash a homing missile dealing Physical area of effect damage| Выпускает самонаводящуюся ракету, наносящую физический урон по области.
+talent_desc_flurry|Unleash a flurry of arrows dealing physical damage| Выпускает шквал стрел, наносящих физический урон.
+talent_desc_doomCannon|Fire three cannonballs exploding upon landing dealing physical damage| Выстреливает тремя ядрами, которые взрываются при приземлении, нанося физический урон.
+talent_desc_superShot|Enhances your projectiles with unstable energy causing a shockwave on hit dealing physical damage| Заряжает ваши снаряды нестабильной энергией, вызывающей ударную волну при попадании.
+talent_desc_impetus|Send impaling spikes out of the ground at target location dealing Physical area of effect damage and stunning monsters.| Выпускает из земли острые шипы, наносящие физический урон по области и оглушающие монстров.
+talent_desc_staticShot|Enhances your projectiles with static energy causing a chain lightning on hit dealing Lightning damage| Заряжает ваши снаряды статической энергией, вызывающей цепную молнию при попадании.
+talent_desc_spreadShot|Causes your projectiles to split into multiple projectiles on hit dealing physical damage| Заставляет ваши снаряды разделяться на несколько при попадании, нанося физический урон.
+talent_desc_awareness|Increases your movement speed for a short period| Временно увеличивает вашу скорость передвижения.
+talent_desc_powerShot|Summons a huge arrow which fires forward after a short delay dealing Physical area of effect damage| Призывает огромную стрелу, которая вылетает вперед после задержки, нанося физический урон по области.
+talent_desc_lethalTempo|Increases your attack speed and critical strike damage for a short period| Временно увеличивает вашу скорость атаки и урон критического удара.
+talent_desc_artilleryAid|Call for the artillery, raining arrows to monsters around the initial target dealing physical damage| Вызывает артиллерийский обстрел, обрушивающий стрелы на монстров вокруг цели.
+talent_desc_powderKeg|Throw a huge keg of gunpowder exploding upon landing dealing fire damage and leaving the ground burning.| Бросает огромную бочку с порохом, которая взрывается при приземлении, поджигая землю.
+talent_desc_mageFury|Unleash Arcane explosions to monsters around the initial target dealing arcane damage| Вызывает чародейские взрывы вокруг цели, наносящие чародейский урон.
+talent_desc_conjuredHex|Curses all monsters in target location to be Hexed and Breaking their Arcane Resistances| Проклинает всех монстров в указанной области и разрушает их сопротивление магии.
+talent_desc_wizardsWrath|Increases your cast rate and arcane damage for a short period| Временно увеличивает вашу скорость колдовства и чародейский урон.
+talent_desc_mysticOrb|Summon a Mystic Orb which pulsates dealing arcane damage to monsters and Replenishing Mana for allies| Призывает мистическую сферу, которая наносит чародейский урон врагам и восполняет ману союзникам.
+talent_desc_deathsAnguish|Summons a malevolent Skull from a corpse, homing into the nearest monster dealing Arcane area of effect damage| Создает из трупа злобный череп, который наводится на ближайшего монстра и наносит чародейский урон по области.
+talent_desc_touchOfDeath|Unleash the plague on monsters around target location dealing poison damage.| Выпускает чуму на монстров в указанной области, нанося урон ядом.
+talent_desc_hellFire|Unleash flames of hell fire traveling forward dealing fire damage| Выпускает потоки адского пламени, наносящие урон огнем.
+talent_desc_shroomOfDoom|Throw a toxic shroom bouncing from existing shrooms and dealing Poison area of effect damage to monsters| Бросает ядовитый гриб, который отскакивает от других грибов и наносит урон ядом по области.
+talent_desc_shadowBarrage|Unleash a barrage of Shadow Bolts dealing arcane damage| Выпустите шквал Теневых стрел, наносящих урон тайной магией.
+talent_desc_gravesGrasp|Summon a shadow anomaly to fight for you for a short period| Призовите теневую аномалию, которая будет сражаться за вас в течение короткого периода времени.
+talent_desc_seedOfDestruction|Plant the seed of destruction on all monsters around the target location exploding after a delay dealing Arcane area of effect damage| Посадите семя разрушения на всех монстров вокруг выбранной локации, которое взорвется после задержки, нанося урон по области действия тайной магии.
+talent_desc_shadowsGrasp|Summon a shockwave of grasping hands dealing arcane damage| Вызвать ударную волну цепких рук, наносящих урон тайной магией.
+talent_desc_freezingEnchant|Unleash a powerful area of effect spell on target location dealing cold damage and Freezing monsters| Высвободите мощное заклинание, действующее по области, в указанном месте, нанося урон холодом и замораживая монстров.
+talent_desc_glyphPrecision|Increases your chance to ignore target defense.| Увеличивает ваш шанс игнорировать защиту цели.
+talent_desc_glyphMysticInsight|Your spells can now critically strike. Gain critical spell chance and increased critical spell damage.| Ваши заклинания теперь могут наносить критический удар. Дает шанс критического удара заклинанием и увеличивает его урон.
+talent_desc_glyphSpellSlinger|Increases your magic skill damage. Gain increased cast rate for a portion of your magic skill damage.| Увеличивает урон магических навыков. Дает бонус к скорости колдовства в зависимости от вашего урона магических навыков.
+talent_desc_glyphTempestStrikes|Striking monsters grant you a stack of Tempest. Each stack of Tempest increases your attack speed and movement speed. When you reach max stacks, become empowered doubling the effect for a short period and dropping the stacks.| Удары по монстрам дают заряды Бури. Каждый заряд увеличивает скорость атаки и передвижения. При достижении максимума зарядов эффект удваивается на короткое время, после чего заряды сбрасываются.
+talent_desc_glyphCorrosion|Your damage over time effects last longer. Every second an monster is affected by damage over time the damage they take from that element is increased.| Эффекты периодического урона длятся дольше. Каждую секунду действия такого эффекта получаемый монстром урон от этой стихии увеличивается.
+talent_desc_glyphSingularity|Every 7 seconds your next instance of damage will pull nearby monsters to it when destroyed.| Каждые 7 секунд ваш следующий нанесенный урон притянет к себе ближайших монстров при исчезновении или взрыве.
+talent_desc_glyphEcho|Every 30 seconds cast your last used skill dealing increased damage. The cooldown is reduced by 0.5 seconds after each kill.| Каждые 30 секунд вы автоматически повторяете последний использованный навык с повышенным уроном. Время восстановления сокращается на 0,5 сек. за каждое убийство.
+talent_desc_glyphSurvivorsShield|When losing 35% of your maximum life become immune to all damage and healing for a short period.| При потере 35% здоровья вы на короткое время становитесь невосприимчивы к любому урону и исцелению.
+talent_desc_glyphMagistriker|Your magic skill damage is increased based on your total attacks per second.| Урон ваших магических навыков увеличивается в зависимости от количества атак в секунду.
+talent_desc_glyphAvarice|Picking up gold grants you a stack of Avarice. Each stack increases your Magic Find and Gold Find.| Подбор золота дает заряды Скупости. Каждый заряд увеличивает поиск магических предметов и золота.
+talent_desc_glyphTitansPower|Every 30 seconds your attack for the next two seconds gains increased area of effect, projectile speed and damage. Cooldown is reduced by 0.5 seconds each time you stun a target.| Каждые 30 секунд ваши атаки в течение двух секунд получают увеличенную область действия, скорость снарядов и урон. Время восстановления сокращается на 0,5 сек. при каждом оглушении цели.
+talent_desc_glyphOverloaded|When using a ranged weapon your attacks gains increased projectile speed and critical strike damage.| При использовании оружия дальнего боя ваши атаки получают повышенную скорость снарядов и урон критического удара.
+talent_desc_glyphNordicWinter|cold damage has a chance to stack freeze on monsters. At 5 stacks inflict Deep Freeze which deals 50% of incoming damage as cold damage for 5 seconds and causes the monster to take increased damage.| Урон холодом может накладывать заряды заморозки. При 5 зарядах вызывает Глубокую заморозку, которая наносит 50% входящего урона как урон холодом в течение 5 сек. и заставляет цель получать больше урона.
+talent_desc_glyphDrunkard|Each active buff you have decreases your damage taken.| Каждый активный бафф снижает получаемый вами урон.
+talent_desc_glyphMinionMastery|Increases your summons attack speed. The bonus gets doubled for 8 seconds whenever you summon or command them.| Увеличивает скорость атаки ваших прислужников. Бонус удваивается на 8 сек. при их призыве или отдаче приказа.
+talent_desc_glyphArtfulDodger|Dodging or blocking attacks or projectiles grants you increased movement speed, attack speed and attack damage.| Уклонение или блокирование атак увеличивает вашу скорость передвижения, атаки и урон.
+talent_desc_glyphLongevity|All orbiting skills last longer and pulse when hitting monsters dealing damage in area of effect.| Все орбитальные навыки длятся дольше и пульсируют при попадании, нанося урон по области.
+talent_desc_glyphMonstrosity|Dealing elemental damage to monsters grants you a stack of Manastream increasing your magic skill damage. 1000 stacks grants you 80% decreased mana costs, increased cast rate and increased cooldown recovery rate for a short period and dropping the stacks.| Нанесение стихийного урона дает заряды Потока маны, увеличивающие урон магических навыков. 1000 зарядов на короткое время дают 80% снижение затрат маны, увеличение скорости колдовства и восстановления способностей.
+talent_desc_glyphElementalist|Gain magic skill damage for every 100 points of maximum mana.| Увеличивает урон магических навыков за каждые 100 единиц максимальной маны.
+talent_desc_glyphTinkerer|Every 5th cast, your area of effect skills gain the Tinkerer buff for a short duration causing your next explosion to explode multiple times with increased area of effect.| Каждое 5-е использование навыка по области дает эффект Мастера, заставляя следующий взрыв сработать несколько раз с увеличенным радиусом.
+talent_desc_glyphMixture|Your poison skills create a field of venom that poisons monsters for a portion of the damage dealt and breaks their poison resistances.| Ваши ядовитые навыки создают поле яда, которое отравляет монстров и снижает их сопротивление яду.
+talent_desc_glyphInfinity|Casting an elemental skill has a chance to double cast it.| Использование стихийного навыка имеет шанс сработать дважды.
+talent_desc_glyphGravity|You are surrounded by a gravity field slowing and pulling monsters towards you and lowering their damage dealt. The field grows whenever you hit an monster with a spell and decreases in size over time.| Вы окружены гравитационным полем, которое притягивает и замедляет монстров, снижая их урон. Поле растет при попадании заклинаниями и уменьшается со временем.
+talent_desc_glyphZapper|Dealing lightning damage to monsters has a chance to electrocute them causing them to discharge a chain lightning at nearby monsters whenever they are struck dealing a portion of incoming damage as lightning damage.| Урон молнией может поразить врагов током, заставляя их выпускать цепную молнию при получении ударов.

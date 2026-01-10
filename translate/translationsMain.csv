@@ -1,0 +1,1497 @@
+[main_menu]|en|ru
+local_play|Play local|Играть локально
+multiplayer|Play online|Играйть онлайн
+options|Options|Настройки
+version|version|Версия
+ns_controller_continue|Connect a controller to continue.|Подключите контроллер, чтобы продолжить.
+ns_controller_one_dc|Controller 1 disconnected.|Контроллер 1 отключен.
+ns_controller_two_dc|Controller 2 disconnected.|Контроллер 2 отключен.
+ns_controller_both_dc|Controller 1 and 2 disconnected.|Контроллер 1 и 2 отключены.
+ns_controller_connect|Connect a controller and press Confirm|Подключите контроллер и нажмите «Подтвердить».
+ns_controller_sp_mode|or continue in singleplayer mode.|или продолжить в одиночном режиме.
+ns_controller_confirm|Press Confirm to continue.|Нажмите «Подтвердить», чтобы продолжить.
+ns_controller_singleplayer|Singleplayer|Один игрок
+ns_controller_multi|Multiple controllers detected.|Обнаружено несколько контроллеров.
+ns_controller_config1|You can configure controllers|Вы можете настроить контроллеры
+ns_controller_config2|or continue with current setup.|или продолжите текущую настройку.
+configure|Configure|Настроить
+ns_store_connecting|Connecting to the Nintendo eShop.|Подключение к Nintendo eShop.
+ns_store_unavailable|The item you tried to access is not available.|Объект, к которому вы пытались получить доступ, недоступен.
+ns_store_error|Error loading Nintendo eShop.|Ошибка загрузки Nintendo eShop.
+ns_store_account_error|The current user account cannot access this feature.|Текущая учетная запись пользователя не имеет доступа к этой функции.
+ns_store_timeout|Connecting to the Nintendo eShop took too long.|Подключение к Nintendo eShop заняло слишком много времени.
+ns_store_warning|Connecting to the Nintendo eShop will disconnect you from the current game.|Подключение к Nintendo eShop отключит вас от текущей игры.
+ns_eshop|Nintendo eShop|Интернет-магазин Nintendo
+try_again_later|Try again later.|Попробуйте позже.
+try_again_account|Try again with another account.|Попробуйте еще раз с другой учетной записью.
+connection_lost|Connection to the network was lost.|Соединение с сетью было потеряно.
+controller|Controller|Контроллер
+connected|connected|связанный
+prompt_exit|Are you sure you want to exit?|Вы уверены, что хотите выйти?
+controller_connected|Connected|Связанный
+controller_disconnected|Disconnected|Отключено
+controller_press|Press|Нажимать
+controller_quit|to quit.|бросить.
+controllers|Controllers|Контроллеры
+steam_cloud|STEAM Cloud|STEAM Облако
+steam_cloud_data|Current Cloud data|Текущие данные облака
+save|Save|Сохранять
+load|Load|Нагрузка
+account_id|Account ID|Идентификатор аккаунта
+unranked|Unranked|Без рейтинга
+caps_lock_enabled|Caps Lock Enabled|Caps Lock включен
+profile_private|This profile is hidden|Этот профиль скрыт
+profile_text_blocked|You have blocked this user from interactions and social features.|Вы заблокировали этому пользователю доступ к взаимодействиям и социальным функциям.
+profile_text_edit|New profile text:|Новый текст профиля:
+blocked_players|Blocked players|Заблокированные игроки 
+disable_pas_proxy|Disable PAS Proxy|Отключить PAS-прокси 
+email_not_verified|Email is not verified!|Адрес эл. почты не подтвержден!
+sign_in_failed|Sign in failed. Try again.|Не удалось войти. Попробуйте еще раз.
+invalid_name|That name is unavailable. Please try again.|Это имя недоступно. Попробуйте еще раз.
+show_exp_gain|Show Experience Gain|Показать получение опыта
+loading_critical_error|Character slot loading failed.|Загрузка слота персонажа не удалась.
+retired|Retired|Устаревшие
+location|Location|Расположение 
+character_skins|Character Skins|Облики персонажей
+login_remember_info|Remember login info (username and temporary password) on this device for 30 days|Запомнить данные для входа (имя пользователя и временный пароль) на этом устройстве на 30 дней
+link_main_account|Link Main Account|Связать основную учетную запись
+account_settings|Account Settings|Настройки учетной записи
+initial_migration_prompt|We have scaled up the [c_yellow]PanicNet network[c_reset] to bring you a smoother and more stable online experience.[nl]Your data is currently stored in [c_aqua]Europe[c_reset].[nl]We are offering you one [c_yellow]free migration[c_reset] in case you want to change server to a closer location.[nl][c_lime]Leaderboards, Marketplace and Multiplayer are shared across all regions.[c_reset][nl][nl]Choose a region closest to you:|Мы расширили [c_yellow]сеть PanicNet[c_reset], чтобы обеспечить вам более плавный и стабильный опыт работы в сети.[nl]Ваши данные в настоящее время хранятся в [c_aqua]Европе[c_reset].[nl]Мы предлагаем вам одну [c_yellow]бесплатную миграцию[c_reset], если вы захотите сменить сервер на более близкий.[nl][c_lime]Таблицы лидеров, Торговая площадка и Мультиплеер доступны во всех регионах.[c_reset][nl][nl]Выберите ближайший к вам регион:
+beta_migration_prompt|We have scaled up the [c_yellow]PanicNet network[c_reset] to bring you a smoother and more stable online experience.[nl][nl]Your data is currently stored in [c_aqua][var,regionName][c_reset].[nl][nl][c_pink]During Open Beta we encourage you to try migrating your account and data to another region.[c_reset][nl][nl][c_lime]Leaderboards, Marketplace and Multiplayer are shared across all regions.[c_reset][nl][nl]Choose a region to migrate to:|Мы расширили [c_yellow]сеть PanicNet[c_reset], чтобы обеспечить вам более плавный и стабильный опыт работы в сети.[nl][nl]Ваши данные в настоящее время хранятся в [c_aqua][var,regionName][c_reset].[nl][nl][c_pink]Во время открытого бета-тестирования мы рекомендуем вам попробовать перенести свою учетную запись и данные в другой регион.[c_reset][nl][nl][c_lime]Таблицы лидеров, Торговая площадка и Многопользовательский режим являются общими для всех регионов.[c_reset][nl][nl]Выберите регион для миграции:
+stay_on_europe|Stay on Europe|Оставаться в Европе
+login_region|Login Region|Регион входа
+server_region|Server Region|Регион сервера
+chat_region|Chat Region|Регион чата 
+decay_in|Decay in: |Упадет через: 
+decay_days| Days.|Дней.
+requires_level|Requires Level|Требуется уровень 
+has_been_created|has been created!|был создан!
+guild_create_failed|Guild creation failed.|Не удалось создать гильдию. 
+guild_name_taken|Guild name has already been taken.|Название гильдии уже занято.
+guild_tag_taken|Guild tag has already been taken.|Тег гильдии уже занят.
+guild_tag_changed|Guild tag has been changed!|Тег гильдии был изменен!
+guild_tag_failed|Guild tag change failed…|Не удалось изменить тег гильдии…
+guild_delete|Are you sure you want to delete the Guild?|Вы уверены, что хотите удалить гильдию?
+guild_send_invite|Send Guild Invite|Отправить приглашение в гильдию
+connection_failed|Connection failed.|Ошибка подключения.
+message_invite_error|Is not available. Please check that your season and hardcore status match.|Недоступно. Проверьте, совпадают ли ваш сезон и статус хардкора.
+difficulty_not_unlocked|Difficulty not unlocked!|Сложность не разблокирована!
+hold_button|Hold|Удерживайте
+to_skip|to skip|для пропуска
+just_found|Just found|Только что найдено
+in_beta|in BETA|в БЕТА-версии
+items_claimed|Items claimed|Предметы получены
+south_pole|Welcome to the South Pole! This place is too cold even for monsters, but not for penguins! Find the talking penguin to proceed!|Добро пожаловать на Южный полюс! Это место слишком холодно даже для монстров, но не для пингвинов! Найдите говорящего пингвина, чтобы продолжить!
+market_limit|Market buy limit reached. Please wait before buying more!|Лимит покупок на рынке достигнут. Пожалуйста, подождите, прежде чем покупать еще!
+xmas_ice_warning|[shake_letter][c_red]BEWARE OF THE WEAK ICE![shake_reset]|[shake_letter][c_red]ОСТЕРЕГАЙТЕСЬ СЛАБОГО ЛЬДА![shake_reset]
+buy_item_confirm|Are you sure you want to buy?|Вы уверены, что хотите купить?
+inventory_main|Main|Main
+inventory_extra|Extra|Extra
+discord_official|Official Discord|Official Discord
+bind_hint|Hint: You can bind multiple skills by hovering a skill and pressing a skill bind button (these can be found in the options)|Подсказка: вы можете привязать несколько навыков, наведя курсор на навык и нажав кнопку привязки навыка (их можно найти в настройках)
+server_level_req|Minimum Player Level|Минимальный уровень игрока 
+server_steam_friend_password|Steam friends can join without password|Друзья Steam могут присоединиться без пароля
+steam_invite_character_not_compatible|This character is not compatible with the game invite. Do you want to dismiss the invite?|Этот персонаж несовместим с приглашением в игру. Вы хотите отклонить приглашение?
+steam_invite_ingame_exit|Do you want to exit current session to join game invite?|Вы хотите выйти из текущего сеанса, чтобы присоединиться к приглашению в игру?
+augments|Augments|Улучшения
+unspent_attribute|Attribute Points|Очки характеристик
+unspent_skill|Skill Points|Очки навыков
+specialization_title|Skill Specialization|Специализация навыков
+specialization_description|Specialize, boost and change how this skill works!|Специализируйте, усиливайте и изменяйте работу этого навыка!
+specialization_desc_short|Choose a skill to specialize in, boosting its strength!|Выберите навык, на котором хотите специализироваться, увеличивая его силу!
+speciality|Speciality|Специализация
+exit|Exit|Выйти
+assign_skill|Assign Skill Bind|Назначить привязку навыков
+hero_talent_board|Hero Skills|Навыки героя
+mercenary_skills|Mercenary Skills|Навыки наемника
+unlock_tower_chest|Unlocked in Inferno|Открывается в Inferno
+next_quest|Next Quest|Следующий квест
+convert_odyssey_to_normal|Convert to Normal|Преобразовать в обычного
+convert_odyssey_to_normal_confirm|Are you sure you want to convert your Odyssey character to a normal character?|Вы уверены, что хотите преобразовать своего персонажа Odyssey в обычного персонажа?
+dont_save|Don´t Save|Не сохранять
+dungeon_glyph_chance|Glyph Drop Chance|Шанс выпадения символа
+dungeon_incarnation_experience|Essence of Incarnation gain|Получите эссенцию воплощения
+dungeon_reward_magic_find|Reward chest magic find|Найти магический сундук с наградами
+dungeon_monster_life|Monster life scaling|Масштабирование жизни монстра
+dungeon_monster_damage|Monster damage scaling|Масштабирование урона монстра
+incarnation_altar|Altar of Incarnation|Алтарь воплощения
+creation_no_skill|No Chosen Skill|Нет выбранного навыка
+creation_hover_skill|Hover the skills on the left to show descriptions!|Наведите указатель мыши на навыки слева, чтобы увидеть описания!
+inventory_tab_buy_prompt|Would you like to purchase an extra inventory tab?|Хотите приобрести дополнительную вкладку инвентаря?
+get_more_character_slots|Get More Slots|Получить больше слотов
+manage_subscription|Manage Subscription|Управление подпиской
+clear_active_sessions|Clear active sessions|Очистить активные сеансы
+charms|Charms|Чары
+iap_max_amount|You already have the maximum amount of this product.|У вас уже есть максимальное количество этого продукта.
+iap_disabled|In Application Purchases have been disabled.|Покупки в приложении отключены. 
+continue_unlinked|Continue unlinked|Продолжить без ссылки
+go_to_checkout|Go To Checkout|Перейти к оформлению заказа 
+||
+[options]||
+video|Video|Видео
+audio|Audio|Аудио
+controls|Controls|Управление 
+redeem_code|Redeem code|Активировать код
+back|Back|Назад
+display_mode|Display Mode|Режим отображения
+fullscreen|Fullscreen|Полноэкранный
+windowed|Windowed|Оконный
+windowed_fullscreen|Windowed fullscreen|Полноэкранное окно
+window_size|Window Size|Размер окна
+aspect_ratio|Aspect Ratio|Соотношение сторон
+size|Size|Размер
+graphics|Graphics|Графика
+high|High|Высокий
+medium|Medium|Среднее
+low|Low|Низкий
+on|On|Вкл
+off|Off|Выкл
+shaking|Screen Shake|Дрожание экрана
+show_damage|Show Damage|Показать урон
+music|Music|Музыка
+master_volume|Master volume|Общая громкость игры
+music_volume|Music volume|Громкость музыки
+ambient_volume|Ambient volume|Звуки окружения
+sound_volume|Sound volume|Звуковые эффекты
+loot_volume|Loot volume|Звук выпад. добычи
+voice_acting_volume|Voice acting volume|Громкость озвучки
+vibration|Vibration|Вибрация
+voice_acting|Voice acting|Озвучка
+defaults|Defaults|По умолчанию
+default|Default|По умолчанию
+show_player_name|Show Player Name|Показать имя игрока
+show_player_health|Show Player Health|Показать здор. игрока
+show_enemy_health|Always Show Enemy Health|Показ здоровья врага
+show_player_projectiles|Show Teammate Projectiles|Показать снаряды товарища по команде
+show_loot_names|Show Loot Names|Показ названия добычи
+show_gamepad_crosshair|Show Controller Crosshair|Показать перекрестие геймпада
+show_crosshair|Show Crosshair|Показать перекрестие
+color_ability_damage|Ability Damage Color|Цвет урона способностей
+color_basic_damage|Basic Damage Color|Базовый цвет урона
+color_crit_damage|Critical Damage Color|Цвет критического урона
+color_heal|Heal Color|Цвет исцеления
+color_outline|Outline Color|Цвет контура
+color_minimap|Minimap Color|Цвет миникарты
+size_ability_damage|Ability Damage Size|Урона способностью
+size_basic_damage|Basic Damage Size|Базовый урон
+size_crit_damage|Critical Damage Size|Критический урон
+size_heal|Heal Size|Исцеление
+shaders_enabled|Shaders Enabled|Шейдеры включены
+gameplay|Gameplay|Геймплей
+auto_pickup|Auto Pickup|Автоподборщик
+auto_attack|Auto Attack|Автоатака
+hold_to_cast|Hold to cast|Удерживайте, чтобы применить
+file|file|файл
+save_recovered|Save successfully recovered!|Сохранение успешно восстановлено!
+crystals_added|crystals added!|добавлены кристаллы!
+delete_highscore|This will also delete wormhole highscores associated with this character!|Это также приведет к удалению рекордов червоточин, связанных с этим персонажем!
+choose|Choose|Выбирать
+move_up|Move up|Вверх
+move_down|Move down|Двигаться вниз
+move_left|Move left|Двигай влево
+move_right|Move right|Двигаться вправо
+attack_up|Attack up|Атака вверх
+attack_down|Attack down|Атака вниз
+attack_left|Attack left|Атака слева
+attack_right|Attack right|Атака вправо
+use_potion|Use potion|Использовать зелье
+use_item|Use item|Использовать товар
+talents|Skill Menu|Меню навыков
+skill|Skill|Навык
+pickup_use|Pickup / Use|Подбор/Использование
+minimap|Minimap|Миникарта
+show_map|Show Map|Показать карту
+playerlist|Playerlist|Список игроков
+ingame_chat|Ingame chat|Внутриигровой чат
+inventory_controls|Inventory controls|Управление запасами
+reset_controls|Reset controls to default values?|Сбросить элементы управления к значениям по умолчанию?
+mouse_move|Mouse Move|Перемещение мышью
+mouse_attack|Mouse Attack|Атака мышью
+mouse_stand_still|Stand Still|Стоять на месте
+mouse_force_move|Force Move|Принудит. движение
+waiting_for_input|Waiting for input...|Ожидание ввода...
+right_mouse|Right mouse|ПКМ
+right_analog|Right Stick|Правый аналог
+left_analog|Left Stick|Левый аналог
+jump|Jump|Прыгать
+open_waypoint|Open Waypoint|Открыть маршрутную точку
+activate_waypoint|Activate Waypoint|Активировать путевую точку
+refresh_rate|Framerate|Частота кадров
+vote_reset|Vote Reset|Обновить локацию
+drowning|Drowning|Утопление
+falling|Falling|Падение
+minimap_scale|Minimap Scale|Масштаб миникарты
+minimap_alpha|Minimap Opacity|Прозрачность мини-карты
+talent_scale|Talent Scale|Шкала талантов
+weather_intensity|Weather Intensity|Интенсивность погоды
+darkness_intensity|Darkness Intensity|Интенсивность темноты
+combat_text|Combat Text|Боевой текст
+combat_text_frequency|Combat Text Frequency|Частота боевых текстов
+crosshair_distance|Crosshair Distance|Расстояние перекрестия
+color_blind_mode|Color Blind Mode|Режим цветовой слепоты
+enable|Enable|Давать возможность
+skillbar_position|Skillbar position|Позиция на панели навыков
+button_plus|+ Button|+ Кнопка
+button_minus|- Button|- Кнопка
+button_up|Up Button|Кнопка «Вверх»
+button_down|Down Button|Кнопка «Вниз»
+button_left|Left Button|Левая кнопка
+button_right|Right Button|Правая кнопка
+button_left_stick_press|Press the L Stick|Нажмите L Stick
+button_right_stick_press|Press the R Stick|Нажмите R Stick
+button_stick|Stick|Стик
+undefined|Undefined|Неопределенный
+steam_inventory|Steam Inventory|Инвентарь Steam
+chat_settings|Chat Settings|    Настройки чата
+chat_background_alpha|Background alpha|Альфа фон
+chat_fade_seconds|Seconds to fade|Секунды до затухания
+chat_notifications|Chat notifications|Уведомления чата
+chat_enable|Enable General Chat|Включить общий чат
+chat_disabled|General chat has been disabled in options|Общий чат отключен в настройках
+mute|Mute|Mute
+relic_confirmation|Relic Confirmation|Подтверждение реликвии
+monster_level_prompt|High monster level prompt|Подсказка о высоком уровне монстра
+show_dps_meter|Show DPS counter|Показать счетчик УВС
+dps_meter_compress|Compress values|Сжатие значений
+dps_meter_reset_combat|Reset outside combat|Сброс вне боя
+show_boss_cooldowns|Show Boss Cooldowns|Показ перезарядки босса
+universal|Universal|Универсальный
+enable_gamepad|Enable Controller|Включить геймпад
+chat_fade_enable|Enable Chat Fade|Включить исчезновение чата
+chat|Chat|Чат
+fancy_lighting|Fancy Lighting|Необычное освещение
+separator_thousand|Thousands Separator|Разделитель тысяч
+separator_decimal|Decimal Separator|Десятичный разделитель
+emote_menu|Emote Menu|Меню эмоций
+emote|Emote|Эмоция
+choose_emoji|Choose your Emoji!|Выберите свой эмодзи! 
+cutscene_skip|Skip Cutscene|Пропустить кат-сцену
+in_cutscene|In Cutscene|В кат-сцене 
+options_reset_all|Are you sure you want to reset all options?|Хотите сбросить все параметры?
+mana_cost|Mana Cost|Стоимость маны
+guild_tab_open|Guild Menu|Меню гильдии
+merchant|Merchant|Торговец
+zone_level|Zone Level|Уровень зоны
+safe_zone|Safe Zone|Безопасная зона
+ping_input|Ping|Пинг 
+cross_platform|Cross-Platform|Кроссплатформенный 
+||
+[relics]||
+relics|Relics|Реликвии
+relic_replace|Which relic would you like to replace?|Какую реликвию вы бы хотели заменить?
+relic_destroy_confirm|Are you sure you want to destroy this relic?|Вы уверены, что хотите уничтожить эту реликвию?
+relic_destroy|Destroy relic|Уничтожить реликвию 
+||
+[class]||
+viking|Viking|Викинг
+pyromancer|Pyromancer|Пиромант
+marksman|Marksman|Стрелок
+pirate|Pirate|Пират
+nomad|Nomad|Кочевник
+redneck|Redneck|Деревенщина
+necromancer|Necromancer|Некромант
+samurai|Samurai|Самурай
+paladin|Paladin|Паладин
+amazon|Amazon|Амазонка
+demon_slayer|Demon Slayer|Убийца демонов
+demonspawn|Demonspawn|Демоническое отродье
+stickman_steve|Stickman Steve|Стив Стикман
+shaman|Shaman|Шаман
+white_mage|White Mage|Белый Маг
+marauder|Marauder|Мародер
+plague_doctor|Plague Doctor|Чумной доктор
+lancer|Shield Lancer|Лансер
+jotunn|Jötunn|Ётунн
+illusionist|Illusionist|Иллюзионист
+exo|Exo|Экзо
+butcher|Butcher|Мясник
+stormWeaver|Stormweaver|Ткач бури
+bard|Bard|Бард
+random_class|Random Class|Случайный класс 
+season|Season|Сезон
+seasonal|Seasonal|Сезонный
+nonseasonal|Non-Seasonal|Несезонный
+solo_self_found|Odyssey|Одиссея
+blood_pact|Blood Pact|Кровавый договор 
+hardcore_desc|- Hardcore heroes will stay dead when they die and can only play with other hardcore heroes.|- Хардкорные герои останутся мертвыми после смерти и смогут играть только с другими хардкорными героями.
+season_desc|- Seasonal heroes start fresh and can only play with other seasonal heroes.|- Сезонные герои начинают заново и могут играть только с другими сезонными героями.
+solo_self_found_desc|- Odyssey heroes can only play solo. Market, trading and mailbox are disabled.|- Герои Одиссеи могут играть только в одиночку. Маркет, торговля и почта отключены.
+blood_pact_desc|- Blood Pact heroes can only play with other members of the associated Blood Pact. Blood Pact heroes can only be played during an active Blood Pact.|
+wrathofmevius|Wrath of Mevius|Гнев Мевиуса
+slot|Slot|Слот
+shop|Shop|Магазин
+cosmetic_shop|Cosmetic Shop|Косметический магазин 
+adventure_journal|Journal|Журнал
+level|Level|Ур.
+empty|Empty|Пустой
+requires_karp|REQUIRES KARP OF DOOM TO PLAY|ТРЕБУЕТСЯ KARP OF DOOM ДЛЯ ИГРЫ
+requires_hell|REQUIRES DEPTHS OF HELL TO PLAY|ТРЕБУЕТСЯ DEPTHS OF HELL ДЛЯ ИГРЫ
+requires_mevius|REQUIRES WRATH OF MEVIUS TO PLAY|ТРЕБУЕТСЯ WRATH OF MEVIUS ДЛЯ ИГРЫ
+requires_amazon|REQUIRES AMAZON PACK TO PLAY|ТРЕБУЕТСЯ AMAZON PACK ДЛЯ ИГРЫ
+requires_shaman|REQUIRES SHAMAN PACK TO PLAY|ТРЕБУЕТСЯ SHAMAN PACK ДЛЯ ИГРЫ
+requires_marauder|REQUIRES MARAUDER PACK TO PLAY|ТРЕБУЕТСЯ MARAUDER PACK ДЛЯ ИГРЫ
+requires_plague_doctor|REQUIRES PLAGUE DOCTOR DLC TO PLAY|ТРЕБУЕТСЯ PLAGUE DOCTOR DLC ДЛЯ ИГРЫ
+requires_lancer|REQUIRES LANCER DLC TO PLAY|ТРЕБУЕТСЯ LANCER DLC ДЛЯ ИГРЫ
+requires_jotunn|REQUIRES GATES OF VALHALLA DLC TO PLAY|ТРЕБУЕТСЯ GATES OF VALHALLA DLC 
+play|Play|Играть
+continue|Continue|Продолжать
+rename|Rename|Переименовать
+reset_talents|Reset Skills|Сбросить навыки
+reset_attributes|Reset Attributes|Сброс. очки харак.
+reset|Reset|Сбросить
+delete|Delete|Удалить
+whats_your_name|What's your name?|Как тебя зовут?
+hardcore|Hardcore|Хардкор
+softcore|Softcore|Софткор
+exclusive|exclusive|эксклюзивный
+coming_soon|Coming Soon|Вскоре
+username_validation|Illegal characters have been removed from your input resulting in the following text:|Из вашего ввода были удалены недопустимые символы, в результате чего появился следующий текст:
+delete_prompt|Are you sure you want to delete this character? Your character will be deleted permanently!|Вы уверены, что хотите удалить этого персонажа? Ваш персонаж будет удален навсегда!
+delete_failed|Could not delete character. Try again later.|Не удалось удалить персонажа. Попробуйте позже.
+talents_prompt|Are you sure you want to reset your Skill Points?|Вы уверены, что хотите сбросить свои очки навыков?
+attributes_prompt|Are you sure you want to reset your Attribute Points?|Вы уверены, что хотите сбросить свои очки атрибутов?
+hero_board_changes_prompt|Do you want to save your changes?|Вы хотите сохранить изменения?
+character_customize_buy_prompt|Would you like to purchase this item for|Хотите купить этот товар за
+purchase_prompt|Would you like to purchase this item?|Хотите купить этот товар? 
+||
+[online]||
+ingame_tab|Ingame|В игре
+general_tab|General|Общий
+trade_tab|Trade|Торговля
+guild_tab|Guild|Гильдия
+login|Login|Авторизоваться
+register|Register|Регистрация
+logout|Logout|Выйти
+username|Username|Имя пользователя
+password|Password|Пароль
+remember_username|Remember login|Запомнить логин
+retype_password|Re-type password|Введите пароль еще раз
+email|E-mail|Электронная почта
+forgot_password|Forgot password?|Забыли пароль?
+password_too_short|Passwords too short.|Пароль слишком короткий.
+password_no_match|Passwords do not match.|Пароли не совпадают.
+information_missing|Insufficient information.|Недостаточно информации.
+logging_in|Logging in...|Вход в систему...
+wrong_password|Wrong password|Неправильный пароль
+cannot_login|Cannot login to online services.|Не могу войти в онлайн-сервисы.
+description|Description|Описание
+player_list_guild|Guild Members|Члены гильдии
+join_discord|Join Hero Siege Discord server!|Присоединяйтесь к серверу Discord Hero Siege!
+report_bugs|Report bugs|Сообщить об ошибках
+players_online|Players Online|Игроки онлайн
+players|Players|Игроки
+create_private_game|Create Game|Создать игру
+join_public_game|Find Public Game|Найти публичную игру
+join_private_game|Join Game|Присоединиться
+show_private_games|Show private games|Показать частные игры
+public_game_not_found|No public game was found with the current search criteria. Starting a new public game.|По текущим критериям поиска общедоступная игра не найдена. Начинаем новую публичную игру.
+leaderboards|Leaderboards|Таблицы лидеров
+chaos_tower_highscore|Chaos Tower|Chaos Tower
+chaos_tower_debuff_title|Choose Your Personal Hell|Выберите свой личный ад
+server_first_highscore|Server First Level 100|Сервер Первый уровень 100
+server_first_button_text|Server First Level 100|Сервер Первый уровень 100
+hero_selection|Hero Selection|Выбор героя 
+developer|Developer|Разработчик
+moderator|Moderator|Модератор
+admin|Admin|Админ
+player|Player|Игрок
+hero_level|Hero level|Уровень героя
+; wormhole|Wormhole ; in zones|Червоточина; в зонах
+expansion|Expansion|Расширение
+ready|Ready|Готовый
+refresh|Refresh|Обновить
+enter|Enter|Входить
+wep_very_fast|Very Fast|Очень быстро
+wep_fast|Fast|Быстрый
+wep_moderate|Moderate|Умеренный
+wep_slow|Slow|Медленный
+wep_very_slow|Very Slow|Очень медленно
+write_message|Write|Писать
+invalid_code|No internet connection or invalid code.|Нет подключения к Интернету или неверный код.
+server_down|No internet connection or server down.|Нет подключения к Интернету или сервер отключен.
+merchant_busy|Merchant is busy.|Торговец занят.
+game_invite_sent|Game invite sent.|Приглашение в игру отправлено.
+game_invite_must_be_ingame|Must be in game for game invites.|Для получения приглашений в игру необходимо быть в игре.
+hs_plus_cancel_confirm|Are you sure you want to cancel your Hero Siege Plus subscription?|Вы уверены, что хотите отменить подписку Hero Siege Plus?
+edit|Edit|Изменить
+report|Report|Сообщить
+report_send_success|Report sent succesfully|Сообщение отправлено успешно
+unblock|Unblock|Разблокировать
+show_player_messages|Show player messages|Показать сообщения игрока
+show_item_drop_messages|Show item drop messages|Показать сообщения о выпадении предметов
+start|Start|Начать
+submit|Submit|Отправить
+members|Members|Участники
+invites|Invites|Приглашения
+pending_invites|Pending invites|Ожидающие приглашения 
+proxy_prompt_small|Frequent timeouts detected. You can try PAS Proxy to see if it helps with the connection issues. |Обнаружены частые тайм-ауты. Вы можете попробовать PAS Proxy, чтобы проверить, поможет ли это решить проблемы с подключением.
+proxy_prompt_large|By enabling PAS Proxy your in-game networking traffic is tunneled through our own Proxy Server. This can help in cases where your network communicates poorly with our Cloud Based servers. Please note that the connection might be slower than normal and should not be used unless you encounter frequent issues with a direct connection.|При включении PAS Proxy ваш игровой сетевой трафик туннелируется через наш собственный прокси-сервер. Это может помочь в случаях, когда ваша сеть плохо взаимодействует с нашими облачными серверами. Обратите внимание, что соединение может быть медленнее обычного и его не следует использовать, если только у вас не возникают частые проблемы с прямым подключением.
+proxy_prompt_disable|Frequent timeouts detected. PAS Proxy is enabled. If the problem persists you can try disabling the proxy.|Обнаружены частые тайм-ауты. PAS Proxy включен. Если проблема не устранена, попробуйте отключить прокси-сервер.
+report_user|Report User|Пожаловаться на пользователя 
+||
+[GUILDS]||
+guilds|Guilds|Гильдии
+guild_name|Guild name|Название гильдии
+guild_tag|Guild tag|Тег гильдии
+guild_desc|Guild Description|Описание гильдии
+guild_permission_no_access|No access|Нет доступа
+guild_permission_view_only|View only|Только просмотр
+guild_permission_add_items|Add items|Добавить элементы
+guild_permission_full_access|Full access|Полный доступ
+guild_tab_display|Display|Отображать
+guild_tab_perks|Perks|Перки
+guild_tab_settings|Settings|Настройки
+guild_officer_color|Officer color|Цветофицера
+guild_member_color|Member color|Цвет участника
+guild_officer_name|Officer name|Имя офицера
+guild_member_name|Member name|Имя участника
+guild_edit_description|Edit Description|Изменить описание
+guild_leave|Leave guild|Покинуть гильдию
+guild_invite_member|Invite member|Пригласить участника
+guild_apply|Apply|Применять
+guild_stash_level_requirement_prompt|Guild Stash is unlocked at guild level 20!|Тайник гильдии открывается на 20 уровне гильдии!
+guild_stash_guildless_prompt|You seem guildless. I've got nothing for you!|Вы, кажется, лишены гильдии. У меня для тебя ничего нет!
+guild_stash_in_use|Someone else is currently accessing Guild Stash.|В настоящее время кто-то другой использует Guild Stash. 
+guild_stash_add_tab|Add Tab|Добавить вкладку 
+guild_stash_add_tab_prompt|Are you sure you want to consume a guild stash tab token and add a tab to this guild?|Вы уверены, что хотите использовать токен вкладки тайника гильдии и добавить вкладку в эту гильдию? 
+blood_pact_stash_in_use|Someone else is currently using the Pact Stash.|В настоящее время Pact Stash использует кто-то другой. 
+red|Red|Красный
+green|Green|Зеленый
+blue|Blue|Синий
+no_guild|You are not in a guild. Would you like to create one?|Вы не состоите в гильдии. Хотите создать его?
+resign|Resign|Подать в отставку
+create|Create|Создавать
+yes|Yes|Да
+no|No|Нет
+confirm|Confirm|Подтверждать
+cancel|Cancel|Отмена
+retry|Retry|Повторить попытку
+guild_created|Guild created successfully.|Гильдия успешно создана.
+join|Join|Присоединиться
+leave|Leave|Оставлять
+request_trade|has sent a trade request|отправил запрос на обмен
+request_guild|has sent a request to join guild|отправил заявку на вступление в гильдию
+request_trade_sent|Pending trade request with|Ожидающий торговый запрос с
+request_guild_sent|Pending guild invite with|Ожидается приглашение в гильдию с
+friend_list|Friend List|Список друзей
+friend_enter_id|Enter friend id:|Введите идентификатор друга:
+friend_add|Add Friend|Добавить в друзья
+friend_remove|Remove Friend|Удалить друга
+invite|Invite|Приглашать
+guild_link_warning|Careful! This is a third party link that is NOT associated with Panic Art Studios, but put here by your guild manager. Are you sure you wish to proceed to | Осторожный! Это сторонняя ссылка, НЕ связанная с Panic Art Studios, а размещенная здесь менеджером вашей гильдии. Вы уверены, что хотите перейти к
+||
+[shop]||
+clothing|Clothing|Одежда
+mercenary|Mercenary|Наемник
+active|Active|Активный
+passive|Passive|Пассивный
+name_color|Name color|Цвет имени
+exit_shop|Exit shop|Выход из магазина
+melee|Melee|Ближний бой
+ranged|Ranged|Дальний бой
+shield|Shield|Щит
+name|Name|Имя
+use|use|использовать
+portrait|Portrait|Портрет
+hud|Interface|Интерфейс
+not_enough_rubies|not enough rubies|недостаточно рубинов
+not_enough_crystals|not enough crystals|недостаточно кристаллов
+not_enough_gold_need|Not enough gold. You need|Недостаточно золота. Тебе нужно
+not_enough_gold|not enough gold|недостаточно золота
+coins_to_reset_talents|coins to reset talents.|монеты для сброса талантов.
+coins_to_rename|coins to rename.|монеты для переименования.
+coins_to_confirm|coins to confirm changes.|монеты для подтверждения изменений. 
+saving_shop|Saving shop...|Сохранение магазина...
+unlocked|Unlocked|Разблок.
+unlock|Unlock|Разблок.
+lock|Lock|Замок
+buy_key|Satanic Key|Сатанинский ключ
+requires_hero_level|Requires Hero Level|Требуется уровень героя
+halloween|Halloween|Хэллоуин
+christmas|Christmas|Рождество
+reward|Reward|Награда
+progress|Progress|Прогресс
+quest_objective|Quest objective|Цель квеста 
+easter_egg|Shh... It's a secret.|Тсс... Это секрет.
+featured|Featured|Рекомендуемые
+featured_cosmetics|Featured Cosmetics|Рекомендуемая косметика 
+accessories|Accessories|Аксессуары
+items|Items|Предметы
+gems|Gems|Драгоценные камни
+locked|Locked|Заблокировано
+deactivate|Deactivate|Деактивировать
+purchase|Purchase|Покупка
+hat|Hat|Шляпа 
+hats|Hats|Головные уборы
+basic|Basic|Базовый
+anniversary|Anniversary|Годовщина
+skins|Skins|Скины
+hero|Hero|Герой
+companions|Companions|Компаньоны
+equip_ingame|This item can be equipped after choosing a character|Этот предмет можно экипировать после выбора персонажа.
+equip_not_compatible|This item isn't compatible with your current equipment|Этот товар несовместим с вашей текущей экипировкой
+season_supporter|Season Supporter|Поддержка сезона
+season_supporter_explanation|Only available during the current Season|Доступно только в текущем сезоне
+season_supporter_hint|You have: [token_count]|У вас есть: [token_count]
+show_owned|Show only owned|Показать только принадлежащие
+show_locked|Show locked|Показать заблокированные
+show_all|Show all|Показать все
+show_all_skins|Show all skins|Показать все скины
+wings|Wings|Крылья
+back_accessories|Back Accessories|Аксессуары для спины
+buy_gold_token|Buy Gold Token|Купить золотой жетон
+buy_gold_token_long|Would you like to buy a Gold Token for|Хотите купить золотой жетон за
+gold_token|Gold Token|Золотой жетон
+season_reward_effect|Player Effect|Эффект игрока
+season_reward_portal|Portal Skin|Облик портала
+season_reward_back|Back Accessory|Аксессуар для спины
+cursor|Cursor|Курсор
+subscribe|Subscribe|Подписаться
+accessory|Accessory|Аксессуар
+effect|Effect|Эффект
+trail|Trail|Тропа
+buy_multiple|Buy Multiple|Купить несколько
+weapon_skin|Weapon Skin|Облик оружия
+shield_skin|Shield Skin|Облик щита
+death_effect|Death Effect|Эффект смерти
+spell_effects|Spell Effects|Эффекты заклинаний 
+||
+[ingame]||
+stun_duration|Stun Duration|Продолжительность оглушения
+proc_chance|Proc Chance|Шанс срабатывания
+duration|Duration|Продолжительность
+seconds|Seconds|Секунды
+second|Second|Второй
+aura|Aura|Аура
+slow_duration|Slow Duration|Длительность
+absorption|Absorption|Поглощение
+offensive_skills|Offensive Abilities|Наступательные способности
+defensive_skills|Defensive Abilities|Оборонительные способности
+magic_skills|Magic Abilities|Магические способности
+accept_trade|Trade Accepted|Торговля принята
+open_inventory|Open Inventory|Открыть инвентарь
+agree|Agree|Соглашаться
+close|Close|Закрывать
+extra_strength|Extra Strength|Дополнительная сила
+extra_energy|Extra Energy|Дополнительная энергия
+extra_armor|Extra Armor|Дополнительная броня
+extra_stamina|Extra Stamina|Дополнительная выносливость
+healing|Healing|Выздоровление
+magic_resistance|Arcane Resistance|Сопротивление тайной магии
+physical_resistance|Physical Resistance|Физическое сопротивление
+handed|Handed|Вручил
+buyback|Buyback|Выкупить
+stacks|Stacks|Стеки
+loadouts|Loadouts|Выгрузки
+gem_pouch|Gem Pouch|Мешочек с драгоценными камнями
+seed_pouch|Seed Pouch|Мешочек для семян
+key_ring|Key Ring|Брелок для ключей
+consumable|Consumable|Расходный материал
+rune|Rune|Руна
+minion_inventory|Mercenary|Наемник
+speak|Speak|Говорить
+sell|Sell|Продать
+sell_all|Sell All|Продать все
+browse|Browse|Просматривать
+inspect|Inspect|Осмотреть
+drop|Drop|Уронить
+equip|Equip|Оборудовать
+stash|Stash|Тайник
+guild_stash|Guild Stash|Тайник гильдии
+blood_pact_stash|Blood Pact Stash|Тайник Кровавого Договора 
+retrieve|Retrieve|Забрать
+inventory|Inventory|Инвентарь
+quests|Quests|Квесты
+accept_quest|Accept Quest|Принять квест
+return_quest|Return Quest|Вернуть квест
+return_quest_to|Return to|Вернуться в 
+delete_quest|Delete quest|Удалить квест
+quest_completed|Quest completed!|Квест завершен!
+destroy|Destroy|Разрушать
+upgrade|Upgrade|Обновление
+unequip|Unequip|Снять экипировку
+show_sockets|Show sockets|Показать гнезда
+hide_sockets|Hide sockets|Скрыть гнезда
+clear_socket|Clear Socket|Прозрачные гнезда
+clear_socket_prompt|Are you sure you want to clear sockets from this item?|Вы уверены, что хотите очистить гнезда от этого предмета?
+place|Place|Место
+previous|Previous|Предыдущее
+next|Next |Следующее
+previous_tab|Previous Tab|Предыдущая вкладка
+next_tab|Next Tab|Следующая вкладка
+unique|Unique|Уникальное
+unique_items|Unique items|Уникальные предметы 
+cycle_ui|Cycle Cursor|Курсор цикла
+cycle_tab|Cycle Tabs|Вкладки цикла 
+market|Tarethiel Market|Рынок Таретиэль
+craft|Craft|Ремесло
+crafting|Crafting|Крафт
+prospect|Prospect|Перспектива
+prospecting|Prospecting|Разведка 
+random|random|случайный
+merge|Merge|Объединить
+difficulty|Difficulty|Сложность
+change_difficulty|Change Difficulty|Изменить сложность
+normal|Normal|Нормальный
+nightmare|Nightmare|Кошмар
+hell|Hell|Ад
+inferno|Inferno|Инферно
+solo_rank|Solo Ranking|Соло-рейтинг
+duo_rank|Duo Ranking|Рейтинг дуо
+trio_rank|Trio Ranking|Рейтинг трио
+quad_rank|Quad Ranking|Квадро рейтинг
+hero_rank|Hero Level Ranking|Рейтинг уровня героя
+common|Common|Общий
+superior|Superior|Начальство
+rare|Rare|Редкий
+legendary|Legendary|Легендарный
+mythic|Mythic|Мифический
+angelic|Angelic|Ангельский
+satanic|Satanic|Сатанинский
+heroic|Heroic|Героический
+unholy|Unholy|Нечестивый 
+heroic_set|Heroic Set|Героический комплект
+satanic_set|Satanic Set|Сатанинский набор
+runeword|Runeword|Рунное слово
+history|History|История
+buy_token|Buy Token|Купить токен
+sell_limit|Sell Limit|Продать лимит
+hide_rune_prices|Hide rune prices|Скрыть цены на руны 
+hide_runewords|Hide runewords|Скрыть рунные слова
+hide_unbreakable|Hide unbreakable|Скрыть неразрушимые
+hide_corrupted|Hide corrupted|Скрыть повреждённые 
+||
+[Stats]||
+health|Life|Жизнь
+mana|Mana|Мана
+||
+level_requirement|Requires Level|Требуется уровень 
+item_level|iLevel|Уровень предм.
+picked_up|Picked up|Взял
+equipped|Equipped|Оборудовано
+town_portal|Town Portal|Городской портал
+synergy|Synergy|Синергия
+current_level|Current level|Текущий уровень
+next_level|Next level|Следующий уровень
+picked_up_quest_item|Collected quest item|
+||
+physical|Physical|Физический
+magic|Arcane|Мистический
+poison|Poison|Яд
+wind|Wind|Ветер
+lightning|Lightning|Молния
+cold|Cold|Холод
+fire|Fire|Огонь
+stunned|Stunned|Оглушение
+frozen|Deep Freeze|Глубокая заморозка
+freeze|Frozen|Замороженный
+poisoned|Poisoned|Отравленный
+slow|Slow|Замедление
+weakened|Weakened|Ослабление
+burning_damage|Burning Damage|Урон от горения
+burning|Burning|Горение
+bleeding|Bleeding|Кровотечение 
+immortality|Immortality|Бессмертие
+double_damage|Double Damage|Двойной урон
+elemental|Elemental|Элементаль
+ruby_drops|Increased Ruby drops|Увеличено количество выпадающих рубинов.
+projectiles|Projectiles|Снаряды
+set_bonus|Set Bonus|Установить бонус
+||
+when_struck|when Struck|при ударе
+when_strike|when Striking|при ударе
+when_kill|after each Kill|после каждого убийства
+when_blocking|after Blocking|после блокировки
+when_casting|when Casting|при касте
+when_attacking|when Attacking|при атаке
+when_spellhit|when Spellhit|при попадании заклинанием
+chance|Chance|шанс 
+block|Block|Блокировать
+taunt|Taunt|Насмешка
+miniboss|a miniboss|мини-босс
+summon|Minion|Миньон
+weapon_damage|Weapon Damage|Урон от оружия
+tick_rate|Tick Rate|Скорость тика
+cold_break|Cold Break|Холодный разрыв
+armor_break|Armor Break|Разрыв брони
+cooldown|Cooldown|Перезарядка
+ability_power|Ability Power|Сила способностей
+attack_power|Attack Power|Сила атаки
+runewords|Runewords|Рунные слова
+statistics|Statistics|Статистика
+any_base_item|Any base item|Любой базовый предмет
+toy_bear|Toy Bear|Игрушечный медведь
+tier|Tier|Редкость
+targets|Targets|Цели
+||
+[crafting]||
+craft_ability_token|Craft Ability Token|Жетон ремесленных способностей
+craft_copper_ore|Craft Copper Ore|Создание медной руды
+craft_crystal_key|Craft Crystal Key|Изготовить хрустальный ключ
+craft_gold_ore|Craft Gold Ore|Создание золотой руды
+craft_iron_ore|Craft Iron Ore|Создание железной руды
+craft_key|Craft Key|Ремесленный ключ
+craft_merge_leg_powder|Merge Legendary Powder|Объединение легендарного порошка
+craft_random_rare|Craft random Rare item|Создать случайный редкий предмет
+craft_random_legendary|Craft random Legendary item|Создайте случайный легендарный предмет
+craft_random_mythical|Craft random Mythical item|Создайте случайный мифический предмет
+craft_random_satanic|Craft random Satanic item|Создайте случайный сатанинский предмет.
+craft_random_satanic_a_tier|Craft random Tier A+ Satanic|Создайте случайный Сатанинский предмет A+
+craft_socket_token|Craft Socket Token|Жетон ремесленного гнезда
+craft_random_relic|Craft random Relic|Создать случайную реликвию
+craft_reroll_token|Craft Re-roll Token|Создать жетон переброса
+craft_satanic_amulet|Craft Satanic Amulet|Изготовить сатанинский амулет
+craft_satanic_armor|Craft Satanic Body Armor|Изготовить Сатанинский нательный доспех
+craft_satanic_boots|Craft Satanic Boots|Изготовить Сатанинские Сапоги
+craft_satanic_charm|Craft Satanic Charm|Изготовить сатанинский талисман
+craft_satanic_dice|Craft Satanic Dice|Изготовить сатанинские кости
+craft_satanic_gloves|Craft Satanic Gloves|Изготовить Сатанинские перчатки
+craft_satanic_helmet|Craft Satanic Helmet|Изготовить Сатанинский шлем
+craft_satanic_shield|Craft Satanic Shield|Создать Сатанинский щит
+craft_satanic_weapon|Craft Satanic Weapon|Изготовить сатанинское оружие
+craft_upgrade_token|Craft Upgrade Token|Жетон улучшения ремесла
+craft_wormhole_key|Craft Wormhole Key|Изготовить ключ от червоточины
+craft_jewel|Craft Jewel|Ремесло драгоценностей
+craft_gem|Craft Gem|Ремесленный драгоценный камень
+aura_1|Feint|Финт
+aura_2|Mending|Починка
+aura_3|Fanaticism|Фанатизм
+aura_4|Resistance|Сопротивление
+aura_5|Concentration|Концентрация
+aura_6|Holy Freeze|Священная заморозка
+aura_7|Holy Shock|Святой шок
+aura_10|Mana Pool|Бассейн маны
+aura_14|Precognition|Предвидение
+aura_13|Thorns|Шипы
+aura_15|Angel's Vibrance|Ангельское сияние
+aura_93|Mana Pool|Бассейн маны
+||
+aura_desc_1|Grants you an aura that increases you and your allies movement speed|Дает вам ауру, которая увеличивает скорость передвижения вас и ваших союзников.
+aura_desc_2|Grants you an aura that increases you and your allies health regeneration|Дает вам ауру, которая увеличивает регенерацию здоровья вам и вашим союзникам.
+aura_desc_3|Grants you an aura that increases you and your allies attack speed|Дает вам ауру, которая увеличивает скорость атаки вас и ваших союзников.
+aura_desc_4|Grants you an aura that increases you and your allies all resistance|Дает вам ауру, которая увеличивает все сопротивление вам и вашим союзникам.
+aura_desc_5|Grants you an aura that increases you and your allies attack damage|Дает вам ауру, которая увеличивает урон от атак вас и ваших союзников.
+aura_desc_6|Grants you an aura that increases you and your allies a chilling aura|Дает вам ауру, которая усиливает вас и ваших союзников леденящей аурой.
+aura_desc_7|Grants you an aura that increases you and your allies a shocking aura|Дает вам ауру, которая усиливает вас и ваших союзников шокирующей аурой.
+aura_desc_10|Grants you an aura that increases you and your allies mana regeneration|Дает вам ауру, которая увеличивает регенерацию маны вам и вашим союзникам.
+aura_desc_13|Grants you an aura that increases you and your allies damage return|Предоставляет вам ауру, которая увеличивает возврат урона вам и вашим союзникам.
+aura_desc_14|Grants you an aura that increases you and your allies elemental damage, block and dodge|Дает вам ауру, которая увеличивает вам и вашим союзникам элементальный урон, блокирует и уклоняется.
+aura_desc_15|Grants you power of the Angel’s providing you and your allies every buff in the game|Дает вам силу Ангела, предоставляя вам и вашим союзникам все положительные эффекты в игре.
+aura_desc_93|Grants you an aura that increases you and your allies mana regeneration|Дает вам ауру, которая увеличивает регенерацию маны вам и вашим союзникам.
+nothing|Nothing|Ничего
+||
+[Professions]||
+mining|Mining|Добыча
+herbalism|Herbalism|Травничество
+enchanting|Enchanting|Очарование
+jewelcrafting|Jewelcrafting|Ювелирное дело
+copper_ore|Copper Ore|Медная руда
+iron_ore|Iron Ore|Железная руда
+gold_ore|Gold Ore|Золотая руда
+ruby_ore|Ruby Ore|Рубиновая руда
+jade_ore|Jade Ore|Нефритовая руда
+tarethium_ore|Tarethium Ore|Таретиевая руда
+copper_node|Copper Vein|Медная жила
+iron_node|Iron Vein|Железная жила
+gold_node|Gold Vein|Золотая жила
+ruby_node|Ruby Vein|Рубиновая жила
+jade_node|Jade Vein|Нефритовая жила
+tarethium_node|Tarethium Vein|Таретиевая жила
+ranged_resistance|Ranged Resistance|Сопротивление дальнему бою
+reflection|Reflection|Отражение
+cold_enhanced|Cold Enhanced|Холодное улучшение
+electrified|Electrified|Электрифицированный
+fiery|Fiery|Огненный
+juggernaut|Juggernaut|Джаггернаут
+arcana|Arcana|Арканы
+thunder_orbiter|Thunder Orbiter|Громовой орбитальный корабль
+mortar|Mortar|Миномет
+teleporting|Teleporting|Телепортация
+waller|Waller|Уоллер
+punisher|Punisher|Каратель
+thunderstorm|Thunderstorm|Гроза
+pack_leader|Pack Leader|Вожак стаи
+resume|Resume|Возобновить
+restart|Restart|Перезапуск
+save_and_exit|Save & Exit|Сохранить и выйти
+points_left|Points Left|Осталось очков
+points_assigned|Points Assigned|Назначенные баллы
+points_removed|Points Removed|Снятые баллы 
+minion_talents|Mercenary|Наемник
+att_talents|Player|Игрок
+hero_talents|Hero Level|Уровень героя
+enemies_left|Enemies left|Осталось врагов
+last_page|Last Page|Последняя страница
+next_page|Next Page|Следущая страница
+previous_page|Previous Page|Предыдущая страница 
+key|Key|Ключ
+crystal_key|Crystal Key|Хрустальный ключ
+runes|Runes|Руны
+assign_point|Assign point|Назначить точку
+loading|LOADING|ЗАГРУЗКА
+magic_potion|Magic Potion|Волшебное зелье
+gold|Gold|Золото
+crystals|Crystals|Кристаллы
+rubies|Rubies|Рубины
+requires_key|Key needed to open|Ключ, необходимый для открытия
+requires_crystal_key|Crystal key needed to open|Хрустальный ключ, необходимый для открытия
+found_key|Found a Key!|Нашел ключ!
+found_crystal_key|Found a Crystal Key!|Найден хрустальный ключ!
+saving_game|Saving the game...|Сохранение игры...
+you_died|You Died|Вы умерли
+death_by|Death by|Смерть от
+upgrade_wormhole|Upgrade Wormhole Level|Улучшить уровень червоточины
+waiting_for_players|Waiting for players to join...|Ждём присоединения игроков...
+entering_wormhole|player(s) entering wormhole|игрок(и) входит в червоточину
+entering_challenge_dungeon|player(s) entering challenge dungeon|игрок(и) входит в подземелье испытания
+entering_chaos_tower|player(s) entering Chaos Tower|игрок(и), входящие в Башню Хаоса
+entering_ruby_garden|player(s) entering Ruby Gardens|игрок(и), входящий(ие) в Ruby Gardens 
+monster_level|Monster Level|Уровень монстра
+keys|Keys|Ключи
+potion_use_health|Full Health!|Полное здоровье!
+lift_beachball|Lift <Beachball>|Поднимите <Пляжный мяч>
+throw_beachball|Throw <Beachball>|Бросай <пляжной мяч> 
+lift_square_stone|Lift <Square Stone>|Поднимите <Квадратный камень>
+lift_moon_stone|Lift <Moon Stone>|Поднимите <Лунный камень>
+lift_round_stone|Lift <Round Stone>|Поднимите <Круглый камень>
+lift_triangle_stone|Lift <Triangle Stone>|Поднимите <Треугольный камень>
+lift_disc|Lift Disc|Подъемный диск
+disc_driver|Fairway Driver|Драйвер фервея
+disc_putter|Putter|Паттер
+disc_midrange|Midrange|Средний диапазон 
+||
+wormhole_key|Next Wormhole|Следующая червоточина
+found_item|Found|Найденный
+pick_up_item|Pick up|Подобрать
+interact|Interact|Взаимодействовать 
+||
+satanic_dice|Satanic Dice|Сатанинские кости
+reroll|Re-roll|Перебросить
+reroll_token|Re-roll Token|Перебросить жетон
+upgrade_token|Upgrade Token|Обновить токен
+offensive_token|Ability Token|Жетон способности
+socket_token|+1 Socket Token|+1 жетон гнезда
+satanic_powder|Satanic Powder|Сатанинский порошок
+mythic_powder|Mythic Powder|Мифический порошок
+legendary_powder|Legendary Powder|Легендарный порошок
+||
+damage_on_impact|damage on impact.|урон при ударе.
+achievement_unlocked|Achievement Unlocked|Достижение разблокировано
+complete|Complete|Полный
+kill|Kill|Убийство
+monsters_killed|monsters killed!|монстры убиты!
+collect|Collect|Собирать
+wormhole_level|Wormhole level|Уровень червоточины
+achievement_satans_hands|Destroy Satan's both hands in less than 30 seconds!|Уничтожьте обе руки Сатаны менее чем за 30 секунд!
+achievement_all_heroes_100|Reach Level 100 with every Hero!|Достигните 100-го уровня каждым героем!
+achievement_5000_bushes|Demolish 5000 bushes!|Снести 5000 кустов!
+achievement_satanic_item|Obtain a Satanic item!|Получите сатанинский предмет!
+achievement_4_player_play|Play a Multiplayer game with 4 players!|Сыграйте в многопользовательскую игру с 4 игроками!
+achievement_4_player_complete|Complete the game with 4 players!|Пройдите игру вчетвером!
+achievement_ancient_monster|Slay an Ancient Monster!|Убейте древнего монстра!
+achievement_coffee_club|Join <Sarcaster's Coffee Club>|Присоединяйтесь к <Кофейному клубу Саркастера>
+achievement_sheep_level|Find the Secret Sheep level!|Найдите овечий уровень!
+achievement_solve_puzzle|Solve a Puzzle|Решить головоломку
+achievement_chaos_tower|Clear Chaos Tower|Очистить Башню Хаоса
+achievement_king_rakhul|Defeat King Rakhul|Победить короля Рахула
+achievement_angelic_realm|Enter Angelic Realm|Войдите в ангельское царство
+achievement_sung_lee|Defeat Sung Lee|Победить Сунг Ли
+achievement_valhalla_valkyrie|Defeat Valkyrie|Победить Валькирию
+achievement_valhalla_river|Defeat Jörmungar|Победить Ёрмунгара
+achievement_valhalla_odin|Defeat Corrupted Odin|Победить оскверненного Одина
+achievement_valhalla_ring|Acquire ring|Получить кольцо
+achievements|Achievements|Достижения
+weapon_type|Weapon Type|Тип оружия
+weapon_type_sword|Sword|Меч
+weapon_type_dagger|Dagger|Кинжал
+weapon_type_mace|Mace|Булава
+weapon_type_axe|Axe|Топор
+weapon_type_polearm|Polearm|Древковое оружие
+weapon_type_staff|Staff|Посох
+weapon_type_cane|Cane|Трость
+weapon_type_spellblade|Spellblade|Магический клинок
+weapon_type_book|Book|Книга
+weapon_type_wand|Wand|Палочка
+weapon_type_throwing|Throwing|Метательное
+weapon_type_bow|Bow|Лук
+weapon_type_claw|Claw|Коготь
+weapon_type_gun|Gun|Пистолет
+weapon_type_chainsaw|Chainsaw|Бензопила
+weapon_type_flask|Flask|Колба
+weapon_type_universal|Novelty|Новинка
+extra_damage|extra damage.|дополнительный урон.
+enhance|Enhance|Усиливать
+loadout|Loadout|Выгрузка
+save_loadout|Save Loadout|Сохранить загрузку
+load_loadout|Equip Loadout|Экипировка
+remove_loadout|Remove from loadout|Удалить из загрузки
+activate|Activate|Активировать
+attack_speed_bonus|attack speed bonus.|бонус к скорости атаки.
+extra_damage_on_impact|extra damage on impact.|дополнительный урон при ударе.
+increased|increased|повысился
+seconds_of_aggro|seconds of aggro.|секунды агра.
+of_damage_mitigated|of damage mitigated.|ущерб уменьшен.
+of_health_as_shield|of health as shield.|здорове как щит.
+of_damage_healed|of damage healed.|повреждения зажили.
+of_damage_returned|of damage returned.|урона возвращено.
+both|Both|Оба
+left|Left|Левый
+right|Right|Верно
+uber|Uber|Убер
+rebound_damage|rebound damage.|урон от рикошета.
+chance_to_pierce|chance to pierce.|шанс прокола.
+retaliation_damage|retaliation damage.|отражение.
+loot_filter|Loot filter|Фильтр добычи
+loot_filter_description|Click checkboxes to show or hide specific affix tiers. Red means the tier is visible, yellow means it’s highlighted (light pillar on drop, colored tooltip, and map icon). Right-click a visible tier to highlight it. Click an affix name to toggle all its tiers, or click a tier letter (D/C/B/A/S) to toggle that tier for all affixes. Items with no red or yellow tiers will not appear on the ground. |Установите флажки, чтобы показать или скрыть определённые уровни аффиксов. Красный цвет означает, что уровень виден, жёлтый — что он подсвечен (световой столбик на выпаде, цветная подсказка и значок карты). Щёлкните правой кнопкой мыши по видимому уровню, чтобы выделить его. Щёлкните по названию аффикса, чтобы переключить все его уровни, или щёлкните по букве уровня (D/C/B/A/S), чтобы переключить этот уровень для всех аффиксов. Предметы без красного или жёлтого уровня не будут отображаться на земле. 
+rune_filter|Rune filter|Рунный фильтр
+common_loot_socket_filter|Common loot socket filter|Общий фильтр гнезд добычи
+highlight_filter|Highlight filter|Фильтр выделения
+loot_filter_presets|Filter Presets|Предустановки фильтров
+highlight_filter_presets|Highlight Presets|Предустановки выделения
+loot_filter_settings|Filter Settings|Настройки фильтров
+highlight_filter_settings|Highlight Settings|Настройки выделения
+loot_filter_prompt_overwrite|Are you sure you want to load this loot filter preset? This will overwrite your current loot filters.|Вы уверены, что хотите загрузить эту предустановку фильтра добычи? Это перезапишет ваши текущие фильтры добычи.
+loot_filter_prompt_delete|Are you sure you want to permanently delete this loot filter?|Вы уверены, что хотите навсегда удалить этот фильтр добычи?
+loot_filter_prompt_reset|Are you sure you want to reset your loot filter?|Вы уверены, что хотите сбросить фильтр добычи? 
+highlight_filter_prompt_overwrite|Are you sure you want to load this loot highlight preset? This will overwrite your current loot highlights.|Вы уверены, что хотите загрузить эту предустановку выделения добычи? Это перезапишет ваши текущие выделения добычи.
+highlight_filter_prompt_apply_to_all|Are you sure you want to apply this highlight filter to all item types?|Вы уверены, что хотите применить этот фильтр выделения ко всем типам элементов? 
+loot_filter_code_copied|Export code copied to clipboard!|Экспортировать код, скопированный в буфер обмена!
+loot_filter_code_invalid|Invalid loot filter code|Неверный код фильтра добычи
+loot_filter_save_as|Save Filter As|Сохранить фильтр как
+loot_filter_save_override_prompt|Filter [filter_name] already exists. Do you want to overwrite this filter?|Фильтр [имя_фильтра] уже существует. Хотите перезаписать этот фильтр?
+filters|Filters|Фильтры
+save_as|Save As|Сохранить как 
+show|Show|Показать
+show_only_socketed|Show Only Socketed|Показать только сокеты
+customize|Customize|Настроить
+export|Export|Экспортировать
+import|Import|Импортировать
+loot_filter_import_paste|Paste loot filter code here|Вставить код фильтра добычи здесь
+loot_filter_load_parse_error|Loot filter preset load failed. The preset data is in incorrect format.|Не удалось загрузить предустановку фильтра добычи. Данные предустановки имеют неверный формат.
+loot_filter_load_incorrect_version|Loot filter preset load failed. The preset version is outdated.|Не удалось загрузить предустановку фильтра добычи. Версия предустановки устарела.
+loot_filter_load_unknown_error|Loot filter preset load failed. An unknown error happened.|Не удалось загрузить предустановку фильтра добычи. Произошла неизвестная ошибка.
+copy_to_all|Copy to All|Копировать всем
+copy_to|Copy to...|Копировать... 
+apply_to_all|Apply to All|Применить ко всем
+apply_to|Apply to...|Применить к... 
+deselect_all|Deselect All|Отменить выбор всех 
+filter|Filter|Фильтр
+filter_all|All|Все
+filter_chests_and_keys|Chests|Сундуки
+filter_items|Items|Предметы
+owned|Owned|В собственности
+not_purchased|Not Purchased|Не куплено
+class|Class|Класс
+skin|Skin|Скин
+companion|Companion|Компаньон
+rank|Rank|Ранг
+mage|Mage|Маг
+tank|Tank|Танк
+join_own_guild|Join one of your own guilds?|Вступить в одну из своих гильдий?
+resign_from_guild|Are you sure you want to resign from this guild?|Вы уверены, что хотите выйти из этой гильдии?
+leave_guild_prompt|Are you sure you want to leave guild|Вы уверены, что хотите покинуть гильдию? 
+invited_to_guild|has invited you to join|пригласил вас присоединиться
+trade_failed|Trade failed.|Торговля не удалась.
+other_inventory_full|Other player's inventory is full.|Инвентарь другого игрока полон.
+inventory_full|Inventory full!|Инвентарь полный!
+rank_challenger|Challenger|Челленджер
+rank_master|Master|Владелец
+rank_diamond|Diamond|Алмаз
+rank_platinum|Platinum|Платина
+rank_gold|Gold|Золото
+rank_silver|Silver|Серебро
+rank_bronze|Bronze|Бронза
+souls|Souls|Души
+seeds_idle|Idle Seeds|Простые семена
+seeds_active|Active Seeds|Активные семена
+seeds_deposit|Deposit Seeds|Депозитные семена
+quest_jacks_key|Jack's Key!|Ключ Джека!
+failed|Failed!|Неуспешный!
+rescue_prisoner|Rescue the Prisoner|Спасти заключенного
+prisoner|Prisoner|Узник
+samurai_ad|Samurai is a close combat class with lots of mobility and deadly damage!|Самурай — класс ближнего боя, обладающий большой мобильностью и смертельным уроном!
+paladin_ad|Paladin is a hybrid class that can be built into a healing tank, physical damage dealer or a mage!|Паладин — это гибридный класс, который можно встроить в лечащего танка, бойца физического урона или мага!
+amazon_ad|Amazon is a ranged fighter with lots of burst damage, can be built to poison, lightning or physical builds!|Амазонка — боец дальнего боя с большим взрывным уроном, может быть настроен на яд, молнию или физические сборки!
+demon_slayer_ad|Demon Slayer is a mobile master of arms, can use guns or melee weapons! DLC also includes Demonspawn!|Убийца Демонов — мобильный мастер оружия, может использовать огнестрельное или холодное оружие! DLC также включает в себя Demonspawn!
+demonspawn_ad|Demonspawn is a caster class with lots of AOE spells, can also fly by default! DLC also includes Demon Slayer!|Demonspawn — это класс заклинателя с множеством заклинаний по площади, который по умолчанию также может летать! DLC также включает в себя Demon Slayer!
+shaman_ad|Shaman specializes in elemental damage, has companion wolves and totems!|Шаман специализируется на стихийном уроне, имеет волков-компаньонов и тотемы!
+marauder_ad|Marauder is the ultimate war machine, specializing in mobility, explosives and stunning enemies!|Мародер — совершенная военная машина, специализирующаяся на мобильности, взрывчатке и оглушении врагов!
+plague_doctor_ad|Plague Doctor specializes in spreading the plague, dealing DOT damage and breathing fire!|Чумной Доктор специализируется на распространении чумы, нанесении точечного урона и огненном дыхании!
+lancer_ad|Shield Lancer is an extremely tanky class specializing in returning damage and taunting enemies!|Shield Lancer — чрезвычайно танковый класс, специализирующийся на нанесении урона и насмешках над врагами!
+jotunn_ad|Jötunn is a Warrior Mage who specializes in ice spells and the power of lightning!|Йотунн — воин-маг, специализирующийся на ледяных заклинаниях и силе молнии!
+illusionist_ad|Illusionist is the master of Sand and Time. She summons and controls Sand Guardians as well as bends time and space!|Иллюзионистка — повелительница Песка и Времени. Она призывает и управляет Песчаными Хранителями, а также изгибает время и пространство!
+butcher_ad|The Butcher epitomizes brute strength and an insatiable thirst for carnage. With each strike of his trusty cleaver, he revels in the symphony of bloodshed. Fueled by a primal urge to rend flesh and crush bone, the Butcher is both feared and revered on the battlefield.|Мясник олицетворяет грубую силу и ненасытную жажду резни. С каждым ударом своего верного тесака он наслаждается симфонией кровопролития. Подпитываемый первобытным желанием разрывать плоть и крушить кости, Мясник одновременно боится и почитается на поле боя.
+exo_ad|The Prophet of the sun and moon. She embodies the celestial duality of light and darkness, inflicting freezing cold damage and burning her enemies to cinders. She can control the power of the solar system leaving behind a trail of absolute destruction.|Пророк солнца и луны. Она воплощает небесную двойственность света и тьмы, нанося ледяной урон и сжигая своих врагов дотла. Она может контролировать силу солнечной системы, оставляя за собой след абсолютного разрушения.
+stormweaver_ad|The Stormweaver commands the tempestuous power of thunder and lightning, shocking through the undead with electrifying grace. With each crack of thunder and flash of lightning she leaves the battlefields full of steaming ash.|Ткач бурь управляет бурной силой грома и молнии, потрясая нежить с электризующей грацией. С каждым раскатом грома и вспышкой молнии она оставляет поля сражений, полные дымящегося пепла. 
+bard_ad|Shred the battlefield with face-melting solos and thunderous riffs! The Bard storms into Hero Siege with amps cranked to 11, fusing the fury of death metal with the raw brutality of the pit. Channel the storm as a Metal Guitarist, wielding lightning-infused chords that stun, shock, and incinerate your foes. Or dive headfirst into the chaos as a Pit Fighter, a whirlwind of fists, boots, and brutal rhythm, turning moshpits into murderfields.|Разрывайте поле боя сногсшибательными соло и громоподобными риффами! Бард врывается в Hero Siege, выкручивая усилители на максимум — и смешивает ярость дэт-метала с первобытной жестокостью слэма. Станьте воплощением шторма в роли метал-гитариста, испепеляющего врагов электрическими аккордами, оглушающими, шокирующими и сжигающими все на своем пути. Или бросайтесь в хаос как слэм-боец — вихрь из кулаков, ботинок и бешеного ритма, превращающий мошпит в поле массовой бойни.
+monster|Monster|Монстр
+relic|Relic|Реликвия
+upgrade_token_desc|Used to upgrade Satanic items.|Используется для улучшения сатанинских предметов.
+reroll_token_desc|Re-rolls the quality of an item.|Изменяет качество предмета.
+offensive_token_desc|Adds a random ability to a Weapon.|Добавляет случайную способность к оружию.
+satanic_dice_desc_one|Chance to increase the quality of an item or corrupt it.|Шанс повысить качество предмета или испортить его.
+satanic_dice_desc_two|Item has to be max level|Предмет должен быть максимального уровня.
+requires_mining|Requires Mining|Требуется майнинг
+requires_jewelcrafting|Requires Jewelcrafting|Требуется ювелирное дело
+requires_enchanting|Requires Enchanting|Требуется наложение чар
+requires_herbalism|Requires Herbalism|Требуется травничество
+requires_fishing|Requires Fishing|Требуется рыбалка
+extra_space_dlc|Get More Space|Получите больше места
+price|Price|Цена
+price_free|FREE|БЕСПЛАТНО
+blocked|Blocked|Заблокировано
+miss|Miss|Miss
+immune|Immune|Иммунитет
+negated|Negated|Отрицано
+accept|Accept|Принимать
+decline|Decline|Отклонить
+disconnected|Disconnected|Отключено
+version_mismatch|Version mismatch.|Несоответствие версий.
+identification_error|Identification error.|Ошибка идентификации.
+item_max|MAX|МАКС
+item_corrupted|Corrupted|Испорченный
+item_forged|Forged|Кованый 
+login_connection_error|Connection failed.|Соединение не удалось.
+login_internet_error|No Internet connection.|Нет соединения с интернетом.
+login_validation_error|VALIDATION ERROR|ОШИБКА ПРОВЕРКИ
+login_account_error|ACCOUNT ERROR|ОШИБКА АККАУНТА
+found_mystery_hat|Found a Mystery Hat!|Нашел загадочную шляпу!
+server_connection_failed|Server connection failed.|Соединение с сервером не удалось.
+server_shutting_down|Server shutting down soon|Сервер скоро отключится
+server_no_response|No response from server.|Нет ответа от сервера.
+server_kicked|Kicked from the server.|Выкинули с сервера.
+server_not_unlocked|Difficulty not unlocked!|Сложность не разблокируется!
+server_full|Server is full.|Сервер заполнен.
+server_password|Enter password:|Введите пароль:
+multiplayer_disabled|Online multiplayer is currently disabled.|Многопользовательская онлайн-игра в настоящее время отключена.
+new_version|There is a new version available.|Доступна новая версия.
+update_game|Update your game.|Обновите свою игру.
+account_disabled|Your account has been disabled.|Ваш аккаунт был отключен.
+moderator_kicked|You have been kicked out by a moderator.|Вас исключил модератор. 
+reason|Reason|Причина
+logged_in_elsewhere|Your account has logged in elsewhere.|В вашу учетную запись выполнен вход в другом месте.
+support_120hz|Please make sure your setup supports 120Hz to avoid performance issues.|Убедитесь, что ваша установка поддерживает частоту 120 Гц, чтобы избежать проблем с производительностью.
+support_144hz|Please make sure your setup supports 144Hz to avoid performance issues.|Убедитесь, что ваша установка поддерживает частоту 144 Гц, чтобы избежать проблем с производительностью.
+privacy_policy|Privacy Policy|политика конфиденциальности
+eula|Eula|Eula
+privacy_policy_msg1|We have updated our Privacy Policy.|Мы обновили нашу Политику конфиденциальности.
+privacy_policy_msg2|Please review and accept the changes to continue|Пожалуйста, просмотрите и примите изменения, чтобы продолжить.
+privacy_policy_agree|I have read and agree both the EULA and the Privacy Policy.|Я прочитал и согласен с Лицензионным соглашением и Политикой конфиденциальности.
+privacy_policy_must_agree|EULA and Privacy Policy must be agreed to register.|Для регистрации необходимо согласиться с лицензионным соглашением и Политикой конфиденциальности.
+privacy_policy_ok|Ok, I accept.|Хорошо, я принимаю.
+privacy_policy_not_ok|No, I don't accept.|Нет, я не принимаю.
+privacy_policy_i_agree|I agree|Я согласен
+account_link_understand|I agree to linking the registered account to my platform account.|Я согласен привязать зарегистрированную учётную запись к моей учётной записи на платформе.
+account_link_must_understand|In order to register a PanicNet account you must agree to link the account to your platform account.|Чтобы зарегистрировать учётную запись PanicNet, вам необходимо согласиться привязать её к своей учётной записи на платформе. 
+wormhole_error|Error loading wormhole.|Ошибка загрузки червоточины.
+wormhole_disabled|Season wormholes are currently disabled.|Сезонные червоточины в настоящее время отключены.
+wormhole_awarded_start|You have been awarded|Вам присвоен
+wormhole_awarded_end_one|Wormhole Level!|уровень червоточины!
+wormhole_awarded_end_many|Wormhole Levels!|уровень червоточины!
+unstable_rift_waves|Unstable Rift Waves:|Нестабильные рифтовые волны:
+unstable_rift_cleared|Unstable Rift Cleared|Нестабильный разлом очищен
+legacy|Legacy|Наследие
+event|Event|Событие
+player_two_press|Player 2 press|Игрок 2 нажимает
+player_two_join|to join.|присоединиться.
+coop_exit_press|Press|Нажмите
+coop_exit_text|to exit Coop|чтобы выйти из Сотрудничества 
+guild_invite|Invite to guild|Пригласить в гильдию
+guild_promote|Guild Promote|Продвижение гильдии
+guild_demote|Guild Demote|Понижение уровня гильдии
+guild_remove|Guild Remove|Удалить гильдию
+guild_rep|Guild Reputation|Репутация гильдии
+friendly|Friendly|Дружелюбно
+honored|Honored|Заслуженный
+revered|Revered|Почитаемый
+exalted|Exalted|Возвышенный
+no_players_found|No players found|Игроки не найдены
+error|Error|Ошибка
+warning|Warning|Предупреждение
+lost_connection|Lost connection|Потерянное соединение
+in_different_zone|is in a different zone!|находится в другой зоне!
+trade_must_be_in_town|Must be in town to trade.|Для торговли необходимо быть в городе. 
+sell_prompt|Are you sure you want to sell?|Вы уверены, что хотите продать?
+sell_all_prompt|Are you sure you want to sell all items in this category?|Вы уверены, что хотите продать все товары в этой категории?
+angelic_upgrade_prompt|Are you sure you want to upgrade this item?|Вы уверены, что хотите обновить этот предмет?
+angelic_upgrade_cancel|Are you sure you want to cancel the upgrade? The chest will be consumed and cannot be opened again.|Вы уверены, что хотите отменить обновление? Сундук будет израсходован и его нельзя будет открыть снова.
+attempts_remaining|Attempts remaining:|Осталось попыток:
+minute|Minute|Минута
+minutes|Minutes|Минуты
+insert_coin|Insert Coin!|Вставьте монету!
+dig_treasure|Dig for David's treasure!|Отыщите сокровище Дэвида!
+dig|Dig|Копать
+whisper|Whisper|Шепот
+msg_cant_connect_global|Can't connect to the chat server.|Не могу подключиться к серверу чата.
+msg_cant_connect_guild|Can't connect to guild chat server.|Не могу подключиться к серверу чата гильдии.
+msg_cant_connect_blood_pact|Can’t connect to Blood Pact chat server.|Невозможно подключиться к серверу чата Blood Pact. 
+msg_welcome|Welcome to Hero Siege global chat!|Добро пожаловать в глобальный чат Hero Siege!
+msg_help|Type /help for commands.|Введите /help для команд.
+msg_time|Time|Время
+msg_date|Date|Дата
+msg_parental_control|Parental control is enabled. Communication is not allowed for this user on this device.|Родительский контроль включен. Для этого пользователя на этом устройстве запрещена связь.
+msg_spam|Too many messages. Wait [time] seconds.|Слишком много сообщений. Подождите [время] секунд.
+msg_not_in_guild|You are not in a guild.|Вы не состоите в гильдии.
+msg_status_low|Your guild status is too low.|Ваш статус в гильдии слишком низкий.
+msg_playername|player name|имя игрока
+msg_message|message|сообщение
+msg_whisper|to whisper|шептать
+msg_reply|to reply to a whisper|ответить на шепот
+msg_game_invite|to send a game invite|отправить приглашение в игру
+msg_guild_invite|to send a guild invite|отправить приглашение в гильдию
+msg_mute|to mute a player|отключить звук игрока
+msg_unmute|to unmute a player|чтобы включить звук игрока
+msg_roll|to roll a number (0-100)|выбросить число (0-100) 
+msg_promoted|You have been promoted!|Вас повысили!
+msg_demoted|You have been demoted.|Вы понижены в должности.
+msg_removed|You have been removed from the guild.|Вас исключили из гильдии.
+msg_voted_reset|Voted for reset|Проголосовал за сброс
+msg_removed_vote|Removed their reset vote.|Удален голос за сброс.
+msg_invited|has invited you to join game|пригласил вас присоединиться к игре
+msg_joined|joined!|присоединился!
+msg_left|left!|левый!
+msg_died|died!|умер!
+msg_grave|The final resting place:|Место последнего упокоения:
+gaben_event|Gaben walks the earth...|Габен ходит по земле...
+ping_timeout|Ping timeout.|Тайм-аут пинга.
+revive|Revive|Оживить
+respawn|Respawn|Респаун
+magic_rubies|Magic Rubies|Волшебные Рубины
+black_market|Black Market|Черный рынок
+mystery_hat_equip|You just looted a Mystery Hat, would you like to equip it?|Вы только что нашли загадочную шляпу. Хотите надеть ее?
+color_picker_current|Current Color|Текущий цвет
+altar_um|Um's Altar|Алтарь Ума
+quest_take_one|Take one!|Взять один!
+quest_choose|Choose wisely!|Выбирай с умом!
+prompt_name_empty|The name field cannot be empty!|Поле имени не может быть пустым!
+prompt_delete_guild|Are you sure you want to delete this guild?|Вы уверены, что хотите удалить эту гильдию?
+prompt_black_market_buy|Are you sure you want to buy?|Вы уверены, что хотите купить?
+prompt_market_remove_item|Are you sure you want to remove this listing?|Вы уверены, что хотите удалить это объявление? 
+page|Page|Страница
+minion_resurrect|Resurrect Mercenary|Воскресить наемника
+minion_discharge|Discharge Mercenary|Увольнение наемника
+minion_discharge_confirm|Are you sure you want to discharge your mercenary?|Вы уверены, что хотите уволить своего наемника?
+minion_use|Use Mercenary|Используйте Наемника
+minion_buy|Hire Mercenary|Нанять наемника
+minion_melee|Knight|Рыцарь
+minion_ranged|Archer|Лучник
+minion_spell|Magister|Магистр
+keyboard_backspace|Backspace|Backspace
+take_cover|TAKE COVER!|ПРИКРЫТЬСЯ!
+mystery_chest_hat|Mystery Chest Hat|Загадочная нагрудная шляпа
+requires_verification|Requires account verification|Требуется проверка аккаунта
+requires_product|Requires product : |Требуется продукт: 
+requires_steam_item|Requires steam item|Требуется предмет Steam
+unavailable|Unavailable|Недоступен
+share_data|Share Gameplay Data|Поделитесь данными игрового процесса
+show_border|Show HUD Border|Показать границу HUD
+field_of_view|Field of View|Поле зрения
+joystick_opacity|Joystick Opacity|Прозрачность джойстика
+restore_purchases|Restore Purchases|Восстановить покупки
+ascendancy|Ascendancy|Восхождение
+attack_stick|Attack Stick|Стик атаки
+move_stick|Move Stick|Стик перемещения
+free|Free|Бесплатно
+magic_mushroom|Magic Mushroom|Галлюциногенный гриб
+per|Per|Пер
+inv_merc|Inventory Mercenary|Инвентарь наемника
+inv_secondary|Inventory Secondary|Инвентарь вторичный
+vsync|VSync|Верт. синхронизация
+no_shield|No shield!|Никакого щита!
+scrap|Scrap|Лом
+combine|Combine|Объединить
+dual_wield|Dual Wield|Два оружия
+soulbound|Herobound|Связанный герой
+inventory_sort_tab|Sort Tab|Сортировать
+inventory_autofill_belt|Autofill belt|Автозаполнение
+inventory_useall_belt|Use All Slots|Использовать все слоты
+split_stack|Split Stack|Разделить стек
+request_refund|Request Refund|Запросить возврат 
+||
+[Short stat names]||
+stat_movement_speed|Movement Speed|Скорость движения
+stat_ruby_drops|Ruby Drops|Рубиновые капли
+stat_experience|Experience|Опыт
+||
+[Loot names]||
+loot_body_part|Body part|Часть тела
+loot_brick|Brick|Кирпич
+loot_christmas_star|Christmas Star|Рождественская звезда
+loot_christmas_tree|Christmas Tree|Рождественская елка
+loot_coffee_beans|Coffee Beans|Кофейные зерна
+loot_coffee_mug|Coffee Mug|Кружка кофе
+loot_mystery_hat|Mystery Hat|Таинственная шляпа
+loot_mystery_wings|Mystery Wings|Таинственные Крылья
+loot_pile_of_socks|Pile of Socks|Куча носков
+loot_snowman_head|Snowman's Head|Голова снеговика
+loot_skeleton_bone|Skeleton Bone|Скелетная кость
+loot_bards_guitar|Bard's Guitar|Гитара Барда
+loot_moonshine|Moonshine|Самогон
+loot_beer|Beer|Пиво
+loot_wine|Wine|Вино
+loot_grapes|Grapes|Виноград
+loot_metal_debris|Metal Debris|Металлический мусор
+loot_essence|Essence|Сущность
+loot_gemstone|Rainbow Gemstone|Радужный драгоценный камень
+loot_braggite|Braggite|Брэггит
+loot_corrupted_dirt|Corrupted Dirt|Испорченная грязь
+loot_hogmeat|Delicious Hog Meat|Вкусное мясо свиньи
+loot_doom_weed|Doom Weed|Роковая трава
+loot_essence_of_gods|Essence of the Gods|Сущность богов
+loot_naga_scale|Naga Scale|Чешуя наги
+loot_cart_wheel|Mining Cart Wheel|Колесо шахтной тележки
+loot_golden_statue|Golden Warrior Statue|Статуя Золотого Воина
+loot_naga_amulet|Golden Snake Amulet|Амулет Золотая Змея
+loot_hero_skull|Hero Skull|Череп героя
+loot_fat_pumpkin|Fat Pumpkin|Жирная тыква
+loot_maggot_corpse|Yummy maggot|Вкусная личинка
+loot_spellbook_ahriman|Mysterious spellbook|Таинственная книга заклинаний
+loot_ginseng|Ginseng|Женьшень
+loot_loska|Loska|Лоска
+loot_frost_dill|Frost Dill|Морозный укроп
+loot_vermroot|Vermroot|Вермрут
+loot_fanglen|Fanglen|Фэнглен
+loot_carnage_track|Bear tracks|Медвежьи следы
+loot_jaspers_whip|Jasper's Whip|Кнут Джаспера
+loot_staff_map|Old Map|Старая карта
+loot_devils_cabbage|Devil's Cabbage|Дьявольская капуста
+loot_empty_mining_cart|Empty Mining Cart|Пустая шахтерская тележка
+loot_sturdy_bamboo|Sturdy Bamboo|Прочный бамбук
+loot_aki_workbench|Aki's Workbench|Верстак Аки
+loot_spiderweb|Thick Spiderweb|Толстая паутина
+loot_metal_hook|Metal Hook|Металлический Крюк
+loot_eternal_chalice|The Eternal Chalice|Вечная Чаша
+loot_soul|Lost Soul|Потерянная душа
+loot_sealed_grave|Seal of Eternity|Печать Вечности
+||
+||
+[Marketplace]||
+sell_item|Sell item|Продать
+buy_item|Buy item|Купить
+remove_item|Remove item|Убрать
+claim_rubies|Claim rubies|Получите рубины
+search|Search|Поиск
+sort|Sort|Сортировать
+get_items|Get items|Получить предметы
+get_own_items|My listings|Мои объявления
+type|Type|Тип
+damage_type|Damage type|Тип урона
+rarity|Rarity|Редкость
+expired|Expired|Истекший
+unit_price|Unit Price|Цена за единицу товара
+listed|Listed|В списке
+bought|Bought|Куплено 
+market_items_sold|You have sold items in the market|Вы продали предметы на рынке
+market_items_expired|You have expired items in the market|У вас есть просроченные товары на рынке
+market_tax|7% tax on sale completion|Налог 7% на завершение продажи
+market_connect|Connection to the marketplace failed.|Не удалось подключиться к торговой площадке.
+market_limit_reached|Apply search terms or filters to narrow your results.|Примените условия поиска или фильтры, чтобы сузить результаты.
+market_list_filled|No more results found with current criteria.|Больше результатов по текущим критериям не найдено.
+market_send_full|You can sell 10 items at a time|Вы можете продать 10 предметов одновременно
+market_pending|Pending confirmation from the buyer|Ожидание подтверждения от покупателя
+market_instructions_welcome|[c_coin]Welcome to the Tarethiel Marketplace|[c_coin]Добро пожаловать на рынок Таретиэля
+market_instructions_tax|The tax is 1% when listing items and 10% when claiming a sold listing.|Налог составляет 1% при выставлении лота на продажу и 10% при заявлении о продаже товара.
+market_instructions_expiration|Listings that are older than 30 days will be permanently deleted if they are not claimed or recalled.|Объявления старше 30 дней будут удалены без возможности восстановления, если на них не будут заявлены права или они не будут отозваны.
+market_critical_error|Network communication data was lost. The Marketplace will be closed.|Данные сетевой связи были потеряны. Торговая площадка будет закрыта.
+market_closed|Market is currently closed. Please try again later.|Рынок в настоящее время закрыт. Пожалуйста, попробуйте еще раз позже. 
+steam_scrap_confirm|Are you sure you want to scrap this item? This will cause the item to be permanently destroyed. | Вы уверены, что хотите удалить этот предмет? Это приведет к окончательному уничтожению предмета.
+claim_keys|Claim keys|Получить ключи
+claim|Claim |Забрать
+challenge_dungeon|Challenge Dungeon|Испытание подземелья
+open|Open|Открыть
+overrides|Overrides|Переопределения
+ability|Ability|Способность
+mail_send|Send|Отправлять
+mail_recipient|Recipient|Получатель
+mail_title|Title|Заголовок
+mail_send_new|Send new mail|Отправить новое письмо
+mailbox|Mailbox|Почтовый ящик
+mailbox_closed|Mailbox is currently closed. Please try again later.|
+mail_delete_prompt|Are you sure you want to delete this mail? This cannot be undone.|Вы уверены, что хотите удалить это письмо? Это действие нельзя отменить.
+chaos_tower_highscores|Chaos Tower Highscores|Рекорды Chaos Tower
+season_first_to_100|Season first to level 100|Сезон первый до 100-го уровня
+gold_cap_trade|You would go over the account's gold limit!|Вы превысите лимит золота аккаунта!
+gold_cap_reached|Gold cap reached!|Достигнут лимит золота!
+mail_claim_gold_limit|Mail could not be claimed. Gold limit reached!|Почта не может быть получена. Достигнут лимит золота!
+ferry_coop_present|All players must be present to board the ferry!|Все игроки должны присутствовать на борту парома! 
+||
+[Companions]||
+companion_name_1|Corgi|Корги
+companion_name_2|Turtle|Черепаха
+companion_name_3|Slime|Слизь
+companion_name_4|Stickman Steve|Стикмен Стив
+companion_name_5|Dodo|Додо
+companion_name_6|Sir Penguin|Сэр пингвин
+companion_name_7|Random Goose|Гусь Дмитрий
+companion_name_8|Baby Cactus|Малышь кактус
+companion_name_9|Spooky Scary Skeleton|Жуткий и страшный скелет
+companion_name_10|Black Cat|Черная кошка
+companion_name_11|Floating Pumpkin Head|Плавающая тыквенная голова
+companion_name_12|Snowman|Снеговик
+companion_name_13|Elf|Эльф
+companion_name_14|Rudolph|Рудольф
+companion_name_15|Helicopter Drone|Дрон
+companion_name_16|Clockwork Dragon|Механический дракон
+companion_name_17|Steam Powered Wolf|Стимпанк волк
+companion_name_18|Wooden Spiderbot|Деревянный робот-паук
+companion_name_19|Mini Chaos Tower|Мини-Башня Хаоса
+companion_name_20|Heavenly Dove|Небесный голубь
+companion_name_21|Eternal Protector|Вечный защитник
+companion_name_22|Pride of the Order of Angels|Гордость Ордена Ангелов
+companion_name_23|Angel & Devil|Ангел Дьявол
+companion_name_24|Lost Soul|Потерянная душа
+companion_name_25|Armored Polar|Бронированный Полярный
+companion_name_26|Burning Server|Горящий сервер
+companion_name_27|Raven|Ворон
+companion_name_28|Grizzly Bear|Медведь гризли
+companion_name_29|Fenrir|Фенрир
+companion_name_30|Shadow Wolf|Тень волка
+companion_name_31|Lil' Prophet|Маленький пророк
+companion_name_32|Molten Drake|Раскаленный дракон
+companion_name_33|Corrupted Crow|Испорченная ворона
+companion_name_34|Summoned Beast|Призванный зверь
+companion_name_35|Alice|Алиса
+companion_name_36|Black Goat|Черная коза
+companion_name_37|Ritual Mask|Ритуальная маска
+companion_name_38|Chroma Wolf|Хромированный волк
+companion_name_39|Pug|Мопс
+companion_name_40|Bober|Бобер
+companion_name_41|Monkey|Обезьяна
+companion_name_42|Astral Deer|Астральный олень
+companion_name_43|Celestial Raven|Небесный ворон
+companion_name_44|Celestial Lion|Небесный лев
+companion_name_45|Celestial Dragon|Небесный дракон
+companion_name_46|Sphinx|Сфинкс 
+companion_name_48|Brainrot Cat|Мозгогнилой кот
+companion_name_49|Demonhorn Enforcer|Демонрог-инфорсер
+companion_name_50|Chaos Mutton|Баран Хаоса
+companion_name_51|Demon Sheep|Демон-овца
+companion_name_52|Capybara|Капибара 
+||
+angelic_realm_tutorial_1_header|Angelic Realm |Ангельское царство 
+angelic_realm_tutorial_2_header|Augments |Усиления 
+angelic_realm_tutorial_3_header|Armor Augment|Усиление брони
+angelic_realm_tutorial_4_header|Augment Upgrade |Улучшение усиления 
+angelic_realm_tutorial_5_header|Angelic Keys |Ангельские ключи 
+angelic_realm_tutorial_1_text|[c_coin]Angelic Realm[c_reset] is a realm that allows you to Augment your Body Armor with powerful augments.[nl] While wearing an Augmented Body Armor, the augment is active.[nl] [c_coin]Be ready![c_reset] You need an [c_coin]Angelic Key[c_reset] to enter the realm and only [c_red]one action[c_reset], Augmentation or Augment Upgrade can be performed per visit. |[c_coin]Ангельский мир[c_reset] — это мир, который позволяет вам улучшать свой бронежилет с помощью мощных аугментаций.[nl] Пока вы носите улучшенный бронежилет, аугментация активна.[nl] [c_coin]Будьте готовы![c_reset] Для входа в мир вам понадобится [c_coin]Ангельский ключ[c_reset], и за одно посещение можно выполнить только [c_red]одно действие[c_reset] — улучшение или улучшение аугментации. 
+angelic_realm_tutorial_2_text|On Armor Augment The [c_coin]Augments[c_reset] can be applied to your Armor, and you get two choices randomly pulled from the pool. You can replace an existing Augment any time, but you don’t keep any upgraded levels from the previous one,[nl] On Augment Upgrade, any Augment can be leveled up for a cost of Angelic Keys.[nl] If you wish to view all the different Augments, visit your [c_heroic]Journal[c_reset] and open the tab “[c_coin]Augments[c_reset]”.|На улучшении брони [c_coin]Улучшения[c_reset] могут быть применены к вашей броне, и вы получаете два варианта, случайно выбранных из пула. Вы можете заменить существующее улучшение в любое время, но вы не сохраняете никаких улучшенных уровней от предыдущего,[nl] На улучшении улучшения, любое улучшение может быть повышено за стоимость Angelic Keys.[nl] Если вы хотите просмотреть все различные улучшения, посетите ваш [c_heroic]Журнал[c_reset] и откройте вкладку «[c_coin]Улучшения[c_reset]». 
+angelic_realm_tutorial_3_text|When you talk to the [c_coin]Angel of Justice[c_reset], they offer you two choices: [c_coin]Armor Augment[c_reset] & [c_coin]Augment Upgrade[c_reset].[nl] Selecting the [c_coin]Armor Augment[c_reset] option opens the path to the left side gate of the realm and allows you passage to the [c_coin]Chest[c_reset] behind the gate. The chest opens a slot for you to insert the Body Armor of your choice to augment. [nl]The chest offers you two options for an augment, and you can choose either one.[nl] For extra cost of 5 additional keys, you can choose [c_coin]any augment[c_reset] from a list and apply it. [c_red]Be ready to enter the Angelic Realm and opening the chest![c_reset] Once the chest is opened, it is consumed. This means if you exit the chest without applying any augments, the chest and the key you entered with is [shake_word][c_red]consumed[c_reset][shake_reset], and you need another key to enter the Angelic Realm again. |Когда вы говорите с [c_coin]Ангелом Справедливости[c_reset], они предлагают вам два варианта: [c_coin]Улучшение брони[c_reset] и [c_coin]Улучшение брони[c_reset].[nl] Выбор опции [c_coin]Улучшение брони[c_reset] открывает путь к левым воротам сферы и позволяет вам пройти к [c_coin]Сундуку[c_reset] за воротами. Сундук открывает слот для вставки доспеха по вашему выбору для улучшения. [nl]Сундук предлагает вам два варианта улучшения, и вы можете выбрать любой из них.[nl] За дополнительную плату в размере 5 дополнительных ключей вы можете выбрать [c_coin]любое улучшение[c_reset] из списка и применить его. [c_red]Будьте готовы войти в Царство Ангелов и открыть сундук![c_reset] После открытия сундука он будет использован. Это означает, что если вы выйдете из сундука, не применив никаких улучшений, сундук и ключ, с помощью которого вы вошли, будут [shake_word][c_red]использованы[c_reset][shake_reset], и вам понадобится другой ключ, чтобы снова войти в Ангельское Царство. 
+angelic_realm_tutorial_4_text|When you talk to the [c_coin]Angel of Justice[c_reset], they offer you two choices: [c_coin]Armor Augment[c_reset] & [c_coin]Augment Upgrade[c_reset].[nl] Selecting the [c_coin]Augment Upgrade[c_reset] option opens the path to the right side gate of the realm and allows you passage to the [c_coin]Chest[c_reset] behind the gate.[nl] The chest opens a slot for you to insert a Body Armor with existing [c_coin]Augment[c_reset] on it. Upgrading the [c_coin]Augment[c_reset] costs additional [c_coin]Angelic Keys[c_reset] increasing with each upgrade. The maximum level of all [c_coin]Augments[c_reset] is [c_heroic]7[c_reset], and they can not be upgraded over that.[nl] [c_red]Be ready to enter the Angelic Realm and opening the chest![c_reset] Once the chest is opened, it is consumed. This means if you exit the chest without applying any [c_coin]Augment Upgrades[c_reset], the chest and the key is [shake_word][c_red]consumed[c_reset][shake_reset], and you need another key to enter the Angelic Realm again.|Когда вы говорите с [c_coin]Ангелом Справедливости[c_reset], они предлагают вам два варианта: [c_coin]Улучшение Брони[c_reset] и [c_coin]Улучшение Улучшения[c_reset].[nl] Выбор опции [c_coin]Улучшение Улучшения[c_reset] открывает путь к правым воротам королевства и позволяет вам пройти к [c_coin]Сундуку[c_reset] за воротами.[nl] Сундук открывает слот для вставки Бронежилета с существующим [c_coin]Улучшением[c_reset] на нем. Улучшение [c_coin]Улучшения[c_reset] стоит дополнительных [c_coin]Ангельских Ключей[c_reset], которые увеличиваются с каждым улучшением. Максимальный уровень всех [c_coin]Augments[c_reset] - [c_heroic]7[c_reset], и их нельзя улучшить выше этого.[nl] [c_red]Будьте готовы войти в Angelic Realm и открыть сундук![c_reset] Как только сундук открыт, он потребляется. Это означает, что если вы выйдете из сундука, не применив никаких [c_coin]Augment Upgrades[c_reset], сундук и ключ [shake_word][c_red]потреблены[c_reset][shake_reset], и вам понадобится другой ключ, чтобы снова войти в Angelic Realm. 
+angelic_realm_tutorial_5_text|[c_coin]Angelic Keys[c_reset] can only drop from [shake_word][c_red]Fallen Angels[c_reset][shake_reset].[nl] They are strong enemies that can be found anywhere from the world on Hell difficulty. You can recognize them from the [c_yellow]Golden Aura[c_reset] around them.[nl] One [c_coin]Angelic Key[c_reset] grants passage for [shake_word][c_red]one[c_reset][shake_reset] visit in [c_coin]Angelic Realm[c_reset].[nl] You can also access [c_coin]Angelic Realm[c_reset] without a key if Heimdall offers you passage via the [shake_word][c_yellow]Bifröst[c_reset][shake_reset]!|[c_coin]Ангельские ключи[c_reset] могут выпасть только из [shake_word][c_red]Падших ангелов[c_reset][shake_reset].[nl] Это сильные враги, которых можно найти в любой точке мира на уровне сложности «Ад». Вы можете узнать их по [c_yellow]Золотой ауре[c_reset] вокруг них.[nl] Один [c_coin]Ангельский ключ[c_reset] дает проход для [shake_word][c_red]одного[c_reset][shake_reset] посещения [c_coin]Ангельского царства[c_reset].[nl] Вы также можете попасть в [c_coin]Ангельское царство[c_reset] без ключа, если Хеймдалль предложит вам проход через [shake_word][c_yellow]Бифрост[c_reset][shake_reset]! 
+angelic_realm_exit_prompt|Are you sure you want to exit Angelic Realm? You need another Angelic Key to re-enter.|Вы уверены, что хотите выйти из Царства Ангелов? Для повторного входа вам понадобится ещё один Ангельский Ключ. 
+||
+to_cancel|To Cancel|Отменить
+overwrite_inputs|This would overwrite inputs|Это приведет к перезаписи введенных данных
+to_accept|To Accept|Принять
+season_end_blackbox|[c_yellow]Season is coming to an end![c_reset][nl]At the end of the season:[nl]- Seasonal characters are moved into non-season[nl]- Personal Stashes are moved to non-season[nl][c_red]- Seasonal Shared Stashes are wiped![nl]- Guild Stash is wiped![c_reset][nl][nl]To keep the items in your Stash, move them to the Personal Stash or character's inventory!|[c_yellow]Сезон подходит к концу![c_reset][nl]В конце сезона:[nl]- Сезонные персонажи перемещаются в несезонный[nl]- Личные тайники перемещаются в несезонный[nl][c_red]- Сезонные общие тайники очищаются![nl]- Тайник гильдии очищается![c_reset][nl][nl]Чтобы сохранить предметы в своем тайнике, переместите их в личный тайник или в инвентарь персонажа!
+se_starts_in|starts in|начинается через
+time_hour|hour|час
+time_hours|hours|часов
+time_day|day|день
+time_days|days|дней 
+move|Move|Перемещение
+equip_use|Equip/Use|Экипировка/Использование
+navigate|Navigate|Навигация
+quick_move|Quick Move|Быстрое перемещение
+compare|Compare|Сравнение 
+press_to_sort|Press To Sort|Нажмите для сортировки 
+||
+guild_link_info|You can embed one clickable link to show below your guild description.[nl]Use this feature wisely![nl]Maybe a link to your guilds website or voice chat server?|Вы можете встроить одну интерактивную ссылку, которая будет отображаться под описанием вашей гильдии.[nl]Используйте эту функцию с умом![nl]Может быть, ссылка на сайт вашей гильдии или сервер голосового чата?
+community_quest|Community Quest|Задание сообщества
+community_quest_info|Community Quests are weekly quests in which all the players on Hell difficulty progress the quest automatically. On completion the reward buff will be active for all players on all difficulties until the weekly quest resets on Friday.|Задания сообщества — это еженедельные задания, в которых все игроки на уровне сложности «Ад» автоматически выполняют задание. После завершения бонус к награде будет активен для всех игроков на всех уровнях сложности до тех пор, пока еженедельное задание не будет сброшено в пятницу.
+chat_region_info|Select the general chat region. Other users in the same chat region can chat together, regardless of their login or game server region.|Выберите общий регион чата. Другие пользователи в том же регионе чата смогут общаться друг с другом, независимо от их логина или региона игрового сервера.
+server_region_info|Select the game server region. Prefer the region closest to you for optimal online experience. Other users can find your game regardless of their login or chat region.|Выберите регион игрового сервера. Для оптимальной онлайн-игры выберите ближайший к вам регион. Другие пользователи смогут найти вашу игру независимо от их логина или региона чата. 
+uber_sung_lee_killed|The war is already over...|Война уже окончена...
+username_profanity|Username contains profanity, please choose another name.|Имя пользователя содержит ненормативную лексику, выберите другое имя.
+select|Select|Выбрать 
+||
+login_ps5_prompt|In order to play Hero Siege online, you will need a PanicNet™ account. You can create a new account which will be linked to your account for PlayStation™Network or you can log in and link an existing Panicnet account.|Для игры в Hero Siege онлайн вам понадобится учетная запись Panicnet™. Вы можете создать новую учетную запись, которая будет связана с вашей учетной записью PlayStation™Network, или вы можете войти в систему и связать существующую учетную запись Panicnet. 
+login_ps5_prompt_existing|Important: When you successfully log in to an existing PanicNet account, this PanicNet account will automatically be linked to this account for PlayStation™Network. This linking cannot be reversed or changed, which means that you will not be able to access another Panicnet account using this account for PlayStation™Network.|Важно: Когда вы успешно войдете в существующую учетную запись Panicnet, эта учетная запись Panicnet будет автоматически связана с этой учетной записью PlayStation Network. Эту связь нельзя отменить или изменить, что означает, что вы не сможете получить доступ к другой учетной записи Panicnet, используя эту учетную запись PlayStation Network. 
+login_ps5_prompt_create|Important: Your account for PlayStation™Network will be automatically linked to a new PanicNet account at creation. This linking cannot be reversed or changed once the process is complete, which means that you will not be able to access another Panicnet account using this account for PlayStation™Network.|Важно: Ваша учетная запись PlayStation Network будет автоматически связана с новой учетной записью Panicnet при создании. Эту связь нельзя будет отменить или изменить после завершения процесса, что означает, что вы не сможете получить доступ к другой учетной записи Panicnet, используя эту учетную запись PlayStation Network. 
+login_account_link_prompt|Your [c_panicnet]PanicNet[c_reset] account is in an [c_orange]unlinked[c_reset] state. Would you like to link this [c_panicnet]PanicNet[c_reset] and [platform_name] account? This is a one time process, after which you gain the following benefits:[c_lime][nl]- Autologin[nl]- Access to the Tarethiel Market and Mailbox[nl]- Unlimited Trading[nl]- Hero Siege Chat[nl][c_reset][nl][c_yellow]Please note:[c_reset] Account linking is a permanent operation and exclusive to only one link per platform; by linking this account you can not link this [c_panicnet]PanicNet[c_reset] account to another [platform_name] account nor link this [platform_name] account to another [c_panicnet]PanicNet[c_reset] account.[nl]After the link is established only this [platform_name] account can login to the [c_panicnet]PanicNet[c_reset] account via [platform_name].|Ваша учётная запись [c_panicnet]PanicNet[c_reset] находится в состоянии [c_orange]отсоединена[c_reset]. Хотите связать эту учётную запись [c_panicnet]PanicNet[c_reset] и [platform_name]? Это одноразовая процедура, после которой вы получите следующие преимущества:[c_lime][nl]- Автоматический вход[nl]- Доступ к рынку и почтовому ящику Tarethiel[nl]- Неограниченная торговля[nl]- Чат осады героев[nl][c_reset][nl][c_yellow]Обратите внимание:[c_reset] Привязка учётных записей является постоянной операцией и распространяется только на одну ссылку на платформу; привязав эту учетную запись, вы не сможете связать эту учетную запись [c_panicnet]PanicNet[c_reset] с другой учетной записью [platform_name] или связать эту учетную запись [platform_name] с другой учетной записью [c_panicnet]PanicNet[c_reset].[nl]После установления связи только эта учетная запись [platform_name] сможет войти в учетную запись [c_panicnet]PanicNet[c_reset] через [platform_name]. 
+login_account_link_confirm_prompt|Are you absolutely sure you wish to link these accounts, This action is irreversible and can be done only once.|Вы абсолютно уверены, что хотите связать эти аккаунты? Это действие необратимо и может быть выполнено только один раз. 
+register_account_link_info_psn|To play Hero Siege online, your registered PanicNet account must be linked to your account for PlayStation™Network.[nl][nl][c_yellow]Important:[c_reset][nl][nl]Each PanicNet account can only be linked to one account per platform. [nl][nl]These links are permanent and cannot be changed later.[nl][nl][nl][nl][c_yellow]If you already have an unlinked PanicNet account[c_reset], simply log in to it and complete the linking - no need to register a new one. |Для игры в Hero Siege по сети ваша зарегистрированная учетная запись PanicNet должна быть связана с вашей учетной записью PlayStation™Network.[nl][nl][c_yellow]Важно:[c_reset][nl][nl]Каждая учетная запись PanicNet может быть связана только с одной учетной записью на платформе. [nl][nl]Эти привязки являются постоянными и не могут быть изменены позже.[nl][nl][nl][nl][c_yellow]Если у вас уже есть несвязанная учетная запись PanicNet[c_reset], просто войдите в нее и завершите привязку — регистрировать новую не нужно. 
+account_link_prompt_register_steam|Your Steam account will be automatically linked to a new PanicNet account at creation. This linking cannot be reversed or changed once the process is complete, which means that you will not be able to link another PanicNet account using this Steam account. Only this Steam account can access the registered account on Steam.|Ваш аккаунт Steam будет автоматически связан с новым аккаунтом PanicNet при создании. После завершения процесса привязка не может быть отменена или изменена. Это означает, что вы не сможете привязать другой аккаунт PanicNet к этому аккаунту Steam. Доступ к зарегистрированному аккаунту Steam возможен только с этого аккаунта Steam. 
+account_link_prompt_register_android|Your Google Play account will be automatically linked to a new PanicNet account at creation. This linking cannot be reversed or changed once the process is complete, which means that you will not be able to link another PanicNet account using this Google Play account. Only this Google Play account can access the registered account on Android platforms.|Ваша учётная запись Google Play будет автоматически связана с новой учётной записью PanicNet при создании. Эту привязку нельзя будет отменить или изменить после завершения процесса. Это означает, что вы не сможете привязать другую учётную запись PanicNet, используя эту учётную запись Google Play. Доступ к зарегистрированной учётной записи на платформах Android возможен только с этой учётной записи Google Play.
+account_link_prompt_register_psn|Important: Your account for PlayStation™Network will be automatically linked to a new PanicNet account at creation. This linking cannot be reversed or changed once the process is complete, which means that you will not be able to access another PanicNet account using this account for PlayStation™Network.|Важно: Ваша учётная запись PlayStation™Network будет автоматически связана с новой учётной записью PanicNet при создании. Эту привязку нельзя будет отменить или изменить после завершения процесса. Это означает, что вы не сможете получить доступ к другой учётной записи PanicNet, используя эту учётную запись PlayStation™Network. 
+greetings_hero|Greetings, Hero!|Привет, Герой!
+account_link|Account Link|Привязка аккаунта
+link_account|Link account|Привязать аккаунт
+your_panicnet_account|Your [c_panicnet]PanicNet[c_reset] account|Ваш аккаунт [c_panicnet]PanicNet[c_reset]
+would_be_linked_to|Would be linked to|Будет связан с
+register_account_link_info|To play Hero Siege online, your registered PanicNet account must be linked to your [platform_name] account.[nl][nl][c_yellow]Important:[c_reset][nl][nl]Each PanicNet account can only be linked to one account per platform - for example, one Steam, one Google Play account, etc.[nl][nl]These links are permanent and cannot be changed later.[nl][nl]After linking, online play via [platform_name] will only be accessible on this [platform_name] account.[nl][nl][c_yellow]If you already have an unlinked PanicNet account[c_reset], simply log in to it and complete the linking - no need to register a new one. |Для игры в Hero Siege онлайн ваш зарегистрированный аккаунт PanicNet должен быть связан с вашим аккаунтом [platform_name].[nl][nl][c_yellow]Важно:[c_reset][nl][nl]Каждый аккаунт PanicNet может быть связан только с одним аккаунтом на платформе, например, с одним аккаунтом Steam, одним аккаунтом Google Play и т. д.[nl][nl]Эти привязки постоянны и не могут быть изменены позже.[nl][nl]После привязки онлайн-игра через [platform_name] будет доступна только на этом аккаунте [platform_name].[nl][nl][c_yellow]Если у вас уже есть несвязанный аккаунт PanicNet[c_reset], просто войдите в него и завершите привязку — регистрировать новый не нужно.
+verified|Verified|Проверено
+unverified|Unverified|Непроверено 
+||
+[Blood Pact modifiers]||
+blood_pact_pack_size|Extra monster pack sizes|Дополнительные размеры групп монстров
+blood_pact_magic_find|Magic Find|Найти Magic
+blood_pact_as_cast_rate|Attack Speed / Cast Rate|Скорость атаки/Скорость каста
+blood_pact_angelic_rate|Angelic/Unholy drop rate|Скорость выпадения Angelic/Unholy
+blood_pact_heroic_rate|SS Satanic/Heroic drop rate|Скорость выпадения SS Satanic/Heroic
+blood_pact_experience_gain|Experience gain|Прирост опыта
+blood_pact_movement_speed|Total Movement Speed|Общая скорость передвижения
+blood_pact_total_damage|Total Damage dealt|Общий нанесенный урон
+blood_pact_dimension_shards|Dimensional Shards needed|Необходимые пространственные осколки
+blood_pact_battle_fragments|Battle Fragments needed|Необходимые фрагменты битвы
+blood_pact_prime_evil_parts|Prime Evil part drop rate|Скорость выпадения частей Prime Evil
+blood_pact_rune_rate|Rune drop rate|Скорость выпадения рун
+blood_pact_extra_sub_skills|Extra sub skill points|Дополнительные очки дополнительных навыков
+blood_pact_chaos_tower_spawn_rate|Chaos Tower spawn rate|Скорость появления Chaos Tower
+blood_pact_eternal_battle_field_rate|Battle Field spawn rate|Скорость появления Battle Field
+blood_pact_rift_rate|Rift spawn rate|Скорость появления Rift
+blood_pact_dungeon_key_rate|Dungeon Key drop rate|Скорость выпадения Dungeon Key
+blood_pact_disable_uniques|Disable unique drops|Отключить уникальные выпадения
+blood_pact_colosseum_fragments|Colosseum Fragments needed|Необходимы фрагменты Колизея
+blood_pact_satanic_rate|Satanic drop rate|Скорость выпадения сатанинских предметов
+blood_pact_relic_rate|Relic drop rate|Скорость выпадения реликвий
+blood_pact_gold_rate|Extra Gold per Monster kill|Дополнительное золото за убийство монстра
+blood_pact_boss_gem_rate|Boss Gem drop rate|Скорость выпадения драгоценных камней босса
+blood_pact_angelic_rune_rate|Angelic Rune drop rate|Скорость выпадения ангельских рун
+blood_pact_extra_ore|Extra ore drops|Дополнительные выпадения руды
+blood_pact_bifrost_key_rate|Bifröst Key drop rate|Скорость выпадения ключа Bifröst
+blood_pact_monster_life|Extra Monster life|Дополнительная жизнь монстра
+blood_pact_monster_damage|Extra Monster damage|Дополнительный урон монстру
+blood_pact_scroll_of_ra|Scroll of Ra drop rate|Скорость выпадения свитка Ра
+blood_pact_orb_rate|Orb drop rate|Скорость выпадения сферы 
+||
+[Blood Pact]||
+blood_pact_leave_prompt|Are you sure you want to leave the Blood Pact? You can not return unless you are invited again.|Вы уверены, что хотите покинуть Blood Pact? Вы не сможете вернуться, если вас не пригласят снова.
+blood_pact_start_prompt|Are you sure you want to start the Blood Pact?|Вы уверены, что хотите начать Blood Pact?
+blood_pact_join_prompt|Are you sure you want to join this Blood Pact?|Вы уверены, что хотите присоединиться к этому Blood Pact?
+blood_pact_enter_account|Enter account id|Введите идентификатор учетной записи
+blood_pact_invite_send_success|[c_red][wavy]Invite sent succesfully![c_reset][shake_reset]|[c_red][wavy]Приглашение успешно отправлено![c_reset][shake_reset]
+blood_pact_invite_send_failed|[c_red]Invite send failed...[c_reset]|[c_red]Отправка приглашения не удалась...[c_reset]
+blood_pact_custom_modifiers|Your [c_red]Custom Modifiers[c_reset]|Ваши [c_red]Пользовательские модификаторы:[c_reset]
+blood_pact_extend|Extend|Продлить
+blood_pact_expand|Expand|Расширять 
+blood_pact_ends|Blood Pact ends:|Blood Pact заканчивается:
+blood_pact_ended|Blood Pact ended|Blood Pact закончился
+blood_pact_invite_one|Blood Pact invite|Blood Pact приглашение
+blood_pact_invite_many|Blood Pact invites|Blood Pact приглашения 
+blood_pact_edit_available_one|Edit available|Доступно редактирование
+blood_pact_edit_available_many|Edits available|Доступны правки
+blood_pact_list_own|Your Blood Pacts|Ваши Кровавые пакты
+blood_pact_extend_prompt|Are you sure you want to extend the pact and consume a Blood Pact token?|Вы уверены, что хотите продлить пакт и использовать жетон Кровавого пакта? 
+||
+||
+blood_pact_create_title|Create a Blood Pact|Создать Blood Pact
+blood_pact_expand_title|Expand your Blood Pact|Расширьте свой Кровавый Договор 
+blood_pact_create_info|What is a [c_red]Blood Pact[c_reset]?[nl][nl][c_red]Blood Pact[c_reset] is a customizable private league game mode.[nl][nl]They come in six sizes, in which [c_coin]10 to 250 friends[c_reset] can play together.[nl][c_red]Blood Pact[c_reset] lasts for [c_coin]15 days[c_reset]. After creation, the pact modifiers can be adjusted before starting the 15 day timer.[nl]The pact can also be extended after starting by using more [c_red]Blood Pact[c_reset] tokens.[nl][nl]Customizations include [c_aqua]drop rates[c_reset], [c_yellow]experience gain[c_reset], monster density and much more.[nl][nl]You can also manage your pending [c_red]Blood Pact[c_reset] invites here. You can be a part of up to [c_coin]20[c_reset] [c_red]Blood Pacts[c_reset] at the same time.|Что такое [c_red]Кровавый пакт[c_reset]?[nl][nl][c_red]Кровавый пакт[c_reset] — это настраиваемый режим игры в частной лиге.[nl][nl]Они бывают шести размеров, в которые вы можете пригласить [c_coin]10, 20, 30, 50, 100 или 250 друзей[c_reset].[nl][c_red]Кровавый пакт[c_reset] длится [c_coin]15 дней[c_reset]. После создания модификаторы пакта можно настроить до начала 15-дневного таймера.[nl]Пакт также можно продлить после начала, купив больше токенов [c_red]Пакта крови[c_reset].[nl][nl]Настройки включают [c_aqua]скорость выпадения[c_reset], [c_yellow]прирост опыта[c_reset], плотность монстров и многое другое.[nl][nl]Вы также можете управлять своими ожидающими приглашениями [c_red]Пакта крови[c_reset] здесь. 
+blood_pact_manage_info|Here you can manage your [c_red]Blood Pact[c_reset] before it has been started.[nl][nl]You can have up to [c_coin][var,pactSize] members[c_reset] in your [c_red]Blood Pact[c_reset].[nl][nl]You can promote members to [c_coin]Officers[c_reset], who can invite, uninvite and kick members of the Pact.[nl][nl]The [c_red]Blood Pact[c_reset] creator can edit the [c_red]Blood Pact[c_reset] description, modifiers and hardcore gamemode from the [c_coin]Edit[c_reset] menu. The [c_red]Blood Pact[c_reset] modifiers can be freely edited before starting the Pact, two times after starting the Pact and twice more at any time for each Blood Pact Token used to extend or expand the [c_red]Blood Pact[c_reset].[nl][nl]When you are happy with your [c_red]Blood Pact[c_reset] modifiers, you can start the Pact![nl][nl]Remember, a [c_red]Blood Pact[c_reset] lasts for [c_coin]15 days[c_reset] after starting![nl][nl]You can extend the [c_red]Blood Pact[c_reset] end date at any time by using a [c_coin][var,pactSize] player Blood Pact token[c_reset].[nl][nl][c_red]Blood Pact[c_reset] members can also be managed after starting. |Здесь вы можете управлять своим [c_red]Кровавым Пактом[c_reset] перед его началом.[nl][nl]В вашем [c_red]Кровавом Пакте[c_reset] может быть до [c_coin][var,pactSize] участников[c_reset].[nl][nl]Создатель [c_red]Кровавого Пакта[c_reset] может редактировать его описание, модификаторы и режим хардкора в меню [c_coin]Редактировать[c_reset]. Модификаторы [c_red]Кровавого Пакта[c_reset] можно изменить только до начала![nl][nl]Если вас устраивают модификаторы [c_red]Кровавого Пакта[c_reset], вы можете начать Пакт![nl][nl]Помните, что [c_red]Кровавый Пакт[c_reset] длится [c_coin]15 дней[c_reset] после начала![nl][nl]Вы можете продлить время [c_red]Кровавого Пакта[c_reset], купив дополнительные токены.[nl][nl]Управлять участниками [c_red]Кровавого Пакта[c_reset] можно и после его начала. 
+blood_pact_started_info|Your [c_red]Blood Pact[c_reset] has begun.[nl][nl]You can have up to [c_coin][var,pactSize] members[c_reset] in your [c_red]Blood Pact[c_reset].[nl][nl][c_red]Blood Pact[c_reset] members can be managed here.[nl][nl]Custom modifiers of your [c_red]Blood Pact[c_reset] can be seen on the left.[nl][nl]You can extend the [c_red]Blood Pact[c_reset] time by using more [c_coin][var,pactSize] player Blood Pact tokens[c_reset]. [c_red]Blood Pact[c_reset] can also be extended any time after it has ended, allowing you to continue from where you left off.[nl][nl]The [c_red]Blood Pact[c_reset] can also be expanded to a larger size, which also grants additional [c_coin]7 days[c_reset] to the pact.[nl]Characters in the [c_red]Blood Pact[c_reset] can only be played when the [c_red]Blood Pact[c_reset] is active.[nl][nl][c_coin]May the gods be with you![c_reset]|Ваш [c_red]Кровавый Пакт[c_reset] начался.[nl][nl]Вы можете добавить до [c_coin][var,pactSize] участников[c_reset] в ваш [c_red]Кровавый Пакт[c_reset].[nl][nl]Управлять участниками [c_red]Кровавого Пакта[c_reset] можно здесь.[nl][nl]Пользовательские модификаторы вашего [c_red]Кровавого Пакта[c_reset] отображаются слева.[nl][nl]Вы можете продлить время действия [c_red]Кровавого Пакта[c_reset], купив дополнительные [c_coin][var,pactSize] жетоны игроков[c_reset].[nl][nl]После окончания [c_red]Кровавого Пакта[c_reset] персонажи в нем станут недоступны для игры.[nl][nl][c_coin]Пусть боги будут с вами![c_reset] 
+blood_pact_expand_info|You can expand the [c_red]Blood Pact[c_reset] by using a larger [c_red]Blood Pact[c_reset] token.[nl]Expanding the [c_red]Blood Pact[c_reset] also grants an additional [c_coin]7 active days[c_reset] to the [c_red]Blood Pact[c_reset].|Вы можете расширить [c_red]Кровавый договор[c_reset], используя более крупный токен [c_red]Кровавого договора[c_reset].[nl]Расширение [c_red]Кровавого договора[c_reset] также дает [c_red]Кровавому договору[c_reset] дополнительные [c_coin]7 активных дней[c_reset]. 
+blood_pact_not_active|Blood Pact not active! You can continue playing the character by extending the Blood Pact.|Кровавый Пакт не активен! Вы можете продолжить играть за персонажа, продлив Кровавый Пакт. 
+blood_pact_invalid_character|This character belongs to another Blood Pact. You can continue playing by getting invited back to this Blood Pact.|Этот персонаж принадлежит другому Blood Pact. Вы можете продолжить игру, получив приглашение обратно в этот Blood Pact. 
+blood_pact_ended|Blood Pact has ended.|Blood Pact завершён.
+blood_pact_settings_changed|Blood Pact settings changed.|Настройки Blood Pact изменены.
+pact_promote|Promote to officer|Повысить до офицера
+pact_demote|Demote officer|Понизить до офицера
+pact_kick|Kick|Выгнать
+blood_pact_kick|Are you sure you want to remove this player from the Blood Pact?|Вы уверены, что хотите удалить этого игрока из Blood Pact?
+market_filter_reset|Reset Filters|Сбросить фильтры 
+||
+blood_pact_can_not_leave|As the creator of the Blood Pact you can only leave when the Blood Pact has ended.|
+blood_pact_can_not_leave_must_promote|To leave the Blood Pact you must first promote another member of the Blood Pact to be the new owner.|
+blood_pact_change_owner|Promote to Owner|
+blood_pact_change_owner_prompt|Are you sure you want to hand over the Blood Pact ownership? This action can’t be undone.|

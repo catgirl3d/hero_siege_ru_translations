@@ -1,0 +1,835 @@
+[quest]|en|ru
+||
+[TUTORIAL]||
+quest_name_1|Skills and Stats| Навыки и статистика
+quest_description_1|Assign a Skill Point, Attribute Points and Bind an Active Skill.| Назначить очко навыка
+quest_objective_1_1|Open Stat & Skill tree| Открыть дерево характеристик и навыков
+quest_objective_1_2|Assign an Attribute Point| Назначить атрибутивную точку
+quest_objective_1_3|Assign a Skill Point| Назначить очко навыка
+quest_objective_1_4|Bind a Skill into a Skill Button| Привязать навык к кнопке навыка
+||
+quest_name_2|Keys and Chests| Ключи и сундуки
+quest_description_2|Pick up the key, open your Inventory by pressing ”[input_inventory]” and navigate to your key ring. Then proceed towards north to open the Golden Chest by the well.| Подними ключ
+quest_objective_2_1|Pick up the Key| Подними ключ
+quest_objective_2_2|Open Key Ring in the Inventory| Открыть связку ключей в инвентаре
+quest_objective_2_3|Open Chest by the well in north| Открытый сундук у колодца на севере
+||
+quest_name_3|Autofilling the belt| Автозаполнение ленты
+quest_description_3|Pick up the belt and open your inventory, navigate to the potion tab and enable autofill potions. This will fill a new potion into your belt when one is used!| Поднимите пояс и откройте свой инвентарь.
+quest_objective_3_1|Pickup Belt| Ремень для захвата
+quest_objective_3_2|Enable Auto Fill in Inventory| Включить автоматическое заполнение инвентаря
+||
+quest_name_4|Bunny Hopping| Прыжки кролика
+quest_description_4|Land on these indicators! Its easy! Just press ”[input_jump]” and your character will land on your cursors location!| Приземлитесь на эти указатели! Это просто! Просто нажмите «Пробел», и ваш персонаж приземлится на место, где находится ваш курсор!
+quest_objective_4_1|Jumps performed| Прыжки выполнены
+||
+quest_name_5|Rotten and moldy firewood| Гнилые и заплесневелые дрова
+quest_description_5|Make firewood out of that beast! The corrupted ent is located north east.| Из этого зверя дрова наделай! Оскверненный энт находится на северо-востоке.
+quest_objective_5_1|Scorchwood Slain| Скорчвуд убит
+||
+quest_name_18|Learn to mine| Научитесь добывать
+quest_description_18|Mine copper ore on normal difficulty.| Добывайте медную руду на обычном уровне сложности.
+quest_objective_18_1|Copper Ore| Медная руда
+||
+quest_name_19|Chaos Tower| Башня Хаоса
+quest_description_19|Solve the mystery of the Chaos Tower.| Разгадайте тайну Башни Хаоса.
+quest_objective_19_1|Towers cleared| Башни очищены
+quest_objective_19_2|King Rakhul slain| Король Рахул убит
+quest_objective_19_3|Find Kukkonen| Найти Кукконена
+||
+quest_name_20|Learn Jewelcrafting| Изучите ювелирное дело
+quest_description_20|Prospect copper ore| Разведка медной руды
+quest_objective_20_1|Copper Ore prospected| Разведаны месторождения медной руды
+||
+quest_name_21|Fortune told| Судьба сказала
+quest_description_21|Prophet Luna has shown you a glimpse into the future...[nl][c_heroic]([fortune_item_name])[c_reset][nl]Now the question is when?| Пророк Луна показала вам взгляд в будущее...[nl][c_heroic]([fortune_item_name])[c_reset][nl]Теперь вопрос в том, когда?
+quest_objective_21_1|Fortune fulfilled| Удача сбылась
+quest_objective_21_2|Enemies killed| Враги убиты
+quest_objective_21_3|Vanaheim Entered|
+||
+[HALLOWEEN EVENT]||
+quest_name_100|Trick or Treat!| Кошелек или жизнь!
+quest_description_100|You must collect a lot of candy in Act 1. A. Lot.| В первом акте вам нужно собрать много конфет. А. Много.
+quest_objective_100_1|Candy collected| Конфеты собраны
+||
+quest_name_101|Find the Candy Apples!| Найдите карамельные яблоки!
+quest_description_101|Find a Candy Apple in each Act.| Найдите карамельное яблоко в каждом акте.
+quest_objective_101_1|Act I Apple found| Акт I Яблоко найдено
+quest_objective_101_2|Act II Apple found| Акт II Яблоко найдено
+quest_objective_101_3|Act III Apple found| Акт III Яблоко найдено
+quest_objective_101_4|Act IV Apple found| Акт IV Яблоко найдено
+||
+quest_name_102|Trick them all!| Обмани их всех!
+quest_description_102|Use the Candy Basket to trick enemies.| Используйте Корзинку с конфетами, чтобы обмануть врагов.
+quest_objective_102_1|Enemies lured into baskets| Враги заманены в корзины
+||
+quest_name_103|Death has the answer| У смерти есть ответ.
+quest_description_103|Kill Candy Grim Reaper in Act II.| Убейте Кэнди Грим Рипер во втором акте.
+quest_objective_103_1|Candy Grim Reaper killed| Кэнди Грим Рипер убит
+||
+quest_name_104|Kill the Pumpkin King| Убить Короля Тыквы
+quest_description_104|Kill Damien the Pumpkin King in Act IV.| Убейте Дэмиена, Короля Тыкв, в четвертом акте.
+quest_objective_104_1|Damien the Pumpkin King killed| Убит Дэмиен, Король Тыкв
+||
+quest_name_110|Lost Skull| Потерянный Череп
+quest_description_110|Take this snoring skull back to Town of Inoya and hang it somewhere.| Отвезите этот храпящий череп обратно в город Иноя и повесьте его где-нибудь.
+quest_objective_110_1|Skull hanged| Череп повешенный
+||
+quest_name_111|Hanging Straight| Висит прямо
+quest_description_111|Find the skeleton's spine and pelvis from any Ancient Skeleton.| Найдите позвоночник и таз любого древнего скелета.
+quest_objective_111_1|Spine found| Найден позвоночник
+||
+quest_name_112|Main Hand| Основная рука
+quest_description_112|Collect the skeleton's right hand from any Ancient Skeleton.|Заберите правую руку скелета у любого древнего скелета.
+quest_objective_112_1|Hand found| Найден вручную
+||
+quest_name_113|Secondary Hand| Вторичная рука
+quest_description_113|Collect the skeleton's left hand from any Ancient Skeleton.| Заберите левую руку скелета у любого древнего скелета.
+quest_objective_113_1|Hand found| Найден вручную
+||
+quest_name_114|Footwork| Футворк
+quest_description_114|Collect the skeleton's right foot from any Ancient Skeleton.| Возьмите правую ногу скелета из любого древнего скелета.
+quest_objective_114_1|Leg found| Нога найдена
+||
+quest_name_115|Happy Feet| Счастливые ноги
+quest_description_115|Collect the skeleton's left foot from any Ancient Skeleton.| Возьмите левую ногу скелета из любого древнего скелета.
+quest_objective_115_1|Leg found| Нога найдена
+[Halloween dailies]||
+quest_name_120|Fill the Pot| Наполни горшок
+quest_description_120|Collect ingredients in Act I.| Соберите ингредиенты в Акте I.
+quest_objective_120_1|Spider legs| Паучьи ноги
+quest_objective_120_2|Maggot's slime| Слизь личинки
+quest_objective_120_3|Pumpkin juice| Тыквенный сок
+quest_objective_120_4|Rat ears| Крысиные уши
+||
+quest_name_121|Kill Gurag| Убить Гурага
+quest_description_121|Collect Gurag's spirit by using the Soul Box.| Соберите дух Гурага, используя Ящик Души.
+quest_objective_121_1|Gurag's spirit| Дух Гурага
+||
+quest_name_122|Feather party!| Перьевая вечеринка!
+quest_description_122|Find chickens in Act II and collect their feathers.| Найдите кур во втором акте и соберите их перья.
+quest_objective_122_1|Feathers| Перья
+||
+quest_name_123|Embarrass Death| Смутить Смерть
+quest_description_123|During the fight throw the chicken mask at the Grim Reaper and kill him.| Во время боя бросьте куриную маску в Мрачного Жнеца и убейте его.
+quest_objective_123_1|Death embarrassed| Смерть смущенная
+||
+quest_name_124|Gathering ingredients| Сбор ингредиентов
+quest_description_124|Collect the following ingredients in Act III.| Соберите следующие ингредиенты в третьем акте.
+quest_objective_124_1|Ghost skulls| Призрачные черепа
+quest_objective_124_2|Dust feeder teeth| Зубья пылеуловителя
+quest_objective_124_3|Mummy bandages| Мумия бинты
+quest_objective_124_4|Spellbook| Книга заклинаний
+||
+quest_name_125|Anubis' Own Medicine| Собственное лекарство Анубиса
+quest_description_125|Curse Anubis with the Cursed Book.| Прокляните Анубиса с помощью Проклятой книги.
+quest_objective_125_1|Anubis cursed| Анубис проклял
+||
+quest_name_126|Suck it!| Отсоси!
+quest_description_126|Suck in 30 Damien's heads using the head extractor.| Высосите 30 голов Дэмиена с помощью экстрактора голов.
+quest_objective_126_1|Heads extracted| Головы извлечены
+||
+[XMAS EVENT]||
+quest_name_200|Sweet annihilation| Сладкое уничтожение
+quest_description_200|Collect candy canes in Act I.| Собирайте леденцы в первом акте.
+quest_objective_200_1|Candy canes collected| Собранные леденцы
+||
+quest_name_201|My Grandma made those!| Их приготовила моя бабушка!
+quest_description_201|Retrieve the Christmas stockings from Gurag in Act I.| Заберите рождественские чулки у Гурага в первом акте.
+quest_objective_201_1|Christmas stockings retrieved| Рождественские чулки извлечены
+||
+quest_name_202|Building a Snowman| Слепить снеговика
+quest_description_202|Collect snowballs by killing enemies in Act II.| Собирайте снежки, убивая врагов во втором акте.
+quest_objective_202_1|Snowballs collected| Снежки собраны
+||
+quest_name_203|Find my head!| Найди мою голову!
+quest_description_203|Retrieve Snowman's head from Grim Reaper in Act II.| Заберите голову Снеговика у Мрачного Жнеца во втором акте.
+quest_objective_203_1|Snowman's head retrieved| Голова снеговика найдена.
+||
+quest_name_204|Snowball fight!| Игра в снежки!
+quest_description_204|Use the Snowball relic to cover enemies in snow!| Используйте реликвию «Снежный ком», чтобы покрыть врагов снегом!
+quest_objective_204_1|Enemies hit| Враги поражены
+||
+quest_name_205|It's so dark| Так темно
+quest_description_205|Collect Christmas lights in Act III.| Соберите рождественские огни в третьем акте.
+quest_objective_205_1|Christmas lights collected| Рождественские огни собраны
+||
+quest_name_206|This town is missing something...| Этому городу чего-то не хватает...
+quest_description_206|Retrieve the Christmas Tree from Anubis in Act III.| Заберите рождественскую елку у Анубиса в третьем акте.
+quest_objective_206_1|Christmas tree retrieved| Рождественская елка извлечена
+||
+quest_name_207|Robin Hood is my idol| Робин Гуд мой кумир
+quest_description_207|Use Thief's glove to steal Christmas decorations from enemies.| Используйте перчатку вора, чтобы украсть рождественские украшения у врагов.
+quest_objective_207_1|Christmas decoration stolen|Украдено рождественское украшение
+||
+quest_name_208|Let's bring the Christmas spirit!| Давайте принесем с собой рождественское настроение!
+quest_description_208|Retrieve the Christmas star from Damien in Act IV.| Заберите рождественскую звезду у Дэмиена в четвертом акте.
+quest_objective_208_1|Christmas star retrieved| Рождественская звезда извлечена
+||
+quest_name_209|Santa needs help!| Санте нужна помощь!
+quest_description_209|Enter North Pole from Danethorpe and help Santa.| Отправляйтесь на Северный полюс из Дэнторпа и помогите Санте.
+quest_objective_209_1|North Pole reached| Северный полюс достигнут
+quest_objective_209_2|Santa saved| Санта спасён
+||
+[ANNIVERSARY EVENT]||
+quest_name_300|Insert Coin| Вставьте монету
+quest_description_300|Retrieve an Ancient Coin from Gurag in Act I.| Заберите древнюю монету у Гурага в Акте I.
+quest_objective_300_1|Coin retrieved| Монета извлечена
+||
+[GATES_OF_VALHALLA]||
+quest_name_399|Memory of Mevius| Память о Мевиусе
+quest_description_399|Enter the portal to the Memory of Mevius in south east of Inoya| Войдите в портал Памяти Мевиуса на юго-востоке Инои.
+quest_objective_399_1|Memory of mevius entered| Память о Мевиусе вошла
+||
+quest_name_400|Welcome to Valhalla| Добро пожаловать в Вальхаллу
+quest_description_400|Reach Plain of Ida in Act 8 Zone 2.| Достигните Равнины Иды в Акте 8, Зоне 2.
+quest_objective_400_1|Plain of Ida reached| Достигнута равнина Ида
+||
+quest_name_401|Valkyrie Hunting| Охота на валькирию
+quest_description_401|Get the key to Valhalla from the Valkyrie.| Получите ключ от Вальхаллы от Валькирии.
+quest_objective_401_1|Valkyrie found| Валькирия найдена
+quest_objective_401_2|Key obtained| Ключ получен
+||
+quest_name_402|Gates of Valhalla| Врата Валгаллы
+quest_description_402|Return to Act 8 Zone 2 and enter Valhalla. | Вернитесь в Акт 8, Зону 2 и войдите в Вальгаллу.
+quest_objective_402_1|Valhalla entered| В Вальхаллу вошел
+||
+quest_name_403|Access Denied| Доступ запрещен
+quest_description_403|Find a way forward through the caves.| Найдите путь вперед через пещеры.
+quest_objective_403_1|Cave explored| Пещера исследована
+||
+quest_name_404|Eternal Peace| Вечный Мир
+quest_description_404|Help Astrid find her childs Toy Bear in Act 8 Zone 4.| Помогите Астрид найти игрушечного медведя ее ребенка в акте 8, зоне 4.
+quest_objective_404_1|Toy found| Игрушка найдена
+||
+quest_name_405|Purge| Удалять
+quest_description_405|Slay the Corrupted Refugees in Act 8 Zone 4.|Убейте зараженных беженцев в Акте 8, Зоне 4.
+quest_objective_405_1|Corrupted souls slain| Убитые испорченные души
+||
+quest_name_406|River Rapids| Речные пороги
+quest_description_406|Travel to Helheim through River Gjöll.| Отправляйтесь в Хельхейм через реку Гьёлль.
+quest_objective_406_1|Gate of Helheim reached.| Достигнуты врата Хельхейма.
+||
+quest_name_407|Destiny| Судьба
+quest_description_407|Slay Corrupted Odin.| Убейте Оскверненного Одина.
+quest_objective_407_1|Odin slain| Один убит
+||
+quest_name_408|The Awesome Ring - part 1| Удивительное кольцо - часть 1
+quest_description_408|Collect lots of braggite.| Соберите много браггита.
+quest_objective_408_1|Braggite collected| Браггит собран
+||
+quest_name_409|Mystery Key| Таинственный ключ
+quest_description_409|Find out where the key goes to.| Узнайте, куда идет ключ.
+quest_objective_409_1|Find the owner of the key.| Найдите владельца ключа.
+||
+quest_name_410|The Awesome Ring - part 2| Удивительное кольцо - часть 2
+quest_description_410|Collect Essence of the Gods from bosses.| Собирайте Эссенцию Богов с боссов.
+quest_objective_410_1|Essence of the Gods collected| Собранная сущность богов
+||
+quest_name_411|The Awesome Ring - part 3| Удивительное кольцо - часть 3
+quest_description_411|Find your desired Awesome Gem.| Найдите желаемый вами потрясающий драгоценный камень.
+quest_objective_411_1|Gem collected| Собранный драгоценный камень
+||
+quest_name_420|Chains of Gold| Цепи из золота
+quest_description_420|Mine and transport 20 kg of gold from the fallen chains to safety.| Добудьте и перенесите 20 кг золота из упавших цепей в безопасное место.
+quest_objective_420_1|kg gold transported| кг золота перевезено
+quest_objective_420_2|Troll patrol slain| Патруль троллей убит
+||
+quest_name_430|Hungry Haldor| Голодный Хальдор
+quest_description_430|Get the meat of a delicious hog.| Получите мясо вкуснейшей свинины.
+quest_objective_430_1|Meat collected| Мясо собрано
+quest_objective_430_2|Meat cooked| Мясо приготовленное
+||
+quest_name_431|Hurrdurr’s Rollercoaster| Американские горки Хэррдурра
+quest_description_431|Find cart wheels in Forgotten Caves and attach them to Hurrdurr’s cart.| Найдите колеса для телеги в Забытых пещерах и прикрепите их к телеге Хёррдурра.
+quest_objective_431_1|Wheels found| Колеса найдены
+quest_objective_431_2|Wheels attached| Колеса прикреплены
+||
+quest_name_432|Balldur Muspelheim|Балдур Муспельхейм
+quest_description_432|Do the thing| Сделай дело
+quest_objective_432_1|Thing done| Дело сделано
+||
+quest_name_433|Frøya’s Scale Armor| Чешуйчатая броня Фрёйи
+quest_description_433|Collect Naga scales and return them to Frøya in Act 8 Zone 2.| Соберите чешую Наги и верните ее Фрёйе в Зоне 2 Акта 8.
+quest_objective_433_1|Scales collected| Весы собраны
+||
+quest_name_434|Tired Viking| Уставший викинг
+quest_description_434|Find potion reagents and conjure it in Act 8 Zone 5.| Найдите реагенты для зелья и создайте его в Зоне 5 Акта 8.
+quest_objective_434_1|Doom weed| дурная трава
+quest_objective_434_2|Water from Gjöll| Вода из Гьёлля
+quest_objective_434_3|Corrupted dirt| Испорченная грязь
+quest_objective_434_4|Potion conjured| Зелье, сотворенное
+||
+quest_name_435|Beacons of Gjöll| Маяки Гьёлля
+quest_description_435|Ignite the four beacons to open the gate to the tunnel.| Зажгите четыре маяка, чтобы открыть ворота в туннель.
+quest_objective_435_1|Ignite Northwest beacon| Зажгите северо-западный маяк
+quest_objective_435_2|Ignite Northeast beacon| Зажгите северо-восточный маяк
+quest_objective_435_3|Ignite Southwest beacon| Зажгите юго-западный маяк
+quest_objective_435_4|Ignite Southeast beacon| Зажгите юго-восточный маяк
+quest_objective_435_5|Travel through the tunnel| Путешествие через туннель
+quest_objective_435_6|Explore Island| Исследуйте остров
+quest_objective_435_7|Slay Jormungandr| Убей Ёрмунганда
+||
+||
+||
+||
+[Valhalla dailies]||
+quest_name_440|River Raider| Речной рейдер
+quest_description_440|Complete River Gjöll.| Полная река Гьёлль.
+quest_objective_440_1|Jörmungar slain| Ёрмунгар убит
+quest_dialog_440|Gjallarknut here! Remember me? We had an epic adventure on river Gjöll and gave that big snake a good whoop! But alas, it's back eating my customers! I'll reward you if you're up for another whooping.| Гьялларкнут слушает! Помните меня? У нас было эпическое приключение на реке Гьёлль, и мы устроили этой большой змее хорошую трепку! Но, увы.
+||
+quest_name_441|The Golden Heist | Золотое ограбление
+quest_description_441|Find and use a glowing rock to find and collect the Golden Warrior statue from Gladsheim.| Найдите и используйте светящийся камень, чтобы найти и забрать статую Золотого Воина из Гладсхейма.
+quest_objective_441_1|Statue collected| Статуя собрана
+quest_dialog_441|I know this is no job for a hero, but to be one you sometimes need to take a dip to the dark side. [c_yellow]Inside the walls of Gladsheim Halls[c_reset] is hidden a precious little statue, the Golden Warrior portraying the Leader of Valkyries. I wa... WE need it, for uhm.. MUSEUM! Yes, a museum of.. statues... Anyway, we pay a handsome amount of gold for it. There are special [c_yellow]glowing stones[c_reset] inside the halls. Its illumination might help you find the statue...| Я знаю, что это работа не для героя.
+||
+quest_name_442|Naga Treasury | Сокровищница Нага
+quest_description_442|Retrieve the Golden Snake amulet from Naga Temple.| Добудьте амулет Золотой Змеи из Храма Наг.
+quest_objective_442_1|Amulet found| Амулет найден
+quest_objective_442_2|Temple escaped| Храм сбежал
+quest_dialog_442|Rumor has it that the Naga Temple holds the greatest treasury in Valhalla. It is also said to be the home of the Golden Snake amulet. Find it, and bring it here for my collection. Beware: Nagas are known to be sneaky and mischievous, your way back might not be as easy as you think. | Ходят слухи, что Храм Нага хранит величайшую сокровищницу в Вальхалле. Также говорят, что это дом амулета Золотой Змеи. Найти его
+||
+quest_name_443|The Crown of Surtr | Корона Сурта
+quest_description_443|Remove Surtr's crown in Muspelheim.| Снимите корону Сурта в Муспельхейме.
+quest_objective_443_1|Crown removed| Корона удалена
+quest_dialog_443|In the realm of fire and lava stands Surtr, forever chained to his realm. For eons he has been dormant, turned into obsidian statue that merely displays a fraction of his burning soul. But something is happening, signs indicate he's waking up. We need a hero who could pull of the impossible: get Surtr's crown off of him, it's the source of his power. Good luck to the brave soul who might attempt this. | В царстве огня и лавы стоит Сурт
+||
+quest_name_444|Grim Skull | Мрачный Череп
+quest_description_444|Find the mystical skull in Niflhel.| Найдите мистический череп в Нифльхеле.
+quest_objective_444_1|Skull collected| Череп собран
+quest_dialog_444|There is an old tale of a great and respected warrior who lost his life and was sent to Niflhel to rot. His skull is rumored to be somewhere in there collected by the legendary beast Grimbone and it’s said to hold some mystical powers. Find the skull and return it here, perhaps we would find some use for it. | Есть старая история о великом и уважаемом воине, который потерял свою жизнь и был отправлен гнить в Нифльхель. Ходят слухи, что его череп где-то там, собранный легендарным зверем Гримбоуном, и говорят, что он обладает какой-то мистической силой. Найдите череп и верните его сюда
+||
+quest_name_445|WANTED: Xor| ТРЕБУЕТСЯ: Ксор
+quest_description_445|Use Pulser to find Xor in Event Horizon and kill him.| С помощью пульсатора найдите Ксора в Горизонте событий и убейте его.
+quest_objective_445_1|Xor dead| Ксор мертв
+quest_dialog_445|WANTED: XOR. An inter dimensional mercenary called Xor is wanted dead! A recent sighting has confirmed that he is indeed hiding somewhere in the Event Horizon. Take the Pulser, use it to find him and kill him.| РАЗЫСКИВАЕТСЯ: КСОР. Межпространственный наемник по имени Ксор разыскивается мертвым! Недавнее наблюдение подтвердило, что он действительно скрывается где-то в Горизонте Событий. Возьмите Пульсар
+||
+quest_name_446|Anita’s Amulet|Амулет Аниты
+quest_description_446|Find Anita’s amulet in the Sea of Karponia| Найдите амулет Аниты в море Карпонии.
+quest_objective_446_1|Amulet found| Амулет найден
+quest_dialog_446|Hey there, stranger! I am Anita, from Danethrope. I was on a visit in the east, Shujo Retreat, and when swimming in the ocean I got attacked by a bunch of Piranhas. When I swam to safety one of those pesky little fishes grabbed and possibly ate my Amulet. It is really important to me. I will pay you handsomely if you can find it!| Привет
+||
+quest_name_447|Awful Abominations| Ужасные мерзости
+quest_description_447|Clear Abomination events| Очистить события Мерзость
+quest_objective_447_1|Colossal chests opened| Открыты колоссальные сундуки
+quest_dialog_447|Gar Nor here! I need a strong and heroic adventurer to put a stop to those colossal monsters! If you are up for it I will give you an additional reward on top of whatever you find when searching and slaying these foul creatures!| Гар Нор здесь! Мне нужен сильный и героический искатель приключений, чтобы остановить этих колоссальных монстров! Если вы готовы, я дам вам дополнительную награду сверх того, что вы найдете, когда будете искать и убивать этих мерзких тварей!
+||
+quest_name_448|To The Tower!| В Башню!
+quest_description_448|Clear a Chaos Tower| Очистите Башню Хаоса
+quest_objective_448_1|Chaos Tower cleared| Башня Хаоса очищена.
+quest_dialog_448|Um here! Please, any Hero in Tarethiel reading this. I need [c_yellow]YOUR[c_reset] help. At some point, these walking Towers emerged from the Chaos to cause havoc in Tarethiel. Me and Mayor Kukkonen tried to find a way to destroy one, but got sucked into it and I barely got out alive. Kukkonen is still in there! Help me cleanse these Chaos Towers once and for all!| Эм, вот! Пожалуйста.
+||
+quest_name_449|Njal Must Die!| Ньял должен умереть!
+quest_description_449|Find and Kill Njal in the Snowy Mountains| Найдите и убейте Ньяла в Снежных горах
+quest_objective_449_1|Njal slain| Ньял убит
+quest_objective_449_2|Njal’s head| Голова Ньяла
+quest_dialog_449|An evil warrior named Njal has been a continuous threat to the people of Danethrope. He has been spotted in the Snowy Mountains just now. Please find him and kill him! Bring his head as proof for the bounty.| Злой воин по имени Ньял был постоянной угрозой для людей Дантропа. Его только что заметили в Снежных горах. Пожалуйста, найдите его и убейте! Принесите его голову в качестве доказательства награды.
+||
+quest_name_450|Security Measures| Меры безопасности
+quest_description_450|Repair a beacon in each act and activate the system in Dhorn Farum| Почините маяк в каждом акте и активируйте систему в Дорн Фаруме.
+quest_objective_450_1|The Pumpkin Patch beacon repaired| Маяк Pumpkin Patch отремонтирован
+quest_objective_450_2|The Glacial Trail beacon repaired| Маяк на ледниковой тропе отремонтирован
+quest_objective_450_3|Dry Hills beacon repaired|Маяк Драй-Хиллс отремонтирован
+quest_objective_450_4|The Devil's Breach beacon repaired| Маяк Дьявольского прорыва отремонтирован
+quest_objective_450_5|Mt. Fuji beacon repaired| Маяк на горе Фудзи отремонтирован
+quest_objective_450_6|Highland Graveyard beacon repaired| Маяк на кладбище Хайленд отремонтирован
+quest_objective_450_7|Parallel Dimension beacon repaired| Маяк Parallel Dimension отремонтирован
+quest_objective_450_8|Security system re-activated| Система безопасности повторно активирована
+quest_dialog_450|Um here! The dwarven made security beacons which help us anticipate upcoming threats all over Tarethiel are in desperate need of repair. Please do the repairs and turn the system back on in Dhorn Farum!| Эм, здесь! Охранные маяки, сделанные гномами и помогающие нам предвидеть предстоящие угрозы по всему Таретиэлю, отчаянно нуждаются в ремонте. Пожалуйста, сделайте ремонт и включите систему снова в Дорне Фаруме!
+||
+quest_name_451|Hellpiercer| Пронзатель ада
+quest_description_451|Collect the explosives from Old Mining Village, get the detonator from Dr. Tinker Dink and sabotage the Steam Train| Соберите взрывчатку в старой шахтерской деревне.
+quest_objective_451_1|Explosives collected| Взрывчатые вещества собраны
+quest_objective_451_2|Detonator acquired| Детонатор приобретен
+quest_objective_451_3|Explosives placed| Взрывчатые вещества заложены
+quest_objective_451_4|Explosives detonated| Взрывчатка сдетонировала
+quest_dialog_451|Help wanted! This is Dr. Tinker Dink. The Steam Train has become a problem, transporting hellish creatures and resources for the evil forces of Tarethiel at an unprecedented rate. We need to sabotage the train to stop it or at least slow it down! Collect five sets of explosives from the Old Mining Village and meet me! I'll give you the detonator. Then go to the Steam Train and blow the sucker to a halt! I hope to talk to you soon, adventurer!| Требуется помощь! Это доктор Тинкер Динк. Паровоз стал проблемой
+tinker_hellpiercer_dialog|Ah, nice to see you [heroname]! So you are the one who wants to help me? Great! Here is the detonator. It has an 8 second timer, so when you place it and turn it on, [shake_letter]RUN![shake_reset] Good luck!| Ааа
+quest_train_bomb_run|I would [shake_letter][c_red]RUN[c_reset][shake_reset] if I were you!| Если бы я был тобой, я бы [shake_letter][c_red]БЕЖАЛ[c_reset][shake_reset]!
+||
+quest_name_452|The False Prophet Defenestration| Дефенестрация лжепророка
+quest_description_452|Talk to Magister Kujala and complete his task.| Поговорите с магистром Куялой и выполните его задание.
+quest_objective_452_1|The true nature of the assignment discovered| Раскрыта истинная природа задания
+quest_objective_452_2|Luthor thrown out of Cathedral window| Лютор выбросился из окна собора
+quest_dialog_452|Looking for a righteous adventurer ready to help me with an urgent issue. I rather not write here about the nature of this task. Should you be interested come talk to me directly for further instructions![nl]- Magister Kujala|Ищу праведного искателя приключений, готового помочь мне с неотложной проблемой. Я бы предпочел не писать здесь о сути этой задачи. Если вам интересно, обращайтесь ко мне напрямую за дальнейшими инструкциями![nl]- Magister Kujala
+||
+||
+quest_name_475|Mysterious Key| Таинственный Ключ
+quest_description_475|Use the key somewhere in Dhorn Farum| Используйте ключ где-нибудь в Дорн Фаруме.
+quest_objective_475_1|Keyhole found| Замочная скважина найдена
+||
+quest_name_476|The Book of Soulforge – page 11| Книга Соулфорджа – страница 11
+quest_description_476|Slay Gurag and find the page 11 of the Book of Soulforge.| Убейте Гурага и найдите страницу 11 Книги Душеплавания.
+quest_objective_476_1|Book of Soulforge page collected| Страница книги Soulforge собрана
+||
+quest_name_477|The Book of Soulforge – page 12| Книга Соулфорджа – страница 12
+quest_description_477|Defeat Reaper and find the page 12 of the Book of Soulforge.| Победите Жнеца и найдите страницу 12 Книги Душеплавания.
+quest_objective_477_1|Book of Soulforge page collected| Страница книги Soulforge собрана
+||
+quest_name_478|The Book of Soulforge – page 13| Книга Соулфорджа – страница 13
+quest_description_478|Find and help Hurnir inside the Pyramid and retrieve the missing page.| Найдите и помогите Хурниру внутри Пирамиды вернуть пропавшую страницу.
+quest_objective_478_1|Find and help Hurnir| Найдите и помогите Хурниру
+quest_objective_478_2|Defeat Anubis and collect page 13| Победите Анубиса и соберите страницу 13.
+||
+||
+||
+||
+quest_name_479|The Book of Soulforge – page 14| Книга Соулфорджа – страница 14
+quest_description_479|Find page 14 in The Altar of Lost Souls.| Найдите страницу 14 в «Алтаре потерянных душ».
+quest_objective_479_1|Book of Soulforge page collected| Страница книги Soulforge собрана
+||
+quest_name_480|The Book of Soulforge – page 15| Книга Соулфорджа – страница 15
+quest_description_480|Gut King Karp at the Emperor's Chamber and collect the page 15.| Выпотрошите короля Карпа в Императорской палате и заберите страницу 15.
+quest_objective_480_1|Book of Soulforge page collected| Страница книги Soulforge собрана
+||
+quest_name_481|The Book of Soulforge – page 16| Книга Соулфорджа – страница 16
+quest_description_481|Defeat Satan in the Seventh Layer of Hell and collect the last page of the Book of Soulforge.|Победите Сатану на седьмом уровне ада и заберите последнюю страницу Книги Душеплавания.
+quest_objective_481_1|Book of Soulforge page collected| Страница книги Soulforge собрана
+||
+quest_name_482|Essential Essence| Эссенция Эссенции
+quest_description_482|Obtain Soul Essence by slaying creatures and monsters.| Получайте Эссенцию Души, убивая существ и монстров.
+quest_objective_482_1|Soul essence collected| Эссенция души собрана
+||
+quest_name_483|Seething Souls| Бурлящие души
+quest_description_483|Obtain Souls of fallen warriors from piles.| Соберите души павших воинов из куч.
+quest_objective_483_1|Warrior souls| Души воинов
+||
+[HS 2.0 ACT SIDEQUESTS]||
+||
+quest_name_500|Pest Control| Борьба с вредителями
+quest_description_500|Find and kill Fragrat in Rat Den| Найдите и убейте Фраграта в Крысином логове.
+quest_objective_500_1|Fragrat slain| Фраграт убит
+||
+||
+quest_name_501|Hunger Issue| Проблема голода
+quest_description_501|Collect ingredients to the maggot stew and cook it| Соберите ингредиенты для рагу из личинок и приготовьте его.
+quest_objective_501_1|Maggots collected| Собранные личинки
+quest_objective_501_2|Crimson Pumpkins harvested| Собран урожай малиновых тыкв
+quest_objective_501_3|Maggot stew cooked| Тушеная личинка приготовлена
+||
+quest_name_502|Murder of Crows| Убийство Воронов
+quest_description_502|Head into the Black Tower and bring Ahriman the head of Commander Albert, then head to the Northern Post and find his spellbook.| Отправляйтесь в Черную Башню и принесите Ариману голову Командира Альберта.
+quest_objective_502_1|Spellbook found| Найдена книга заклинаний
+quest_objective_502_2|Commander Albert's Head| Голова Командира Альберта
+||
+quest_name_503|Help Anita| Помогите Аните
+quest_description_503|Collect ginseng plants| Собирайте растения женьшеня.
+quest_objective_503_1|Ginseng collected| Женьшень собран
+||
+quest_name_504|Lost Belongins| Потерянные вещи
+quest_description_504|Find Anita's Herbs| Найдите травы Аниты
+quest_objective_504_1|Herb Pouch| Мешочек с травами
+quest_objective_504_2|Frost Dill| Морозный укроп
+quest_objective_504_3|Loska| Лоска
+quest_objective_504_4|Vermroot| Вермрут
+quest_objective_504_5|Fanglen| Фанглен
+||
+quest_name_505|The Revenant| Ревенант
+quest_description_505|Track and kill Carnage at the Glacial Trail| Выследите и убейте Карнажа на Ледниковой тропе
+quest_objective_505_1|Track Carnage| Трек Карнаж
+quest_objective_505_2|Kill Carnage| Убить Карнажа
+quest_objective_505_3|Skin Carnage's hide|Шкура Карнажа
+||
+quest_name_506|Whip It Good| Взбейте его хорошо
+quest_description_506|Find Jasper's whip at Mos'Arathim Desert| Найдите кнут Джаспера в пустыне Мос'Аратим.
+quest_objective_506_1|Whip collected| Кнут собран
+||
+quest_name_507|We Are Gonna Be Rich!| Мы будем богаты!
+quest_description_507|Find the Ancient Map in Cauflax Tomb| Найдите древнюю карту в гробнице Кофлакса
+quest_objective_507_1|Map found| Карта найдена
+||
+quest_name_508|Raider of the Lost Staff| В поисках утраченного посоха
+quest_description_508|Find Staff of Anubis inside Mysterious Pyramid| Найдите Посох Анубиса внутри Таинственной Пирамиды
+quest_objective_508_1|Staff found| Персонал найден
+||
+quest_name_509|Devil's Cabbage| Дьявольская капуста
+quest_description_509|Collect herbs for Ragnar in Old Copper Mine| Соберите травы для Рагнара в Старом медном руднике.
+quest_objective_509_1|Devil's Cabbage collected| Собранная дьявольская капуста
+||
+quest_name_510|Search for Hurrdurr – part 1| Поиск Hurrdurr – часть 1
+quest_description_510|Find out what happened to Hurrdurr| Узнайте, что случилось с Хуррдурром
+quest_objective_510_1|Abandoned Mine searched| Заброшенная шахта найдена
+||
+quest_name_511|Search for Hurrdurr – part 2| Поиск Хурдурр – часть 2
+quest_description_511|Find Hurrdurr in Damien's Altar| Найдите Хуррдурра в алтаре Дэмиена.
+quest_objective_511_1|Hurrdurr located| Хуррдурр расположен
+quest_objective_511_2|Knights defeated| Рыцари побеждены
+quest_objective_511_3|Hurrdurr raptured| Хуррдурр восхищен
+||
+quest_name_512|Bamboozled| Обманули
+quest_description_512|Gather materials for fishing equipment| Собрать материалы для рыболовного снаряжения
+quest_objective_512_1|Bamboo sticks| Бамбуковые палочки
+quest_objective_512_2|Rod crafted| Стержень изготовлен
+||
+quest_name_513|Hook on the Line| Крючок на леске
+quest_description_513|Find spiderwebs and a viable hook| Найдите паутину и подходящий крючок
+quest_objective_513_1|Spiderwebs| Паутина
+quest_objective_513_2|Hook| Крюк
+||
+quest_name_514|Fish for the Greedy| Рыба для жадных
+quest_description_514|Find Aki in Temple of Zamjo and rescue him| Найдите Аки в храме Замджо и спасите его.
+quest_objective_514_1|King Tuna slain| Король Туна убит
+quest_objective_514_2|Aki rescued| Аки спасён
+||
+quest_name_515|The Eternal Chalice| Вечная Чаша
+quest_description_515|Get the Eternal Chalice in the Steam Train|Получите Вечную Чашу в Паровозе
+quest_objective_515_1|Eternal Chalice collected| Вечная Чаша собрана
+||
+quest_name_516|Souls of the Damned| Души Проклятых
+quest_description_516|Harvest the souls in Prison, find a seal in Unmarked Graves and purify the souls| Собирайте души в тюрьме
+quest_objective_516_1|Souls harvested| Души собраны
+quest_objective_516_2|Souls purified| Души очищены
+||
+||
+quest_name_517|Lilith| Лилит
+quest_description_517|...| ...
+quest_objective_517_1|Kill Lilith| Убить Лилит
+quest_objective_517_2|Lilith's Black Heart taken| Черное Сердце Лилит взято
+||
+quest_name_518|The Perfect Spot| Идеальное место
+quest_description_518|Clear the area around Moira's telescope in Deep Space| Очистите территорию вокруг телескопа Мойры в Глубоком космосе.
+quest_objective_518_1|Area cleared| Территория очищена
+||
+quest_name_519|Drink Tea| Пить чай
+quest_description_519|Drink stardust infused tea| Пейте чай, настоянный на звездной пыли.
+quest_objective_519_1|Tea drunk| Чай выпитый
+||
+quest_name_520|Stardust Poisoning| Отравление звездной пылью
+quest_description_520|Find antidote in Distorted Horizons| Найдите противоядие в Distorted Horizons
+quest_objective_520_1|Antidote found| Противоядие найдено
+quest_objective_520_2|Antidote consumed| Противоядие потреблено
+||
+quest_name_521|The Bestest Tea| Лучший чай
+quest_description_521|Find ingredients at the Parallel Dimension| Найдите ингредиенты в Parallel Dimension
+quest_objective_521_1|Cosmic Roots| Космические Корни
+quest_objective_521_2|Nebula Lily| Туманность Лили
+quest_objective_521_3|Anti-matter shroom| Антиматерия гриб
+quest_objective_521_4|Schrödinger's Cat| Кот Шредингера
+||
+||
+[Additional side quests]||
+||
+quest_name_600|Olof’s Medicine| Медицина Олофа
+quest_description_600|Find Olof’s medicine from an ice crack in Arctic Tundra| Найдите лекарство Олофа в трещине льда в арктической тундре
+quest_objective_600_1|Medicine collected| Собранные лекарства
+||
+||
+||
+||
+||
+||
+[MAIN QUEST]||
+quest_name_1000|Corrupted Nature| Испорченная природа
+quest_description_1000|Kill Scorchwood in the River of Inoya.| Убейте Скорчвуда в реке Иноя.
+quest_objective_1000_1|Scorchwood killed| Скорчвуд убит
+quest_name_1001|Sarcaster's coffee beans| Кофейные зерна Саркастера
+quest_description_1001|Retrieve Sarcaster's coffee beans from the Waypoint in Outskirts of Inoya.|Заберите кофейные зерна Саркастера из контрольной точки на окраине Инои.
+quest_objective_1001_1|Coffee beans retrieved.| Извлечены кофейные зерна.
+quest_name_1002|Bricks.. So many Bricks| Кирпичи.. Так много кирпичей.
+quest_description_1002|Collect Bricks from destructible objects anywhere.| Собирайте кирпичи из разрушаемых объектов в любом месте.
+quest_objective_1002_1|Bricks collected.| Кирпичи собраны.
+quest_name_1003|Hot Water| Горячая вода
+quest_description_1003|Collect hot water from The Pumpkin Patch.| Наберите горячей воды на тыквенной грядке.
+quest_objective_1003_1|Hot water collected| Горячая вода собрана
+quest_objective_1003_2|Kill the Colossal Pumpkin in Pumpkin Cellar| Убейте гигантскую тыкву в тыквенном погребе
+quest_name_1021|Purging the Lands| Очищение земель
+quest_description_1021|Collect body parts from monsters and bring them to Magister Kujala in the Fields of Battle.| Собирайте части тел монстров и приносите их магистру Куджале на полях битвы.
+quest_objective_1021_1|Body parts collected| Собранные части тела
+quest_name_1022|Shock Therapy| Шоковая терапия
+quest_description_1022|Use the Shocker-9000 to shock monsters.| Используйте Шокерr-9000, чтобы поражать монстров током.
+quest_objective_1022_1|Enemies shocked| Враги в шоке
+quest_name_1023|Corruptor of the Forest| Осквернитель леса
+quest_description_1023|Find Gurag in King’s Throne and kill him! Report to Gunhild Yngouf in Danethorpe.| Найдите Гурага в Королевском Троне и убейте его! Доложите Гунхильд Ингуф в Данеторпе.
+quest_objective_1023_1|Gurag slain| Гураг убит
+quest_name_1024|Provide your aid| Окажите свою помощь
+quest_description_1024|Kill monsters in the lands of Danethorpe. Meet Halstein at the Chilling Lake to claim your reward.| Убивайте монстров в землях Дэнторпа. Встретьтесь с Хальстейном у Холодного озера, чтобы получить свою награду.
+quest_objective_1024_1|Frost Goblins slain| Убито ледяных гоблинов
+quest_objective_1024_2|Frost Skeletons slain| Убито ледяных скелетов
+quest_objective_1024_3|Frost Dragons slain| Убиты ледяные драконы
+quest_objective_1024_4|Ice Elementals slain| Убиты ледяные элементали
+quest_name_1025|Icy Enchanters| Ледяные Чародеи
+quest_description_1025|Interrupt frozen portals in Snowy Mountains and meet me at the entrance of the Glacial Trail!|Прервите замороженные порталы в Снежных горах и встретитесь со мной у входа на Ледниковую тропу!
+quest_objective_1025_1|Portals interrupted| Порталы прерваны
+quest_name_1026|Death Itself| Сама Смерть
+quest_description_1026|Kill Grim Reaper in the Death’s Breach!| Убейте Мрачного Жнеца в Разломе Смерти!
+quest_objective_1026_1|Grim Reaper slain| Мрачный Жнец убит
+quest_name_1027|Save the Innocent!| Спасите невинных!
+quest_description_1027|Escort prisoners to the Waypoint in the Corrupted Oasis.| Сопроводите заключенных к контрольной точке в Оскверненном оазисе.
+quest_objective_1027_1|Prisoners saved| Заключенные спасены
+quest_name_1028|Purify the sands of Mos’Arathim| Очистите пески Мос'Аратима
+quest_description_1028|Slay monsters around the desert and meet me in the second floor of the Pyramid.| Уничтожай монстров по всей пустыне и встреться со мной на втором этаже Пирамиды.
+quest_objective_1028_1|Skeletons slain| Скелеты убиты
+quest_objective_1028_2|Orcs slain| Орки убиты
+quest_objective_1028_3|Desert Beasts slain| Убиты пустынные звери
+quest_objective_1028_4|Sand Wasps slain| Песчаные осы убиты
+quest_objective_1028_5|Mummies slain| Мумии убиты
+quest_objective_1028_6|Shadow Anomalies slain| Аномалии теней уничтожены
+quest_name_1029|Protector of Graves| Защитник могил
+quest_description_1029|Kill Anubis in the Tomb of the Fallen King!| Убейте Анубиса в Гробнице Падшего Короля!
+quest_objective_1029_1|Anubis slain| Анубис убит
+quest_name_1030|Dungeon Master| Мастер Подземелий
+quest_description_1030|Clear the Old Copper Mine nearby the Old Mining Village!| Очистите старый медный рудник рядом со старой шахтерской деревней!
+quest_objective_1030_1|Collector of Bones slain| Собиратель костей убит
+quest_objective_1030_2|Goblins Killed| Гоблины убиты
+quest_name_1031|Precious Equipment| Драгоценное оборудование
+quest_description_1031|Gather mining equipment and purge the undead from Highland Mines, bring the equipment to Thastun in the Corrupted Caves| Соберите горнодобывающее оборудование и очистите Хайленд Майнс от нежити.
+quest_objective_1031_1|Mining Equipment Retrieved| Горнодобывающее оборудование получено
+quest_objective_1031_2|Cave Slimes killed| Пещерные слизни убиты
+quest_objective_1031_3|Skull Crawlers killed| Черепа-ползуны убиты
+quest_name_1032|Prove Yourself| Докажи Себя
+quest_description_1032|Kill enemies with the Flail.|Убивайте врагов с помощью цепа.
+quest_objective_1032_1|Enemies slain| Враги убиты
+quest_name_1033|Demon´s Lair| Логово Демона
+quest_description_1033|Find and kill the Damned Commander and slay his minions.| Найдите и убейте Проклятого Командира и уничтожьте его приспешников.
+quest_objective_1033_1|Damned Commander killed| Проклятый Командир убит
+quest_objective_1033_2|Enemies slain| Враги убиты
+quest_name_1034|Damien, Son of Satan| Дэмиен
+quest_description_1034|Kill Damien in the Altar of Lost Souls!| Убейте Дэмиена на Алтаре Потерянных Душ!
+quest_objective_1034_1|Damien slain| Дэмиен убит
+||
+[KARP OF DOOM]||
+quest_name_1035|Corrupted Statues| Испорченные статуи
+quest_description_1035|Destroy corrupted statues and purge the infestation inside the Underground Gardens located in Misty Swamps.| Уничтожьте зараженные статуи и очистите Подземные сады, расположенные в Туманных болотах, от заражения.
+quest_objective_1035_1|Corrupted statues destroyed| Поврежденные статуи уничтожены
+quest_objective_1035_2|Garden Colossus slain| Садовый Колосс убит
+quest_name_1036|Stop the Invasion| Остановить вторжение
+quest_description_1036|Bomb the ships at the edge of Fuji Coast!| Бомбите корабли на краю побережья Фудзи!
+quest_objective_1036_1|Ships sunk| Корабли затоплены
+quest_name_1037|We Feast on Fish| Мы пируем рыбой
+quest_description_1037|Capture fishes with fish trap in the Sea of Karponia and  Temple of Zamjo.| Поймайте рыбу с помощью ловушки в море Карпония и храме Замджо.
+quest_objective_1037_1|Fishes captured| Пойманных рыб
+quest_name_1038|Sushi Time!| Время суши!
+quest_description_1038|Kill Karp King in the Emperor’s Chamber!| Убейте Карпа Кинга в покоях Императора!
+quest_objective_1038_1|Karp King killed| Карп Кинг убит
+||
+[DEPTHS OF HELL]||
+quest_name_1039|Preparation| Подготовка
+quest_description_1039|Collect essence and retrieve Book of Command from the Graveyard!| Соберите эссенцию и заберите Книгу Заповедей с Кладбища!
+quest_objective_1039_1|Book of Command| Книга Заповеди
+quest_objective_1039_2|Essence| Сущность
+quest_name_1040|Shut Down| Неисправность
+quest_description_1040|Close demonic portals around the Cathedral.| Закройте демонические порталы вокруг Собора.
+quest_objective_1040_1|Portals closed| Порталы закрыты
+quest_name_1041|Highway to Hell| Дорога в ад
+quest_description_1041|Clear cogs out of mysterious vines in the Steam Train.|Очистите шестеренки от таинственных лоз в паровозе.
+quest_objective_1041_1|Cogs cleared| Шестеренки очищены
+quest_name_1042|Summon Satan| Вызов Сатаны
+quest_description_1042|Kill Satan in the Seventh Layer of Hell!| Убейте Сатану в седьмом слое ада!
+quest_objective_1042_1|Satan killed| Сатана убил
+||
+[WRATH OF MEVIUS]||
+quest_name_1043|Technology is Great| Технологии — это здорово
+quest_description_1043|Suck black holes with Sucker-5000 within Deep Space.| Засасывайте черные дыры с помощью Sucker-5000 в дальнем космосе.
+quest_objective_1043_1|Black holes captured| Черные дыры захвачены
+quest_name_1044|Lock & Load!| Заблокируйте и загрузите!
+quest_description_1044|Use Sucker-5000-B to capture enemies in Event Horizon.| Используйте Присоска-5000-B для захвата врагов в Горизонте событий.
+quest_objective_1044_1|Enemies captured| Враги захвачены
+quest_name_1045|Purge your demons!| Изгоните своих демонов!
+quest_description_1045|Slay enemies within the Parallel Dimension… | Уничтожайте врагов в Параллельном Измерении…
+quest_objective_1045_1|Casket Horror| Ужас в гробу
+quest_objective_1045_2|Nightmare Priest| Кошмарный Священник
+quest_objective_1045_3|Gnarler| Гнарлер
+quest_objective_1045_4|Headless butler| Безголовый дворецкий
+quest_name_1046|Master of Destruction| Мастер Разрушения
+quest_description_1046|Kill Mevius in the Verge of Insanity| Убить Мевиуса на грани безумия
+quest_objective_1046_1|Mevius killed| Мевиус убит
+||
+[MAIN NIGHTMARE]||
+quest_name_1101|Magic Stones| Волшебные камни
+quest_description_1101|Slay Commander Albert within the Black Tower in Woodhill Plains| Убейте Командира Альберта в Черной Башне на Вудхиллских равнинах.
+quest_objective_1101_1|Commander Albert slain| Командир Альберт убит
+quest_name_1102|The Wild Hunt| Дикая Охота
+quest_description_1102|The Hunt is on! Slay the wild creatures and skeletons within Act II.| Охота началась! Уничтожайте диких тварей и скелетов во втором акте.
+quest_objective_1102_1|Wild Creatures slain| Дикие существа убиты
+quest_objective_1102_2|Skeletons slain| Скелеты убиты
+quest_name_1103|Tomb Raider| Расхитительница гробниц
+quest_description_1103|The pyramid is a sacred place taken over by the undead.. Purge them all!| Пирамида — священное место, захваченное нежитью. Уничтожьте их всех!
+quest_objective_1103_1|Desert Monsters slain| Убиты пустынные монстры
+quest_objective_1103_2|Pyramid Undead slain| Пирамида Нежить убита
+quest_name_1104|Secrets of Iron|Секреты железа
+quest_description_1104|Mine Iron Ore for Kleiton and slay the Forge Master within the Abandoned Mine inside the Highland Mines.| Добудьте железную руду для Клейтона и убейте кузнеца в заброшенной шахте в шахтах Хайленда.
+quest_objective_1104_1|Iron Ore Collected| Собранная железная руда
+quest_objective_1104_2|Forge Master slain| Мастер кузницы убит
+quest_name_1105|Warlord Training| Подготовка военачальника
+quest_description_1105|Train your combat skills and slay monsters within Act V.| Тренируйте свои боевые навыки и убивайте монстров в Акте V.
+quest_objective_1105_1|Monsters slain| Убитые монстры
+quest_name_1106|Souls of the Dead| Души мертвых
+quest_description_1106|Slay monsters within Act VI and collect their essence.| Уничтожайте монстров в шестом акте и собирайте их эссенцию.
+quest_objective_1106_1|Essence of Undead collected| Эссенция нежити собрана
+quest_name_1107|Lost Manual| Потерянное руководство
+quest_description_1107|Retrieve Lost Manual from Distorted Horizons within the Event Horizon.| Извлеките утерянное руководство из искаженных горизонтов в пределах горизонта событий.
+quest_objective_1107_1|Lost Manual collected| Утерянное руководство собрано
+quest_name_1108|Eight Legged Monstrosities| Восьминогие чудовища
+quest_description_1108|Slay Helheim Arachnid within the Camp of Souls| Убейте Хельхеймского паука в Лагере Душ.
+quest_objective_1108_1|Helheim Arachnid slain| Хельхеймский паук убит
+||
+[MAIN HELL]||
+quest_name_1201|Grand Purge| Великая чистка
+quest_description_1201|Slay monsters within Act I and then kill Gurag.| Уничтожьте монстров в первом акте, а затем убейте Гурага.
+quest_objective_1201_1|Monsters slain| Убитые монстры
+quest_objective_1201_2|Gurag slain| Гураг убит
+quest_name_1202|Protect The Wilderness| Защитите дикую природу
+quest_description_1202|Collect wild berries and slay monsters within Act II.| Собирайте дикие ягоды и убивайте монстров во втором акте.
+quest_objective_1202_1|Wild Berries collected| Лесные ягоды собраны
+quest_objective_1202_2|Monsters slain| Убитые монстры
+quest_name_1203|Free Spirits| Свободные Духи
+quest_description_1203|Free entrapped souls within Act III.| Освободите запертые души в третьем акте.
+quest_objective_1203_1|Entrapped Souls freed| Освобождены захваченные души
+quest_name_1204|Tarethium’s Essence| Эссенция Таретиума
+quest_description_1204|Mine tarethium ore for Kleiton.| Добудьте таретиевую руду для Клейтона.
+quest_objective_1204_1|Tarethium Ore collected| Собрана руда таретия
+quest_name_1205|Warlord’s Command|Приказ военачальника
+quest_description_1205|Slay monsters within Act V.| Уничтожайте монстров в акте V.
+quest_objective_1205_1|Monsters slain| Убитые монстры
+quest_name_1206|Purification| Очищение
+quest_description_1206|Destroy skull piles and slay monsters within Act VI.| Уничтожайте груды черепов и убивайте монстров в Акте VI.
+quest_objective_1206_1|Skull Piles destroyed| Черепа-кучи уничтожены
+quest_objective_1206_2|Monsters slain| Убитые монстры
+quest_name_1207|Fixing Glitches| Исправление сбоев
+quest_description_1207|Destroy glitching objects within Act VII.| Уничтожьте глючные объекты в VII акте.
+quest_objective_1207_1|Glitches fixed| Исправлены глюки
+quest_name_1208|Cleansing Valhalla| Очищение Валгаллы
+quest_description_1208|Slay monsters within Act VIII.| Уничтожайте монстров в VIII акте.
+quest_objective_1208_1|Monsters slain| Убитые монстры
+||
+[HELL 5 QUESTS]||
+||
+quest_name_1250|WANTED: Shadow Reaper|РАЗЫСКИВАЕТСЯ: Shadow Reaper
+quest_description_1250|Collect dimensional shards from shadow realm, once you have obtained enough enter the portal within the realm and kill shadow reaper.|Соберите пространственные осколки из царства теней, как только вы соберете достаточно, войдите в портал внутри царства и убейте Shadow Reaper.
+quest_objective_1250_1|Dimensional Shards collected|Пространственные осколки собраны
+quest_objective_1250_2|Shadow Reaper slain|Shadow Reaper убит
+quest_name_1251|WANTED: Sung Lee|РАЗЫСКИВАЕТСЯ: Sung Lee
+quest_description_1251|Collect battle fragments around the eternal battle field portal, once you have obtained enough enter the portal and kill sung lee.|Соберите фрагменты битвы вокруг портала вечного поля битвы, как только вы соберете достаточно, войдите в портал и убейте Sung Lee.
+quest_objective_1251_1|Battle Fragments collected|Фрагменты битвы собраны
+quest_objective_1251_2|Sung Lee slain|Sung Lee убит
+quest_name_1252|WANTED: Chaos Tower|РАЗЫСКИВАЕТСЯ: Chaos Tower
+quest_description_1252|Enter a chaos tower and purge its floors from the undead.|Войдите в башню хаоса и очистите ее этажи от нежити.
+quest_objective_1252_1|Chaos Tower floors cleared|Этажи Chaos Tower очищены
+quest_name_1253|WANTED: Damien|РАЗЫСКИВАЕТСЯ: Damien
+quest_description_1253|Collect the parts from Gurag, Grim Reaper, Anubis, Damien, Karp King and Satan. After collecting the parts, craft a key of terror and speak to um in order to open a portal to fallen inoya and slay damien!|Соберите детали Gurag, Grim Reaper, Anubis, Damien, Karp King и Satan. Собрав детали, создайте ключ ужаса и поговорите с um, чтобы открыть портал к падшей Инойе и убить Damien!
+quest_objective_1253_1|Key of Terror obtained|Ключ Ужаса получен
+quest_objective_1253_2|Damien slain|Дэмиен убит
+quest_name_1254|Codex of Eternity|Кодекс Вечности
+quest_description_1254|Find a codex of eternity, enter its zone and clear it.|Используйте кодекс Вечности, войдите в его зону и очистите ее.
+quest_objective_1254_1|Codex of Eternity used|Кодекс Вечности использован
+quest_objective_1254_2|Codex Zone cleared|Зона Кодекса очищена 
+||
+||
+||
+[MAIN INFERNO]||
+quest_name_1301|The Fall of Darkness| Падение Тьмы
+quest_description_1301|Slay Gabriel in the Circle of Hatred and Amun-Ra within the Tomb of Amun-Ra| Убейте Гавриила в Круге Ненависти и Амона-Ра в Гробнице Амона-Ра.
+quest_objective_1301_1|Gabriel Slain| Габриэль Слейн
+quest_objective_1301_2|Amun-Ra Slain| Амон-Ра убит
+||
+quest_name_1302|The Light of Dawn| Свет зари
+quest_description_1302|Purge Tarethiel of evil for good..| Очисти Таретиэль от зла навсегда.
+quest_objective_1302_1|Gurag slain| Очистите Башню Хаоса
+quest_objective_1302_2|Grim Reaper slain| Очистите портал Вечного поля битвы
+quest_objective_1302_3|Anubis slain| Уничтожьте древних монстров
+quest_objective_1302_4|Damien slain| Убей Мевиуса
+quest_objective_1302_5|Karp King slain|
+quest_objective_1302_6|Satan slain|
+quest_objective_1302_7|Mevius slain|
+||
+[Community Quests]||
+community_quest_header|Community Quest| Общественный квест
+community_quest_title_1|Call to Arms| Призыв к оружию
+community_quest_desc_1|I, Mayor Kukkonen, hereby issue a request for the heroes of Tarethiel. Purge the lands of the monsters! The massive infestation of dark creatures roaming our lands has gone on long enough. To ensure that these creatures will not overrun us in the future we have to act now! Obliterate as many as you can by next Friday.| я
+community_quest_objective_1|Slay monsters all around Tarethiel| Уничтожайте монстров вокруг Таретиэль.
+community_quest_title_2|Chaos at the Tower| Хаос в Башне
+community_quest_desc_2|The good warriors of Tarethiel, listen up! Chaos Towers have been running rampant across the lands! Purify these towers on sight! For glory, for honor!| Добрые воины Таретиэля
+community_quest_objective_2|Clear Chaos Towers| Очистить башни хаоса
+community_quest_title_3|Heigh-Ho!| Хей-хо!
+community_quest_desc_3|We are in massive need of resources to build our defenses and ensure the survival of the good people of Tarethiel! This is why I, Dr. Tinker Dink, along with Mayor Kukkonen have started a campaign to get as much minerals as possible to bolster our position on the map. Help us collect as much Ores as possible.| Нам очень нужны ресурсы, чтобы построить нашу оборону и обеспечить выживание добрых людей Таретиэля! Вот почему я
+community_quest_objective_3|Mine ore nodes| Добыча рудных узлов
+community_quest_title_4|Sonya’s Soldier| Солдат Сони
+community_quest_desc_4|It’s one thing to face Damien’s troops to purge this land of evil, but to also do it with style? That’s more my style! Bring me proof of completed Challenge Dungeons by opening the Chests at the end, and I shall reward you!|Одно дело — сражаться с войсками Дэмиена, чтобы очистить эту землю от зла.
+community_quest_objective_4|Open Challenge Dungeon Chests| Откройте сундуки подземелий испытаний
+community_quest_title_5|Gold Farm| Золотая ферма
+community_quest_desc_5|The economy is tanking! The monsters are rampaging through the lands, murdering innocents and robbing our resources, including gold! We have seen an increase of scams and cheated currency ruining our already unstable economy. Please slay monsters and collect [c_yellow]our gold[c_reset] back from their cold dead hands. More gold in circulation is better for everyone!| Экономика рушится! Монстры бесчинствуют на землях
+community_quest_objective_5|Pick up gold. A lot of gold.| Собирай золото. Много золота.
+community_quest_title_6|Uber-Grind| Убер-Гринд
+community_quest_desc_6|The dark forces are getting stronger and danger looms near every domain. Show them that we are not afraid! [shake_letter][c_red]Slaughter them![c_reset][shake_reset] Destroy the biggest evil creatures you can find.| Темные силы становятся сильнее, и опасность нависает над каждым доменом. Покажите им, что мы не боимся! [shake_letter][c_red]Уничтожьте их![c_reset][shake_reset] Уничтожьте самых больших злых существ, которых сможете найти.
+community_quest_objective_6|Slay Uber bosses| Уничтожайте боссов Uber
+community_quest_title_7|Dungeon Crawler| Подземелье краулер
+community_quest_desc_7|To further help with purging the infestation of our lands we have to hit them where it hurts. They are below us, crawling through the dungeons. Scheming, getting stronger. Destroy as many of these dungeon dwellers as possible!| Чтобы помочь очистить наши земли от заражения, мы должны ударить по их больному месту. Они ниже нас
+community_quest_objective_7|Slay enemies within Special Dungeons| Убивайте врагов в специальных подземельях
+community_quest_title_8|Purge Big Baddies| Очистка больших негодяев
+community_quest_desc_8|It’s time to show those bastards who is the boss here. For too long has Reaper ruled over Danethorpe, enough for the Reign of Karp King or Satan’s Influence over these holy grounds. Time to purge this land, once and for all.| Пора показать этим ублюдкам, кто тут хозяин. Слишком долго Рипер правил Дэнторпом
+community_quest_objective_8|Kill Act Bosses| Убийственные боссы
+||
+||
+||
+||
+||
+||
+||
+||
+[quest casting]||
+quest_cook_meat|Cook Meat| Приготовить Мясо
+quest_cook_meat_action|Cooking delicious hog meat| Готовим вкусную свинину
+quest_dirt_dig|Dig| Копать
+quest_dirt_dig_action|Digging up dirt| Копание в грязи
+quest_lift_water|Use Well| Хорошо используйте
+quest_lift_water_action|Lifting water from river Gjöll| Подъем воды из реки Гьёлль
+quest_potion_cauldron|Conjure Potion| Зелье колдовства
+quest_potion_cauldron_action|Boiling ingredients| Кипящие ингредиенты
+quest_attach_wheel|Attach Wheel|Прикрепить колесо
+quest_attach_wheel_action|Attaching wheel| Крепление колеса
+quest_attach_wheel_done|Wheel attached!| Колесо прикреплено!
+quest_harvest_pumpkin_action|Harvesting pumpkin| Сбор тыквы
+quest_harvest_pumpkin|Pumpkin?| Тыква?
+quest_cook_maggot_stew|Boil the ingredients| Отварить ингредиенты.
+quest_cooking_maggot_stew|Making Maggot stew| Приготовление рагу из личинок
+quest_gathering_herb|Gathering herbs...| Сбор трав...
+quest_gather_ginseng|Collect ginseng plant| Собрать растение женьшень
+quest_gather_frost_dill|Collect Frost Dill| Собрать замороженный укроп
+quest_gather_loska|Collect Loska| Собрать Лоску
+quest_gather_vermroot|Collect Vermroot| Собрать вермрут
+quest_gather_fanglen|Collect Fanglen| Собрать Фанглен
+quest_inspect_track|Inspect track| Осмотреть трек
+quest_inspecting|Inspecting...| Проверка...
+quest_skin_carnage|Skin Carnage's Hide| Кожа Карнажа
+quest_skinning|Skinning...| Снятие шкур...
+quest_gather_devils_cabbage|Collect Devil's Cabbage| Собрать дьявольскую капусту
+quest_inspect_cart|Inspect Mining Cart| Осмотреть горнодобывающую тележку
+quest_mend_hurrdurr|Attempt to heal Hurrdurr| Попытка исцелить Хуррдурра
+quest_mending_hurrdurr|Trying to save Hurrdurr| Пытаюсь спасти Хуррдурра
+quest_collect_bamboo|Rip Bamboo Sticks| Бамбуковые палочки Rip
+quest_collecting_bamboo|Taking sturdy bamboo| Взяв крепкий бамбук
+quest_craft_rod|Craft Sturdy Fishing Rod| Изготовить прочную удочку
+quest_using_workbench|Crafting...| Изготовление...
+quest_collect_spiderweb|Collect Spiderweb| Собрать паутину
+quest_collecting|Collecting...| Собираем...
+quest_inspect_metal_hook|Inspect Metal Hook| Осмотрите металлический крючок
+quest_harvest_soul|Harvest Damned Soul| Соберите Проклятую Душу
+quest_harvesting_soul|Harvesting soul...| Сбор души...
+quest_seal_grave|Bless the Eternal Chalice| Благослови Вечную Чашу
+quest_seal_grave_action|Purifying Damned Souls| Очищение проклятых душ
+quest_bag_njals_head|Bagging Njal’s head| Голова Ньяла в мешке
+quest_repair_beacon|Repairing security beacon| Ремонт охранного маяка
+quest_beacons_up|Turning the security beacon system on| Включение системы охранных маяков
+quest_ice_crack|Examining| Рассматривание
+quest_place_explosives_interact|Placing explosives... carefully| Размещение взрывчатки... осторожно
+quest_detonating|Starting detonator| Пусковой детонатор
+quest_igniting_beacon|Igniting beacon| Зажигающий маяк
+||
+||
+||
+[special cases]||
+quest_require_valhalla_chain|You must have the Valhalla storyline quests completed to be eligible for today’s Bounty Quest!| Чтобы принять участие в сегодняшнем квесте «Баунти», вы должны пройти сюжетные задания Валгаллы!
+quest_require_valhalla_dlc|You must own a copy of The Gates of Valhalla Expansion and have the Valhalla storyline quests completed to be eligible for today’s Bounty Quest!| Вы должны владеть копией расширения «Врата Валгаллы» и пройти сюжетные квесты Валгаллы, чтобы получить право на участие в сегодняшнем квесте «Баунти»!
+||
+||
+quest_name_1280|Stabilizing The Rifts|
+quest_description_1280|Find and clear unstable rifts for Magister Kujala. Return to the town of Inoya when you are done!|
+quest_objective_1280_1|Monsters slain within unstable rift|
+quest_name_1281|Essence Lockpicking|
+quest_description_1281|Obtain an open essence vaults by fulfilling the vaults contract! Return to the town of Inoya when you are done!|
+quest_objective_1281_1|Essence Vaults opened|
+quest_name_1282|Vault Master|
+quest_description_1282|Craft and open Tier A+ vaults for Magister Kujala. Return to the town of Inoya when you are done!|
+quest_objective_1282_1|Essence Vaults crafted|
+quest_objective_1282_2|Tier A+ Essence Vaults opened|
