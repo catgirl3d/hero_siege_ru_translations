@@ -1,210 +1,210 @@
 [zone]|en|ru
-Act_01_Pregame|River of Inoya| Река Иноя
-Act_01_01|Outskirts of Inoya| Окраина Иноя
-Act_01_02|Fields of Battle| Поля битвы
-Act_01_03|The Pumpkin Patch| Тыквенная грядка
-Act_01_04|Woodhill Plains| Вудхилл Плейнс
-Act_01_04_02|Village of Lamia| Деревня Ламия
-Act_01_05|King's Garden| Королевский сад
-Act_01_02_02|Witching River| Ведьмина река
-Act_02_01|Crystal Village| Кристаллическая деревня
-Act_02_02|Chilling Lake| Холодное озеро
-Act_02_03|Arctic Tundra| Арктическая тундра
-Act_02_04|Snowy Mountains| Снежные горы
-Act_02_05|The Glacial Trail| Ледниковая тропа
-Act_03_01|Corrupted Oasis| Оскверненный Оазис
-Act_03_02|Dry Hills| Сухие Холмы
-Act_03_03|Mos'Arathim Desert| Пустыня Мос'Аратим
-Act_03_04|Pyramid Level 1| Пирамида Уровень 1
-Act_03_05|Pyramid Level 2| Пирамида Уровень 2
-Act_03_06|Curacan Hollow| Кюраканская котловина
-Act_04_01|Old Mining Village| Старая шахтерская деревня
-Act_04_02|The Highland Mines| Шахты Хайленда
-Act_04_03|Corrupted Cave| Оскверненная пещера
-Act_04_04|The Nightmare| Кошмар
-Act_04_05|The Devil's Breach| Дьявольский пролом
-Act_05_01|Mt. Fuji| Гора Фудзи
-Act_05_02|Misty Swamp| Туманное Болото
-Act_05_03|Fuji Coast| Берег Фудзи
-Act_05_04|Sea of Karponia| Море Карпония
-Act_05_05|Temple of Zamjo| Храм Замджо
-Act_06_01|Highland Graveyard| Хайлендское кладбище
-Act_06_02|The Cathedral| Собор
-Act_06_03|Prison Dungeon| Тюремное подземелье
-Act_06_04|Steam Train| Паровоз
-Act_06_05|The Depths of Hell| Глубины ада
-Act_07_01|Deep Space| Глубокий космос
-Act_07_02|Event Horizon| Горизонт событий
-Act_07_03|The Black Hole| Черная дыра
-Act_07_04|Parallel Dimension| Параллельное измерение
-Act_07_05|Subconscious Mind| Подсознание
-Act_08_01|Forest of the Slain| Лес убитых
-Act_08_02|Flooded Plains| Затопленные равнины
-Act_08_03|Forgotten Caves| Забытые пещеры
-Act_08_04|Camp of Souls| Лагерь Душ
-Act_08_05|Helheim| Хельхейм
-Act_08_Valkyrie|Plains of Ida| Равнина Иды
-Act_08_Valhalla|Gates of Valhalla| Врата Валгаллы
-Act_08_River|River Gjöll| Река Гьёлль
-Act_08_Mevius_Intro|Memory of Mevius| Память о Мевиусе
-Act_08_Helheim|Gates of Helheim| Врата Хельхейма
-Grindfest_Orres_Lair_rm|Örre's Lair| Логово Эрре
-Act_08_03_TrollQuest_Room_rm|Refugee Camp| Лагерь беженцев
-Act_01_Boss|King's Throne| Трон короля
-Act_02_Boss|Death’s Breach| Смертельный пролом
-Act_03_Boss|Tomb of the Fallen King| Гробница падшего короля
-Act_04_Boss|Altar of Lost Souls| Алтарь потерянных душ
-Act_05_Boss|Emperor’s Chamber| Имперская палата
-Act_06_Boss|Seventh Layer of Hell| Седьмой уровень ада
-Act_07_Boss|The Verge of Insanity| Грань безумия
-Act_08_Boss|Throne of Helheim| Трон Хельхейма
-Act_01_Boss_Dungeon_01|Northern Post| Северная Почта
-Act_01_Boss_Dungeon_02|Old Mausoleum| Старый Мавзолей
-Act_01_Boss_Dungeon_03|King’s Tomb| Гробница короля
-Act_02_Boss_Dungeon_01|Chilling Cavern| Леденящая пещера
-Act_02_Boss_Dungeon_02|Freezing Steppes| Замерзающие степи
-Act_02_Boss_Dungeon_03|Chamber of Ice| Ледяная комната
-Act_03_Boss_Dungeon_01|Sewers of Mos’Arathim| Канализация Мос'Аратима
-Act_03_Boss_Dungeon_02|Ra’s Labyrinth| Лабиринт Ра
-Act_03_Boss_Dungeon_03|Tomb of Ancients| Гробница Древних
-Act_04_Boss_Dungeon_01|Lair of Corruption| Логово коррупции
-Act_04_Boss_Dungeon_02|Maze of Shadows| Лабиринт Теней
-Act_04_Boss_Dungeon_03|Chamber of Burning Souls| Палата Пылающих Душ
-Act_05_Boss_Dungeon_01|Temple of Fishes| Храм Рыб
-Act_05_Boss_Dungeon_02|Underground Trench| Подземная расщелина
-Act_05_Boss_Dungeon_03|The Sacred Temple| Священный Храм
-Act_06_Boss_Dungeon_01|Hollowing Sanctuary| Опустошительное святилище
-Act_06_Boss_Dungeon_02|Sacrilegious Chapel| Святотатственная часовня
-Act_06_Boss_Dungeon_03|Pathway to Hell| Путь в ад
-Act_07_Boss_Dungeon_01|The Void| Пустота
-Act_07_Boss_Dungeon_02|Pathway of Souls| Путь Душ
-Act_07_Boss_Dungeon_03|The Waiting Room| Зал ожидания
-Act_08_Boss_Dungeon_01|Ruins of Helheim| Руины Хельхейма
-Act_08_Boss_Dungeon_02|Helheim Channel| Канал Хельхейм
-Act_08_Boss_Dungeon_03|Vault of Ancients| Хранилище Древних
+Act_01_Pregame|River of Inoya|Река Инойя
+Act_01_01|Outskirts of Inoya|Окрестности Инойи
+Act_01_02|Fields of Battle|Поля битвы
+Act_01_03|The Pumpkin Patch|Тыквенная грядка
+Act_01_04|Woodhill Plains|Равнины Вудхилл
+Act_01_04_02|Village of Lamia|Деревня Ламия
+Act_01_05|King's Garden|Королевский сад
+Act_01_02_02|Witching River|Ведьмина река
+Act_02_01|Crystal Village|Кристальная деревня
+Act_02_02|Chilling Lake|Леденящее озеро
+Act_02_03|Arctic Tundra|Арктическая тундра
+Act_02_04|Snowy Mountains|Заснеженные горы
+Act_02_05|The Glacial Trail|Ледяная тропа
+Act_03_01|Corrupted Oasis|Оскверненный оазис
+Act_03_02|Dry Hills|Сухие холмы
+Act_03_03|Mos'Arathim Desert|Пустыня Мос'Аратим
+Act_03_04|Pyramid Level 1|Пирамида: Уровень 1
+Act_03_05|Pyramid Level 2|Пирамида: Уровень 2
+Act_03_06|Curacan Hollow|Лощина Куракан
+Act_04_01|Old Mining Village|Старая шахтерская деревня
+Act_04_02|The Highland Mines|Шахты Высокогорья
+Act_04_03|Corrupted Cave|Оскверненная пещера
+Act_04_04|The Nightmare|Кошмар
+Act_04_05|The Devil's Breach|Разлом Дьявола
+Act_05_01|Mt. Fuji|Гора Фудзи
+Act_05_02|Misty Swamp|Туманное болото
+Act_05_03|Fuji Coast|Побережье Фудзи
+Act_05_04|Sea of Karponia|Море Карпонии
+Act_05_05|Temple of Zamjo|Храм Замджо
+Act_06_01|Highland Graveyard|Кладбище Высокогорья
+Act_06_02|The Cathedral|Собор
+Act_06_03|Prison Dungeon|Тюремное подземелье
+Act_06_04|Steam Train|Паровоз
+Act_06_05|The Depths of Hell|Глубины Ада
+Act_07_01|Deep Space|Открытый космос
+Act_07_02|Event Horizon|Горизонт событий
+Act_07_03|The Black Hole|Черная дыра
+Act_07_04|Parallel Dimension|Параллельное измерение
+Act_07_05|Subconscious Mind|Подсознание
+Act_08_01|Forest of the Slain|Лес Павших
+Act_08_02|Flooded Plains|Затопленные равнины
+Act_08_03|Forgotten Caves|Забытые пещеры
+Act_08_04|Camp of Souls|Лагерь душ
+Act_08_05|Helheim|Хельхейм
+Act_08_Valkyrie|Plains of Ida|Равнины Ида
+Act_08_Valhalla|Gates of Valhalla|Врата Вальхаллы
+Act_08_River|River Gjöll|Река Гьёлль
+Act_08_Mevius_Intro|Memory of Mevius|Воспоминание Мевиуса
+Act_08_Helheim|Gates of Helheim|Врата Хельхейма
+Grindfest_Orres_Lair_rm|Örre's Lair|Логово Эрре
+Act_08_03_TrollQuest_Room_rm|Refugee Camp|Лагерь беженцев
+Act_01_Boss|King's Throne|Трон Короля
+Act_02_Boss|Death’s Breach|Разлом Смерти
+Act_03_Boss|Tomb of the Fallen King|Гробница Падшего короля
+Act_04_Boss|Altar of Lost Souls|Алтарь потерянных душ
+Act_05_Boss|Emperor’s Chamber|Покои Императора
+Act_06_Boss|Seventh Layer of Hell|Седьмой круг Ада
+Act_07_Boss|The Verge of Insanity|Грань безумия
+Act_08_Boss|Throne of Helheim|Трон Хельхейма
+Act_01_Boss_Dungeon_01|Northern Post|Северная застава
+Act_01_Boss_Dungeon_02|Old Mausoleum|Старый мавзолей
+Act_01_Boss_Dungeon_03|King’s Tomb|Гробница Короля
+Act_02_Boss_Dungeon_01|Chilling Cavern|Леденящая пещера
+Act_02_Boss_Dungeon_02|Freezing Steppes|Мерзлые степи
+Act_02_Boss_Dungeon_03|Chamber of Ice|Ледяной чертог
+Act_03_Boss_Dungeon_01|Sewers of Mos’Arathim|Канализация Мос'Аратима
+Act_03_Boss_Dungeon_02|Ra’s Labyrinth|Лабиринт Ра
+Act_03_Boss_Dungeon_03|Tomb of Ancients|Гробница Древних
+Act_04_Boss_Dungeon_01|Lair of Corruption|Логово Скверны
+Act_04_Boss_Dungeon_02|Maze of Shadows|Лабиринт Теней
+Act_04_Boss_Dungeon_03|Chamber of Burning Souls|Чертог Пылающих душ
+Act_05_Boss_Dungeon_01|Temple of Fishes|Храм Рыб
+Act_05_Boss_Dungeon_02|Underground Trench|Подземная впадина
+Act_05_Boss_Dungeon_03|The Sacred Temple|Священный храм
+Act_06_Boss_Dungeon_01|Hollowing Sanctuary|Святилище Опустошения
+Act_06_Boss_Dungeon_02|Sacrilegious Chapel|Оскверненная часовня
+Act_06_Boss_Dungeon_03|Pathway to Hell|Путь в Ад
+Act_07_Boss_Dungeon_01|The Void|Пустота
+Act_07_Boss_Dungeon_02|Pathway of Souls|Путь душ
+Act_07_Boss_Dungeon_03|The Waiting Room|Зал ожидания
+Act_08_Boss_Dungeon_01|Ruins of Helheim|Руины Хельхейма
+Act_08_Boss_Dungeon_02|Helheim Channel|Канал Хельхейма
+Act_08_Boss_Dungeon_03|Vault of Ancients|Склеп Древних
 ||
-Town_01_rm|Town of Inoya| Город Иноя
-Town_02_rm|Danethorpe| Дэнеторп
-Town_03_rm|Village of Mos'Arathim| Деревня Мос'Аратим
-Town_04_rm|Dhorn Farum| Дорн Фарум
-Town_05_rm|Shujo Retreat| Отступление Сюдзё
-Town_06_rm|Dawn's Chapel| Часовня рассвета
-Town_07_rm|Astral Encampment| Астральный лагерь
+Town_01_rm|Town of Inoya|Город Инойя
+Town_02_rm|Danethorpe|Дэнеторп
+Town_03_rm|Village of Mos'Arathim|Деревня Мос'Аратим
+Town_04_rm|Dhorn Farum|Дорн Фарум
+Town_05_rm|Shujo Retreat|Убежище Сюдзё
+Town_06_rm|Dawn's Chapel|Часовня Рассвета
+Town_07_rm|Astral Encampment|Астральный лагерь
 ||
-Uber_Inoya_rm|Fallen Inoya| Падший Иноя
-Sheep_rm|Sheeponia| Овепония
-PVP_Arena_1_rm|Battlefield| Поле битвы
-Anniversary_rm|Old Tarethiel| Старый Таретиэль
-Player_Hideout_rm|Player Hideout| Убежище игрока
-The_Labyrinth_01_rm|The Labyrinth| Лабиринт
-The_Labyrinth_02_rm|The Labyrinth| Лабиринт
-Circle_of_Hatred_rm|The Circle of Hatred| Круг Ненависти
-Fortune_Teller_rm|World´s Edge| Край света
-Tomb_of_Amun_Ra_02_rm|Tomb of Amun Ra| Гробница Амона Ра
-Black_Tower_01_rm|Black Tower| Черная Башня
-Rat_Den_01_rm|Rat Den| Крысиное логово
-Frozen_Cellar_01_rm|Frozen Cellar Level 1| Замороженный погреб, уровень 1
-Frozen_Cellar_02_rm|Frozen Cellar Level 2| Замороженный погреб, уровень 2
-Pumpkin_Cellar_01_rm|Pumpkin Cellar| Тыквенный погреб
-Abandoned_Mine_01_rm|Abandoned Mine| Заброшенная шахта
-Old_Copper_Mine_01_rm|Old Copper Mine| Старый медный рудник
-Forgotten_City_01_rm|Forgotten City Level 1| Забытый Город Уровень 1
-Forgotten_City_02_rm|Forgotten City Level 2| Забытый Город Уровень 2
-Ancient_City_01_rm|Ancient City Level 1| Древний город, уровень 1
-Ancient_City_02_rm|Ancient City Level 2| Древний город, уровень 2
-Ancient_City_03_rm|Ancient City Level 3| Древний город, уровень 3
-Sand_Cave_01_rm|Sand Cave| Песчаная пещера
-Cauflax_Tomb_01_rm|Cauflax Tomb Level 1| Гробница Кауфлакс, уровень 1
-Cauflax_Tomb_02_rm|Cauflax Tomb Level 2| Гробница Кауфлакс, уровень 2
-Cauflax_Tomb_03_rm|Cauflax Tomb Level 3| Гробница Кауфлакс, уровень 3
-Devils_Hole_01_rm|Devil's Hole| Дьявольская дыра
-Fuji_Crater_01_rm|Fuji Crater Level 1| Кратер Фудзи, уровень 1
-Fuji_Crater_02_rm|Fuji Crater Level 2| Кратер Фудзи, уровень 2
-Kaojin_Temple_01_rm|Kaojin Temple 1| Храм Каодзин 1
-Kaojin_Temple_02_rm|Kaojin Temple 2| Храм Каодзин 2
-Underground_Garden_01_rm|Underground Garden| Подземный Сад
-Temple_Trapdoor_01_rm|Temple Trapdoor 1| Храмовый люк 1
-Temple_Trapdoor_02_rm|Temple Trapdoor 2| Храмовый люк 2
-Unmarked_Grave_01_rm|Unmarked Grave| Безымянная могила
-Distorted_Horizons_01_rm|Distorted Horizon 1| Искаженный горизонт 1
-Distorted_Horizons_02_rm|Distorted Horizon 2| Искаженный горизонт 2
-Distorted_Horizons_03_rm|Distorted Horizon 3| Искаженный горизонт 3
-Arm_Storage_01_rm|Arm Storage| Хранилище оружия
-Arm_Storage_Easter_egg_rm|Hidden Storage Cabinet| Скрытый шкаф для хранения
-Niflhel_01_rm|Niflhel| Нифльхель
-Muspelheim_01_rm|Muspelheim| Муспельхейм
-Naga_Temple_01_rm|Naga Temple 1| Храм Нага 1
-Naga_Temple_02_rm|Naga Temple 2| Храм Нага 2
-Gladsheim_Halls_01_rm|Gladsheim Halls 1| Гладсхайм Холлс 1
-Gladsheim_Halls_02_rm|Gladsheim Halls 2| Гладсхайм Холлс 2
-Bifrost_rm|Bifröst| Бифрост
-Vanaheim_rm|Vanaheim| Ванахейм
-Asgard_rm|Asgard| Асгард
-Niflheim_rm|Niflheim| Нифльхейм
-Mists_Of_Chaos_rm|Mists of Chaos| Туманы Хаоса
-xmas_dungeon_1_rm|North Pole| Северный полюс
-xmas_dungeon_2_rm|Santa's Hut| Хижина Санты
-Rift_Void_rm|[redacted]| [отредактировано]
-Rift_Treasure_rm|Rift of Fortune| Трещина в судьбе
-Old_Copper_Mine_1_rm|Old Copper Mine| Старый медный рудник
-Angelic_Realm_rm|Angelic Realm| Ангельское Царство
-Ruby_Gardens_rm|Ruby Gardens| Рубиновые сады
-Shadow_Realm_rm|Shadow Realm| Царство теней
-Shadow_Boss_rm|Reaper's Breach| Нарушение Жнеца
-crypt|Ancient Crypt| Древний склеп
-wormhole|Wormhole| Червоточина
-dungeon|Dungeon| Подземелье
-unstable_rift|Unstable Rift| Нестабильный Разлом
-Arch_Demons_Plateau_rm|Arch Demon’s Plateau| Плато Архидемона
-Cabin_01_rm|s Cabin| Хижина
-Orres_Lair_rm|Örre's Lair| Логово Эрре
-Hero_Editor_rm|Hero Editor| Редактор Героев
+Uber_Inoya_rm|Fallen Inoya|Падшая Инойя
+Sheep_rm|Sheeponia|Овепония
+PVP_Arena_1_rm|Battlefield|Поле битвы
+Anniversary_rm|Old Tarethiel|Старый Таретиэль
+Player_Hideout_rm|Player Hideout|Убежище игрока
+The_Labyrinth_01_rm|The Labyrinth|Лабиринт
+The_Labyrinth_02_rm|The Labyrinth|Лабиринт
+Circle_of_Hatred_rm|The Circle of Hatred|Круг Ненависти
+Fortune_Teller_rm|World´s Edge|Край света
+Tomb_of_Amun_Ra_02_rm|Tomb of Amun Ra|Гробница Амон-Ра
+Black_Tower_01_rm|Black Tower|Черная Башня
+Rat_Den_01_rm|Rat Den|Крысиное логово
+Frozen_Cellar_01_rm|Frozen Cellar Level 1|Ледяной погреб: Уровень 1
+Frozen_Cellar_02_rm|Frozen Cellar Level 2|Ледяной погреб: Уровень 2
+Pumpkin_Cellar_01_rm|Pumpkin Cellar|Тыквенный погреб
+Abandoned_Mine_01_rm|Abandoned Mine|Заброшенная шахта
+Old_Copper_Mine_01_rm|Old Copper Mine|Старая медная шахта
+Forgotten_City_01_rm|Forgotten City Level 1|Забытый город: Уровень 1
+Forgotten_City_02_rm|Forgotten City Level 2|Забытый город: Уровень 2
+Ancient_City_01_rm|Ancient City Level 1|Древний город: Уровень 1
+Ancient_City_02_rm|Ancient City Level 2|Древний город: Уровень 2
+Ancient_City_03_rm|Ancient City Level 3|Древний город: Уровень 3
+Sand_Cave_01_rm|Sand Cave|Песчаная пещера
+Cauflax_Tomb_01_rm|Cauflax Tomb Level 1|Гробница Кофлакса: Уровень 1
+Cauflax_Tomb_02_rm|Cauflax Tomb Level 2|Гробница Кофлакса: Уровень 2
+Cauflax_Tomb_03_rm|Cauflax Tomb Level 3|Гробница Кофлакса: Уровень 3
+Devils_Hole_01_rm|Devil's Hole|Дьявольская дыра
+Fuji_Crater_01_rm|Fuji Crater Level 1|Кратер Фудзи: Уровень 1
+Fuji_Crater_02_rm|Fuji Crater Level 2|Кратер Фудзи: Уровень 2
+Kaojin_Temple_01_rm|Kaojin Temple 1|Храм Каодзин 1
+Kaojin_Temple_02_rm|Kaojin Temple 2|Храм Каодзин 2
+Underground_Garden_01_rm|Underground Garden|Подземный сад
+Temple_Trapdoor_01_rm|Temple Trapdoor 1|Храмовый люк 1
+Temple_Trapdoor_02_rm|Temple Trapdoor 2|Храмовый люк 2
+Unmarked_Grave_01_rm|Unmarked Grave|Безымянная могила
+Distorted_Horizons_01_rm|Distorted Horizon 1|Искаженный горизонт 1
+Distorted_Horizons_02_rm|Distorted Horizon 2|Искаженный горизонт 2
+Distorted_Horizons_03_rm|Distorted Horizon 3|Искаженный горизонт 3
+Arm_Storage_01_rm|Arm Storage|Оружейный склад
+Arm_Storage_Easter_egg_rm|Hidden Storage Cabinet|Скрытая кладовая
+Niflhel_01_rm|Niflhel|Нифльхель
+Muspelheim_01_rm|Muspelheim|Муспельхейм
+Naga_Temple_01_rm|Naga Temple 1|Храм Нага 1
+Naga_Temple_02_rm|Naga Temple 2|Храм Нага 2
+Gladsheim_Halls_01_rm|Gladsheim Halls 1|Чертоги Гладсхейма 1
+Gladsheim_Halls_02_rm|Gladsheim Halls 2|Чертоги Гладсхейма 2
+Bifrost_rm|Bifröst|Биврёст
+Vanaheim_rm|Vanaheim|Ванахейм
+Asgard_rm|Asgard|Асгард
+Niflheim_rm|Niflheim|Нифльхейм
+Mists_Of_Chaos_rm|Mists of Chaos|Туманы Хаоса
+xmas_dungeon_1_rm|North Pole|Северный полюс
+xmas_dungeon_2_rm|Santa's Hut|Хижина Санты
+Rift_Void_rm|[redacted]|[секретно]
+Rift_Treasure_rm|Rift of Fortune|Разлом Удачи
+Old_Copper_Mine_1_rm|Old Copper Mine|Старая медная шахта
+Angelic_Realm_rm|Angelic Realm|Ангельское царство
+Ruby_Gardens_rm|Ruby Gardens|Рубиновые сады
+Shadow_Realm_rm|Shadow Realm|Теневое царство
+Shadow_Boss_rm|Reaper's Breach|Разлом Жнеца
+crypt|Ancient Crypt|Древний склеп
+wormhole|Wormhole|Червоточина
+dungeon|Dungeon|Подземелье
+unstable_rift|Unstable Rift|Нестабильный разлом
+Arch_Demons_Plateau_rm|Arch Demon’s Plateau|Плато Архидемона
+Cabin_01_rm|s Cabin|Хижина
+Orres_Lair_rm|Örre's Lair|Логово Эрре
+Hero_Editor_rm|Hero Editor|Редактор героя
 ||
 [Chaos Tower]||
-Chaos_Tower_xLobby|Tower Lobby| Вестибюль башни
-Chaos_Tower_Boss_1|Ancient Colosseum| Древний Колизей
-chaos_tower_enter|Chaos Tower| Башня Хаоса
-next_floor|Next Floor| Следующий этаж
-Chaos_Tower_Zone_01|Burning Village| Горящая деревня
-Chaos_Tower_Zone_02|Glacial Tundra| Ледниковая тундра
-Chaos_Tower_Zone_03|Scorching Desert| Палящая пустыня
-Chaos_Tower_Zone_04|Tomb of Abyss| Гробница Бездны
-Chaos_Tower_Zone_05|Miner’s Cave| Пещера шахтера
-Chaos_Tower_Zone_06|Arreat Summit| Арреат Саммит
-Chaos_Tower_Zone_07|Grave Site| Место захоронения
-Chaos_Tower_Zone_08|PAS Office| Офис PAS
-Chaos_Tower_Zone_09|Penguin Village| Деревня пингвинов
-Chaos_Tower_Zone_10|Delirium| Бред
-Chaos_Tower_Zone_11|Ashen Plains| Эшен Плейнс
-Chaos_Tower_Zone_12|Chappel of Demons| Часовня Демонов
-Chaos_Tower_Zone_13|Hellfire Chasm| Пропасть Адского Пламени
-Chaos_Tower_Zone_14|Deepholm Caves| Пещеры Дипхолма
-Chaos_Tower_Zone_15|Eastern Front| Восточный фронт
-Chaos_Tower_Zone_16|Between Time and Space| Между временем и пространством
-Chaos_Tower_Zone_17|Too Much…| Слишком…
-Chaos_Tower_Zone_18|Rich Node Village| Деревня богатых узлов
-Chaos_Tower_Zone_19|In the Abyss| В Бездне
-Chaos_Tower_Zone_20|Fetish Forest| Фетиш-Форест
-Chaos_Tower_Zone_21|Race Track| Гоночная трасса
-Chaos_Tower_Zone_22|Construction Yard| Строительная площадка
-Chaos_Tower_Zone_23|Sky Fort| Небесный Форт
-Chaos_Tower_Zone_24|Tarethiel Disc Golf Park| Парк для диск-гольфа Tarethiel
-Chaos_Tower_Zone_25|Heavens| Небеса
-Chaos_Tower_Zone_26|Wetlands| Водно-болотные угодья
-Chaos_Tower_Zone_27|Castle Cemetary| Кладбище замка
-Chaos_Tower_Zone_28|Pumpkin Fields| Тыквенные поля
-Chaos_Tower_Zone_29|Misty Garden| Туманный сад
-Chaos_Tower_Zone_30|Catacomb Barracks| Катакомбы казарм
+Chaos_Tower_xLobby|Tower Lobby|Холл башни
+Chaos_Tower_Boss_1|Ancient Colosseum|Древний Колизей
+chaos_tower_enter|Chaos Tower|Башня Хаоса
+next_floor|Next Floor|Следующий этаж
+Chaos_Tower_Zone_01|Burning Village|Пылающая деревня
+Chaos_Tower_Zone_02|Glacial Tundra|Ледниковая тундра
+Chaos_Tower_Zone_03|Scorching Desert|Палящая пустыня
+Chaos_Tower_Zone_04|Tomb of Abyss|Гробница Бездны
+Chaos_Tower_Zone_05|Miner’s Cave|Пещера шахтера
+Chaos_Tower_Zone_06|Arreat Summit|Пик Арреат
+Chaos_Tower_Zone_07|Grave Site|Захоронение
+Chaos_Tower_Zone_08|PAS Office|Офис PAS
+Chaos_Tower_Zone_09|Penguin Village|Деревня пингвинов
+Chaos_Tower_Zone_10|Delirium|Делирий
+Chaos_Tower_Zone_11|Ashen Plains|Пепельные равнины
+Chaos_Tower_Zone_12|Chappel of Demons|Часовня демонов
+Chaos_Tower_Zone_13|Hellfire Chasm|Пропасть Адского пламени
+Chaos_Tower_Zone_14|Deepholm Caves|Пещеры Дипхольма
+Chaos_Tower_Zone_15|Eastern Front|Восточный фронт
+Chaos_Tower_Zone_16|Between Time and Space|Между временем и пространством
+Chaos_Tower_Zone_17|Too Much…|Перебор…
+Chaos_Tower_Zone_18|Rich Node Village|Деревня изобилия
+Chaos_Tower_Zone_19|In the Abyss|В Бездне
+Chaos_Tower_Zone_20|Fetish Forest|Лес фетишей
+Chaos_Tower_Zone_21|Race Track|Гоночная трасса
+Chaos_Tower_Zone_22|Construction Yard|Стройплощадка
+Chaos_Tower_Zone_23|Sky Fort|Небесный форт
+Chaos_Tower_Zone_24|Tarethiel Disc Golf Park|Диск-гольф парк Таретиэля
+Chaos_Tower_Zone_25|Heavens|Небеса
+Chaos_Tower_Zone_26|Wetlands|Болота
+Chaos_Tower_Zone_27|Castle Cemetary|Замковое кладбище
+Chaos_Tower_Zone_28|Pumpkin Fields|Тыквенные поля
+Chaos_Tower_Zone_29|Misty Garden|Туманный сад
+Chaos_Tower_Zone_30|Catacomb Barracks|Катакомбы казарм
 ||
-Fields_Boss_rm|Eternal Battlefield| Вечное Поле Битвы
+Fields_Boss_rm|Eternal Battlefield|Вечное поле битвы
 ||
 [Wormholes]||
-Wormhole_01_rm|Chappel Catacomb’s Wormhole| Червоточина катакомб Шаппеля
-Wormhole_02_rm|Valley of Cauflax Wormhole| Червоточина Долины Кауфлакс
-Wormhole_03_rm|Great Marsh Wormhole| Великая болотная червоточина
-Wormhole_04_rm|Sky’s Reach Wormhole| Червоточина Скай Рич
-Wormhole_05_rm|Fallen Realm Wormhole| Червоточина Падшего Царства
-Wormhole_06_rm|The Witch Bog| Ведьмино болото
+Wormhole_01_rm|Chappel Catacomb’s Wormhole|Червоточина Катакомб Часовни
+Wormhole_02_rm|Valley of Cauflax Wormhole|Червоточина Долины Кофлакса
+Wormhole_03_rm|Great Marsh Wormhole|Червоточина Великой Топи
+Wormhole_04_rm|Sky’s Reach Wormhole|Червоточина Небесного Предела
+Wormhole_05_rm|Fallen Realm Wormhole|Червоточина Падшего царства
+Wormhole_06_rm|The Witch Bog|Ведьмино болото
 ||
 ||
 ||
