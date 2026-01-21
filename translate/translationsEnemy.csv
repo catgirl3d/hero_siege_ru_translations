@@ -19,7 +19,7 @@ e_skeleton_mage_2|Unholy Priest|Нечестивый жрец
 e_skeleton_mage_3|Satanic Pagan|Сатанинский язычник
 e_skeleton_mage_fire_1|Burning Mage|Пылающий маг
 e_skeleton_mage_fire_2|Flame Wizard|Чародей пламени
-e_skeleton_mage_fire_3|Infernal Mystic|Адский мистик
+e_skeleton_mage_fire_3|Infernal Mystic|Инфернальный мистик
 e_skeleton_mage_frost_1|Frost Mage|Ледяной маг
 e_skeleton_mage_frost_2|Chilling Occultist|Леденящий оккультист
 e_skeleton_mage_frost_3|Permafrozen Pagan|Вечномерзлый язычник
@@ -33,7 +33,7 @@ e_scarecrow_2|Scarecrow|Пугало
 e_scarecrow_3|Undead Harvester|Восставший жнец
 e_pumpkinMage_1|Pumpkin Wraith|Тыквенный призрак
 e_pumpkinMage_2|Pumpkin Wraith|Тыквенный призрак
-e_pumpkinMage_3|Hallowing Pumpkin|Священная тыква
+e_pumpkinMage_3|Hallowing Pumpkin|Освященная тыква
 e_maggot_1|Blood Maggot|Кровавый опарыш
 e_maggot_2|Corpse Maggot|Трупный опарыш
 e_maggot_3|Devouring Worm|Пожирающий червь
@@ -251,9 +251,9 @@ e_armored_knight_3|Legion Officer|Офицер легиона
 e_prison_guard_1|Prison Guard|Тюремный охранник
 e_prison_guard_2|Jail Officer|Тюремный надзиратель
 e_prison_guard_3|Dungeon Marauder|Мародер подземелий
-e_triangle_1|Triangle Charger|Треугольный штурмовик
+e_triangle_1|Triangle Charger|Треугольный таран
 e_triangle_2|Champion Triangle|Треугольник-воитель
-e_triangle_3|Monstrous Triangle|Чудовищный треугольник
+e_triangle_3|Monstrous Triangle|Исполинский треугольник
 e_propeller_1|Propeller|Пропеллер
 e_propeller_2|Flying Shape|Летающая фигура
 e_propeller_3|Abnormal Geocube|Аномальный геокуб
@@ -298,7 +298,6 @@ e_naga_archer_2|Reptilian Bowman|Ящер-лучник
 e_naga_archer_3|Slither Marksman|Ползучий стрелок
 e_colossalGolem_1|Ancient Golem|Древний голем
 e_colossalSkeleton_1|Ancient Skeleton|Древний скелет
-
 e_colossalSpider_1|Ancient Spider|Древний паук
 e_colossalZombie_1|Ancient Zombie|Древний зомби
 e_orc_warrior_1|Orc Warrior|Орк-воин
@@ -315,12 +314,12 @@ e_alien_ranged_2|Vector Marksman|Векторный стрелок
 e_alien_ranged_3|Triggershot|Застрельщик
 e_alien_devourer_1|Unknown Beast|Неведомый зверь
 e_alien_devourer_2|Fatal Experiment|Роковой эксперимент
-e_alien_devourer_3|Spectral Malfunction|Спектральный разлад
+e_alien_devourer_3|Spectral Malfunction|Призрачное искажение
 e_skeletal_trooper_1|Skeletal Trooper|Скелет-пехотинец
 e_skeletal_trooper_2|Bone Commander|Костяной командир
 e_skeletal_trooper_3|Skeletal Warlord|Скелет-военачальник
 e_skeletal_marksman_1|Skeletal Marksman|Скелет-стрелок
-e_skeletal_marksman_2|Guerilla Ambusher|Скрытный засадник
+e_skeletal_marksman_2|Guerilla Ambusher|Партизан-засадник
 e_skeletal_marksman_3|Bone Maker|Творец костей
 e_grave_ghoul_1|Grave Ghoul|Могильный упырь
 e_grave_ghoul_2|Lurking Horror|Затаившийся ужас
@@ -330,9 +329,9 @@ e_essence_of_agony_2|Agonizing Anomaly|Мучительная аномалия
 e_essence_of_agony_3|Burdened Agony|Бремя агонии
 e_disturbed_spirit_1|Disturbed Soul|Потревоженная душа
 e_disturbed_spirit_2|Distorted Anima|Искаженная анима
-e_disturbed_spirit_3|Fractured Ego|Расколотый разум
+e_disturbed_spirit_3|Fractured Ego|Осколок сознания
 e_chilling_marksman_1|Chilling Marksman|Леденящий стрелок
-e_chilling_marksman_2|Frosted Sharpshooter|Инейный стрелок
+e_chilling_marksman_2|Frosted Sharpshooter|Морозный стрелок
 e_chilling_marksman_3|White Death|Белая смерть
 e_ogre_warrior_1|Ogre Warrior|Огр-воин
 e_ogre_warrior_2|Ogre Champion|Огр-воитель
@@ -344,12 +343,12 @@ e_unholy_monstrosity_1|Unholy Monstrosity|Нечестивое чудовище
 e_unholy_monstrosity_2|Malevolent Anomaly|Зловещая аномалия
 e_unholy_monstrosity_3|Satanic Mutation|Сатанинская мутация
 e_crypt_skeleton_1|Fallen Trooper|Павший пехотинец
-e_crypt_skeleton_2|Moldy Champion|Заплесневелый воитель
+e_crypt_skeleton_2|Moldy Champion|Покрытый плесенью воитель
 e_crypt_skeleton_3|Fallen Legion|Павший легионер
 e_crypt_archer_1|Fallen Archer|Павший лучник
 e_crypt_archer_2|Moldy Legion|Заплесневелый легионер
 e_crypt_archer_3|Decaying Marksman|Разлагающийся стрелок
-e_crypt_doll_1|Crypt Doll|Кукла из склепа
+e_crypt_doll_1|Crypt Doll|Склепная кукла
 e_crypt_doll_2|Devil Child|Дьявольское дитя
 e_crypt_doll_3|Demon's Offspring|Демоническое отродье
 e_scavenger_1|Cave Scavenger|Пещерный падальщик
@@ -365,7 +364,7 @@ e_royal_skeleton_1|Skeleton Knight|Скелет-рыцарь
 e_royal_skeleton_2|Royal Guard|Королевский гвардеец
 e_royal_skeleton_3|Undead Commander|Командир нежити
 e_legion_skeleton_1|Skeletal Legion|Скелет-легионер
-e_legion_skeleton_2|Rattling Bonelord|Гремящий владыка костей
+e_legion_skeleton_2|Rattling Bonelord|Костяной владыка
 e_legion_skeleton_3|Hulking Skullster|Массивный череполом
 e_royal_archer_1|Rattling Archer|Гремящий лучник
 e_royal_archer_2|Royal Arrowskull|Королевский стрелоглав
@@ -380,8 +379,8 @@ e_lurkingShadow_1|Lurking Shadow|Притаившаяся тень
 e_lurkingShadow_2|Eclipse Assassin|Убийца затмения
 e_lurkingShadow_3|Shade of Eternal Night|Тень вечной ночи
 e_maskOfTerror_1|Mask of Terror|Маска ужаса
-e_maskOfTerror_2|Visage of the Damned|Облик проклятого
-e_maskOfTerror_3|Cursed Veil of Torment|Проклятая вуаль мучений
+e_maskOfTerror_2|Visage of the Damned|Лик проклятого
+e_maskOfTerror_3|Cursed Veil of Torment|Проклятый покров мучений
 e_shadowLegion_1|Shadow Legion|Теневой легион
 e_shadowLegion_2|Dreadlord of Shadows|Повелитель ужаса теней
 e_shadowLegion_3|Souldbound Shade|Скованная тень
@@ -405,7 +404,7 @@ e_fearsEmbodiment_2|Faces of Destruction|Лики разрушения
 e_fearsEmbodiment_3|Doomsday Prophecy|Пророчество о конце света
 e_paganPreacher_1|Pagan Preacher|Языческий проповедник
 e_paganPreacher_2|Exalted Priest|Возвышенный жрец
-e_paganPreacher_3|Fallen Saint|Падший святой
+e_paganPreacher_3|Fallen Saint|Падший праведник
 e_sacrilegiousLegion_1|Sacrilegious Legion|Святотатственный легион
 e_sacrilegiousLegion_2|Keeper of Blasphemy|Хранитель скверны
 e_sacrilegiousLegion_3|Brimstone Commander|Командир преисподней
@@ -419,7 +418,7 @@ e_corruptedArcher_1|Corrupted Archer|Оскверненный лучник
 e_corruptedArcher_2|Freljord Marksman|Стрелок Фрельйорда
 e_corruptedArcher_3|Frostbitten Sharpshooter|Обмороженный стрелок
 e_tribalDoll_1|Tribal Doll|Племенная кукла
-e_tribalDoll_2|Voodoo Lurker|Скрытный вудуист
+e_tribalDoll_2|Voodoo Lurker|Скрытень вуду
 e_tribalDoll_3|Tikitaki|Тикитаки
 e_harpy_1|Harpy|Гарпия
 e_harpy_2|Wind Gusher|Ветрокрылая
@@ -440,7 +439,7 @@ e_valhallaWraith_1|Wraith|Призрак
 e_valhallaWraith_2|Helheim Corruptor|Осквернитель Хельхейма
 e_valhallaWraith_3|Soulfeaster|Душеед
 e_bogMushroom_1|Shroomer|Грибень
-e_bogMushroom_2|Big Cap|Боровик
+e_bogMushroom_2|Big Cap|Крепкошляп
 e_bogMushroom_3|Colossal Shroom|Колоссальный гриб
 e_cursedElf_1|Cursed Elf|Проклятый эльф
 e_cursedElf_2|Possessed Elf|Одержимый эльф
@@ -450,17 +449,17 @@ e_bogNagaWarrior_2|Bogplain Reptile|Топяная рептилия
 e_bogNagaWarrior_3|Molding Slither|Плесневелый ползун
 e_bogParasect_1|Shrub Parasite|Кустарниковый паразит
 e_bogParasect_2|Toxicating Anomaly|Отравляющая аномалия
-e_bogParasect_3|Leeching Monstrosity|Пиявчатая мерзость
+e_bogParasect_3|Leeching Monstrosity|Мерзость-кровопийца
 e_bellCrawler_1|Bell Crawler|Ползучий колокол
 e_bellCrawler_2|Timefueled Crab|Хронокраб
 e_bellCrawler_3|Timelost Lobster|Вневременной омар
 e_fallenLegion_1|Fallen Legion|Павший легион
 e_fallenLegion_2|Commander of Time|Повелитель времени
 e_fallenLegion_3|Void General|Генерал Пустоты
-e_fallenMage_1|Tickering Magi|Часовой маг
+e_fallenMage_1|Tickering Magi|Хрономаг
 e_fallenMage_2|Timeless Mystic|Вневременной мистик
 e_fallenMage_3|Horizon Seeker|Искатель горизонта
-e_abyssalHatredCultist_1|Abyssal Hatred Cultist|Культист Бездны Ненависти
+e_abyssalHatredCultist_1|Abyssal Hatred Cultist|Культист Бездны ненависти
 e_abyssalHatredCultist_2|Malevolent Zealot|Злобный фанатик
 e_abyssalHatredCultist_3|High Cultist of the Abyss|Верховный культист Бездны
 e_hatredcladRattlebone_1|Hatredclad Rattlebone Warrior|Воин гремучей кости
@@ -493,7 +492,7 @@ e_amShaegar_1|Amshaegar|Ам-Шаэгар
 e_damienChain_1|Soul Chain|Цепь душ
 e_yoshiMiyamoto_1|Yoshi Miyamoto|Ёси Миямото
 e_scorchwood_1|Scorchwood|Выжженная древесина
-e_fragrat_1|Fragrat|Крыса-подрывник
+e_fragrat_1|Fragrat|Осколочная крыса
 e_evil_pumpkin_1|Malformed Pumpkin|Уродливая тыква
 e_collector_of_bones_1|Collector of Bones|Собиратель костей
 e_crusher_1|Crusher|Крушитель
@@ -533,7 +532,7 @@ e_satanLeftHand_1|Satan's Left Hand|Левая рука Сатаны
 e_satanRightHand_1|Satan's Right Hand|Правая рука Сатаны
 e_damienHead_1|Damien's Head|Голова Дэмиена
 e_damiensMask_1|Damien’s Mirror|Зеркало Дэмиена
-e_blackPlague_1|Black Plague|Черная чума
+e_blackPlague_1|Black Plague|Черный мор
 e_roninMarksman_1|Ronin Marksman|Ронин-стрелок
 e_karpSpawn_1|Karpspawn|Отродье Карпа
 e_bloodSeeker_1|Bloodseeker|Искатель крови
@@ -663,7 +662,7 @@ spell_jadeStoneGazer_1|Stone Guards|Каменные стражи
 spell_jadeStoneGazer_2|Deadly Gaze|Смертоносный взгляд
 spell_puppetQueen_0|Rain of Judgement|Дождь правосудия
 spell_puppetQueen_1|Time of Reckoning|Час расплаты
-spell_puppetQueen_2|Showtime|Время шоу
+spell_puppetQueen_2|Showtime|Выход на сцену
 spell_redBeard_0|Anchor Strike|Удар якорем
 spell_redBeard_1|Bomb Barrage|Бомбовый залп
 spell_redBeard_2|Shiver Me Timbers|Дрожь шпангоутов
