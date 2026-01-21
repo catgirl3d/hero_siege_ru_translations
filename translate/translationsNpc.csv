@@ -1,7 +1,5 @@
 [npc]|en|ru
 ||
-wooden_sign|Wooden Sign|Деревянная табличка
-||
 wooden_sign|Wooden Sign|Деревянный знак
 ||
 tutorial_0001|You can open the Stat & Skill screen by pressing ”[input_talents]” to assign Attribute and Skill Points. You also have 12 additional skill binds on top of the left and right click. [tutorial_bind_skill] You can also change these binds from the options! Good luck hero!|Вы можете открыть экран характеристик и умений, нажав «[input_talents]», чтобы распределить очки. У вас есть 12 дополнительных ячеек умений помимо левой и правой кнопки мыши. [tutorial_bind_skill] Назначение клавиш можно изменить в настройках! Удачи тебе, герой!
@@ -14,10 +12,8 @@ tutorial_0004|Jump by pressing ”[input_jump]”, your character will land on t
 tutorial_0004_end|Well done!|Отлично!
 tutorial_0005|Scorchwood is a menace to our town. The corrupted ent is located north east from here, go make some firewood out of that beast!|Скорчвуд — угроза нашему городу. Оскверненный энт находится на северо-востоке отсюда. Ступай и пусти это чудовище на дрова!
 tutorial_0005_end|Finally! Thank you stranger!|Свершилось! Благодарю тебя, незнакомец!
-||
 tutorial_0001_keyboard|In order to bind a skill, click on the right button skill slot, hover a skill you want to bind and press the skill button bind it.|Чтобы привязать умение, нажмите на слот правой кнопки мыши, наведите курсор на нужное умение и нажмите клавишу, которую хотите назначить.
 tutorial_0001_gamepad|In order to bind a skill, press [input_skill_bind], select a skill slot you want to bind and press the skill button bind it.|Чтобы привязать умение, нажмите [input_skill_bind], выберите слот и нажмите кнопку умения для привязки.
-||
 ||
 heimdall0|Welcome to Bifröst! Choose your destination wisely..|Добро пожаловать в Биврёст! Выбирай пункт назначения с умом...
 heimdall1|May the allfather be by your side!|Да пребудет с тобой Всеотец!
@@ -141,7 +137,7 @@ dialog_hellFallenInoya|WANTED: Damien. Collect parts from Act I-VI bosses, craft
 dialog_hellFallenInoya_end|That one was a nightmare wasnt it? Here is your reward noble hero!|Это был настоящий кошмар, не так ли? Вот твоя награда, благородный герой!
 dialog_hellCodex|Find a codex of eternity, use it and clear its undead infested zone!|Найдите Кодекс Вечности, используйте его и зачистите зону от нежити!
 dialog_hellCodex_end|Fine purging hero! Here is your well earned reward!|Отличная зачистка, герой! Вот твоя заслуженная награда!
-|| Я должен собрать камешки.
+||
 ct_penguin_1|Oh, you found me! Wait, I can TALK!?|О, ты нашел меня! Погоди, я умею ГОВОРИТЬ?!
 ct_penguin_2|I must collect pebbles, I have no time for chit-chat!|Мне нужно собирать камешки, нет времени на болтовню!
 ct_penguin_3|Kraah|Краах

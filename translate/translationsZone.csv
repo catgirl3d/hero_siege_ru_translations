@@ -2,7 +2,7 @@
 Act_01_Pregame|River of Inoya|Река Инойя
 Act_01_01|Outskirts of Inoya|Окрестности Инойи
 Act_01_02|Fields of Battle|Поля битвы
-Act_01_03|The Pumpkin Patch|Тыквенная грядка
+Act_01_03|The Pumpkin Patch|Тыквенное поле
 Act_01_04|Woodhill Plains|Равнины Вудхилл
 Act_01_04_02|Village of Lamia|Деревня Ламия
 Act_01_05|King's Garden|Королевский сад
@@ -17,7 +17,7 @@ Act_03_02|Dry Hills|Сухие холмы
 Act_03_03|Mos'Arathim Desert|Пустыня Мос'Аратим
 Act_03_04|Pyramid Level 1|Пирамида: Уровень 1
 Act_03_05|Pyramid Level 2|Пирамида: Уровень 2
-Act_03_06|Curacan Hollow|Лощина Куракан
+Act_03_06|Curacan Hollow|Лощина Куракана
 Act_04_01|Old Mining Village|Старая шахтерская деревня
 Act_04_02|The Highland Mines|Шахты Высокогорья
 Act_04_03|Corrupted Cave|Оскверненная пещера
@@ -31,7 +31,7 @@ Act_05_05|Temple of Zamjo|Храм Замджо
 Act_06_01|Highland Graveyard|Кладбище Высокогорья
 Act_06_02|The Cathedral|Собор
 Act_06_03|Prison Dungeon|Тюремное подземелье
-Act_06_04|Steam Train|Паровоз
+Act_06_04|Steam Train|Паровой состав
 Act_06_05|The Depths of Hell|Глубины Ада
 Act_07_01|Deep Space|Открытый космос
 Act_07_02|Event Horizon|Горизонт событий
@@ -43,7 +43,7 @@ Act_08_02|Flooded Plains|Затопленные равнины
 Act_08_03|Forgotten Caves|Забытые пещеры
 Act_08_04|Camp of Souls|Лагерь душ
 Act_08_05|Helheim|Хельхейм
-Act_08_Valkyrie|Plains of Ida|Равнины Ида
+Act_08_Valkyrie|Plains of Ida|Равнины Иды
 Act_08_Valhalla|Gates of Valhalla|Врата Вальхаллы
 Act_08_River|River Gjöll|Река Гьёлль
 Act_08_Mevius_Intro|Memory of Mevius|Воспоминание Мевиуса
@@ -52,7 +52,7 @@ Grindfest_Orres_Lair_rm|Örre's Lair|Логово Эрре
 Act_08_03_TrollQuest_Room_rm|Refugee Camp|Лагерь беженцев
 Act_01_Boss|King's Throne|Трон Короля
 Act_02_Boss|Death’s Breach|Разлом Смерти
-Act_03_Boss|Tomb of the Fallen King|Гробница Падшего короля
+Act_03_Boss|Tomb of the Fallen King|Гробница падшего короля
 Act_04_Boss|Altar of Lost Souls|Алтарь потерянных душ
 Act_05_Boss|Emperor’s Chamber|Покои Императора
 Act_06_Boss|Seventh Layer of Hell|Седьмой круг Ада
@@ -92,7 +92,7 @@ Town_06_rm|Dawn's Chapel|Часовня Рассвета
 Town_07_rm|Astral Encampment|Астральный лагерь
 ||
 Uber_Inoya_rm|Fallen Inoya|Падшая Инойя
-Sheep_rm|Sheeponia|Овепония
+Sheep_rm|Sheeponia|Овцепония
 PVP_Arena_1_rm|Battlefield|Поле битвы
 Anniversary_rm|Old Tarethiel|Старый Таретиэль
 Player_Hideout_rm|Player Hideout|Убежище игрока
@@ -117,7 +117,7 @@ Sand_Cave_01_rm|Sand Cave|Песчаная пещера
 Cauflax_Tomb_01_rm|Cauflax Tomb Level 1|Гробница Кофлакса: Уровень 1
 Cauflax_Tomb_02_rm|Cauflax Tomb Level 2|Гробница Кофлакса: Уровень 2
 Cauflax_Tomb_03_rm|Cauflax Tomb Level 3|Гробница Кофлакса: Уровень 3
-Devils_Hole_01_rm|Devil's Hole|Дьявольская дыра
+Devils_Hole_01_rm|Devil's Hole|Дьявольский провал
 Fuji_Crater_01_rm|Fuji Crater Level 1|Кратер Фудзи: Уровень 1
 Fuji_Crater_02_rm|Fuji Crater Level 2|Кратер Фудзи: Уровень 2
 Kaojin_Temple_01_rm|Kaojin Temple 1|Храм Каодзин 1
@@ -130,11 +130,11 @@ Distorted_Horizons_01_rm|Distorted Horizon 1|Искаженный горизон
 Distorted_Horizons_02_rm|Distorted Horizon 2|Искаженный горизонт 2
 Distorted_Horizons_03_rm|Distorted Horizon 3|Искаженный горизонт 3
 Arm_Storage_01_rm|Arm Storage|Оружейный склад
-Arm_Storage_Easter_egg_rm|Hidden Storage Cabinet|Скрытая кладовая
+Arm_Storage_Easter_egg_rm|Hidden Storage Cabinet|Тайная кладовая
 Niflhel_01_rm|Niflhel|Нифльхель
 Muspelheim_01_rm|Muspelheim|Муспельхейм
-Naga_Temple_01_rm|Naga Temple 1|Храм Нага 1
-Naga_Temple_02_rm|Naga Temple 2|Храм Нага 2
+Naga_Temple_01_rm|Naga Temple 1|Храм Наг 1
+Naga_Temple_02_rm|Naga Temple 2|Храм Наг 2
 Gladsheim_Halls_01_rm|Gladsheim Halls 1|Чертоги Гладсхейма 1
 Gladsheim_Halls_02_rm|Gladsheim Halls 2|Чертоги Гладсхейма 2
 Bifrost_rm|Bifröst|Биврёст
@@ -191,10 +191,10 @@ Chaos_Tower_Zone_23|Sky Fort|Небесный форт
 Chaos_Tower_Zone_24|Tarethiel Disc Golf Park|Диск-гольф парк Таретиэля
 Chaos_Tower_Zone_25|Heavens|Небеса
 Chaos_Tower_Zone_26|Wetlands|Болота
-Chaos_Tower_Zone_27|Castle Cemetary|Замковое кладбище
+Chaos_Tower_Zone_27|Castle Cemetary|Кладбище у замка
 Chaos_Tower_Zone_28|Pumpkin Fields|Тыквенные поля
 Chaos_Tower_Zone_29|Misty Garden|Туманный сад
-Chaos_Tower_Zone_30|Catacomb Barracks|Катакомбы казарм
+Chaos_Tower_Zone_30|Catacomb Barracks|Казарменные катакомбы
 ||
 Fields_Boss_rm|Eternal Battlefield|Вечное поле битвы
 ||
@@ -230,4 +230,4 @@ Wormhole_06_rm|The Witch Bog|Ведьмино болото
 ||
 ||
 ||
-floor|Floor| Пол
+floor|Floor| Этаж

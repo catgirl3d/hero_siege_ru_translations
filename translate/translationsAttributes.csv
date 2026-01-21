@@ -1,46 +1,46 @@
 [Item Stats]|en|ru
 stat_base_damage|Attack Damage|Урон от атаки
 stat_defense|Defense|Защита
-stat_defense_p|Increased Defense|Повышенная защита
+stat_defense_p|Increased Defense|Увеличение защиты
 stat_block_chance|Block Chance|Шанс блока
-stat_all_skills|to All Skills|ко всем навыкам
-stat_increased_speed|Increased Movement Speed|Увеличение скорости движения
-stat_summon_movement_speed|Increased Summon Movement Speed|Увеличенная скорость движения призыва 
-stat_faster_cast_rate|Faster Cast Rate|Скорость каста
+stat_all_skills|to All Skills|ко всем умениям
+stat_increased_speed|Increased Movement Speed|Увеличение скорости передвижения
+stat_summon_movement_speed|Increased Summon Movement Speed|Увеличение скорости движения прислужников
+stat_faster_cast_rate|Faster Cast Rate|к скорости каста
 stat_faster_cast_rate_t|Total Faster Cast Rate|Общая скорость каста
 stat_attack_speed_p|Increased Attack Speed|Увеличение скорости атаки
 stat_attack_speed_t|Total Attack Speed|Общая скорость атаки
-stat_movement_speed_t|Increased Total Movement Speed|Увеличена общая скорость передвижения
-stat_summon_attack_speed|Increased Summon Attack Speed|Повышенная скорость атаки прислужников
+stat_movement_speed_t|Increased Total Movement Speed|Увеличение общей скорости передвижения
+stat_summon_attack_speed|Increased Summon Attack Speed|Увеличение скорости атаки прислужников
 stat_summon_skills|to Summon Skills|к умениям призыва
-stat_summon_damage|Summon Damage Increased by|урон прислужников увеличен на
+stat_summon_damage|Summon Damage Increased by|Урон прислужников увеличен на
 stat_projectileSpeed|to Projectile Speed|к скорости снаряда
 stat_attack_range|Attack Range Increased by|Дальность атаки увеличена на
-stat_cooldown_reduction|Skill Haste Increased by|Скорость восстановления умений увеличена на
-stat_cooldown_reduction_belt|Flask Skill Haste Increased by|Скорость восстановления зелья увеличена на
+stat_cooldown_reduction|Skill Haste Increased by|Ускорение перезарядки умений увеличено на
+stat_cooldown_reduction_belt|Flask Skill Haste Increased by|Ускорение перезарядки флакона увеличено на
 stat_to|to|к
 stat_double_jump|Double Jump|Двойной прыжок
-stat_skill_damage|Magic Skill Damage increased by|Урон от магических навыков увеличен на
+stat_skill_damage|Magic Skill Damage increased by|Урон магических умений увеличен на
 stat_explosion_aoe|Explosion area of effect increased by|Область действия взрыва увеличена на
-stat_block_rating|Increased Chance of Blocking|Повышенный шанс блока
+stat_block_rating|Increased Chance of Blocking|Увеличение шанса блока
 stat_enhanced_damage|Enhanced Damage|Повышенный урон
 stat_enhanced_defense|Enhanced Defense|Улучшенная защита
-stat_critical_rate|Increased Critical Strike Chance|Увеличенный шанс критического удара
+stat_critical_rate|Increased Critical Strike Chance|Увеличение шанса критического удара
 stat_deadly_blow|Chance for a Deadly Blow|Шанс нанести смертельный удар
 stat_deadly_blow_p|Deadly Blow Damage increased by|Урон смертельного удара увеличен на
 stat_crushing_blow|Chance for a Crushing Blow|Шанс сокрушительного удара
 stat_crushing_blow_p|Crushing Blow Armor Break increased by|Пробивание брони сокрушительным ударом увеличено на
-stat_attack_rating_p|Increased Attack Rating|Повышенный рейтинг атаки
+stat_attack_rating_p|Increased Attack Rating|Увеличение рейтинга атаки
 stat_attack_rating|to Attack Rating|к рейтингу атаки
-stat_life_per_hit|Life stolen per Hit|Здоровье за удар
-stat_mana_per_hit|Mana stolen per Hit|Мана за удар
+stat_life_per_hit|Life stolen per Hit|Здоровья похищено за удар
+stat_mana_per_hit|Mana stolen per Hit|Маны похищено за удар
 stat_life_per_second|Life per second|Здоровье в секунду
 stat_mana_per_second|Mana per second|Мана в секунду
-stat_critical_damage|Increased Critical Strike Damage|Повышенный урон критического удара
-stat_target_defense|of target Defense ignored|игнорирование защиты цели
+stat_critical_damage|Increased Critical Strike Damage|Увеличение урона критического удара
+stat_target_defense|of target Defense ignored|игнорирования защиты цели
 stat_open_wounds|Chance to Open Wounds|Шанс вызвать открытые раны
 stat_open_wounds_p|Open Wounds Bleed Damage increased by|Урон от кровотечения открытых ран увеличен на
-stat_piercing|Piercing Attack|Пронзающая атака
+stat_piercing|Piercing Attack|Пронзание
 stat_slow_target|Slows target by|Замедляет цель на
 stat_monsters_rest_in_peace|Monsters rest in peace after death|Монстры покоятся с миром после смерти
 stat_strength|to Strength|к силе
@@ -50,35 +50,35 @@ stat_energy|to Energy|к энергии
 stat_armor|to Armor|к броне
 stat_vitality|to Vitality|к живучести
 stat_strength_p|Increased Strength|Увеличение силы
-stat_armor_p|Increased Armor|Укрепление брони
+stat_armor_p|Increased Armor|Увеличение брони
 stat_intelligence_p|Increased Intelligence|Увеличение интеллекта
 stat_vitality_p|Increased Vitality|Увеличение живучести
 stat_dexterity_p|Increased Dexterity|Увеличение ловкости
 stat_energy_p|Increased Energy|Увеличение энергии
 stat_pointsLeft|Points Left|Осталось очков
 stat_all_stats|to All Attributes|ко всем характеристикам
-stat_all_stats_p|Increased All Attributes|Все характеристики увеличены
+stat_all_stats_p|Increased All Attributes|Увеличение всех характеристик
 stat_physical_damage|to Physical Damage|к физическому урону
 stat_magic_damage|to Additive Arcane Damage|к урону тайной магии
-stat_lightning_damage|to Additive Lightning Damage|к урону молнии
-stat_fire_damage|to Additive Fire Damage|к урону огня
-stat_cold_damage|to Additive Cold Damage|к урону холода
-stat_poison_damage|to Additive Poison Damage|к урону яда
+stat_lightning_damage|to Additive Lightning Damage|к доп. урону молнией
+stat_fire_damage|to Additive Fire Damage|к доп. урону огнем
+stat_cold_damage|to Additive Cold Damage|к доп. урону холодом
+stat_poison_damage|to Additive Poison Damage|к доп. урону ядом
 stat_spell_magic_damage|to Arcane Skill Damage|к урону умений тайной магии
 stat_spell_lightning_damage|to Lightning Skill Damage|к урону умений молнии
 stat_spell_fire_damage|to Fire Skill Damage|к урону умений огня
 stat_spell_cold_damage|to Cold Skill Damage|к урону умений холода
 stat_spell_poison_damage|to Poison Skill Damage|к урону умений яда
 stat_spell_elemental_damage|to Magic Skill Damage|к урону магических умений
-stat_fire_damage_p|Fire Skill Damage increased by|урон умений огня увеличен на
-stat_cold_damage_p|Cold Skill Damage increased by|урон умений холода увеличен на
-stat_magic_damage_p|Arcane Skill Damage increased by|урон умений тайной магии увеличен на
-stat_poison_damage_p|Poison Skill Damage increased by|урон умений яда увеличен на
-stat_lightning_damage_p|Lightning Skill Damage increased by|урон умений молнии увеличен на
-stat_physical_damage_p|Attack Damage increased by|урон от атаки увеличен на
+stat_fire_damage_p|Fire Skill Damage increased by|Урон умений огня увеличен на
+stat_cold_damage_p|Cold Skill Damage increased by|Урон умений холода увеличен на
+stat_magic_damage_p|Arcane Skill Damage increased by|Урон умений тайной магии увеличен на
+stat_poison_damage_p|Poison Skill Damage increased by|Урон умений яда увеличен на
+stat_lightning_damage_p|Lightning Skill Damage increased by|Урон умений молнии увеличен на
+stat_physical_damage_p|Attack Damage increased by|Урон от атаки увеличен на
 stat_projectile_damage_p|Projectile Damage increased by|Урон снарядов увеличен на
 stat_orbital_damage_p|Orbital Damage increased by|Урон орбитальных умений увеличен на
-stat_explosion_damage|Explosion Damage increased by|урон от взрыва увеличен на
+stat_explosion_damage|Explosion Damage increased by|Урон от взрыва увеличен на
 stat_explosion_skills|to Explosion Skills|к умениям взрыва
 stat_cold_skills|to Cold Skills|к умениям холода
 stat_lightning_skills|to Lightning Skills|к умениям молнии
@@ -87,12 +87,12 @@ stat_poison_skills|to Poison Skills|к умениям яда
 stat_magic_skills|to Arcane Skills|к умениям тайной магии
 stat_physical_skills|to Physical Skills|к физическим умениям
 stat_elemental_skills|to Magic Skills|к магическим умениям
-stat_ignore_cold_resist|to Enemy Cold Resistance|к сопротивлению холоду противника
-stat_ignore_fire_resist|to Enemy Fire Resistance|к сопротивлению огню противника
-stat_ignore_poison_resist|to Enemy Poison Resistance|к сопротивлению яду противника
-stat_ignore_lightning_resist|to Enemy Lightning Resistance|к сопротивлению молнии противника
-stat_ignore_magic_resist|to Enemy Arcane Resistance|к сопротивлению тайной магии противника
-stat_ignore_all_resist|to All Enemy Resistances|ко всем сопротивлениям противника
+stat_ignore_cold_resist|to Enemy Cold Resistance|к пробиванию сопротивления холоду врага
+stat_ignore_fire_resist|to Enemy Fire Resistance|к пробиванию сопротивления огню врага
+stat_ignore_poison_resist|to Enemy Poison Resistance|к пробиванию сопротивления яду врага
+stat_ignore_lightning_resist|to Enemy Lightning Resistance|к пробиванию сопротивления молнии врага
+stat_ignore_magic_resist|to Enemy Arcane Resistance|к пробиванию сопротивления тайной магии врага
+stat_ignore_all_resist|to All Enemy Resistances|к пробиванию всех сопротивлений
 stat_jump_power|Increased Jumping Power|Увеличение силы прыжка
 stat_hp_rep|Replenish Life|Восполнение здоровья
 stat_mana_rep|Replenish Mana|Восполнение маны
@@ -104,141 +104,140 @@ stat_hp_kill|Life After each Kill|Здоровье за убийство
 stat_mana_kill|Mana After each Kill|Мана за убийство
 stat_max_hp|Life Increased by|Здоровье увеличено на
 stat_max_mana|Mana Increased by|Мана увеличена на
-stat_light_radius|to Light Radius|к радиусу обзора
-stat_damage_return|of Damage Returned to the Attacker|урона возвращается атакующему
-stat_damage_taken_mana|of Damage Taken Recouped as Mana|полученного урона восполняется в виде маны
-stat_damage_taken_life|of Damage Taken Recouped as Life|полученного урона восполняется в виде здоровья
-stat_damage_reduction|Physical Damage Taken Reduced by|Получаемый физический урон уменьшен на
-stat_magic_damage_reduction|Magic Damage Taken Reduced by|Получаемый магический урон уменьшен на
+stat_light_radius|to Light Radius|к радиусу освещения
+stat_damage_return|of Damage Returned to the Attacker|отражения урона атакующему
+stat_damage_taken_mana|of Damage Taken Recouped as Mana|полученного урона восполняет ману
+stat_damage_taken_life|of Damage Taken Recouped as Life|полученного урона восполняет здоровье
+stat_damage_reduction|Physical Damage Taken Reduced by|Получаемый физ. урон уменьшен на
+stat_magic_damage_reduction|Magic Damage Taken Reduced by|Получаемый маг. урон уменьшен на
 stat_all_damage_reduction|All Damage Taken Reduced by|Весь получаемый урон уменьшен на
 stat_damage_reduced|Damage Taken Reduced by|Получаемый урон уменьшен на
-stat_mana_per_level|to Mana (Based on Level)|к Мане (+0.35 за LvL гг)
-stat_life_per_level|to Life (Based on Level)|к Жизни (+0.35 за LvL гг)
-stat_defense_per_level|Defense (Based on Level)|к Защите (+0.35 за LvL гг)
-stat_magic_find_per_level|Magic Find (Based on Level)|Шанс найти маг. Предмет (+0.35 за LvL гг)
-stat_enhanced_defense_per_level|Enhanced Defense (Based on Level)|Улучшенный Защита (+0.35 за LvL гг)
-stat_enhanced_damage_per_level|Enhanced Damage (Based on Level)|Улучшенный Урон (+0.35 за LvL гг)
-stat_attack_rating_per_level|to Attack Rating (Based on Level)|к Рейтингу Атаки (+0.35 за LvL гг) 
-stat_damage_per_level|to Physical Damage (Based on Level)|к Урону (+0.35 за LvL гг)
-stat_strength_per_level|to Strength (Based on Level)|к Силе (+0.35 за LvL гг)
-stat_dexterity_per_level|to Dexterity (Based on Level)|к Ловкости (+0.35 за LvL гг)
-stat_energy_per_level|to Energy (Based on Level)|в Энергию (+0.35 за LvL гг)
-stat_intelligence_per_level|to Intelligence (Based on Level)|к Интеллекту (+0.35 за LvL гг) 
-stat_armor_per_level|to Armor (Based on Level)|к Броне (+0.35 за LvL гг)
-stat_vitality_per_level|to Vitality (Based on Level)|к Живучести (+0.35 за LvL гг)
-stat_all_resistance|to All Resistances|ко Всем Сопротивлениям
-stat_magic_resistance|to Arcane Resistance|к Сопротивлению Тайной Магии
-stat_cold_resistance|to Cold Resistance|к Сопротивлению Холоду
-stat_fire_resistance|to Fire Resistance|к Сопротивлению Огню
-stat_poison_resistance|to Poison Resistance|к Сопротивлению Яду
-stat_lightning_resistance|to Lightning Resistance|к Сопротивлению Молнии
-stat_max_all_resistance|to Maximum All Resists|к Всем Макс Сопротивлениям
-stat_max_magic_resistance|to Maximum Arcane Resist|к Макс Сопртивлению Тайной Магии
-stat_max_fire_resistance|to Maximum Fire Resist|к Макс Сопртивлению Огню
-stat_max_cold_resistance|to Maximum Cold Resist|к Макс Сопртивлению Холоду
-stat_max_poison_resistance|to Maximum Poison Resist|к Макс Сопртивлению Яду
-stat_max_lightning_resistance|to Maximum Lightning Resist|к Макс Сопртивлению Молнии
-stat_extra_ruby|Extra Rubies Dropped From Kills|Дополнительные рубины за убийства
-stat_extra_gold|Extra Gold Dropped From Kills|Дополнительное золото за убийства
-stat_magic_find|Increased Magic Find|Повышенный шанс найти маг. предмет
+stat_mana_per_level|to Mana (Based on Level)|к мане (зависит от уровня)
+stat_life_per_level|to Life (Based on Level)|к здоровью (зависит от уровня)
+stat_defense_per_level|Defense (Based on Level)|к защите (зависит от уровня)
+stat_magic_find_per_level|Magic Find (Based on Level)|к магическому поиску (зависит от уровня)
+stat_enhanced_defense_per_level|Enhanced Defense (Based on Level)|к улучшенной защите (зависит от уровня)
+stat_enhanced_damage_per_level|Enhanced Damage (Based on Level)|к улучшенному урону (зависит от уровня)
+stat_attack_rating_per_level|to Attack Rating (Based on Level)|к рейтингу атаки (зависит от уровня)
+stat_damage_per_level|to Physical Damage (Based on Level)|к урону (зависит от уровня)
+stat_strength_per_level|to Strength (Based on Level)|к силе (зависит от уровня)
+stat_dexterity_per_level|to Dexterity (Based on Level)|к ловкости (зависит от уровня)
+stat_energy_per_level|to Energy (Based on Level)|к энергии (зависит от уровня)
+stat_intelligence_per_level|to Intelligence (Based on Level)|к интеллекту (зависит от уровня)
+stat_armor_per_level|to Armor (Based on Level)|к броне (зависит от уровня)
+stat_vitality_per_level|to Vitality (Based on Level)|к живучести (зависит от уровня)
+stat_all_resistance|to All Resistances|ко всем сопротивлениям
+stat_magic_resistance|to Arcane Resistance|к сопр. тайной магии
+stat_cold_resistance|to Cold Resistance|к сопр. холоду
+stat_fire_resistance|to Fire Resistance|к сопр. огню
+stat_poison_resistance|to Poison Resistance|к сопр. яду
+stat_lightning_resistance|to Lightning Resistance|к сопр. молнии
+stat_max_all_resistance|to Maximum All Resists|к макс. всех сопротивлений
+stat_max_magic_resistance|to Maximum Arcane Resist|к макс. сопр. тайной магии
+stat_max_fire_resistance|to Maximum Fire Resist|к макс. сопр. огню
+stat_max_cold_resistance|to Maximum Cold Resist|к макс. сопр. холоду
+stat_max_poison_resistance|to Maximum Poison Resist|к макс. сопр. яду
+stat_max_lightning_resistance|to Maximum Lightning Resist|к макс. сопр. молнии
+stat_extra_ruby|Extra Rubies Dropped From Kills|Доп. рубины за убийства
+stat_extra_gold|Extra Gold Dropped From Kills|Доп. золото за убийства
+stat_magic_find|Increased Magic Find|Увеличение шанса найти маг. предмет
 stat_exp_gain|Increased Experience Gain|Увеличение получаемого опыта
 stat_exp_gain_below|Increased Experience Gain Below Level 100|Увеличение опыта до 100 уровня
-stat_poison_length_reduced|Poison Length Reduced by|Длительность действия яда уменьшена на
+stat_poison_length_reduced|Poison Length Reduced by|Длительность отравления уменьшена на
 stat_half_freeze_duration|Half Freeze Duration|Время заморозки уменьшено вдвое
 stat_cannot_be_frozen|Cannot be Frozen|Невозможно заморозить
 stat_fire_absorb|Fire Damage Absorbed|Поглощение урона от огня
 stat_cold_absorb|Cold Damage Absorbed|Поглощение урона от холода
 stat_lightning_absorb|Lightning Damage Absorbed|Поглощение урона от молнии
 stat_poison_absorb|Poison Damage Absorbed|Поглощение урона от яда
-stat_magic_absorb|Magic Damage Absorbed|Поглощение урона от тайной магии
+stat_magic_absorb|Magic Damage Absorbed|Поглощение урона тайной магии
 stat_belt_slots|Belt Slots|Ячейки пояса
 stat_merchant_prices|Decreased Merchant Prices|Снижение цен у торговцев
 stat_aoe_attack|Attacks can hit multiple enemies|Атаки поражают нескольких врагов
-stat_mana_cost|Mana Costs decreased by|Затраты маны уменьшены на
+stat_mana_cost|Mana Costs decreased by|Расход маны уменьшен на
 stat_summon_amount|to Summon Amount|к количеству прислужников
 stat_summon_life|Summon Life Increased by|Здоровье прислужников увеличено на
 stat_summon_damage_reduction|Reduced damage taken by Summons|Получаемый прислужниками урон уменьшен на
 stat_summon_resistances|to Summon Resistances|к сопротивлениям прислужников
-stat_sentry_skills|to Sentry Skills|к умениям турелей
+stat_sentry_skills|to Sentry Skills|к уровню умений турелей
 stat_sentry_amount|to Sentry Amount|к количеству турелей
-stat_sentry_attack_speed|Increased Sentry Attack Speed|Повышенная скорость атаки турелей
-stat_sentry_damage|Increased Sentry Damage|Повышенный урон турелей
-stat_sentry_duration|Increased Sentry Duration|Повышенная длительность турелей
-stat_phys_taken_cold|of Physical Damage taken as Cold|физического урона получается в виде холода
-stat_phys_taken_fire|of Physical Damage taken as Fire|физического урона получается в виде огня
-stat_phys_taken_magic|of Physical Damage taken as Arcane|физического урона получается в виде тайной магии
-stat_phys_taken_lightning|of Physical Damage taken as Lightning|физического урона получается в виде молнии
-stat_extraDamageBleeding|Extra Damage to Bleeding Monsters|Дополнительный урон кровоточащим монстрам
-stat_extraDamageFrozen|Extra Damage to Deep Frozen Monsters|Дополнительный урон замороженным монстрам
-stat_extraDamageStunned|Extra Damage to Stunned Monsters|Дополнительный урон оглушенным монстрам
-stat_extraDamageBurning|Extra Damage to Burning Monsters|Дополнительный урон горящим монстрам
-stat_extraDamagePoisoned|Extra Damage to Poisoned Monsters|Дополнительный урон отравленным монстрам
-stat_extraDamagePlagued|Extra Damage to Plagued Monsters|Дополнительный урон чумным монстрам
-stat_extraDamageStasis|Extra Damage to Monsters inflicted with Stasis|Дополнительный урон монстрам под эффектом Стазиса
-stat_extraDamageSpellBurn|Extra Damage to Monsters inflicted with Shadowburn|Дополнительный урон монстрам под эффектом Теневого ожога
-stat_extraDamageFrostBurn|Extra Damage to Monsters inflicted with Frost Bite|Дополнительный урон монстрам под эффектом Обморожения
-stat_extraDamageAilments|Extra Damage to Monsters inflicted with Ailments|Дополнительный урон монстрам под эффектом состояний
-stat_copy_slot|Mirrors your other ring|Копирует свойства вашего второго кольца
-stat_movement_diminish|Skill Movement Diminish decreased by|Штраф к скорости передвижения от умений уменьшен на
-stat_unbreakable|Unbreakable|Неуязвимый
-stat_charmslot|Unlocked Charmslot|Ячейка для талисмана разблокирована
-||
-stat_phasing|Movement Phasing|Прохождение сквозь существ
+stat_sentry_attack_speed|Increased Sentry Attack Speed|Увеличение скорости атаки турелей
+stat_sentry_damage|Increased Sentry Damage|Увеличение урона турелей
+stat_sentry_duration|Increased Sentry Duration|Увеличение длительности турелей
+stat_phys_taken_cold|of Physical Damage taken as Cold|входящего физ. урона переходит в урон холодом
+stat_phys_taken_fire|of Physical Damage taken as Fire|входящего физ. урона переходит в урон огнем
+stat_phys_taken_magic|of Physical Damage taken as Arcane|входящего физ. урона переходит в урон тайной магии
+stat_phys_taken_lightning|of Physical Damage taken as Lightning|входящего физ. урона переходит в урон молнией
+stat_extraDamageBleeding|Extra Damage to Bleeding Monsters|Доп. урон кровоточащим врагам
+stat_extraDamageFrozen|Extra Damage to Deep Frozen Monsters|Доп. урон замороженным врагам
+stat_extraDamageStunned|Extra Damage to Stunned Monsters|Доп. урон оглушенным врагам
+stat_extraDamageBurning|Extra Damage to Burning Monsters|Доп. урон горящим врагам
+stat_extraDamagePoisoned|Extra Damage to Poisoned Monsters|Доп. урон отравленным врагам
+stat_extraDamagePlagued|Extra Damage to Plagued Monsters|Доп. урон чумным врагам
+stat_extraDamageStasis|Extra Damage to Monsters inflicted with Stasis|Доп. урон врагам под эффектом Стазиса
+stat_extraDamageSpellBurn|Extra Damage to Monsters inflicted with Shadowburn|Доп. урон врагам под эффектом Теневого ожога
+stat_extraDamageFrostBurn|Extra Damage to Monsters inflicted with Frost Bite|Доп. урон врагам под эффектом Обморожения
+stat_extraDamageAilments|Extra Damage to Monsters inflicted with Ailments|Доп. урон врагам под эффектом состояний
+stat_copy_slot|Mirrors your other ring|Копирует свойства второго кольца
+stat_movement_diminish|Skill Movement Diminish decreased by|Снижение штрафа к скорости от умений на
+stat_unbreakable|Unbreakable|Неразрушимый
+stat_charmslot|Unlocked Charmslot|Открытая ячейка для талисмана
+stat_phasing|Movement Phasing|Прохождение сквозь врагов
 stat_random_skill|Random Skill Element|Случайная стихия умения
 stat_max_value|Maximum Value|Максимальное значение
-stat_only_hell5|Usable only on Hell 5 or Inferno difficulty|Можно использовать только на сложности Ад 5 или Пекло
-stat_only_inferno|Usable only on Inferno difficulty|Можно использовать только на сложности Пекло
-stat_satanic_disabled|Cannot be used while in the target zone|Нельзя использовать в целевой зоне
+stat_only_hell5|Usable only on Hell 5 or Inferno difficulty|Только для сложности Ад 5 или Инферно
+stat_only_inferno|Usable only on Inferno difficulty|Только для сложности Инферно
+stat_satanic_disabled|Cannot be used while in the target zone|Нельзя использовать в этой зоне
 stat_level|Star Level|Звездный уровень
-stat_sub_skills|to Sub Skills|к дополнительным навыкам
+stat_sub_skills|to Sub Skills|к дополнительным умениям
 stat_flask_mana_replenish|Mana Regenerated Over Time|Мана восстанавливается со временем
-stat_flask_mana_replenish_p|Mana Regeneration Increased by|Регенерация маны увеличена на
+stat_flask_mana_replenish_p|Mana Regeneration Increased by|Восстановление маны увеличено на
 stat_flask_life_replenish|Life Regenerated Over Time|Здоровье восстанавливается со временем
-stat_flask_life_replenish_p|Life Regeneration Increased by|Регенерация здоровья увеличена на
-stat_flask_mana_instant|of Mana Regeneration happens instantly|часть регенерации маны происходит мгновенно
-stat_flask_life_instant|of Life Regeneration happens instantly|часть регенерации здоровья происходит мгновенно
-stat_flask_duration|Faster Regeneration|Ускоренная регенерация
-stat_flask_stacks|Maximum Stacks|Максимальное количество зарядов
-stat_flask_stacks_kill|Chance to Replenish a Stack after monster kill|Шанс восполнить заряд после убийства монстра
-stat_flask_stacks_regen|Stacks regenerated per second|Зарядов восстанавливается в секунду
-stat_flask_cooldown|Flask Cooldown|Перезарядка зелья
+stat_flask_life_replenish_p|Life Regeneration Increased by|Восстановление здоровья увеличено на
+stat_flask_mana_instant|of Mana Regeneration happens instantly|часть восстановления маны происходит мгновенно
+stat_flask_life_instant|of Life Regeneration happens instantly|часть восстановления здоровья происходит мгновенно
+stat_flask_duration|Faster Regeneration|Ускоренное восстановление
+stat_flask_stacks|Maximum Stacks|Макс. количество зарядов
+stat_flask_stacks_kill|Chance to Replenish a Stack after monster kill|Шанс восполнить заряд при убийстве
+stat_flask_stacks_regen|Stacks regenerated per second|Зарядов в секунду
+stat_flask_cooldown|Flask Cooldown|Перезарядка флакона
 stat_flask_duration_time|Effect Duration|Длительность эффекта
-stat_seconds|Seconds|Секунды
+stat_seconds|Seconds|сек.
 stat_poison_frequency|Poisoned Tick Frequency increased by|Частота тиков яда увеличена на
-stat_flask_power|Flask Power|Мощность зелья
-stat_octaReflect|of Damage Taken Redirected to Octa|полученного урона перенаправлено в Окту
-stat_cdr_damage|Less damage dealt with skills that have a cooldown|Урон умений с перезарядкой уменьшен на
+stat_flask_power|Flask Power|Мощность флакона
+stat_octaReflect|of Damage Taken Redirected to Octa|полученного урона перенаправляется в Окту
+stat_cdr_damage|Less damage dealt with skills that have a cooldown|Снижение урона умений с перезарядкой
 stat_extra_projectile_01|Attacks fire|Атаки выпускают
-stat_extra_projectile_02|extra projectiles|дополнительных снаряда
-stat_extra_projectile_03|Works with non orbital physical projectiles fired with a ranged weapon.|Работает с неорбитальными физическими снарядами из оружия дальнего боя.
-stat_every|Every|Каждый
+stat_extra_projectile_02|extra projectiles|доп. снарядов
+stat_extra_projectile_03|Works with non orbital physical projectiles fired with a ranged weapon.|Работает с неорбитальными физическими снарядами оружия дальнего боя.
+stat_every|Every|Каждые
 stat_converted_to|Converted to|Преобразовано в
 stat_sub_skills_skill|Sub Skills|Дополнительные умения
-stat_chaining_projectile|Projectiles chain|Снаряды рикошетят
+stat_chaining_projectile|Projectiles chain|Цепная реакция снарядов
 stat_times|times|раз
 stat_forking_projectile|Projectiles fork on hit|Снаряды разделяются при попадании
-stat_intelligence_skill_damage|of Intelligence is converted into Magic Skill Damage|Интеллект преобразуется в урон магических умений
-stat_intelligence_lightning|of Intelligence is converted into Lightning Skill Damage|Интеллект преобразуется в урон умений молнии
-stat_intelligence_fire|of Intelligence is converted into Fire Skill Damage|Интеллект преобразуется в урон умений огня
-stat_intelligence_cold|of Intelligence is converted into Cold Skill Damage|Интеллект преобразуется в урон умений холода
-stat_intelligence_arcane|of Intelligence is converted into Arcane Skill Damage|Интеллект преобразуется в урон умений тайной магии
-stat_intelligence_poison|of Intelligence is converted into Poison Skill Damage|Интеллект преобразуется в урон умений яда
-stat_vitality_attack_damage|of Vitality is converted into Attack Damage|Живучесть преобразуется в урон от атак
-stat_vitality_skill_damage|of Vitality is converted into Magic Skill Damage|Живучесть преобразуется в урон магических умений
-stat_vitality_lightning|of Vitality is converted into Lightning Skill Damage|Живучесть преобразуется в урон умений молнии
-stat_vitality_fire|of Vitality is converted into Fire Skill Damage|Живучесть преобразуется в урон умений огня
-stat_vitality_cold|of Vitality is converted into Cold Skill Damage|Живучесть преобразуется в урон умений холода
-stat_vitality_arcane|of Vitality is converted into Arcane Skill Damage|Живучесть преобразуется в урон умений тайной магии
-stat_vitality_poison|of Vitality is converted into Poison Skill Damage|Живучесть преобразуется в урон умений яда
-stat_energy_skill_damage|of Energy is converted into Magic Skill Damage|Энергия преобразуется в урон магических умений
-stat_energy_lightning|of Energy is converted into Lightning Skill Damage|Энергия преобразуется в урон умений молнии
-stat_energy_fire|of Energy is converted into Fire Skill Damage|Энергия преобразуется в урон умений огня
-stat_energy_cold|of Energy is converted into Cold Skill Damage|Энергия преобразуется в урон умений холода
-stat_energy_arcane|of Energy is converted into Arcane Skill Damage|Энергия преобразуется в урон умений тайной магии
-stat_energy_poison|of Energy is converted into Poison Skill Damage|Энергия преобразуется в урон умений яда
-stat_armor_attack_damage|of Armor is converted into Attack Damage|Броня преобразуется в урон от атак
-stat_armor_skill_damage|of Armor is converted into Magic Skill Damage|Броня преобразуется в урон магических умений
-stat_fcr_movement_speed|of Faster Cast Rate converted into Movement Speed|Скорость сотворения заклинаний преобразуется в скорость передвижения
+stat_intelligence_skill_damage|of Intelligence is converted into Magic Skill Damage|интеллекта преобразуется в урон магических умений
+stat_intelligence_lightning|of Intelligence is converted into Lightning Skill Damage|интеллекта преобразуется в урон умений молнии
+stat_intelligence_fire|of Intelligence is converted into Fire Skill Damage|интеллекта преобразуется в урон умений огня
+stat_intelligence_cold|of Intelligence is converted into Cold Skill Damage|интеллекта преобразуется в урон умений холода
+stat_intelligence_arcane|of Intelligence is converted into Arcane Skill Damage|интеллекта преобразуется в урон умений тайной магии
+stat_intelligence_poison|of Intelligence is converted into Poison Skill Damage|интеллекта преобразуется в урон умений яда
+stat_vitality_attack_damage|of Vitality is converted into Attack Damage|живучести преобразуется в урон от атак
+stat_vitality_skill_damage|of Vitality is converted into Magic Skill Damage|живучести преобразуется в урон магических умений
+stat_vitality_lightning|of Vitality is converted into Lightning Skill Damage|живучести преобразуется в урон умений молнии
+stat_vitality_fire|of Vitality is converted into Fire Skill Damage|живучести преобразуется в урон умений огня
+stat_vitality_cold|of Vitality is converted into Cold Skill Damage|живучести преобразуется в урон умений холода
+stat_vitality_arcane|of Vitality is converted into Arcane Skill Damage|живучести преобразуется в урон умений тайной магии
+stat_vitality_poison|of Vitality is converted into Poison Skill Damage|живучести преобразуется в урон умений яда
+stat_energy_skill_damage|of Energy is converted into Magic Skill Damage|энергии преобразуется в урон магических умений
+stat_energy_lightning|of Energy is converted into Lightning Skill Damage|энергии преобразуется в урон умений молнии
+stat_energy_fire|of Energy is converted into Fire Skill Damage|энергии преобразуется в урон умений огня
+stat_energy_cold|of Energy is converted into Cold Skill Damage|энергии преобразуется в урон умений холода
+stat_energy_arcane|of Energy is converted into Arcane Skill Damage|энергии преобразуется в урон умений тайной магии
+stat_energy_poison|of Energy is converted into Poison Skill Damage|энергии преобразуется в урон умений яда
+stat_armor_attack_damage|of Armor is converted into Attack Damage|брони преобразуется в урон от атак
+stat_armor_skill_damage|of Armor is converted into Magic Skill Damage|брони преобразуется в урон магических умений
+stat_fcr_movement_speed|of Faster Cast Rate converted into Movement Speed|скорости каста преобразуется в скорость передвижения
 stat_increased_ailment_damage|Ailment damage increased by|Урон от состояний увеличен на
 stat_increased_bleed_damage|Bleed damage increased by|Урон от кровотечения увеличен на
 stat_increased_poisoned_damage|Poisoned damage increased by|Урон от отравления увеличен на
@@ -246,67 +245,67 @@ stat_increased_stasis_damage|Stasis damage increased by|Урон от стази
 stat_increased_shadow_burn_damage|Shadow Burn damage increased by|Урон от теневого ожога увеличен на
 stat_increased_frost_bite_damage|Frost Bite damage increased by|Урон от обморожения увеличен на
 stat_increased_burning_damage|Burning damage increased by|Урон от горения увеличен на
-stat_ailment_crit_chance|Chance to critically hit with ailments|Шанс критического удара состояниями
+stat_ailment_crit_chance|Chance to critically hit with ailments|Шанс критического удара состоянием
 stat_ailment_crit_damage|Ailment critical damage increased by|Критический урон состояний увеличен на
 stat_guardian_damage|Guardian damage increased by|Урон стражей увеличен на
-stat_guardian_burst|Chance for Guardians to perform an additional attack|Шанс стражей провести дополнительную атаку
+stat_guardian_burst|Chance for Guardians to perform an additional attack|Шанс стражей провести доп. атаку
 stat_guardian_attack_speed|Guardian Attack Speed increased by|Скорость атаки стражей увеличена на
-stat_guardian_attack_range|Increased Guardian Attack Range|Дальность атаки стражей увеличена на
-stat_guardian_duration|Increased Guardian Duration|Длительность стражей увеличена на
+stat_guardian_attack_range|Increased Guardian Attack Range|Увеличение дальности атаки стражей
+stat_guardian_duration|Increased Guardian Duration|Увеличение длительности стражей
 stat_projectile_size|Projectile Size increased by|Размер снарядов увеличен на
 stat_projectile_direction|Projectiles are fired in random directions|Снаряды выпускаются в случайных направлениях
 stat_projectile_return|Projectiles Return to you|Снаряды возвращаются к вам
-stat_all_resistances_damage|Every point in resistances increases your damage by|Каждое очко сопротивления увеличивает ваш урон на
+stat_all_resistances_damage|Every point in resistances increases your damage by|Каждая единица сопротивлений увеличивает урон на
 ||
 stat_aura_effectiveness|Increases Aura Effectiveness by |Эффективность ауры увеличена на
-stat_crushing_blow_stack|to Maximum Crushing Blow Stacks |к макс. количеству зарядов сокрушительного удара
+stat_crushing_blow_stack|to Maximum Crushing Blow Stacks |к макс. числу зарядов «Сокрушительного удара»
 stat_life_after_block_01|Chance to heal for |Шанс восстановить
-stat_life_after_block_02|Life when Blocking |здоровья при блоке
-stat_aura_range|Increased Aura Range |Дальность ауры увеличена на
-stat_orbit_duration|Increased Orbital Projectile Duration |Длительность орбитальных снарядов увеличена на
-stat_orbit_damage_p|Increased Orbital Projectile Damage |Урон орбитальных снарядов увеличен на
+stat_life_after_block_02|Life when Blocking |здоровья при блокировании
+stat_aura_range|Increased Aura Range |Увеличение дальности действия ауры
+stat_orbit_duration|Increased Orbital Projectile Duration |Увеличение длительности орбитальных снарядов
+stat_orbit_damage_p|Increased Orbital Projectile Damage |Увеличение урона орбитальных снарядов
 stat_aoe_size|Area of Effect Skill Radius Increased by |Радиус умений по области увеличен на
 stat_aoe_damage|Area of Effect skill Damage Increased by |Урон умений по области увеличен на
 stat_melee_skills|to Melee Skills |к умениям ближнего боя
 stat_ranged_skills|to Ranged Skills |к умениям дальнего боя
 stat_orbit_skills|to Orbital Skills |к орбитальным умениям
 stat_aoe_skills|to Area of Effect Skills |к умениям по области
-stat_projectile_skills|to Projectile Skills |к умениям снарядов
+stat_projectile_skills|to Projectile Skills |к умениям со снарядами
 stat_self_strike_01|Chance to Inflict |Шанс нанести
 stat_self_strike_02|Damage to self when attacking |урона себе при атаке
-stat_damage_taken_over_01|of Incoming Damage is taken over |получаемого урона распределяется на
+stat_damage_taken_over_01|of Incoming Damage is taken over |получаемого урона наносится в течение
 stat_damage_taken_over_02|Seconds |секунд
 ||
-stat_codex_greed|Amount of Gold dropped from monsters increased by|Количество золота из монстров увеличено на
+stat_codex_greed|Amount of Gold dropped from monsters increased by|Количество золота с монстров увеличено на
 stat_codex_gluttony|Experience Gain increased by|Получаемый опыт увеличен на
 stat_codex_envy|Loot Amount increased by|Количество добычи увеличено на
-stat_codex_darkness|Increased Dungeon Key drop rates|Шанс выпадения ключей подземелий увеличен
-stat_codex_fear|Increased Rune drop rates|Шанс выпадения рун увеличен
-stat_codex_delirious|Increased Codex drop rates|Шанс выпадения кодексов увеличен
+stat_codex_darkness|Increased Dungeon Key drop rates|Увеличение шанса выпадения ключей подземелья
+stat_codex_fear|Increased Rune drop rates|Увеличение шанса выпадения рун
+stat_codex_delirious|Increased Codex drop rates|Увеличение шанса выпадения кодексов
 stat_codex_dwelling|Ancient Monster Pack Size increased by|Размер групп древних монстров увеличен на
 stat_codex_treasure|Total Magic Find increased by|Общий шанс найти маг. предметы увеличен на
-stat_codex_legion|Chance for Ancients to spawn as Legions|Шанс появления древних в виде легионов
-stat_codex_heroic|Increased Amount of Heroic and Angelic drops|Шанс выпадения героических и ангельских предметов увеличен
+stat_codex_legion|Chance for Ancients to spawn as Legions|Шанс появления древних монстров в виде Легиона
+stat_codex_heroic|Increased Amount of Heroic and Angelic drops|Увеличение шанса выпадения героических и ангельских предметов
 ||
-stat_relic_orbit_radius|Orbiting Relic Radius increased by|Радиус орбитальной реликвии увеличен на
+stat_relic_orbit_radius|Orbiting Relic Radius increased by|Радиус орбитальных реликвий увеличен на
 stat_relic_orbit_amount|to Orbiting Relic Amount|к количеству орбитальных реликвий
-stat_relic_orbit_damage_f|to Orbiting Relic Damage|к урону орбитальной реликвии
-stat_relic_orbit_damage_p|Orbiting Relic Damage increased by|Урон орбитальной реликвии увеличен на
-stat_relic_orbit_size|to Orbiting Relic size|к размеру орбитальной реликвии
-stat_relic_orbit_execute|Orbiting Relics execute monsters below|Орбитальные реликвии казнят монстров с уровнем здоровья ниже
-stat_relic_follower_damage_f|to Follower Relic Damage|к урону реликвии прислужника
-stat_relic_follower_damage_p|Follower Relic Damage increased by|Урон реликвии прислужника увеличен на
-stat_relic_follower_attack_speed|Follower Relic Attack Speed increased by|Скорость атаки реликвии прислужника увеличена на
-stat_relic_follower_projectiles|to Follower Relic Projectiles|к снарядам реликвии прислужника
-stat_relic_follower_amount|to Follower Relic Amount|к количеству реликвий прислужника
-stat_relic_proc_rate|Non-Buff Proc Relic chance increased by|Шанс срабатывания реликвий без усиления увеличен на
-stat_relic_proc_effectiveness|to Effectiveness of Non-Buff Proc Relics|к эффективности реликвий без усиления
-stat_relic_skill_damage_f|to Skill Relic Damage|к урону реликвии умений
-stat_relic_skill_damage_p|Skill Relic Damage increased by|Урон реликвии умений увеличен на
-stat_relic_skill_projectiles|to Skill Relic Projectiles|к снарядам реликвии умений
-stat_relic_skill_size|Skill Relic Projectile Size increased by|Размер снарядов реликвии умений увеличен на
-stat_relic_skill_burst|Additional Casts with Skill Relics|Дополнительные применения реликвий умений
-stat_relic_skill_cooldown_dec|Skill relic cooldown increased by|Время перезарядки реликвии умений увеличено на
+stat_relic_orbit_damage_f|to Orbiting Relic Damage|к урону орбитальных реликвий
+stat_relic_orbit_damage_p|Orbiting Relic Damage increased by|Урон орбитальных реликвий увеличен на
+stat_relic_orbit_size|to Orbiting Relic size|к размеру орбитальных реликвий
+stat_relic_orbit_execute|Orbiting Relics execute monsters below|Орбитальные реликвии казнят врагов при здоровье ниже
+stat_relic_follower_damage_f|to Follower Relic Damage|к урону реликвий-прислужников
+stat_relic_follower_damage_p|Follower Relic Damage increased by|Урон реликвий-прислужников увеличен на
+stat_relic_follower_attack_speed|Follower Relic Attack Speed increased by|Скорость атаки реликвий-прислужников увеличена на
+stat_relic_follower_projectiles|to Follower Relic Projectiles|к числу снарядов реликвий-прислужников
+stat_relic_follower_amount|to Follower Relic Amount|к количеству реликвий-прислужников
+stat_relic_proc_rate|Non-Buff Proc Relic chance increased by|Шанс срабатывания реликвий (не усилений) увеличен на
+stat_relic_proc_effectiveness|to Effectiveness of Non-Buff Proc Relics|к эффективности реликвий (не усилений)
+stat_relic_skill_damage_f|to Skill Relic Damage|к урону реликвий умений
+stat_relic_skill_damage_p|Skill Relic Damage increased by|Урон реликвий умений увеличен на
+stat_relic_skill_projectiles|to Skill Relic Projectiles|к числу снарядов реликвий умений
+stat_relic_skill_size|Skill Relic Projectile Size increased by|Размер снарядов реликвий умений увеличен на
+stat_relic_skill_burst|Additional Casts with Skill Relics|Доп. срабатывания реликвий умений
+stat_relic_skill_cooldown_dec|Skill relic cooldown increased by|Перезарядка реликвий умений увеличена на
 ||
 stat_vault_tarot|Random Tarot Cards|Случайные карты Таро
 stat_vault_rune|Random Runes|Случайные руны
@@ -348,26 +347,26 @@ damage|Damage|Урон
 attack_rating|Attack Rating|Рейтинг атаки
 attack_rating_p|Attack Rating %|Рейтинг атаки %
 attack_rating_per_level|Attack Rating per level|Рейтинг атаки за уровень
-faster_cast_rate|Faster Cast Rate|Скорость сотворения заклинаний
+faster_cast_rate|Faster Cast Rate|Скорость каста
 critical_damage|Critical Strike Damage|Урон критического удара
 critical_chance|Chance for Critical Strike|Шанс критического удара
 physical_damage|Flat Physical Damage|Физический урон
 physical_damage_p|Physical Damage %|Физический урон %
-magic_damage|Additive Arcane Damage|Дополнительный Урон от Тайной Магии
-lightning_damage|Additive Lightning Damage|Дополнительный Урон от Молнии
-fire_damage|Additive Fire Damage|Дополнительный Урон от Огня
-cold_damage|Additive Cold Damage|Дополнительный Урон от Холода
-poison_damage|Additive Poison Damage|Дополнительный Урон от Яда
+magic_damage|Additive Arcane Damage|Доп. урон тайной магии
+lightning_damage|Additive Lightning Damage|Доп. урон молнией
+fire_damage|Additive Fire Damage|Доп. урон огнем
+cold_damage|Additive Cold Damage|Доп. урон холодом
+poison_damage|Additive Poison Damage|Доп. урон ядом
 magic_damage_increased|Arcane Skill Damage %|Урон умений тайной магии %
 lightning_damage_increased|Lightning Skill Damage %|Урон умений молнии %
 fire_damage_increased|Fire Skill Damage %|Урон умений огня %
 cold_damage_increased|Cold Skill Damage %|Урон умений холода %
 poison_damage_increased|Poison Skill Damage %|Урон умений яда %
-magic_damage_p|Arcane Skill Damage|Урон от навыков Тайной Магии
-lightning_damage_p|Lightning Skill Damage|Урон от навыков Молнии
-fire_damage_p|Fire Skill Damage|Урон от навыков Огня
-cold_damage_p|Cold Skill Damage|Урон от навыков Холода
-poison_damage_p|Poison Skill Damage|Урон от навыков Яда
+magic_damage_p|Arcane Skill Damage|Урон умений тайной магии
+lightning_damage_p|Lightning Skill Damage|Урон умений молнии
+fire_damage_p|Fire Skill Damage|Урон умений огня
+cold_damage_p|Cold Skill Damage|Урон умений холода
+poison_damage_p|Poison Skill Damage|Урон умений яда
 magic_damage_f|Flat Arcane Skill Damage|Базовый урон умений тайной магии
 lightning_damage_f|Flat Lightning Skill Damage|Базовый урон умений молнии
 fire_damage_f|Flat Fire Skill Damage|Базовый урон умений огня
@@ -380,32 +379,32 @@ hp_p|Life %|Здоровье %
 mana_p|Mana %|Мана %
 hp_per_level|Life per level|Здоровье за уровень
 mana_per_level|Mana per level|Мана за уровень
-hp_per_second|Life per second|Здоровье в секунду
-mana_per_second|Mana per second|Мана в секунду
-light_radius|Light Radius|Радиус обзора
+hp_per_second|Life per second|Здоровье в сек.
+mana_per_second|Mana per second|Мана в сек.
+light_radius|Light Radius|Радиус освещения
 health_regen|Life Replenish|Восполнение здоровья
 mana_regen|Mana Replenish|Восполнение маны
-life_per_hit|Life stolen per Hit|Здоровье за удар
-mana_per_hit|Mana stolen per Hit|Мана за удар
+life_per_hit|Life stolen per Hit|Похищение здоровья за удар
+mana_per_hit|Mana stolen per Hit|Похищение маны за удар
 hp_kill|Life After each Kill|Здоровье за убийство
 mana_kill|Mana After each Kill|Мана за убийство
-cooldown_reduction|Skill Haste|Скорость восстановления умений
-cooldown_reduction_potion|Flask Skill Haste|Скорость восстановления зелья
+cooldown_reduction|Skill Haste|Ускорение перезарядки умений
+cooldown_reduction_potion|Flask Skill Haste|Ускорение перезарядки флакона
 exp_gain|Increased Experience Gain|Увеличение получаемого опыта
-exp_gain_below|Increased Experience Gain Below Level 100|Увеличение получаемого опыта ниже уровня 100
+exp_gain_below|Increased Experience Gain Below Level 100|Увеличение получаемого опыта (ниже ур. 100)
 magic_find|Magic Find|Шанс найти маг. предмет
 magic_find_per_level|Magic Find per level|Шанс найти маг. предмет за уровень
 block_rate|Chance to Block attacks|Шанс блока атак
-block_rating|Increased Block Rating|Повышенный рейтинг блока
+block_rating|Increased Block Rating|Увеличение рейтинга блока
 defense|Defense|Защита
 defense_p|Defense %|Защита %
 defense_per_level|Defense per level|Защита за уровень
 defense_vs_missile|Defense vs Missiles|Защита от снарядов
 all_reduction|All Damage Reduction|Снижение всего урона
-reduction|Physical Damage Reduction|Снижение физического урона
-magic_reduction|Magic Damage Reduction|Снижение магического урона
-damage_reduced|Damage Reduced|Урон уменьшен
-damage_return|Damage Return|Возврат урона
+reduction|Physical Damage Reduction|Снижение физ. урона
+magic_reduction|Magic Damage Reduction|Снижение маг. урона
+damage_reduced|Damage Reduced|Снижение урона
+damage_return|Damage Return|Отражение урона
 all_resistance|All Resistances|Все сопротивления
 fire_resistance|Fire Resistance|Сопротивление огню
 cold_resistance|Cold Resistance|Сопротивление холоду
@@ -430,35 +429,35 @@ crushing_blow|Crushing Blow|Сокрушительный удар
 open_wounds|Open Wounds|Открытые раны
 ignore_defense|Ignore Target Defense|Игнорирование защиты цели
 slow_target|Slow Target|Замедление цели
-extra_gold|Extra Gold from kills|Дополнительное золото за убийства
+extra_gold|Extra Gold from kills|Золото за убийства
 merchant_prices|Merchant prices|Цены торговцев
-poison_length_reduced|Poison Length Reduced|Длительность яда уменьшена
+poison_length_reduced|Poison Length Reduced|Длительность отравления снижена
 faster_hit_recovery|Faster Hit Recovery|Ускоренное восстановление после удара
-mana_costs|Mana Cost Reduced|Затраты маны уменьшены
-ignore_magic_resist|Ignore Arcane Resistance|Игнорирование сопротивления тайной магии
-ignore_cold_resist|Ignore Cold Resistance|Игнорирование сопротивления холоду
-ignore_fire_resist|Ignore Fire Resistance|Игнорирование сопротивления огню
-ignore_poison_resist|Ignore Poison Resistance|Игнорирование сопротивления яду
-ignore_lightning_resist|Ignore Lightning Resistance|Игнорирование сопротивления молнии
+mana_costs|Mana Cost Reduced|Снижение расхода маны
+ignore_magic_resist|Ignore Arcane Resistance|Игнорирование сопр. тайной магии
+ignore_cold_resist|Ignore Cold Resistance|Игнорирование сопр. холоду
+ignore_fire_resist|Ignore Fire Resistance|Игнорирование сопр. огню
+ignore_poison_resist|Ignore Poison Resistance|Игнорирование сопр. яду
+ignore_lightning_resist|Ignore Lightning Resistance|Игнорирование сопр. молнии
 ignore_all_resists|Ignore All Resistance|Игнорирование всех сопротивлений
 attack_damage|Attack Damage|Урон от атаки
-phasing|Phasing|Прохождение сквозь существ
+phasing|Phasing|Прохождение сквозь врагов
 jumping_power|Jumping Power|Сила прыжка
-enhanced_damage|Enhanced Damage|Повышенный урон
+enhanced_damage|Enhanced Damage|Улучшенный урон
 enhanced_defense|Enhanced Defense|Улучшенная защита
-enhanced_damage_per_level|Enhanced Damage per level|Повышенный урон за уровень
+enhanced_damage_per_level|Enhanced Damage per level|Улучшенный урон за уровень
 enhanced_defense_per_level|Enhanced Defense per level|Улучшенная защита за уровень
 piercing|Piercing|Пронзание
-damage_per_level|Physical Damage per level|Физический урон за уровень
+damage_per_level|Physical Damage per level|Физ. урон за уровень
 explosion_damage|Explosion Damage|Урон от взрыва
 explosion_aoe|Explosion AoE|Область взрыва
 explosion_skills|Explosion Skills|Умения взрыва
-phys_taken_cold|Physical Damage taken as Cold|Физический урон получается в виде холода
-phys_taken_fire|Physical Damage taken as Fire|Физический урон получается в виде огня
-phys_taken_arcane|Physical Damage taken as Arcane|Физический урон получается в виде тайной магии
-phys_taken_lightning|Physical Damage taken as Lightning|Физический урон получается в виде молнии
-damage_taken_mana|Damage taken recouped as Mana|Полученный урон восполняется в виде маны
-damage_taken_life|Damage taken recouped as Life|Полученный урон восполняется в виде здоровья
+phys_taken_cold|Physical Damage taken as Cold|Получение физ. урона как холод
+phys_taken_fire|Physical Damage taken as Fire|Получение физ. урона как огонь
+phys_taken_arcane|Physical Damage taken as Arcane|Получение физ. урона как тайная магия
+phys_taken_lightning|Physical Damage taken as Lightning|Получение физ. урона как молния
+damage_taken_mana|Damage taken recouped as Mana|Полученный урон восполняет ману
+damage_taken_life|Damage taken recouped as Life|Полученный урон восполняет здоровье
 singular_skill|Singular Skills|Особые умения
 singular_skill_class|Singular Skills (Class)|Особые умения (класс)
 physical_skills|Physical Skills|Физические умения
@@ -467,16 +466,16 @@ fire_skills|Fire Skills|Умения огня
 arcane_skills|Arcane Skills|Умения тайной магии
 poison_skills|Poison Skills|Умения яда
 lightning_skills|Lightning Skills|Умения молнии
-half_freeze_duration|Half Freeze Duration|Время заморозки уменьшено вдвое
+half_freeze_duration|Half Freeze Duration|Длительность заморозки -50%
 cannot_be_frozen|Cannot be Frozen|Невозможно заморозить
-summon_life_p|Summon Life %|Здоровье призыва %
-summon_reduction|Summon Damage Reduction|Снижение урона призыва
-summon_resists|Summon Resistances|Сопротивления призыва
-summon_amount|Summon Amount|Количество призыва
+summon_life_p|Summon Life %|Здоровье прислужников %
+summon_reduction|Summon Damage Reduction|Снижение урона по прислужникам
+summon_resists|Summon Resistances|Сопротивления прислужников
+summon_amount|Summon Amount|Количество прислужников
 summon_skills|Summon Skills|Умения призыва
-summon_damage_p|Summon Damage %|Урон призыва %
-summon_attack_speed|Summon Attack Speed|Скорость атаки призыва
-summon_movement_speed|Summon Movement Speed|Скорость передвижения призыва
+summon_damage_p|Summon Damage %|Урон прислужников %
+summon_attack_speed|Summon Attack Speed|Скорость атаки прислужников
+summon_movement_speed|Summon Movement Speed|Скорость движения прислужников
 sentry_skills|Sentry Skills|Умения турелей
 sentry_damage_p|Sentry Damage %|Урон турелей %
 sentry_amount|Sentry Amount|Количество турелей
@@ -484,7 +483,7 @@ sentry_attack_speed|Sentry Attack Speed|Скорость атаки туреле
 sentry_duration|Sentry Duration|Длительность турелей
 sub_skills|Sub Skills|Дополнительные умения
 guardian_damage|Guardian Damage|Урон стражей
-guardian_burst|Guardian Chance to Burst|Шанс стражей на доп. атаку
+guardian_burst|Guardian Chance to Burst|Шанс стражей на серию атак
 guardian_attack_speed|Guardian Attack Speed|Скорость атаки стражей
 guardian_attack_range|Guardian Attack Range|Дальность атаки стражей
 guardian_duration|Guardian Duration|Длительность стражей
@@ -498,56 +497,56 @@ extra_damage_spellburn|Extra Damage to Shadow Burning|Доп. урон по це
 extra_damage_frostburn|Extra Damage to Frost Bitten|Доп. урон по обмороженным целям
 extra_damage_ailments|Extra Damage to Ailments|Доп. урон по целям с состояниями
 ||
-frequency_bleed|Increased Bleeding Frequency|Увеличенная частота кровотечения
-frequency_poisoned|Increased Poisoned Frequency|Увеличенная частота отравления
-frequency_burning|Increased Burning Frequency|Увеличенная частота горения
-frequency_stasis|Increased Stasis Frequency|Увеличенная частота стазиса
-frequency_spellburn|Increased Shadow Burning Frequency|Увеличенная частота теневого горения
-frequency_frostburn|Increased Frost Bite Frequency|Увеличенная частота обморожения
-frequency_ailments|Increased Ailment Frequency|Увеличенная частота состояний
+frequency_bleed|Increased Bleeding Frequency|Увеличение частоты кровотечения
+frequency_poisoned|Increased Poisoned Frequency|Увеличение частоты отравления
+frequency_burning|Increased Burning Frequency|Увеличение частоты горения
+frequency_stasis|Increased Stasis Frequency|Увеличение частоты стазиса
+frequency_spellburn|Increased Shadow Burning Frequency|Увеличение частоты теневого ожога
+frequency_frostburn|Increased Frost Bite Frequency|Увеличение частоты обморожения
+frequency_ailments|Increased Ailment Frequency|Увеличение частоты состояний
 ||
-increased_bleed_damage|Increased Bleeding Damage|Увеличенный урон от кровотечения
-increased_poisoned_damage|Increased Poisoned Damage|Увеличенный урон от отравления
-increased_stasis_damage|Increased Stasis Damage|Увеличенный урон от стазиса
-increased_shadow_burn_damage|Increased Shadow Burning Damage|Увеличенный урон от теневого горения
-increased_frost_bite_damage|Increased Frost Bite Damage|Увеличенный урон от обморожения
-increased_burning_damage|Increased Burning Damage|Увеличенный урон от горения
-ailment_crit_chance|Ailment Critical Chance|Шанс критического удара состоянием
-ailment_crit_damage|Ailment Critical Damage|Критический урон состояния
-spell_crit_chance|Spell Critical Chance|Шанс критического удара заклинанием
-spell_crit_damage|Spell Critical Damage|Критический урон заклинания
+increased_bleed_damage|Increased Bleeding Damage|Увеличение урона от кровотечения
+increased_poisoned_damage|Increased Poisoned Damage|Увеличение урона от отравления
+increased_stasis_damage|Increased Stasis Damage|Увеличение урона от стазиса
+increased_shadow_burn_damage|Increased Shadow Burning Damage|Увеличение урона от теневого ожога
+increased_frost_bite_damage|Increased Frost Bite Damage|Увеличение урона от обморожения
+increased_burning_damage|Increased Burning Damage|Увеличение урона от горения
+ailment_crit_chance|Ailment Critical Chance|Шанс крит. удара состоянием
+ailment_crit_damage|Ailment Critical Damage|Критический урон состояний
+spell_crit_chance|Spell Critical Chance|Шанс крит. удара заклинанием
+spell_crit_damage|Spell Critical Damage|Критический урон заклинаний
 flask_mana_replenish_p|Flask Mana Replenish %|Восполнение маны флаконом %
 flask_life_replenish_p|Flask Life Replenish %|Восполнение здоровья флаконом %
 flask_mana_instant|Flask Instant Mana Replenish|Мгновенное восполнение маны флаконом
 flask_life_instant|Flask Instant Life Replenish|Мгновенное восполнение здоровья флаконом
-flask_duration_p|Flask Duration|Длительность зелья
-flask_stacks|Flask Extra Stacks|Дополнительные заряды зелья
-flask_stacks_kill|Flask Stacks Recovered Per Kill|Зарядов зелья восстановлено за убийство
-flask_stacks_regen|Flask Stacks Recovered|Зарядов зелья восстановлено
-flask_cooldown|Flask Cooldown|Перезарядка зелья
-intelligence_skill_damage|Intelligence Converted to Magic Skill Damage|Интеллект преобразуется в урон магических умений
-intelligence_lightning|Intelligence Converted to Lightning Skill Damage|Интеллект преобразуется в урон умений молнии
-intelligence_fire|Intelligence Converted to Fire Skill Damage|Интеллект преобразуется в урон умений огня
-intelligence_cold|Intelligence Converted to Cold Skill Damage|Интеллект преобразуется в урон умений холода
-intelligence_arcane|Intelligence Converted to Arcane Skill Damage|Интеллект преобразуется в урон умений тайной магии
-intelligence_poison|Intelligence Converted to Poison Skill Damage|Интеллект преобразуется в урон умений яда
-vitality_attack_damage|Vitality Converted to Attack Damage|Живучесть преобразуется в урон от атак
-vitality_skill_damage|Vitality Converted to Magic Skill Damage|Живучесть преобразуется в урон магических умений
-vitality_lightning|Vitality Converted to Lightning Skill Damage|Живучесть преобразуется в урон умений молнии
-vitality_fire|Vitality Converted to Fire Skill Damage|Живучесть преобразуется в урон умений огня
-vitality_cold|Vitality Converted to Cold Skill Damage|Живучесть преобразуется в урон умений холода
-vitality_arcane|Vitality Converted to Arcane Skill Damage|Живучесть преобразуется в урон умений тайной магии
-vitality_poison|Vitality Converted to Poison Skill Damage|Живучесть преобразуется в урон умений яда
-energy_skill_damage|Energy Converted to Magic Skill Damage|Энергия преобразуется в урон магических умений
-energy_lightning|Energy Converted to Lightning Skill Damage|Энергия преобразуется в урон умений молнии
-energy_fire|Energy Converted to Fire Skill Damage|Энергия преобразуется в урон умений огня
-energy_cold_damage|Energy Converted to Cold Skill Damage|Энергия преобразуется в урон умений холода
-energy_arcane|Energy Converted to Arcane Skill Damage|Энергия преобразуется в урон умений тайной магии
-energy_poison|Energy Converted to Poison Skill Damage|Энергия преобразуется в урон умений яда
-armor_skill_damage|Armor Converted to Magic Skill Damage|Броня преобразуется в урон магических умений
-armor_attack_damage|Armor Converted to Attack Damage|Броня преобразуется в урон от атак
+flask_duration_p|Flask Duration|Длительность действия флакона
+flask_stacks|Flask Extra Stacks|Дополнительные заряды флакона
+flask_stacks_kill|Flask Stacks Recovered Per Kill|Восстановление зарядов флакона за убийство
+flask_stacks_regen|Flask Stacks Recovered|Восстановление зарядов флакона
+flask_cooldown|Flask Cooldown|Перезарядка флакона
+intelligence_skill_damage|Intelligence Converted to Magic Skill Damage|Преобразование интеллекта в урон маг. умений
+intelligence_lightning|Intelligence Converted to Lightning Skill Damage|Преобразование интеллекта в урон умений молнии
+intelligence_fire|Intelligence Converted to Fire Skill Damage|Преобразование интеллекта в урон умений огня
+intelligence_cold|Intelligence Converted to Cold Skill Damage|Преобразование интеллекта в урон умений холода
+intelligence_arcane|Intelligence Converted to Arcane Skill Damage|Преобразование интеллекта в урон умений тайной магии
+intelligence_poison|Intelligence Converted to Poison Skill Damage|Преобразование интеллекта в урон умений яда
+vitality_attack_damage|Vitality Converted to Attack Damage|Преобразование живучести в урон от атак
+vitality_skill_damage|Vitality Converted to Magic Skill Damage|Преобразование живучести в урон маг. умений
+vitality_lightning|Vitality Converted to Lightning Skill Damage|Преобразование живучести в урон умений молнии
+vitality_fire|Vitality Converted to Fire Skill Damage|Преобразование живучести в урон умений огня
+vitality_cold|Vitality Converted to Cold Skill Damage|Преобразование живучести в урон умений холода
+vitality_arcane|Vitality Converted to Arcane Skill Damage|Преобразование живучести в урон умений тайной магии
+vitality_poison|Vitality Converted to Poison Skill Damage|Преобразование живучести в урон умений яда
+energy_skill_damage|Energy Converted to Magic Skill Damage|Преобразование энергии в урон маг. умений
+energy_lightning|Energy Converted to Lightning Skill Damage|Преобразование энергии в урон умений молнии
+energy_fire|Energy Converted to Fire Skill Damage|Преобразование энергии в урон умений огня
+energy_cold_damage|Energy Converted to Cold Skill Damage|Преобразование энергии в урон умений холода
+energy_arcane|Energy Converted to Arcane Skill Damage|Преобразование энергии в урон умений тайной магии
+energy_poison|Energy Converted to Poison Skill Damage|Преобразование энергии в урон умений яда
+armor_skill_damage|Armor Converted to Magic Skill Damage|Преобразование брони в урон маг. умений
+armor_attack_damage|Armor Converted to Attack Damage|Преобразование брони в урон от атак
 ||
-fcr_movement_speed|Faster Cast Rate Converted to Movement Speed|Скорость сотворения заклинаний преобразуется в скорость передвижения
+fcr_movement_speed|Faster Cast Rate Converted to Movement Speed|Скорость каста преобразуется в скорость передвижения
 ||
 [Stat Explanations]||
 stat_desc_aps|Amount of attacks performed in a second.|Количество атак, совершаемых за секунду.
@@ -555,7 +554,7 @@ stat_desc_attack_speed|Amount of increased Attack Speed. Percentual Attack Speed
 stat_desc_movement_speed|Amount of increased Movement Speed.|Величина увеличения скорости передвижения.
 stat_desc_strength|Every point in Strength increases your Attack Damage by 1%.|Каждое очко силы увеличивает урон от атак на 1%.
 stat_desc_dexterity|Every point in Dexterity increases your Attack Rating by 8 and your Critical Damage by 0.125%.|Каждое очко ловкости увеличивает рейтинг атаки на 8, а критический урон — на 0,125%.
-stat_desc_intelligence|Every point in Intelligence increases Magic Skill Damage dealt.|Каждое очко интеллекта увеличивает наносимый урон магических умений.
+stat_desc_intelligence|Every point in Intelligence increases Magic Skill Damage dealt.|Каждое очко интеллекта увеличивает урон магических умений.
 stat_desc_energy|Every point in Energy increases your Mana by 4. Mana gained from Energy also increases your base Mana Replenish.|Каждое очко энергии увеличивает ману на 4. Мана от энергии также увеличивает базовое восполнение маны.
 stat_desc_armor|Every point in Armor increases your Defense by 5.|Каждое очко брони увеличивает защиту на 5.
 stat_desc_vitality|Every point in Vitality increases your Life by 5. Life gained from Vitality also increases your base Life Replenish.|Каждое очко живучести увеличивает здоровье на 5. Здоровье от живучести также увеличивает базовое восполнение здоровья.
@@ -569,8 +568,8 @@ stat_desc_poison_skills|Increases the level of all Poison Skills.|Повышае
 stat_desc_physical_skills|Increases the level of all Physical Skills.|Повышает уровень всех физических умений.
 stat_desc_damage|The amount of damage your attacks deal.|Количество урона, наносимого вашими атаками.
 stat_desc_attack_rating|Increases your chance of hitting enemies with attacks.|Увеличивает шанс попадания по врагам атаками.
-stat_desc_faster_cast_rate|Increases your Casting speed. Faster Cast Rate is always calculated using 1 Cast Per Second.|Увеличивает скорость сотворения заклинаний. Скорость сотворения всегда рассчитывается на основе 1 заклинания в секунду.
-stat_desc_skill_damage|Increases the damage of your Skills excluding skills which deal Attack Damage. This stat is calculated on top of the final value.|Увеличивает урон умений, за исключением тех, что наносят урон от атаки. Рассчитывается поверх конечного значения.
+stat_desc_faster_cast_rate|Increases your Casting speed. Faster Cast Rate is always calculated using 1 Cast Per Second.|Увеличивает скорость каста. Рассчитывается на основе 1 заклинания в секунду.
+stat_desc_skill_damage|Increases the damage of your Skills excluding skills which deal Attack Damage. This stat is calculated on top of the final value.|Увеличивает урон умений (кроме наносящих урон от атаки). Рассчитывается поверх конечного значения.
 stat_desc_critical_damage|Amount of your Critical Strike damage. Only affects physical attacks.|Величина критического урона. Влияет только на физические атаки.
 stat_desc_critical_chance|Chance for a Critical Strike when striking. Only affects physical attacks.|Шанс критического удара. Влияет только на физические атаки.
 stat_desc_physical_damage|Physical Damage added to your attacks.|К атакам добавляется физический урон.
@@ -590,17 +589,17 @@ stat_desc_life_replenish|Amount of Life replenished each second.|Количес�
 stat_desc_mana_replenish|Amount of Mana replenished each second.|Количество маны, восполняемое каждую секунду.
 stat_desc_life_per_hit|Amount of Life replenished when striking an enemy.|Количество здоровья, восполняемое при ударе по врагу.
 stat_desc_mana_per_hit|Amount of Mana replenished when striking an enemy.|Количество маны, восполняемое при ударе по врагу.
-stat_desc_cooldown_reduction|Increases cooldown recovery rate.|Увеличивает скорость восстановления умений.
-stat_desc_cooldown_reduction_potion|Increases Flask cooldown recovery rate.|Увеличивает скорость восстановления зелья.
+stat_desc_cooldown_reduction|Increases cooldown recovery rate.|Увеличивает скорость перезарядки умений.
+stat_desc_cooldown_reduction_potion|Increases Flask cooldown recovery rate.|Увеличивает скорость перезарядки флакона.
 stat_desc_life_after_kill|Amount of Life replenished after killing a monster.|Количество здоровья, восполняемое после убийства монстра.
 stat_desc_mana_after_kill|Amount of Mana replenished after killing a monster.|Количество маны, восполняемое после убийства монстра.
 stat_desc_experience_gain|Increases your experience gained from killing monsters.|Увеличивает опыт, получаемый за убийство монстров.
-stat_desc_magic_find|Increased chance of finding magic items. (Mercenary’s Magic Find is added to player Magic Find on kills).|Увеличен шанс найти магические предметы. (MF наемника добавляется к MF игрока при убийствах).
+stat_desc_magic_find|Increased chance of finding magic items. (Mercenary’s Magic Find is added to player Magic Find on kills).|Увеличен шанс найти магические предметы. (MF наемника суммируется с MF игрока при убийствах).
 stat_desc_block_rate|The chance to block incoming attacks and projectiles.|Шанс блокировать входящие атаки и снаряды.
-stat_desc_defense|Defense lowers the chance of enemies hitting you with Physical Attacks or Projectiles.|Защита снижает вероятность попадания по вам физических атак или снарядов.
-stat_desc_damage_reduced|Reduces a flat amount of damage from every source. This stat is additive and does not scale from anything.|Уменьшает фиксированное количество урона от любого источника. Является аддитивным и не масштабируется.
-stat_desc_reduction|Reduces incoming Physical Damage|Уменьшает входящий физический урон
-stat_desc_magic_reduction|Reduces incoming Magic Damage such as Cold, Fire, Lightning, Poison and Arcane|Уменьшает входящий магический урон (холод, огонь, молния, яд и тайная магия)
+stat_desc_defense|Defense lowers the chance of enemies hitting you with Physical Attacks or Projectiles.|Защита снижает вероятность попадания по вам физическими атаками или снарядами.
+stat_desc_damage_reduced|Reduces a flat amount of damage from every source. This stat is additive and does not scale from anything.|Уменьшает фиксированное количество урона от любого источника. Складывается с другими бонусами и не масштабируется.
+stat_desc_reduction|Reduces incoming Physical Damage|Уменьшает входящий физический урон.
+stat_desc_magic_reduction|Reduces incoming Magic Damage such as Cold, Fire, Lightning, Poison and Arcane|Уменьшает входящий магический урон (холод, огонь, молния, яд и тайная магия).
 stat_desc_damage_return|Returns a portion of incoming damage back to the attacker.|Возвращает часть полученного урона атакующему.
 stat_desc_all_resistances|Increases your resistance against damage from All Elements.|Увеличивает сопротивление урону от всех стихий.
 stat_desc_magic_resistance|Increases your resistance to Arcane damage.|Увеличивает сопротивление урону тайной магии.
@@ -608,33 +607,33 @@ stat_desc_cold_resistance|Increases your resistance to Cold damage.|Увелич
 stat_desc_fire_resistance|Increases your resistance to Fire damage.|Увеличивает сопротивление урону огня.
 stat_desc_poison_resistance|Increases your resistance to Poison damage.|Увеличивает сопротивление урону яда.
 stat_desc_lightning_resistance|Increases your resistance to Lightning damage.|Увеличивает сопротивление урону молнии.
-stat_desc_fire_absorb|Absorbs a portion of all incoming Fire Damage as healing.|Поглощает часть входящего урона от огня в виде исцеления.
-stat_desc_cold_absorb|Absorbs a portion of all incoming Cold Damage as healing.|Поглощает часть входящего урона от холода в виде исцеления.
-stat_desc_lightning_absorb|Absorbs a portion of all incoming Lightning Damage as healing.|Поглощает часть входящего урона от молнии в виде исцеления.
-stat_desc_light_radius|Effects your visibility range and base movement speed scaling.|Влияет на радиус обзора и масштабирование базовой скорости передвижения.
+stat_desc_fire_absorb|Absorbs a portion of all incoming Fire Damage as healing.|Поглощает часть входящего урона от огня, преобразуя его в исцеление.
+stat_desc_cold_absorb|Absorbs a portion of all incoming Cold Damage as healing.|Поглощает часть входящего урона от холода, преобразуя его в исцеление.
+stat_desc_lightning_absorb|Absorbs a portion of all incoming Lightning Damage as healing.|Поглощает часть входящего урона от молнии, преобразуя его в исцеление.
+stat_desc_light_radius|Effects your visibility range and base movement speed scaling.|Влияет на радиус освещения и прирост базовой скорости передвижения.
 stat_desc_mining|Your Mining skill level.|Ваш уровень навыка горного дела.
 stat_desc_jewelcrafting|Your Jewelcrafting skill level.|Ваш уровень навыка ювелирного дела.
 stat_desc_herbalism|Your Herbalism skill level.|Ваш уровень навыка травничества.
 stat_desc_deadly_blow|Deadly Blow increases your Physical Damage by 35%|Смертельный удар увеличивает физический урон на 35%.
-stat_desc_crushing_blow|Crushing Blow breaks enemy armor by 10% stacking up to 5 times increasing physical damage taken by enemies.|Сокрушительный удар разрушает броню противника на 10% (суммируется до 5 раз), увеличивая получаемый им физический урон.
-stat_desc_open_wounds|Open Wounds bleeds target enemy for 20% of your Physical Damage.|Открытые раны вызывают у противника кровотечение, наносящее 20% от вашего физического урона.
-stat_desc_ignore_defense|Ignores enemy Defense rating making it easier to hit the target.|Игнорирует защиту противника, облегчая попадание в цель.
-stat_desc_slow_target|Attacks slow enemy Movement and Attack Speed.|Атаки замедляют передвижение и скорость атаки противника.
-stat_desc_extra_gold|Extra gold dropped from monsters when killed.|Дополнительное золото, выпадающее из убитых монстров.
-stat_desc_merchant_prices|Discounted prices when buying from the Merchant.|Скидки при покупке у торговца.
-stat_desc_poison_length_reduced|Lowered poison debuff duration.|Уменьшена продолжительность действия эффекта отравления.
-stat_desc_ignore_magic_resist|The amount of enemy Arcane resistance ignored when dealing Arcane Damage.|Величина сопротивления тайной магии противника, игнорируемая при нанесении урона тайной магией.
-stat_desc_ignore_cold_resist|The amount of enemy Cold resistance ignored when dealing Cold Damage.|Величина сопротивления холоду противника, игнорируемая при нанесении урона холодом.
-stat_desc_ignore_fire_resist|The amount of enemy Fire resistance ignored when dealing Fire Damage.|Величина сопротивления огню противника, игнорируемая при нанесении урона огнем.
-stat_desc_ignore_poison_resist|The amount of enemy Poison resistance ignored when dealing Poison Damage.|Величина сопротивления яду противника, игнорируемая при нанесении урона ядом.
-stat_desc_ignore_lightning_resist|The amount of enemy Lightning resistance ignored when dealing Lightning Damage.|Величина сопротивления молнии противника, игнорируемая при нанесении урона молнией.
+stat_desc_crushing_blow|Crushing Blow breaks enemy armor by 10% stacking up to 5 times increasing physical damage taken by enemies.|Сокрушительный удар раскалывает броню противника на 10% (до 5 раз), увеличивая получаемый им физический урон.
+stat_desc_open_wounds|Open Wounds bleeds target enemy for 20% of your Physical Damage.|«Открытые раны» вызывают у противника кровотечение на 20% от вашего физического урона.
+stat_desc_ignore_defense|Ignores enemy Defense rating making it easier to hit the target.|Игнорирует рейтинг защиты противника, облегчая попадание в цель.
+stat_desc_slow_target|Attacks slow enemy Movement and Attack Speed.|Атаки замедляют скорость передвижения и атаки противника.
+stat_desc_extra_gold|Extra gold dropped from monsters when killed.|Дополнительное золото при убийстве монстров.
+stat_desc_merchant_prices|Discounted prices when buying from the Merchant.|Скидка при покупке у торговца.
+stat_desc_poison_length_reduced|Lowered poison debuff duration.|Уменьшает длительность действия отравления.
+stat_desc_ignore_magic_resist|The amount of enemy Arcane resistance ignored when dealing Arcane Damage.|Количество игнорируемого сопротивления тайной магии противника при нанесении урона.
+stat_desc_ignore_cold_resist|The amount of enemy Cold resistance ignored when dealing Cold Damage.|Количество игнорируемого сопротивления холоду противника при нанесении урона.
+stat_desc_ignore_fire_resist|The amount of enemy Fire resistance ignored when dealing Fire Damage.|Количество игнорируемого сопротивления огню противника при нанесении урона.
+stat_desc_ignore_poison_resist|The amount of enemy Poison resistance ignored when dealing Poison Damage.|Количество игнорируемого сопротивления яду противника при нанесении урона.
+stat_desc_ignore_lightning_resist|The amount of enemy Lightning resistance ignored when dealing Lightning Damage.|Количество игнорируемого сопротивления молнии противника при нанесении урона.
 stat_desc_faster_hit_recovery|Increases the speed of recovery after being hit by an attack or projectile.|Увеличивает скорость восстановления после получения удара или попадания снаряда.
 ||
 [Talent Tooltips]||
-tal_summon_amount|Summon Amount|Количество призыва
+tal_summon_amount|Summon Amount|Количество призываемых существ
 tal_duration|Duration|Длительность
 tal_slow_duration|Slow Duration|Длительность замедления
-tal_slow_power|Slow Power|Сила замедления
+tal_slow_power|Slow Power|Эффективность замедления
 tal_speed|Speed|Скорость
 tal_stun_duration|Stun Duration|Длительность оглушения
 tal_freeze_duration|Freeze Duration|Длительность заморозки
@@ -642,10 +641,10 @@ tal_hex_duration|Hex Duration|Длительность сглаза
 tal_disarm_duration|Disarm Duration|Длительность разоружения
 tal_root_duration|Root Duration|Длительность обездвиживания
 tal_gold|Gold Amount|Количество золота
-tal_recall|Recall Summons|Отозвать прислужников
+tal_recall|Recall Summons|Отзыв прислужников
 tal_distance|Distance|Расстояние
-tal_seconds|s|с
-tal_minutes|m|м
+tal_seconds|s|сек.
+tal_minutes|m|мин.
 tal_size|Size|Размер
 tal_targets|Targets|Цели
 tal_range|Range|Дальность
@@ -656,19 +655,19 @@ tal_movement_speed|Movement Speed|Скорость передвижения
 tal_attack_speed|Attack Speed|Скорость атаки
 tal_attack_rating|Attack Rating|Рейтинг атаки
 tal_critical_chance|Critical Strike Chance|Шанс критического удара
-tal_critical_damage|Critical Strike Damage|Урон критического удара
+tal_critical_damage|Critical Strike Damage|Критический урон
 tal_spell_crit_chance|Spell Critical Chance|Шанс крит. удара заклинанием
-tal_spell_crit_damage|Spell Critical Damage|Критический урон заклинания
+tal_spell_crit_damage|Spell Critical Damage|Критический урон заклинаний
 tal_life_replenish|Life Replenish|Восполнение здоровья
 tal_mana_replenish|Mana Replenish|Восполнение маны
-tal_magic_damage_taken|Magic Damage Reduction|Снижение магического урона
-tal_damage_taken|Physical Damage Reduction|Снижение физического урона
+tal_magic_damage_taken|Magic Damage Reduction|Снижение маг. урона
+tal_damage_taken|Physical Damage Reduction|Снижение физ. урона
 tal_all_damage_taken|Damage Reduction|Снижение урона
-tal_damage_return|Damage Return|Возврат урона
-tal_total_damage_return|Total Damage Return|Общий возврат урона
+tal_damage_return|Damage Return|Отражение урона
+tal_total_damage_return|Total Damage Return|Общее отражение урона
 tal_defense|Defense|Защита
-tal_cooldown|Skill Haste|Скорость восстановления умений
-tal_cooldown_belt|Flask Skill Haste|Скорость восстановления зелья
+tal_cooldown|Skill Haste|Ускорение перезарядки умений
+tal_cooldown_belt|Flask Skill Haste|Ускорение перезарядки флаконов
 tal_parry_chance|Parry Chance|Шанс парирования
 tal_dodge_chance|Dodge Chance|Шанс уклонения
 tal_all_resistances|All Resistances|Все сопротивления
@@ -681,10 +680,10 @@ tal_mana|Mana|Мана
 tal_mana_cost|Mana Cost|Затраты маны
 tal_life_after_kill|Life After Kill|Здоровье за убийство
 tal_mana_after_kill|Mana After Kill|Мана за убийство
-tal_faster_cast_rate|Faster Cast Rate|Скорость сотворения заклинаний
+tal_faster_cast_rate|Faster Cast Rate|Скорость каста
 tal_life_steal|Life Steal|Похищение здоровья
 tal_mana_steal|Mana Steal|Похищение маны
-tal_whirlwind_damage|Whirlwind Damage|Урон вихря
+tal_whirlwind_damage|Whirlwind Damage|Урон «Вихря»
 tal_attack_damage|Attack Damage|Урон от атаки
 tal_damage_dealt|Damage Dealt|Нанесенный урон
 tal_damage_multiplier|Damage Multiplier|Множитель урона
@@ -703,73 +702,73 @@ tal_skill_cold_damage|Cold Skill Damage|Урон умений холода
 tal_skill_poison_damage|Poison Skill Damage|Урон умений яда
 tal_skill_lightning_damage|Lightning Skill Damage|Урон умений молнии
 tal_skill_magic_damage|Arcane Skill Damage|Урон умений тайной магии
-tal_break_elemental|Elemental Break|Стихийный прорыв
-tal_break_armor|Armor Break|Прорыв брони
-tal_break_fire|Fire Break|Прорыв огня
-tal_break_cold|Cold Break|Прорыв холода
-tal_break_poison|Poison Break|Прорыв яда
-tal_break_lightning|Lightning Break|Прорыв молнии
-tal_break_magic|Arcane Break|Прорыв тайной магии
-tal_poisoned_damage|Poisoned Damage|Урон от яда
+tal_break_elemental|Elemental Break|Пробивание стихийного сопр.
+tal_break_armor|Armor Break|Пробивание брони
+tal_break_fire|Fire Break|Пробивание сопр. огню
+tal_break_cold|Cold Break|Пробивание сопр. холоду
+tal_break_poison|Poison Break|Пробивание сопр. яду
+tal_break_lightning|Lightning Break|Пробивание сопр. молнии
+tal_break_magic|Arcane Break|Пробивание сопр. тайной магии
+tal_poisoned_damage|Poisoned Damage|Урон от отравления
 tal_burning_damage|Burning Damage|Урон от горения
 tal_total_burning_damage|Total Burning Damage|Общий урон от горения
 tal_bleed_damage|Bleeding Damage|Урон от кровотечения
 tal_total_bleed_damage|Total Bleed Damage|Общий урон от кровотечения
-tal_plague_damage|Plague Damage|Урон от чумы
-tal_stasis_damage|Stasis Damage|Урон от стазиса
-tal_shadow_burn_damage|Shadow Burn Damage|Урон от теневого ожога
-tal_frostbite_damage|Frostbite Damage|Урон от обморожения
+tal_plague_damage|Plague Damage|Урон чумы
+tal_stasis_damage|Stasis Damage|Урон стазиса
+tal_shadow_burn_damage|Shadow Burn Damage|Урон теневого ожога
+tal_frostbite_damage|Frostbite Damage|Урон обморожения
 tal_bleed_target|Damage to Bleeding Targets|Урон по кровоточащим целям
-tal_chain_damage|Serrated Chain Damage|Урон зазубренной цепи
+tal_chain_damage|Serrated Chain Damage|Урон «Зазубренной цепи»
 tal_ignore_armor|Armor Ignored|Игнорирование брони
 tal_resistance_fire|Fire Resistance|Сопротивление огню
 tal_resistance_cold|Cold Resistance|Сопротивление холоду
 tal_resistance_poison|Poison Resistance|Сопротивление яду
 tal_resistance_lightning|Lightning Resistance|Сопротивление молнии
 tal_resistance_magic|Arcane Resistance|Сопротивление тайной магии
-tal_multicast|Multicast|Многократное сотворение
-tal_multicast_chance|Multicast chance|Шанс многократного сотворения
-tal_mana_restored|Mana Restored|Мана восстановлена
-tal_life_to_damage|Physical Damage per 500 Life|Физический урон за каждые 500 здоровья
-tal_life_to_cold_damage|Life to Cold Damage|Здоровье в урон холодом
+tal_multicast|Multicast|Мультикаст
+tal_multicast_chance|Multicast chance|Шанс мультикаста
+tal_mana_restored|Mana Restored|Восстановлено маны
+tal_life_to_damage|Physical Damage per 500 Life|Физ. урон за каждые 500 здоровья
+tal_life_to_cold_damage|Life to Cold Damage|Преобразование здоровья в урон холодом
 tal_procs|Procs|Срабатывания
 tal_bounces|Projectile Bounces|Отскоки снарядов
-tal_increased_damage_burning|Damage to Burning targets Increased by|урон по горящим целям увеличен на
-tal_increased_damage_poisoned|Damage to Poisoned targets Increased by|урон по отравленным целям увеличен на
-tal_increased_damage_plagued|Damage to Plagued targets Increased by|урон по чумным целям увеличен на
-tal_increased_damage_frozen|Damage to Frozen targets Increased by|урон по замороженным целям увеличен на
-tal_increased_damage_stunned|Damage to Stunned targets Increased by|урон по оглушенным целям увеличен на
-tal_increased_damage_bleeding|Damage to Bleeding targets Increased by|урон по кровоточащим целям увеличен на
-tal_increased_damage_stasis|Damage to Stasis inflicted targets increased by|урон по целям в стазисе увеличен на
-tal_increased_damage_shadow_burn|Damage to Shadow Burning targets increased by|урон по целям с теневым ожогом увеличен на
-tal_increased_damage_serrated|Damage to Serrated Chains inflicted targets increased by|урон по целям с зазубренными цепями увеличен на
-tal_increased_damage_frostbite|Damage to Frost Bitten targets increased by|урон по обмороженным целям увеличен на
-tal_increased_damage_ailments|Damage to monsters with Ailments increased by|урон по монстрам с состояниями увеличен на
+tal_increased_damage_burning|Damage to Burning targets Increased by|Урон по горящим целям увеличен на
+tal_increased_damage_poisoned|Damage to Poisoned targets Increased by|Урон по отравленным целям увеличен на
+tal_increased_damage_plagued|Damage to Plagued targets Increased by|Урон по чумным целям увеличен на
+tal_increased_damage_frozen|Damage to Frozen targets Increased by|Урон по замороженным целям увеличен на
+tal_increased_damage_stunned|Damage to Stunned targets Increased by|Урон по оглушенным целям увеличен на
+tal_increased_damage_bleeding|Damage to Bleeding targets Increased by|Урон по кровоточащим целям увеличен на
+tal_increased_damage_stasis|Damage to Stasis inflicted targets increased by|Урон по целям в стазисе увеличен на
+tal_increased_damage_shadow_burn|Damage to Shadow Burning targets increased by|Урон по целям с теневым ожогом увеличен на
+tal_increased_damage_serrated|Damage to Serrated Chains inflicted targets increased by|Урон по целям с «Зазубренными цепями» увеличен на
+tal_increased_damage_frostbite|Damage to Frost Bitten targets increased by|Урон по обмороженным целям увеличен на
+tal_increased_damage_ailments|Damage to monsters with Ailments increased by|Урон по монстрам с негативными эффектами увеличен на
 tal_experience_gain|Experience Gain Increased by|Получаемый опыт увеличен на
 tal_strength|Strength Increased by|Сила увеличена на
 tal_vitality|Vitality Increased by|Живучесть увеличена на
-tal_command|Command Summons and Mercenary|Командовать прислужниками и наемником
+tal_command|Command Summons and Mercenary|Управление прислужниками и наемниками
 tal_effectiveness|Effectiveness|Эффективность
-tal_projectile_speed|Projectile Speed Increased by|Скорость снаряда увеличена на
+tal_projectile_speed|Projectile Speed Increased by|Скорость снарядов увеличена на
 tal_orbital_speed|Orbital Speed increased by|Скорость орбитальных снарядов увеличена на
-tal_damage_per_enemy|Damage per hit Increased by|урон за удар увеличен на
+tal_damage_per_enemy|Damage per hit Increased by|Урон за удар увеличен на
 tal_rabies|Rabies|Бешенство
 tal_summon_damage|Summon Damage|Урон прислужников
 tal_target_defense|Ignore Target Defense|Игнорирование защиты цели
-tal_enemy_damage_dealt|Enemy Damage Reduced by|урон врага уменьшен на
+tal_enemy_damage_dealt|Enemy Damage Reduced by|Урон врагов снижен на
 tal_chance|Chance|Шанс
 tal_oil_spills|Oil Spills|Разливы нефти
 tal_shrapnel|Shrapnel|Шрапнель
-tal_energy_to_magic_damage|Energy converted to Magic Damage|Энергия преобразуется в магический урон
-tal_diminish_reduced|Landing Diminish Reduced|Штраф при приземлении уменьшен
+tal_energy_to_magic_damage|Energy converted to Magic Damage|Энергия преобразуется в маг. урон
+tal_diminish_reduced|Landing Diminish Reduced|Снижение затухания скорости при приземлении
 tal_conversion|Conversion|Преобразование
 tal_slashes|Slashes|Удары
 tal_ricochet_chance|Ricochet Chance|Шанс рикошета
 tal_disorientation_level|Disorientation Level|Уровень дезориентации
-tal_extra_totems|Extra Totems|Дополнительные тотемы
-tal_extra_summons|Extra Summons|Дополнительные прислужники
+tal_extra_totems|Extra Totems|Доп. тотемы
+tal_extra_summons|Extra Summons|Доп. прислужники
 tal_proc_chance|Proc Chance|Шанс срабатывания
-tal_shrine_effect|Shrine Effects|Эффекты святилища
+tal_shrine_effect|Shrine Effects|Эффекты святилищ
 tal_cold_conversion|Conversion to Cold|Преобразование в холод
 tal_arcane_conversion|Conversion to Arcane|Преобразование в тайную магию
 tal_fire_conversion|Conversion to Fire|Преобразование в огонь
@@ -778,138 +777,138 @@ tal_lightning_conversion|Conversion to Lightning|Преобразование в
 tal_lucky_number|Lucky Number|Счастливое число
 tal_barrels|Barrels|Бочки
 tal_waves|Waves|Волны
-tal_shouts|Shouts|Крики
+tal_shouts|Shouts|Кличи
 tal_swings|Swings|Взмахи
-tal_execute|Execute below|Казнить при здоровье ниже
+tal_execute|Execute below|Казнь при здоровье ниже
 tal_damage_stored|Damage Stored|Накопленный урон
 tal_trails|Trails|Следы
-tal_stat_increase|Stat Increase|Увеличение характеристики
-tal_extra_stacks|Extra Stacks|Дополнительные заряды
+tal_stat_increase|Stat Increase|Повышение характеристик
+tal_extra_stacks|Extra Stacks|Доп. заряды
 tal_hit_frequency|Hit Frequency|Частота попаданий
 tal_chains|Chains|Цепи
-tal_additional_summons|Additional Summons|Дополнительные прислужники
-tal_max_life_damage|Damage Based on Life|урон на основе здоровья
+tal_additional_summons|Additional Summons|Доп. прислужники
+tal_max_life_damage|Damage Based on Life|Урон, зависящий от здоровья
 tal_frequency|Frequency|Частота
 tal_aoe_decreased|Area of Effect decreased by|Область действия уменьшена на
 tal_damage_taken_increased|Damage Taken Increased by|Получаемый урон увеличен на
-tal_permafrost|Permafrost Damage|Урон вечной мерзлоты
-tal_movement_diminish|Reduced Movement Diminish|Уменьшенный штраф к движению
+tal_permafrost|Permafrost Damage|Урон «Вечной мерзлоты»
+tal_movement_diminish|Reduced Movement Diminish|Снижение потери скорости при движении
 tal_reduction|Reduction|Снижение
 tal_pull_strength|Pull Strength|Сила притяжения
 tal_spin_speed|Spinning Speed|Скорость вращения
 tal_corpses|Corpses|Трупы
-tal_electrified|Electrified|Электрифицированный
-tal_resets|Resets|Сбросы
-tal_damage_multiplied|Damage Multiplied by|урон умножен на
+tal_electrified|Electrified|Электрический разряд
+tal_resets|Resets|Сброс перезарядки
+tal_damage_multiplied|Damage Multiplied by|Урон умножен на
 tal_stacks|Stacks|Заряды
-tal_boss_damage|Damage to Bosses increased by|урон по боссам увеличен на
+tal_boss_damage|Damage to Bosses increased by|Урон по боссам увеличен на
 tal_layer|Layers|Слои
-tal_loot_amount|Loot Amount increased by|Количество добычи увеличено на
+tal_loot_amount|Loot Amount increased by|Количество трофеев увеличено на
 tal_drop_chance|Drop Chance increased by|Шанс выпадения увеличен на
 tal_spawn_chance|Spawn Chance increased by|Шанс появления увеличен на
 tal_armor|Armor increased by|Броня увеличена на
-tal_per_point_mana|Per Point of Mana|За очко маны
-tal_ring_effect|Ring Effectiveness increased by|Эффективность кольца увеличена на
+tal_per_point_mana|Per Point of Mana|За единицу маны
+tal_ring_effect|Ring Effectiveness increased by|Эффективность колец увеличена на
 tal_activation_time|Chance for Rapid Activation|Шанс быстрой активации
-tal_per_mana|Maximum Mana divided by|Максимальная мана, деленная на
+tal_per_mana|Maximum Mana divided by|Макс. мана, деленная на
 tal_accuracy|Accuracy|Точность
-tal_life_conversion|Life Converted to Damage|Здоровье преобразуется в урон
+tal_life_conversion|Life Converted to Damage|Здоровье преобразовано в урон
 tal_stats|Stats|Характеристики
-tal_extra_loot|Extra Loot Amount|Дополнительная добыча
-tal_weapon_restrictions|Weapon Restrictions Reduced by|Ограничения на оружие снижены на
-tal_ripple_damage|Ripple Damage|Урон пульсации
+tal_extra_loot|Extra Loot Amount|Объем дополнительной добычи
+tal_weapon_restrictions|Weapon Restrictions Reduced by|Требования к оружию снижены на
+tal_ripple_damage|Ripple Damage|Волновой урон
 tal_burning_max_life|Burning based on max life|Горение на основе макс. здоровья
-tal_consequent_critical_chance|Consequent Critical Chance|Последующий шанс крит. удара
-tal_explosion_delay|Explosion Delay Reduced by|Задержка взрыва уменьшена на
+tal_consequent_critical_chance|Consequent Critical Chance|Шанс повторного крит. удара
+tal_explosion_delay|Explosion Delay Reduced by|Задержка взрыва снижена на
 tal_maximum_critical_damage|Maximum Critical Damage|Максимальный критический урон
-tal_jagged_damage|Jagged Gauntlet Damage|Урон зазубренной перчатки
-tal_rolls|Additional Rolls|Дополнительные броски
-tal_drop_rate|Drop Rate Increased by|Шанс выпадения увеличен на
+tal_jagged_damage|Jagged Gauntlet Damage|Урон «Зазубренной перчатки»
+tal_rolls|Additional Rolls|Доп. попытки (роллы)
+tal_drop_rate|Drop Rate Increased by|Шанс выпадения предметов увеличен на
 ||
 [Buff Tooltips]||
 buff_heat|Heat|Жар
-buff_attack_damage|Attack Damage Increased by|урон от атаки увеличен на
-buff_attack_speed|Attack Speed Increased by|скорость атаки увеличена на
-buff_attack_rating|Attack Rating Increased by|рейтинг атаки увеличен на
-buff_movement_speed|Movement Speed Increased by|скорость передвижения увеличена на
-buff_movement_speed_reduced|Movement Speed Decreased by|скорость передвижения уменьшена на
-buff_defense|Defense Increased by|защита увеличена на
-buff_life|Life Increased by|здоровье увеличено на
-buff_mana|Mana Increased by|мана увеличена на
-buff_life_steal|Life Steal per hit|похищение здоровья за удар
-buff_mana_steal|Mana Steal per hit|похищение маны за удар
-buff_life_replenish|Life Replenish by|восполнение здоровья на
-buff_mana_replenish|Mana Replenish by|восполнение маны на
-buff_magic_damage_reduction|Magic Damage taken reduced by|получаемый магический урон уменьшен на
-buff_physical_damage_reduction|Physical Damage taken reduced by|получаемый физический урон уменьшен на
-buff_damage_reduction|Damage taken reduced by|получаемый урон уменьшен на
-buff_damage_taken_mana|Damage taken converted into mana|получаемый урон преобразуется в ману
-buff_cast_rate|Cast Rate Increased by|скорость сотворения заклинаний увеличена на
+buff_attack_damage|Attack Damage Increased by|Урон от атак увеличен на
+buff_attack_speed|Attack Speed Increased by|Скорость атаки увеличена на
+buff_attack_rating|Attack Rating Increased by|Рейтинг атаки увеличен на
+buff_movement_speed|Movement Speed Increased by|Скорость передвижения увеличена на
+buff_movement_speed_reduced|Movement Speed Decreased by|Скорость передвижения снижена на
+buff_defense|Defense Increased by|Защита увеличена на
+buff_life|Life Increased by|Здоровье увеличено на
+buff_mana|Mana Increased by|Мана увеличена на
+buff_life_steal|Life Steal per hit|Похищение здоровья за удар
+buff_mana_steal|Mana Steal per hit|Похищение маны за удар
+buff_life_replenish|Life Replenish by|Восполнение здоровья на
+buff_mana_replenish|Mana Replenish by|Восполнение маны на
+buff_magic_damage_reduction|Magic Damage taken reduced by|Получаемый маг. урон снижен на
+buff_physical_damage_reduction|Physical Damage taken reduced by|Получаемый физ. урон снижен на
+buff_damage_reduction|Damage taken reduced by|Получаемый урон снижен на
+buff_damage_taken_mana|Damage taken converted into mana|Получаемый урон переходит в ману
+buff_cast_rate|Cast Rate Increased by|Скорость каста увеличена на
 buff_immortality|Immortality|Бессмертие
 buff_freeze|Freeze Duration|Длительность заморозки
 buff_slow|Slow Duration|Длительность замедления
-buff_dodge|Dodge Increased by|уклонение увеличено на
+buff_dodge|Dodge Increased by|Уклонение увеличено на
 buff_stun|Stun Duration|Длительность оглушения
-buff_damage_return|Damage Returned to attacker|урон возвращается атакующему
-buff_strength|Strength Increased by|сила увеличена на
-buff_dexterity|Dexterity Increased by|ловкость увеличена на
-buff_energy|Energy Increased by|энергия увеличена на
-buff_armor|Armor Increased by|броня увеличена на
-buff_vitality|Vitality Increased by|живучесть увеличена на
-buff_experience_gain|Experience Gained Increased by|получаемый опыт увеличен на
-buff_magic_find|Magic Find Increased by|шанс найти маг. предметы увеличен на
-buff_extra_gold|Extra Gold from kills|дополнительное золото за убийства
-buff_all_skills|All Skills Increased by|все умения увеличены на
-buff_additive_physical_damage|Physical Damage Increased by|физический урон увеличен на
-buff_physical_damage|Physical Damage dealt|нанесенный физический урон
-buff_skill_damage|Magic Skill Damage Increased by|урон магических умений увеличен на
-buff_additive_fire_damage|Additive Fire Damage Increased by|урон огня увеличен на
-buff_fire_damage|Fire Damage dealt|нанесенный урон огня
-buff_fire_skill_damage|Fire Skill Damage Increased by|урон умений огня увеличен на
-buff_additive_cold_damage|Additive Cold Damage Increased by|урон холода увеличен на
-buff_cold_damage|Cold Damage dealt|нанесенный урон холода
-buff_cold_skill_damage|Cold Skill Damage Increased by|урон умений холода увеличен на
-buff_additive_lightning_damage|Additive Lightning Damage Increased by|урон молнии увеличен на
-buff_lightning_damage|Lightning Damage dealt|нанесенный урон молнии
-buff_lightning_skill_damage|Lightning Skill Damage Increased by|урон умений молнии увеличен на
-buff_additive_poison_damage|Additive Poison Damage Increased by|урон яда увеличен на
-buff_poison_damage|Poison Damage dealt|нанесенный урон яда
-buff_poisoned_damage|Poisoned Damage dealt|нанесенный урон от яда
-buff_poison_skill_damage|Poison Skill Damage Increased by|урон умений яда увеличен на
-buff_additive_magic_damage|Additive Arcane Damage Increased by|урон тайной магии увеличен на
-buff_magic_damage|Arcane Damage dealt|нанесенный урон тайной магии
-buff_magic_skill_damage|Arcane Skill Damage Increased by|урон умений тайной магии увеличен на
-buff_fire_resistance|Fire Resistance Increased by|сопротивление огню увеличено на
-buff_cold_resistance|Cold Resistance Increased by|сопротивление холоду увеличено на
-buff_lightning_resistance|Lightning Resistance Increased by|сопротивление молнии увеличено на
-buff_poison_resistance|Poison Resistance Increased by|сопротивление яду увеличено на
-buff_magic_resistance|Arcane Resistance Increased by|сопротивление тайной магии увеличено на
-buff_all_resistances|All Resistances Increased by|все сопротивления увеличены на
-buff_all_resistances_reduced|All Resistances Decreased by|все сопротивления уменьшены на
-buff_multicast|Cast times increased by|количество повторений заклинания увеличено на
+buff_damage_return|Damage Returned to attacker|Возврат урона атакующему
+buff_strength|Strength Increased by|Сила увеличена на
+buff_dexterity|Dexterity Increased by|Ловкость увеличена на
+buff_energy|Energy Increased by|Энергия увеличена на
+buff_armor|Armor Increased by|Броня увеличена на
+buff_vitality|Vitality Increased by|Живучесть увеличена на
+buff_experience_gain|Experience Gained Increased by|Получаемый опыт увеличен на
+buff_magic_find|Magic Find Increased by|Поиск магических предметов увеличен на
+buff_extra_gold|Extra Gold from kills|Золото за убийства
+buff_all_skills|All Skills Increased by|Все умения увеличены на
+buff_additive_physical_damage|Physical Damage Increased by|Физический урон увеличен на
+buff_physical_damage|Physical Damage dealt|Наносимый физический урон
+buff_skill_damage|Magic Skill Damage Increased by|Урон магических умений увеличен на
+buff_additive_fire_damage|Additive Fire Damage Increased by|Урон огнем увеличен на
+buff_fire_damage|Fire Damage dealt|Наносимый урон огнем
+buff_fire_skill_damage|Fire Skill Damage Increased by|Урон умений огня увеличен на
+buff_additive_cold_damage|Additive Cold Damage Increased by|Урон холодом увеличен на
+buff_cold_damage|Cold Damage dealt|Наносимый урон холодом
+buff_cold_skill_damage|Cold Skill Damage Increased by|Урон умений холода увеличен на
+buff_additive_lightning_damage|Additive Lightning Damage Increased by|Урон молнией увеличен на
+buff_lightning_damage|Lightning Damage dealt|Наносимый урон молнией
+buff_lightning_skill_damage|Lightning Skill Damage Increased by|Урон умений молнии увеличен на
+buff_additive_poison_damage|Additive Poison Damage Increased by|Урон ядом увеличен на
+buff_poison_damage|Poison Damage dealt|Наносимый урон ядом
+buff_poisoned_damage|Poisoned Damage dealt|Наносимый урон от отравления
+buff_poison_skill_damage|Poison Skill Damage Increased by|Урон умений яда увеличен на
+buff_additive_magic_damage|Additive Arcane Damage Increased by|Урон тайной магии увеличен на
+buff_magic_damage|Arcane Damage dealt|Наносимый урон тайной магии
+buff_magic_skill_damage|Arcane Skill Damage Increased by|Урон умений тайной магии увеличен на
+buff_fire_resistance|Fire Resistance Increased by|Сопротивление огню увеличено на
+buff_cold_resistance|Cold Resistance Increased by|Сопротивление холоду увеличено на
+buff_lightning_resistance|Lightning Resistance Increased by|Сопротивление молнии увеличено на
+buff_poison_resistance|Poison Resistance Increased by|Сопротивление яду увеличено на
+buff_magic_resistance|Arcane Resistance Increased by|Сопротивление тайной магии увеличено на
+buff_all_resistances|All Resistances Increased by|Все сопротивления увеличены на
+buff_all_resistances_reduced|All Resistances Decreased by|Все сопротивления снижены на
+buff_multicast|Cast times increased by|Количество повторных применений увеличено на
 buff_bleed_damage|Bleeding damage |Урон от кровотечения
 buff_homing_projectiles|Homing Projectiles|Самонаводящиеся снаряды
-buff_arcane_break|Arcane Break|Прорыв тайной магии
-buff_phasing|Phasing|Прохождение сквозь существ
-buff_critical_damage|Critical Strike Damage Increased by|урон критического удара увеличен на
-buff_increased_damage_burning|Damage to Burning targets Increased by|урон по горящим целям увеличен на
-buff_increased_damage_bleeding|Damage to Bleeding targets Increased by|урон по кровоточащим целям увеличен на
-buff_increased_damage_poisoned|Damage to Poisoned targets Increased by|урон по отравленным целям увеличен на
-buff_all_damage|All damage dealt Increased by|весь нанесенный урон увеличен на
-buff_meteor_storm|Meteor Storm Level|Уровень метеоритного шторма
+buff_arcane_break|Arcane Break|Пробивание сопр. тайной магии
+buff_phasing|Phasing|Прохождение сквозь врагов
+buff_critical_damage|Critical Strike Damage Increased by|Критический урон увеличен на
+buff_increased_damage_burning|Damage to Burning targets Increased by|Урон по горящим целям увеличен на
+buff_increased_damage_bleeding|Damage to Bleeding targets Increased by|Урон по кровоточащим целям увеличен на
+buff_increased_damage_poisoned|Damage to Poisoned targets Increased by|Урон по отравленным целям увеличен на
+buff_all_damage|All damage dealt Increased by|Весь наносимый урон увеличен на
+buff_meteor_storm|Meteor Storm Level|Уровень «Метеоритного шторма»
 buff_loot_slots|Loot Amount increased by|Количество добычи увеличено на
 buff_gold_drops|Gold from monster kills increased by|Золото за убийство монстров увеличено на
 buff_heroic_chance|Heroic Item drop chances increased by|Шанс выпадения героических предметов увеличен на
 buff_angelic_chance|Angelic Item drop chances increased by|Шанс выпадения ангельских предметов увеличен на
 buff_ancient_relic|Ancient monsters have a chance to drop a Relic when killed|Древние монстры могут оставить реликвию после смерти
-buff_ancient_goblin|Ancient monsters have a chance to summon a Treasure Goblin when killed|Древние монстры могут призвать гоблина-сокровищницу после смерти
-buff_recovery|All Recovery increased by|Все восполнение увеличено на
-buff_enemy_miniboss|Monsters have a chance to re-spawn as a Legion|Монстры могут возродиться в виде легиона
+buff_ancient_goblin|Ancient monsters have a chance to summon a Treasure Goblin when killed|Древние монстры могут призвать алчного гоблина после смерти
+buff_recovery|All Recovery increased by|Восстановление всех ресурсов увеличено на
+buff_enemy_miniboss|Monsters have a chance to re-spawn as a Legion|Монстры имеют шанс возродиться как Легион
 buff_ancient_pack|Chance to spawn Ancient packs|Шанс появления групп древних монстров
 buff_angels_embrace|Angel’s Embrace|Объятия ангела
 buff_key_chance|All Key drop chances increased by|Шанс выпадения всех ключей увеличен на
 buff_all_attributes|All Attributes increased by|Все характеристики увеличены на
-buff_summon_attack_speed|Summon Attack Speed increased by|Скорость атаки призыва увеличена на
+buff_summon_attack_speed|Summon Attack Speed increased by|Скорость атаки прислужников увеличена на
 buff_disabled|Skill Disabled|Умение отключено
 buff_rune_chance|Rune Drop Chances Increased by|Шанс выпадения рун увеличен на
 buff_jump_power|Jumping Power Increased by|Сила прыжка увеличена на
@@ -917,47 +916,47 @@ buff_card_collector|Monsters have a chance to drop a Tarot Deck when killed.|М�
 buff_relic_feast|Chance to drop a relic on monster kill|Шанс выпадения реликвии при убийстве монстра
 buff_spelunker|Chance to spawn an ore node on ancient monster kill|Шанс появления рудной жилы при убийстве древнего монстра
 buff_incarnation|Incarnation experience gained from monster kills|Опыт воплощения за убийство монстров
-buff_rift|Increased chance of dropping unstable dust from monster kills|Увеличен шанс выпадения нестабильной пыли за убийство монстров
-buff_chaos|Chance to spawn a rogue Chaos Tower in the map|Шанс появления бродячей башни Хаоса на карте
+buff_rift|Increased chance of dropping unstable dust from monster kills|Увеличен шанс выпадения нестабильной пыли с монстров
+buff_chaos|Chance to spawn a rogue Chaos Tower in the map|Шанс появления блуждающей Башни Хаоса на карте
 buff_disarm|Disarmed|Разоружение
-buff_disarmed|Unable to cast or attack|Невозможно атаковать или использовать умения
+buff_disarmed|Unable to cast or attack|Вы не можете атаковать или использовать умения
 buff_mimic|Increased chance to spawn mimics from chests|Увеличен шанс появления мимиков из сундуков
-buff_density|Increases pack size by|Увеличивает размер групп на
+buff_density|Increases pack size by|Размер групп врагов увеличен на
 ||
 ||
-debuff_light_radius|Light Radius Decreased by|Радиус обзора уменьшен на
-debuff_all_resistances|All Resistances Decreased by|Все сопротивления уменьшены на
+debuff_light_radius|Light Radius Decreased by|Радиус освещения уменьшен на
+debuff_all_resistances|All Resistances Decreased by|Все сопротивления снижены на
 debuff_damage_taken|Damage Taken increased by|Получаемый урон увеличен на
 debuff_life|Life decreased by|Здоровье уменьшено на
 debuff_mana|Mana decreased by|Мана уменьшена на
-debuff_darkness|Darkness increased by|Тьма увеличена на
-debuff_all_skills|All Skills decreased by|Все умения уменьшены на
-debuff_all_attributes|All Attributes decreased by|Все характеристики уменьшены на
-debuff_replenish|Life and Mana replenish decreased by|Восстановление здоровья и маны уменьшено на
-debuff_life_steal|Life Steal decreased by|Похищение здоровья уменьшено на
-debuff_mana_steal|Mana Steal decreased by|Похищение маны уменьшено на
-debuff_cooldown|Cooldown Recovery reduced by|Скорость восстановления умений уменьшена на
-debuff_boulder_fall|Monsters have a chance to drop a boulder from the sky when killed|Монстры могут сбросить валун с неба после смерти
-debuff_movement_speed|Movement Speed decreased by|Скорость передвижения уменьшена на
+debuff_darkness|Darkness increased by|Тьма усилена на
+debuff_all_skills|All Skills decreased by|Уровень всех умений снижен на
+debuff_all_attributes|All Attributes decreased by|Все характеристики снижены на
+debuff_replenish|Life and Mana replenish decreased by|Восполнение здоровья и маны снижено на
+debuff_life_steal|Life Steal decreased by|Похищение здоровья снижено на
+debuff_mana_steal|Mana Steal decreased by|Похищение маны снижено на
+debuff_cooldown|Cooldown Recovery reduced by|Скорость перезарядки умений снижена на
+debuff_boulder_fall|Monsters have a chance to drop a boulder from the sky when killed|При смерти монстров с небес может упасть валун
+debuff_movement_speed|Movement Speed decreased by|Скорость передвижения снижена на
 debuff_monster_life|Monster life increased by|Здоровье монстров увеличено на
 debuff_necrosis|Life drained every second by|Здоровье истощается каждую секунду на
-debuff_poison_length|Poison Length increased by|Длительность яда увеличена на
-debuff_flaming_agony|Monsters unleash a Fire Nova when killed dealing fire damage of|Монстры выпускают огненное кольцо после смерти, нанося урон огнем
+debuff_poison_length|Poison Length increased by|Длительность отравления увеличена на
+debuff_flaming_agony|Monsters unleash a Fire Nova when killed dealing fire damage of|При смерти монстры выпускают огненное кольцо, наносящее урон огнем
 debuff_unholy_agility|Monster Movement Speed and Attack Speed increased by|Скорость передвижения и атаки монстров увеличена на
-debuff_block|Block Rating reduced by|Рейтинг блока уменьшен на
-debuff_hemorrhage|Monster attacks inflict a bleed that stacks 20 times dealing damage per stack of|Атаки монстров вызывают кровотечение (до 20 зарядов), нанося урон за заряд
-debuff_crippling_slow|Monster attacks inflict a slow for 2 seconds by|Атаки монстров замедляют на 2 секунды на
-debuff_monster_crit|Monster Critical Strike Damage increased by|Урон критического удара монстров увеличен на
+debuff_block|Block Rating reduced by|Рейтинг блока снижен на
+debuff_hemorrhage|Monster attacks inflict a bleed that stacks 20 times dealing damage per stack of|Атаки монстров вызывают кровотечение (суммируется до 20 раз), наносящее урон за заряд
+debuff_crippling_slow|Monster attacks inflict a slow for 2 seconds by|Атаки монстров замедляют на 2 сек. на
+debuff_monster_crit|Monster Critical Strike Damage increased by|Критический урон монстров увеличен на
 debuff_lifesap|Lifesap|Вытягивание жизни
-debuff_lifesap_effect|All healing reduced by|Все исцеление уменьшено на
+debuff_lifesap_effect|All healing reduced by|Получаемое исцеление снижено на
 debuff_agony|Agony|Агония
-debuff_agony_effect|All Resistances decreased by|Все сопротивления уменьшены на
-debuff_curseOfAmunRa|Curse of Amun Ra|Проклятие Амона Ра
+debuff_agony_effect|All Resistances decreased by|Все сопротивления снижены на
+debuff_curseOfAmunRa|Curse of Amun Ra|Проклятие Амона-Ра
 ||
 [Difficulty Settings]||
 difficulty_resistances|Monster Resistances|Сопротивления монстров
-difficulty_leechResistance|Monster Leech Resistance|Сопротивление похищению у монстров
-difficulty_magicFind|Increased Magic Find|Повышенный шанс найти маг. предметы
+difficulty_leechResistance|Monster Leech Resistance|Сопротивление монстров похищению
+difficulty_magicFind|Increased Magic Find|Увеличенный шанс найти маг. предметы(MF)
 difficulty_experienceGain|Increased Experience Gain|Увеличение получаемого опыта
 difficulty_life|Monster Life|Здоровье монстров
 difficulty_damage|Monster Damage|Урон монстров
@@ -965,32 +964,32 @@ difficulty_attackRating|Monster Attack Rating|Рейтинг атаки монс
 difficulty_defenseRating|Monster Defense Rating|Рейтинг защиты монстров
 ||
 [Satanic Buffs]||
-satanicBuffLootSlots|Loot Goblin|Гоблин-грабитель
+satanicBuffLootSlots|Loot Goblin|Гоблин-барахольщик
 satanicBuffRuneDrops|Rune Master|Мастер рун
 satanicBuffGoldDrops|Gold Hunger|Золотая лихорадка
 satanicBuffHeroicChances|Heroic Windfall|Героическая удача
 satanicBuffAngelicChances|Angelic Fortune|Ангельская удача
 satanicBuffMovementSpeed|Zephy’s Grace|Милость Зефира
 satanicBuffAttackSpeed|Fury of Tempest|Ярость бури
-satanicBuffCastRate|Rapid Casting|Быстрое сотворение
+satanicBuffCastRate|Rapid Casting|Быстрое колдовство
 satanicBuffAttackDamage|Onslaught|Натиск
 satanicBuffSkillDamage|Nether Surge|Всплеск Бездны
 satanicBuffAncientRelic|Relic Keepers|Хранители реликвий
-satanicBuffAncientGoblin|Goblin’s Greed|Жадность гоблина
-satanicBuffMagicFind01|Artifact Digger|Копатель артефактов
+satanicBuffAncientGoblin|Goblin’s Greed|Гоблинская жадность
+satanicBuffMagicFind01|Artifact Digger|Добытчик артефактов
 satanicBuffMagicFind02|Artifact Seeker|Искатель артефактов
-satanicBuffMagicFind03|Artifact Excavator|Экскаватор артефактов
+satanicBuffMagicFind03|Artifact Excavator|Раскопщик артефактов
 satanicBuffExperience01|Recruit|Рекрут
 satanicBuffExperience02|Combat Training|Боевая подготовка
 satanicBuffExperience03|Battle Scarred|Закаленный в боях
 satanicBuffRecovery|Clairvoyance|Ясновидение
 satanicBuffEnemyMiniboss|Aftermath|Последствия
-satanicBuffCriticalStrike|Deep Cuts|Глубокие порезы
+satanicBuffCriticalStrike|Deep Cuts|Глубокие раны
 satanicBuffAncientMonster01|Old Town|Старый город
-satanicBuffAncientMonster02|Terror Zone|Зона террора
+satanicBuffAncientMonster02|Terror Zone|Зона ужаса
 satanicBuffAncientMonster03|Fields of Carnage|Поля резни
 satanicBuffCardCollector|Card Collector|Коллекционер карт
-satanicBuffRelicFeast|Relic Feast|Праздник реликвий
+satanicBuffRelicFeast|Relic Feast|Пир реликвий
 satanicBuffSpelunker|Spelunker|Спелеолог
 satanicBuffRift|Riftwalker|Странник Разломов
 satanicBuffIncarnation|Incarnated|Воплощенный
@@ -1002,18 +1001,18 @@ satanicBuffDensity|Chaos Density|Плотность Хаоса
 satanicDebuffLightRadius|Dusk’s Shroud|Саван сумерек
 satanicDebuffAllResistances|Elemental Erosion|Стихийная эрозия
 satanicDebuffDamageTaken|Sundered Armor|Расколотая броня
-satanicDebuffLife|Vitality Drain|Похищение живучести
-satanicDebuffMana|Essence Drain|Похищение сущности
-satanicDebuffDarkness|Abyssal Gloom|Бездонный мрак
+satanicDebuffLife|Vitality Drain|Истощение живучести
+satanicDebuffMana|Essence Drain|Истощение сущности
+satanicDebuffDarkness|Abyssal Gloom|Мрак Бездны
 satanicDebuffAllSkills|Skill Debilitation|Ослабление умений
 satanicDebuffAllAttributes|Weakening Essence|Ослабляющая сущность
-satanicDebuffRegen|Lifeflow Starvation|Голод жизненного потока
-satanicDebuffLifeSteal|Sanguine Impairment|Ухудшение похищения здоровья
-satanicDebuffManaSteal|Arcane Impairment|Ухудшение похищения маны
+satanicDebuffRegen|Lifeflow Starvation|Иссушение жизни
+satanicDebuffLifeSteal|Sanguine Impairment|Кровавый недуг
+satanicDebuffManaSteal|Arcane Impairment|Чародейский недуг
 satanicDebuffCooldown01|Consumed Time|Поглощенное время
 satanicDebuffCooldown02|Absolute Limbo|Абсолютный лимб
 satanicDebuffBoulderFall|Boulder Fall|Камнепад
-satanicDebuffMovementSpeed|Lingering Evil|Затянувшееся зло
+satanicDebuffMovementSpeed|Lingering Evil|Гнетущее зло
 satanicDebuffMonsterCrit|Fatal Wounds|Смертельные раны
 satanicDebuffMonsterLife01|Bloated Veins|Вздутые вены
 satanicDebuffMonsterLife02|Abnormal Dwelling|Аномальное обиталище
@@ -1027,14 +1026,14 @@ satanicDebuffStackedBleeding|Hemorrhage|Кровоизлияние
 satanicDebuffCripplingSlow|Crippling Slow|Парализующее замедление
 ||
 [Unique Buffs]||
-buff_turret_damage|Turret Damage Increased by |урон турелей увеличен на
-buff_turret_attack_speed|Turret Attack Speed Increased by |скорость атаки турелей увеличена на
+buff_turret_damage|Turret Damage Increased by |Урон турелей увеличен на
+buff_turret_attack_speed|Turret Attack Speed Increased by |Скорость атаки турелей увеличена на
 buff_suffering|Suffering |Страдание
-buff_poison_damage_per_second|Poison Damage per second.|урон ядом в секунду.
-buff_burning_damage_per_second|Burning Damage per second.|урон от горения в секунду.
-buff_bleeding_damage_per_second|Bleeding Damage per second.|урон от кровотечения в секунду.
-buff_damage_taken_increased|Damage taken Increased by |получаемый урон увеличен на
-buff_paralyzed|Paralyzed, unable to attack or cast.|Парализован, невозможно атаковать или использовать умения.
+buff_poison_damage_per_second|Poison Damage per second.|Урон ядом в секунду.
+buff_burning_damage_per_second|Burning Damage per second.|Урон от горения в секунду.
+buff_bleeding_damage_per_second|Bleeding Damage per second.|Урон от кровотечения в секунду.
+buff_damage_taken_increased|Damage taken Increased by |Получаемый урон увеличен на
+buff_paralyzed|Paralyzed, unable to attack or cast.|Паралич: вы не можете атаковать или использовать умения.
 ||
 [Augments]||
 augment|Augment|Улучшение
@@ -1044,20 +1043,20 @@ per_point|per point|за очко
 [Misc]||
 spell_type_chainlightning|Chain Lightning|Цепная молния
 spell_type_explosion|Explosion|Взрыв
-tower_reward_chest|Tower Reward Chest|Сундук с наградой башни
+tower_reward_chest|Tower Reward Chest|Сундук с наградой Башни
 item_dropped_by_mf|of Fortune|Удачи
-item_unique_equipped|Unique Equipped|Уникальный предмет экипирован
+item_unique_equipped|Unique Equipped|Уникальный используемый
 item_cloned|Mirrored|Отраженный
 unidentified|Unidentified|Неопознанный
-identify|Right Click to Identify|ПКМ, чтобы опознать
-identify_mobile|Double Tap to Identify|Двойное нажатие, чтобы опознать
-identify_gamepad|Press [input_gamepad,0] to Identify|Нажмите [input_gamepad,0], чтобы опознать
+identify|Right Click to Identify|ПКМ для опознания
+identify_mobile|Double Tap to Identify|Дважды коснитесь для опознания
+identify_gamepad|Press [input_gamepad,0] to Identify|Нажмите [input_gamepad,0] для опознания
 receives_bonuses|Receives Bonuses From:|Получает бонусы от:
 aura_self|Holder Only|Только для владельца
-castProc|Cast|При сотворении
+castProc|Cast|При сотворении заклинания
 attackProc|Attack|При атаке
-scales_from|Scales from|Зависит от
-cast|Cast|Сотворение
+scales_from|Scales from|Масштабируется от
+cast|Cast|Сотворение заклинания
 show_loot_info|Show Information|Показать информацию
 gem|Gem|Самоцвет
 jewel|Jewel|Драгоценный камень
@@ -1066,18 +1065,18 @@ skill_summon|Summon|Призыв
 skill_sentry|Sentry|Турель
 skill_explosion|Explosion|Взрыв
 skill_guardian|Guardian|Страж
-unbreakable_desc|Cannot be prospected|Невозможно разобрать
-scaling|scaling|масштабирование
+unbreakable_desc|Cannot be prospected|Нельзя разобрать
+scaling|scaling|Прирост
 base|Base|Базовый
 quality|Quality|Качество
-node_rich|Rich|Богатый
-node_overflowing|Overflowing|Переполненный
+node_rich|Rich|Богатая
+node_overflowing|Overflowing|Переполненная
 spiderling|Spiderling|Паучок
 satanic_zone|Satanic Zone|Сатанинская зона
 drop_chance|Drop Chance|Шанс выпадения
 floor_cleared|Floor Cleared|Этаж зачищен
-gold_spent|Gold Spent|Золота потрачено
-gamble_for|Gamble for|Испытать удачу на
+gold_spent|Gold Spent|Потрачено золота
+gamble_for|Gamble for|Попытать удачу:
 bpToken|Token|Жетон
 bpTokens|Tokens|Жетоны
 journal|Journal|Журнал
@@ -1085,7 +1084,7 @@ title|Title|Титул
 item_cannot_be_sold|Item cannot be sold|Предмет нельзя продать
 vault_reap|Reap|Собрать
 vault_souls|Souls from |Души из
-vault_unlock|Unlock the Essence Vault|Открыть хранилище эссенций
+vault_unlock|Unlock the Essence Vault|Открыть Хранилище Эссенций
 vault_locked|Can be unlocked after fulfilling its contract|Можно открыть после выполнения контракта
 vault_reward|Rewards when unlocked|Награды при открытии
 vault_sealed|Sealed|Запечатано
@@ -1115,29 +1114,29 @@ abilityTagFollower|Follower|Прислужник
 abilityTagQuest|Quest|Задание
 ||
 ||
-craft_charm|Non Unique Item|Не уникальный предмет
+craft_charm|Non Unique Item|Неуникальный предмет
 craft_weapon|Any Weapon|Любое оружие
 craft_any_item|Any Equipment|Любое снаряжение
-craft_roll_sockets|Roll Sockets|Изменить количество гнезд
+craft_roll_sockets|Roll Sockets|Изменить число гнезд
 craft_empty_sockets|Empty Sockets|Пустые гнезда
 craft_destroy_sockets|Destroy Sockets|Уничтожить гнезда
-craft_gypsys_prophecy|Apply Gypsy´s Prophecy|Применить пророчество цыганки
+craft_gypsys_prophecy|Apply Gypsy´s Prophecy|Применить пророчество гадалки
 craft_destiny_shard|Apply Destiny Shard|Применить осколок судьбы
-craft_prophets_wisdom|Cleanse Corruption|Очистить порчу
-craft_infuse_lesser_dust|Infuse Lesser Unstable Dust|Влить малую нестабильную пыль
-craft_infuse_dust|Infuse Unstable Dust|Влить нестабильную пыль
-craft_infuse_greater_dust|Infuse Greater Unstable Dust|Влить большую нестабильную пыль
-craft_re_roll_charm|Re-Roll Affixes|Изменить аффиксы
-craft_angelic_augment|Angelic Augment|Ангельское улучшение
+craft_prophets_wisdom|Cleanse Corruption|Очистить от порчи
+craft_infuse_lesser_dust|Infuse Lesser Unstable Dust|Насытить малой нестабильной пылью
+craft_infuse_dust|Infuse Unstable Dust|Насытить нестабильной пылью
+craft_infuse_greater_dust|Infuse Greater Unstable Dust|Насытить великой нестабильной пылью
+craft_re_roll_charm|Re-Roll Affixes|Перековать свойства(аффиксы)
+craft_angelic_augment|Angelic Augment|Ангельское усиление
 craft_common_item|Common White Item|Обычный белый предмет
-craft_any_satanic|Any Satanic Item|Любой сатанинский предмет
+craft_any_satanic|Any Satanic Item|Любой сатанический предмет
 craft_any_common|Any Common Item|Любой обычный предмет
 craft_any_mythic|Any Mythic Item|Любой мифический предмет
-craft_tier_dust|Satanic Crystal Fragment|Фрагмент сатанинского кристалла
-craft_mythic_dust|Mythic Dust based on Tier|Мифическая пыль (от тира)
-craft_weapon_augment_ranger|Random Ranged Weapon Augment|Случайное улучшение дальнего оружия
-craft_weapon_augment_warrior|Random Melee Weapon Augment|Случайное улучшение ближнего оружия
-craft_weapon_augment_mage|Random Caster Weapon Augment|Случайное улучшение магического оружия
+craft_tier_dust|Satanic Crystal Fragment|Фрагмент сатанического кристалла
+craft_mythic_dust|Mythic Dust based on Tier|Мифическая пыль (зависит от тира)
+craft_weapon_augment_ranger|Random Ranged Weapon Augment|Случайное улучшение оружия дальнего боя
+craft_weapon_augment_warrior|Random Melee Weapon Augment|Случайное улучшение оружия ближнего боя
+craft_weapon_augment_mage|Random Caster Weapon Augment|Случайное улучшение оружия заклинателя
 craft_weapon_augment_level|Weapon Augment Level|Уровень улучшения оружия
 craft_glyph|Glyph|Глиф
 ||
@@ -1154,25 +1153,25 @@ weapon_wand|Wand|Жезл
 weapon_book|Book|Книга
 weapon_spellblade|Spellblade|Магический клинок
 weapon_bow|Bow|Лук
-weapon_gun|Gun|Пистолет
-weapon_flask|Flask|Фляга
+weapon_gun|Gun|Огнестрельное
+weapon_flask|Flask|Флакон
 weapon_throwing|Throwing|Метательное
-weapon_universal|Novelty|Новинка
+weapon_universal|Novelty|Диковинка
 item_bodyarmor|Body Armor|Доспех
 item_helmet|Helmet|Шлем
 item_shield|Shield|Щит
 item_boots|Boots|Сапоги
 ||
 [Achievements]||
-satanicItem01_desc|Obtain a Satanic Item|Получить сатанинский предмет
-satanicItem02_desc|Obtain 50 Satanic Items|Получить 50 сатанинских предметов
-satanicItem03_desc|Obtain 200 Satanic Items|Получить 200 сатанинских предметов
+satanicItem01_desc|Obtain a Satanic Item|Получить сатанический предмет
+satanicItem02_desc|Obtain 50 Satanic Items|Получить 50 сатанических предметов
+satanicItem03_desc|Obtain 200 Satanic Items|Получить 200 сатанических предметов
 angelicItem01_desc|Obtain an Angelic Item|Получить ангельский предмет
 angelicItem02_desc|Obtain 5 Angelic Items|Получить 5 ангельских предметов
 angelicItem03_desc|Obtain 10 Angelic Items|Получить 10 ангельских предметов
 ancientMonsters01_desc|Kill 5000 Ancient Monsters|Убить 5000 древних монстров
-ancientMonsters02_desc|Kill 12500 Ancient Monsters|Убить 12500 древних монстров
-ancientMonsters03_desc|Kill 20000 Ancient Monsters|Убить 20000 древних монстров
+ancientMonsters02_desc|Kill 12500 Ancient Monsters|Убить 12 500 древних монстров
+ancientMonsters03_desc|Kill 20000 Ancient Monsters|Убить 20 000 древних монстров
 hellGurag_desc|Kill Gurag on hell difficulty|Убить Гурага на сложности Ад
 hellReaper_desc|Kill Grim Reaper on hell difficulty|Убить Мрачного Жнеца на сложности Ад
 hellAnubis_desc|Kill Anubis on hell difficulty|Убить Анубиса на сложности Ад
@@ -1203,57 +1202,57 @@ uberReaper01_desc|Slay Shadow Reaper in the Shadow Realm|Убить Жнеца �
 uberSungLee01_desc|Slay Sung Lee in the Eternal Battle Fields|Убить Сунга Ли на Полях Вечной Битвы
 uberKingRakhul01_desc|Slay King Rakhul in the Chaos Tower|Убить короля Рахула в Башне Хаоса
 uberGabriel01_desc|Defeat Gabriel in the Circle of Hatred|Победить Габриэля в Круге Ненависти
-uberSungLee05_desc|Slay Sung Lee in the Eternal Battle Fields on the Hell 5 difficulty|Убить Сунга Ли на Полях Вечной Битвы на сложности Ад 5
-uberReaper05_desc|Slay Shadow Reaper in the Shadow Realm on the Hell 5 difficulty|Убить Жнеца Теней в Царстве Теней на сложности Ад 5
-uberDamien05_desc|Slay Damien in Fallen Inoya on the Hell 5 difficulty|Убить Дэмиена в Падшей Инойе на сложности Ад 5
-uberKingRakhul05_desc|Slay King Rakhul in the Chaos Tower on the Hell 5 difficulty|Убить короля Рахула в Башне Хаоса на сложности Ад 5
-uberGabriel05_desc|Defeat Gabriel in the Circle of Hatred on Hell 5 difficulty|Победить Габриэля в Круге Ненависти на сложности Ад 5
-uberSungLeeInferno_desc|Slay Sung Lee in the Eternal Battle Fields on the Inferno difficulty|Убить Сунга Ли на Полях Вечной Битвы на сложности Пекло
-uberReaperInferno_desc|Slay Shadow Reaper in the Shadow Realm on the Inferno difficulty|Убить Жнеца Теней в Царстве Теней на сложности Пекло
-uberDamienInferno_desc|Slay Damien in Fallen Inoya on the Inferno difficulty|Убить Дэмиена в Падшей Инойе на сложности Пекло
-uberKingRakhulInferno_desc|Slay King Rakhul in the Chaos Tower on the Inferno difficulty|Убить короля Рахула в Башне Хаоса на сложности Пекло
-uberGabrielInferno_desc|Defeat Gabriel in the Circle of Hatred on Inferno difficulty|Победить Габриэля в Круге Ненависти на сложности Пекло
+uberSungLee05_desc|Slay Sung Lee in the Eternal Battle Fields on the Hell 5 difficulty|Убить Сунга Ли на Полях Вечной Битвы (Ад 5)
+uberReaper05_desc|Slay Shadow Reaper in the Shadow Realm on the Hell 5 difficulty|Убить Жнеца Теней в Царстве Теней (Ад 5)
+uberDamien05_desc|Slay Damien in Fallen Inoya on the Hell 5 difficulty|Убить Дэмиена в Падшей Инойе (Ад 5)
+uberKingRakhul05_desc|Slay King Rakhul in the Chaos Tower on the Hell 5 difficulty|Убить короля Рахула в Башне Хаоса (Ад 5)
+uberGabriel05_desc|Defeat Gabriel in the Circle of Hatred on Hell 5 difficulty|Победить Габриэля в Круге Ненависти (Ад 5)
+uberSungLeeInferno_desc|Slay Sung Lee in the Eternal Battle Fields on the Inferno difficulty|Убить Сунга Ли на Полях Вечной Битвы (Инферно)
+uberReaperInferno_desc|Slay Shadow Reaper in the Shadow Realm on the Inferno difficulty|Убить Жнеца Теней в Царстве Теней (Инферно)
+uberDamienInferno_desc|Slay Damien in Fallen Inoya on the Inferno difficulty|Убить Дэмиена в Падшей Инойе (Инферно)
+uberKingRakhulInferno_desc|Slay King Rakhul in the Chaos Tower on the Inferno difficulty|Убить короля Рахула в Башне Хаоса (Инферно)
+uberGabrielInferno_desc|Defeat Gabriel in the Circle of Hatred on Inferno difficulty|Победить Габриэля в Круге Ненависти (Инферно)
 coffeeClub_desc|Join Sarcaster's Coffee Club!|Вступить в кофейный клуб Саркастера!
-sheepLevel_desc|Enter the gate's of Sheeponia!|Войти в ворота Шипонии!
-normalSC_desc|Complete normal difficulty on Softcore|Пройти обычную сложность в обычном режиме
-nightmareSC_desc|Complete nightmare difficulty on Softcore|Пройти сложность Кошмар в обычном режиме
-hellSC_desc|Complete hell difficulty on Softcore|Пройти сложность Ад в обычном режиме
-hellSC05_desc|Complete hell 5 difficulty on Softcore|Пройти сложность Ад 5 в обычном режиме
-normalHC_desc|Complete normal difficulty on Hardcore|Пройти обычную сложность в героическом режиме
-nightmareHC_desc|Complete nightmare difficulty on Hardcore|Пройти сложность Кошмар в героическом режиме
-hellHC_desc|Complete hell difficulty on Hardcore|Пройти сложность Ад в героическом режиме
-hellHC05_desc|Complete hell 5 difficulty on Hardcore|Пройти сложность Ад 5 в героическом режиме
-normalSsfSC_desc|Complete normal difficulty on Odyssey Softcore|Пройти обычную сложность в режиме Одиссея (обычный)
-nightmareSsfSC_desc|Complete nightmare difficulty on Odyssey Softcore|Пройти сложность Кошмар в режиме Одиссея (обычный)
-hellSsfSC_desc|Complete hell difficulty on Odyssey Softcore|Пройти сложность Ад в режиме Одиссея (обычный)
-hellSsfSC05_desc|Complete hell 5 difficulty on Odyssey Softcore|Пройти сложность Ад 5 в режиме Одиссея (обычный)
-normalSsfHC_desc|Complete normal difficulty on Odyssey Hardcore|Пройти обычную сложность в режиме Одиссея (героический)
-nightmareSsfHC_desc|Complete nightmare difficulty on Odyssey Hardcore|Пройти сложность Кошмар в режиме Одиссея (героический)
-hellSsfHC_desc|Complete hell difficulty on Odyssey Hardcore|Пройти сложность Ад в режиме Одиссея (героический)
-hellSsfHC05_desc|Complete hell 5 difficulty on Odyssey Hardcore|Пройти сложность Ад 5 в режиме Одиссея (героический)
-infernoSC_desc|Complete inferno difficulty on Softcore|Пройти сложность Пекло в обычном режиме
-infernoSsfSC_desc|Complete inferno difficulty on Odyssey Softcore|Пройти сложность Пекло в режиме Одиссея (обычный)
-infernoHC_desc|Complete inferno difficulty on Hardcore|Пройти сложность Пекло в героическом режиме
-infernoSsfHC_desc|Complete inferno difficulty on Odyssey Hardcore|Пройти сложность Пекло в режиме Одиссея (героический)
+sheepLevel_desc|Enter the gate's of Sheeponia!|Войти в врата Шипонии!
+normalSC_desc|Complete normal difficulty on Softcore|Пройти обычную сложность (Обычный режим)
+nightmareSC_desc|Complete nightmare difficulty on Softcore|Пройти Кошмар (Обычный режим)
+hellSC_desc|Complete hell difficulty on Softcore|Пройти Ад (Обычный режим)
+hellSC05_desc|Complete hell 5 difficulty on Softcore|Пройти Ад 5 (Обычный режим)
+normalHC_desc|Complete normal difficulty on Hardcore|Пройти обычную сложность (Героический режим)
+nightmareHC_desc|Complete nightmare difficulty on Hardcore|Пройти Кошмар (Героический режим)
+hellHC_desc|Complete hell difficulty on Hardcore|Пройти Ад (Героический режим)
+hellHC05_desc|Complete hell 5 difficulty on Hardcore|Пройти Ад 5 (Героический режим)
+normalSsfSC_desc|Complete normal difficulty on Odyssey Softcore|Пройти обычную сложность в режиме Одиссея (Обычный)
+nightmareSsfSC_desc|Complete nightmare difficulty on Odyssey Softcore|Пройти Кошмар в режиме Одиссея (Обычный)
+hellSsfSC_desc|Complete hell difficulty on Odyssey Softcore|Пройти Ад в режиме Одиссея (Обычный)
+hellSsfSC05_desc|Complete hell 5 difficulty on Odyssey Softcore|Пройти Ад 5 в режиме Одиссея (Обычный)
+normalSsfHC_desc|Complete normal difficulty on Odyssey Hardcore|Пройти обычную сложность в режиме Одиссея (Героический)
+nightmareSsfHC_desc|Complete nightmare difficulty on Odyssey Hardcore|Пройти Кошмар в режиме Одиссея (Героический)
+hellSsfHC_desc|Complete hell difficulty on Odyssey Hardcore|Пройти Ад в режиме Одиссея (Героический)
+hellSsfHC05_desc|Complete hell 5 difficulty on Odyssey Hardcore|Пройти Ад 5 в режиме Одиссея (Героический)
+infernoSC_desc|Complete inferno difficulty on Softcore|Пройти Инферно (Обычный режим)
+infernoSsfSC_desc|Complete inferno difficulty on Odyssey Softcore|Пройти Инферно в режиме Одиссея (Обычный)
+infernoHC_desc|Complete inferno difficulty on Hardcore|Пройти Инферно (Героический режим)
+infernoSsfHC_desc|Complete inferno difficulty on Odyssey Hardcore|Пройти Инферно в режиме Одиссея (Героический)
 monstersKilled100_desc|Slay 100 Monsters|Убить 100 монстров
 monstersKilled400_desc|Slay 400 Monsters|Убить 400 монстров
 monstersKilled1600_desc|Slay 1600 Monsters|Убить 1600 монстров
 monstersKilled6400_desc|Slay 6400 Monsters|Убить 6400 монстров
-monstersKilled25400_desc|Slay 25400 Monsters|Убить 25400 монстров
-monstersKilled50000_desc|Slay 50000 Monsters|Убить 50000 монстров
+monstersKilled25400_desc|Slay 25400 Monsters|Убить 25 400 монстров
+monstersKilled50000_desc|Slay 50000 Monsters|Убить 50 000 монстров
 gold01_desc|Collect 100,000 Gold|Собрать 100 000 золота
 gold02_desc|Collect 1,000,000 Gold|Собрать 1 000 000 золота
 allHeroes100_desc|Obtain level 100 with Viking, Pyromancer, Marksman, Pirate, Nomad, Redneck and Necromancer|Получить 100 уровень всеми основными героями
-level10_desc|Reach Level 10 with a Hero|Достигнуть 10-го уровня героем
-level20_desc|Reach Level 20 with a Hero|Достигнуть 20-го уровня героем
-level30_desc|Reach Level 30 with a Hero|Достигнуть 30-го уровня героем
-level40_desc|Reach Level 40 with a Hero|Достигнуть 40-го уровня героем
-level50_desc|Reach Level 50 with a Hero|Достигнуть 50-го уровня героем
-level60_desc|Reach Level 60 with a Hero|Достигнуть 60-го уровня героем
-level70_desc|Reach Level 70 with a Hero|Достигнуть 70-го уровня героем
-level80_desc|Reach Level 80 with a Hero|Достигнуть 80-го уровня героем
-level90_desc|Reach Level 90 with a Hero|Достигнуть 90-го уровня героем
-level100_desc|Reach Level 100 with a Hero|Достигнуть 100-го уровня героем
+level10_desc|Reach Level 10 with a Hero|Достичь 10-го уровня героем
+level20_desc|Reach Level 20 with a Hero|Достичь 20-го уровня героем
+level30_desc|Reach Level 30 with a Hero|Достичь 30-го уровня героем
+level40_desc|Reach Level 40 with a Hero|Достичь 40-го уровня героем
+level50_desc|Reach Level 50 with a Hero|Достичь 50-го уровня героем
+level60_desc|Reach Level 60 with a Hero|Достичь 60-го уровня героем
+level70_desc|Reach Level 70 with a Hero|Достичь 70-го уровня героем
+level80_desc|Reach Level 80 with a Hero|Достичь 80-го уровня героем
+level90_desc|Reach Level 90 with a Hero|Достичь 90-го уровня героем
+level100_desc|Reach Level 100 with a Hero|Достичь 100-го уровня героем
 chaosTower_desc|Clear a Chaos Tower|Зачистить Башню Хаоса
 angelicRealm_desc|Enter the Angelic Realm|Войти в Ангельское Царство
 valhallaRiver_desc|Slay the Jörmundgar in the Valhalla River|Убить Ёрмундгара в реке Вальхалла
@@ -1268,14 +1267,14 @@ seasonFirst100HC|Reach level 100 in Hardcore faster than everyone else!|Дост
 seasonFirst100SCOdyssey|Reach level 100 in Softcore Odyssey faster than everyone else!|Достигнуть 100-го уровня в режиме Одиссея (обычный) быстрее всех!
 seasonFirst100HCOdyssey|Reach level 100 in Hardcore Odyssey faster than everyone else!|Достигнуть 100-го уровня в режиме Одиссея (героический) быстрее всех!
 ||
-infernoGurag_desc|Kill Gurag on inferno difficulty|Убить Гурага на сложности Пекло
-infernoReaper_desc|Kill Grim Reaper on inferno difficulty|Убить Мрачного Жнеца на сложности Пекло
-infernoAnubis_desc|Kill Anubis on inferno difficulty|Убить Анубиса на сложности Пекло
-infernoDamien_desc|Kill Damien on inferno difficulty|Убить Дэмиена на сложности Пекло
-infernoKarpKing_desc|Kill Karp King on inferno difficulty|Убить Карпа Кинга на сложности Пекло
-infernoSatan_desc|Kill Satan on inferno difficulty|Убить Сатану на сложности Пекло
-infernoMevius_desc|Kill Mevius on inferno difficulty|Убить Мевиуса на сложности Пекло
-infernoOdin_desc|Kill Corrupted Odin on inferno difficulty|Убить Оскверненного Одина на сложности Пекло
+infernoGurag_desc|Kill Gurag on inferno difficulty|Убить Гурага на сложности Инферно
+infernoReaper_desc|Kill Grim Reaper on inferno difficulty|Убить Мрачного Жнеца на сложности Инферно
+infernoAnubis_desc|Kill Anubis on inferno difficulty|Убить Анубиса на сложности Инферно
+infernoDamien_desc|Kill Damien on inferno difficulty|Убить Дэмиена на сложности Инферно
+infernoKarpKing_desc|Kill Karp King on inferno difficulty|Убить Карпа Кинга на сложности Инферно
+infernoSatan_desc|Kill Satan on inferno difficulty|Убить Сатану на сложности Инферно
+infernoMevius_desc|Kill Mevius on inferno difficulty|Убить Мевиуса на сложности Инферно
+infernoOdin_desc|Kill Corrupted Odin on inferno difficulty|Убить Оскверненного Одина на сложности Инферно
 ||
 gamba100_desc|Destroy 100 slot machines|Уничтожить 100 игровых автоматов
 ||
@@ -1285,7 +1284,7 @@ ct_chaosTurrets|Chaos Turrets|Турели Хаоса
 ct_poolsOfChaos|Pools of Chaos|Лужи Хаоса
 ct_stutter|Stutter|Запинка
 ct_chaosFortitude|Chaos Fortitude|Стойкость Хаоса
-ct_BloatedIntestines|Bloated Intestines|Вздутый кишечник
+ct_BloatedIntestines|Bloated Intestines|Вздутые кишки
 ct_chaosEnchant|Chaos Enchant|Чары Хаоса
 ct_chaosCorrosion|Chaos Corrosion|Коррозия Хаоса
 ct_absoluteChaos|Absolute Chaos|Абсолютный Хаос
@@ -1299,7 +1298,7 @@ ct_arcaniumOfChaos|Arcanium of Chaos|Арканиум Хаоса
 ct_tribalExecution|Tribal Execution|Племенная казнь
 ct_bloodBath|Bloodbath|Кровавая баня
 ct_puppeteer|Puppeteer|Кукловод
-ct_corrosiveRain|Corrosive Rain|Коррозийный дождь
+ct_corrosiveRain|Corrosive Rain|Едкий дождь
 ct_queenBee|Queen Bee|Королева пчел
 ct_boomStick|Boomstick|Бумстик
 ct_deepWounds|Deep Wounds|Глубокие раны
@@ -1311,7 +1310,7 @@ ct_timeToReap|Time to Reap|Время жатвы
 ct_gargantuans|Gargantuans|Гаргантюа
 ct_trickOrTreat|Trick or Treat|Кошелек или жизнь
 ct_bulletHell|Bullet Hell|Пулевой ад
-ct_reversal|Reversal|Обратный ход
+ct_reversal|Reversal|Инверсия
 ct_speedPowder|Speed Powder|Порошок скорости
 ct_superSized|Supersized|Суперразмер
 ct_combatImpairement|Combat Impairement|Боевые штрафы
@@ -1320,67 +1319,67 @@ ct_manaCorruption|Mana Corruption|Порча маны
 ct_chaosSanctuary|Chaos Sanctuary|Святилище Хаоса
 ct_chaosBerserkers|Chaos Berserkers|Берсерки Хаоса
 ct_lifeTap|Life Tap|Жизнеотвод
-ct_multiShot|Multishot|Многозарядность
+ct_multiShot|Multishot|Мультивыстрел
 ct_scorchedGround|Scorched Ground|Выжженная земля
 ct_closeAndPersonal|Close and Personal|Лицом к лицу
 ct_chaoticWeakness|Chaotic Weakness|Хаотическая слабость
 ct_manaDevourer|Mana Devourer|Пожиратель маны
 ct_emotionalDamage|Emotional Damage|Эмоциональный урон
 ct_oldMansBack|Old Man´s Back|Спина старика
-ct_shitamorphosis|Shitamorphosis|Шитаморфоз
-ct_vitalCorrosion|Vital Corrosion|Коррозия жизни
+ct_shitamorphosis|Shitamorphosis|Шитоморфоз
+ct_vitalCorrosion|Vital Corrosion|Коррозия живучести
 ct_chaosChampions|Chaos Champions|Чемпионы Хаоса
 ||
 ||
-ct_desc_shadeOfChaos|Shades spawn frequently nearby you following you around, when you come close they stop and explode after a short delay shattering your resistances|Тени часто появляются рядом и следуют за вами. При приближении они взрываются, снижая ваши сопротивления.
-ct_desc_chaosTurrets|Spawn multiple turrets in the floor that shoot chaos fire into a set direction|На полу появляются турели, стреляющие огнем Хаоса в определенном направлении.
-ct_desc_poolsOfChaos|Monsters evaporate into pools of chaos essence dealing damage after a short delay from spawning|Монстры превращаются в лужи эссенции Хаоса, наносящие урон через некоторое время после появления.
+ct_desc_shadeOfChaos|Shades spawn frequently nearby you following you around, when you come close they stop and explode after a short delay shattering your resistances|Тени часто появляются рядом и преследуют вас. При сближении они замирают и взрываются, разрушая ваши сопротивления.
+ct_desc_chaosTurrets|Spawn multiple turrets in the floor that shoot chaos fire into a set direction|На полу появляются турели, стреляющие огнем Хаоса в заданном направлении.
+ct_desc_poolsOfChaos|Monsters evaporate into pools of chaos essence dealing damage after a short delay from spawning|Монстры испаряются, превращаясь в лужи эссенции Хаоса, которые наносят урон через некоторое время.
 ct_desc_stutter|Monsters always stun on hit|Монстры всегда оглушают при ударе.
 ct_desc_chaosFortitude|Increased monster resistances by 40%|Сопротивления монстров увеличены на 40%.
 ct_desc_BloatedIntestines|Increased monster life by 50%|Здоровье монстров увеличено на 50%.
 ct_desc_chaosEnchant|Increased monster damage by 15%|Урон монстров увеличен на 15%.
-ct_desc_chaosCorrosion|Monsters now always poison on hit dealing 20% of their damage as poisoned.|Монстры теперь всегда отравляют при ударе, нанося 20% урона ядом.
+ct_desc_chaosCorrosion|Monsters now always poison on hit dealing 20% of their damage as poisoned.|Монстры теперь всегда отравляют при ударе, нанося 20% своего урона в виде яда.
 ct_desc_absoluteChaos|Monsters gain 1 extra affix|Монстры получают 1 дополнительный аффикс.
-ct_desc_pillarsOfFire|Pillars of fire spawned at your feet frequently|У ваших ног часто появляются огненные столбы.
+ct_desc_pillarsOfFire|Pillars of fire spawned at your feet frequently|У ваших ног часто возникают огненные столпы.
 ct_desc_spawnsOfChaos|Monsters gain 25 Monster level|Уровень монстров увеличен на 25.
-ct_desc_legionOfChaos|Monsters gain +1 rarity, legions gain an extra affix, +50% damage, -250% magic find|Редкость монстров увеличена на 1. Легионы получают доп. аффикс, +50% урона и -250% шанса найти маг. предметы.
+ct_desc_legionOfChaos|Monsters gain +1 rarity, legions gain an extra affix, +50% damage, -250% magic find|Редкость монстров повышена на 1. Легионы получают доп. аффикс, +50% урона, но -250% к шансу найти маг. предметы(MF).
 ct_desc_resistanceIsFutile|Decreases your resistances by 75%|Снижает ваши сопротивления на 75%.
 ct_desc_lifeNoMore|All life replenishing sources decreased by 75%|Все источники восполнения здоровья ослаблены на 75%.
 ct_desc_electricChaos|All monsters become lightning enhanced|Все монстры получают усиление молнией.
 ct_desc_arcaniumOfChaos|All monsters become arcana|Все монстры получают усиление тайной магией.
 ct_desc_tribalExecution|A rain of arrows frequently storm into your location|На вас часто обрушивается ливень стрел.
-ct_desc_bloodBath|Waves of blood are unleashed from a random direction towards you on a frequent basis|Волны крови часто устремляются к вам со случайных направлений.
-ct_desc_puppeteer|Monsters scatter into multiple Cursed Dolls upon death|Монстры после смерти распадаются на несколько проклятых кукол.
-ct_desc_corrosiveRain|Venomous meteors rain from the sky unleshing a long lasting poison cloud when hitting the ground inflicting poisoned on hit|С неба падают ядовитые метеоры, оставляющие ядовитые облака, которые отравляют при контакте.
-ct_desc_queenBee|All monsters are now wasps with 40% Increased attack speed, 10% Increased Life and 15% Increased damage reduction|Все монстры становятся осами с +40% к скорости атаки, +10% к здоровью и +15% к снижению урона.
-ct_desc_boomStick|All monsters are now Devilkin Bombers with 40% Increased attack speed, 20% Increased Life, 10% Increased damage dealt|Все монстры становятся бомбардировщиками с +40% к скорости атаки, +20% к здоровью и +10% к урону.
+ct_desc_bloodBath|Waves of blood are unleashed from a random direction towards you on a frequent basis|Волны крови часто накатывают на вас со случайных сторон.
+ct_desc_puppeteer|Monsters scatter into multiple Cursed Dolls upon death|Монстры после смерти распадаются на несколько Проклятых кукол.
+ct_desc_corrosiveRain|Venomous meteors rain from the sky unleshing a long lasting poison cloud when hitting the ground inflicting poisoned on hit|С неба падают ядовитые метеоры, создавая облака, которые отравляют при контакте.
+ct_desc_queenBee|All monsters are now wasps with 40% Increased attack speed, 10% Increased Life and 15% Increased damage reduction|Все монстры становятся осами (+40% к скорости атаки, +10% к здоровью, +15% к снижению урона).
+ct_desc_boomStick|All monsters are now Devilkin Bombers with 40% Increased attack speed, 20% Increased Life, 10% Increased damage dealt|Все монстры становятся бесами-подрывниками (+40% к скорости атаки, +20% к здоровью, +10% к урону).
 ct_desc_deepWounds|Your life is drained by 6% of your maximum life per second|Вы теряете 6% от макс. здоровья в секунду.
 ct_desc_reverseMatrix|You can no longer dodge any attacks or projectiles|Вы больше не можете уклоняться от атак и снарядов.
-ct_desc_boulderBlasting|Three colossal boulders spawn inside the tower traveling in a circle around the floor|Внутри башни появляются три огромных валуна, катящихся по кругу.
-ct_desc_noEscape|An Immortal Snail slowly follows you dealing fatal damage on hit|Бессмертная улитка медленно следует за вами, нанося смертельный урон при касании.
-ct_desc_surpriseBomb|Monsters have a chance on death to throw an explosive towards you that explodes after a short delay|Монстры могут бросить в вас бомбу после смерти, которая взорвется через мгновение.
-ct_desc_timeToReap|Occasionally become targeted by death itself spawning in multiple scythes in an X or + pattern around you, after a short delay the fly towards you|Смерть выбирает вас целью, создавая вокруг косы, которые через мгновение устремляются к вам.
-ct_desc_gargantuans|Monsters grow in size, speed and deal increased damage the lower their health is|Монстры увеличиваются в размерах, ускоряются и наносят больше урона при потере здоровья.
-ct_desc_trickOrTreat|Enemies have a low chance on death to explode into multiple homing pumpkin heads|Враги могут взорваться после смерти, выпустив несколько самонаводящихся тыквенных голов.
+ct_desc_boulderBlasting|Three colossal boulders spawn inside the tower traveling in a circle around the floor|Внутри башни появляются три огромных валуна, катающихся по кругу.
+ct_desc_noEscape|An Immortal Snail slowly follows you dealing fatal damage on hit|Бессмертная улитка медленно следует за вами, убивая при касании.
+ct_desc_surpriseBomb|Monsters have a chance on death to throw an explosive towards you that explodes after a short delay|Монстры могут бросить в вас бомбу перед смертью.
+ct_desc_timeToReap|Occasionally become targeted by death itself spawning in multiple scythes in an X or + pattern around you, after a short delay the fly towards you|Иногда Смерть берет вас на прицел, создавая вокруг косы, которые затем летят в вас.
+ct_desc_gargantuans|Monsters grow in size, speed and deal increased damage the lower their health is|Монстры растут, ускоряются и бьют сильнее по мере потери здоровья.
+ct_desc_trickOrTreat|Enemies have a low chance on death to explode into multiple homing pumpkin heads|Враги имеют малый шанс взорваться после смерти, выпустив самонаводящиеся тыквы.
 ct_desc_bulletHell|All monster projectiles travel faster|Все снаряды монстров летят быстрее.
-ct_desc_reversal|Your damage fluctuates between 50% and 150% of your total damage. Changing every 5 seconds|Ваш урон колеблется от 50% до 150% каждые 5 секунд.
+ct_desc_reversal|Your damage fluctuates between 50% and 150% of your total damage. Changing every 5 seconds|Ваш урон колеблется от 50% до 150% (меняется каждые 5 сек).
 ct_desc_speedPowder|Monster movement speed is increased by 200%|Скорость передвижения монстров увеличена на 200%.
 ct_desc_superSized|Increases monster attack / skill area of effect by 100%|Область действия атак и умений монстров увеличена на 100%.
-ct_desc_combatImpairement|Decreases your total attack speed and cast rate by 25%|Общая скорость атаки и сотворения заклинаний снижена на 25%.
+ct_desc_combatImpairement|Decreases your total attack speed and cast rate by 25%|Общая скорость атаки и каста снижена на 25%.
 ct_desc_quickSand|Decreases your total movement speed by 25%|Общая скорость передвижения снижена на 25%.
 ct_desc_manaCorruption|Increases the mana cost of your skills by 100%|Затраты маны на умения увеличены на 100%.
-ct_desc_chaosSanctuary|Monsters have a 25% chance to critically hit for 100% increased damage|У монстров есть 25% шанс нанести критический удар с двойным уроном.
+ct_desc_chaosSanctuary|Monsters have a 25% chance to critically hit for 100% increased damage|Монстры имеют 25% шанс нанести критический удар с двойным уроном.
 ct_desc_chaosBerserkers|Increases monster attack speed by 50%|Скорость атаки монстров увеличена на 50%.
 ct_desc_lifeTap|Decreases your life by 33%|Ваше здоровье снижено на 33%.
-ct_desc_multiShot|All monsters gain the multishot affix|Все монстры получают аффикс многозарядности.
-ct_desc_scorchedGround|Spawns patches of scorched ground around the floor slowing and dealing fire damage.|На полу появляются участки выжженной земли, замедляющие и наносящие урон огнем.
-ct_desc_closeAndPersonal|Monsters become proximity tangible and no longer take damage from long range damage sources.|Монстры становятся уязвимы только вблизи и не получают урон от дальних атак.
-ct_desc_chaoticWeakness|Decreases your maximum resistances by 25%|Ваши максимальные сопротивления снижены на 25%.
-ct_desc_manaDevourer|Ancient and Legion monsters get the Mana Devourer affix draining mana around them|Древние и легионные монстры получают аффикс пожирателя маны, высасывая ее вокруг себя.
+ct_desc_multiShot|All monsters gain the multishot affix|Все монстры получают аффикс «Мультивыстрел».
+ct_desc_scorchedGround|Spawns patches of scorched ground around the floor slowing and dealing fire damage.|На полу возникают участки выжженной земли, замедляющие и наносящие урон огнем.
+ct_desc_closeAndPersonal|Monsters become proximity tangible and no longer take damage from long range damage sources.|Монстры становятся уязвимы только вблизи и не получают урона издалека.
+ct_desc_chaoticWeakness|Decreases your maximum resistances by 25%|Ваши макс. сопротивления снижены на 25%.
+ct_desc_manaDevourer|Ancient and Legion monsters get the Mana Devourer affix draining mana around them|Древние монстры и легионы получают аффикс «Пожиратель маны», истощая ману вокруг.
 ct_desc_emotionalDamage|Lowers all damage dealt by 50%|Весь наносимый урон снижен на 50%.
 ct_desc_oldMansBack|Increases all damage taken by 50%|Весь получаемый урон увеличен на 50%.
-ct_desc_shitamorphosis|1% Chance on cast or attack to become steve|1% шанс превратиться в Стива при атаке или сотворении заклинания.
-ct_desc_vitalCorrosion|Monster hits inflict a debuff reducing your maximum life by 1%|Удары монстров накладывают эффект, снижающий ваше макс. здоровье на 1%.
+ct_desc_shitamorphosis|1% Chance on cast or attack to become steve|1% шанс превратиться в Стива при атаке или касте.
+ct_desc_vitalCorrosion|Monster hits inflict a debuff reducing your maximum life by 1%|Удары монстров снижают ваше макс. здоровье на 1%.
 ct_desc_chaosChampions|Monsters have a 20% chance on kill to unleash a random death rattle|У монстров есть 20% шанс активировать случайный предсмертный эффект.
 ||
 ||
@@ -1388,80 +1387,80 @@ ct_desc_chaosChampions|Monsters have a 20% chance on kill to unleash a random de
 ct_angelicDropRates|Angel´s Grace|Милость ангела
 ct_heroicDropRates|Hero´s Grace|Милость героя
 ct_runeDropRates|Runic Grace|Руническая благодать
-ct_magicFind|Magic Finder|Искатель магии
+ct_magicFind|Magic Finder|Магическое чутье
 ct_expGain|Combat Veteran|Ветеран боя
 ct_movementSpeed|Swift Feet|Быстрые ноги
-ct_lootAmount|Loot Goblin|Гоблин-грабитель
+ct_lootAmount|Loot Goblin|Гоблин-барахольщик
 ct_manaRegeneration|Manalicious|Мана-мания
 ct_increasedLife|Vigor|Энергия
 ct_increasedCrit|Destroyer|Разрушитель
 ct_increasedGoldFind|Greedy Lizard|Жадная ящерица
-ct_dropCommonCharm|Charms, So Many Charms|Амулеты, много амулетов
+ct_dropCommonCharm|Charms, So Many Charms|Талисманы, куча талисманов
 ct_dropCommonSocketed|Lots of Potential|Большой потенциал
-ct_dropMidRunes|Runic Grace|Руническая благодать
+ct_dropMidRunes|Runic Grace|Благословение рун
 ct_dropRune|Runic Feast|Рунический пир
-ct_dropSatanic|Satanic Chant|Сатанинское пение
-ct_dropOre|Professional Spelunker|Профессиональный спелеолог
+ct_dropSatanic|Satanic Chant|Сатанический напев
+ct_dropOre|Professional Spelunker|Мастер руд
 ct_dropDungeonKey|Dungeon Master|Мастер подземелий
 ct_dropAngelicKey|Key to Heaven|Ключ от небес
 ct_dropPerfectGem|Jewelcrafter|Ювелир
-ct_dropRandomDust|Enchanting Specialist|Специалист по чарам
+ct_dropRandomDust|Enchanting Specialist|Мастер зачарования
 ||
 ct_desc_angelicDropRates|Gain increased drop rate of angelic items.|Шанс выпадения ангельских предметов увеличен.
 ct_desc_heroicDropRates|Gain increased drop rate of heroic items.|Шанс выпадения героических предметов увеличен.
 ct_desc_runeDropRates|Gain increased drop rate of runes.|Шанс выпадения рун увеличен.
-ct_desc_magicFind|Gain increased magic find.|Шанс найти маг. предметы увеличен.
+ct_desc_magicFind|Gain increased magic find.|Шанс найти маг. предметы(MF) увеличен.
 ct_desc_expGain|Gain increased experience gained from killing monsters.|Получаемый опыт за убийство монстров увеличен.
 ct_desc_movementSpeed|Gain increased movement speed|Скорость передвижения увеличена.
-ct_desc_lootAmount|Gain increased amount of loot from killing monsters.|Количество добычи за убийство монстров увеличено.
-ct_desc_manaRegeneration|Gain increased mana replenish.|Восполнение маны ускорено.
+ct_desc_lootAmount|Gain increased amount of loot from killing monsters.|Количество добычи с монстров увеличено.
+ct_desc_manaRegeneration|Gain increased mana replenish.|Восполнение маны увеличено.
 ct_desc_increasedLife|Gain increased maximum life.|Максимальное здоровье увеличено.
-ct_desc_increasedCrit|Gain increased critical strike and spell critical damage.|Урон критического удара и заклинаний увеличен.
-ct_desc_increasedGoldFind|Gain increased gold drops from killing monsters.|Количество золота за убийство монстров увеличено.
-ct_desc_dropCommonCharm|Drop common charms after clearing the tower.|Обычные амулеты выпадают после зачистки башни.
+ct_desc_increasedCrit|Gain increased critical strike and spell critical damage.|Критический урон атак и заклинаний увеличен.
+ct_desc_increasedGoldFind|Gain increased gold drops from killing monsters.|Количество золота с монстров увеличено.
+ct_desc_dropCommonCharm|Drop common charms after clearing the tower.|Обычные талисманы выпадают после зачистки башни.
 ct_desc_dropCommonSocketed|Drop common items with sockets after clearing the tower.|Обычные предметы с гнездами выпадают после зачистки башни.
-ct_desc_dropMidRunes|Drop mid tier runes after clearing the tower.|Руны среднего тира выпадают после зачистки башни.
+ct_desc_dropMidRunes|Drop mid tier runes after clearing the tower.|Руны среднего ранга выпадают после зачистки башни.
 ct_desc_dropRune|Drop a random rune after clearing the tower.|Случайная руна выпадает после зачистки башни.
-ct_desc_dropSatanic|Drop a satanic item after clearing the tower.|Сатанинский предмет выпадает после зачистки башни.
+ct_desc_dropSatanic|Drop a satanic item after clearing the tower.|Сатанический предмет выпадает после зачистки башни.
 ct_desc_dropOre|Drop ore after clearing the tower.|Руда выпадает после зачистки башни.
 ct_desc_dropDungeonKey|Chance to drop a dungeon key after clearing the tower.|Шанс выпадения ключа подземелья после зачистки башни.
 ct_desc_dropAngelicKey|Chance to drop an angelic key after clearing the tower.|Шанс выпадения ангельского ключа после зачистки башни.
 ct_desc_dropPerfectGem|Drop perfect gems after clearing the tower.|Идеальные самоцветы выпадают после зачистки башни.
-ct_desc_dropRandomDust|Drop a random amount of satanic crystal fragments after clearing the tower.|Случайное количество фрагментов сатанинского кристалла выпадает после зачистки башни.
+ct_desc_dropRandomDust|Drop a random amount of satanic crystal fragments after clearing the tower.|Случайное количество фрагментов сатанического кристалла выпадает после зачистки башни.
 ||
-codexBuffName01|Infernal Magic Find|Адский поиск магии
+codexBuffName01|Infernal Magic Find|Адская удача
 codexBuffName02|Infernal Runemaster|Адский мастер рун
 codexBuffName03|Infernal Demigod|Адский полубог
-codexBuffName04|Infernal Tinkerer|Адский умелец
-codexBuffName05|Infernal Fortune Teller|Адский предсказатель
-codexBuffName06|Infernal Essence Bender|Адский скульптор эссенций
+codexBuffName04|Infernal Tinkerer|Адский ремесленник
+codexBuffName05|Infernal Fortune Teller|Адский провидец
+codexBuffName06|Infernal Essence Bender|Адский повелитель эссенций
 codexBuffName07|Infernal Codex Master|Адский мастер кодексов
-codexBuffName08|Infernal Loot Master|Адский мастер добычи
+codexBuffName08|Infernal Loot Master|Адский мастер трофеев
 codexBuffName09|Infernal Runeword|Адское рунное слово
-codexBuffName10|Infernal Pillar Spawner|Адский создатель столбов
+codexBuffName10|Infernal Pillar Spawner|Адский призыватель столпов
 ||
-codexBuff01|Increased total Magic Find|Общий шанс найти маг. предметы увеличен.
-codexBuff02|Additional Rune Rolls on monster kill|Дополнительные проверки на выпадение рун при убийстве монстра.
-codexBuff03|Additional Rolls to Angelic and Unholy items on monster kill|Дополнительные проверки на выпадение ангельских и нечестивых предметов.
-codexBuff04|Additional Rolls to high quality materials on monster kill|Дополнительные проверки на выпадение качественных материалов.
+codexBuff01|Increased total Magic Find|Общий шанс найти маг. предметы(MF) увеличен.
+codexBuff02|Additional Rune Rolls on monster kill|Дополнительный шанс найти руны при убийстве монстров.
+codexBuff03|Additional Rolls to Angelic and Unholy items on monster kill|Дополнительный шанс найти ангельские и сатаник предметы.
+codexBuff04|Additional Rolls to high quality materials on monster kill|Дополнительные проверки на выпадение высококачественных материалов.
 codexBuff05|Chance to drop a Tarot Card on monster kill|Шанс выпадения карты Таро при убийстве монстра.
 codexBuff06|Chance to drop an Essence of Chaos on monster kill|Шанс выпадения эссенции Хаоса при убийстве монстра.
 codexBuff07|Increased chance to drop Infernal Codex on monster kill|Шанс выпадения адского кодекса при убийстве монстра увеличен.
 codexBuff08|All common item drops are S tier|Все выпадающие обычные предметы имеют ранг S.
-codexBuff09|All common item drops are white|Все выпадающие обычные предметы имеют белый цвет.
-codexBuff10|Monster Packs now spawn as Chaos Pillars|Группы монстров теперь появляются как столпы Хаоса.
+codexBuff09|All common item drops are white|Все обычные предметы выпадают обычного (белого) качества.
+codexBuff10|Monster Packs now spawn as Chaos Pillars|Группы монстров теперь заменяются столпами Хаоса.
 ||
 codexDebuff01|Movement skills are disabled|Умения передвижения отключены.
 codexDebuff02|Additional monster projectiles|Дополнительные снаряды у монстров.
-codexDebuff03|Ancient monsters are proximity tangible|Древние монстры уязвимы только вблизи.
-codexDebuff04|Chance on hit to reflect your damage as a meteor on your location|Шанс при попадании вызвать метеор на вашу позицию, отражающий ваш урон.
+codexDebuff03|Ancient monsters are proximity tangible|Древние монстры уязвимы только в ближнем бою.
+codexDebuff04|Chance on hit to reflect your damage as a meteor on your location|Шанс при ударе обрушить на вас метеор, отражающий нанесенный урон.
 codexDebuff05|Increased monster attack and aggro range|Дальность атаки и агрессии монстров увеличена.
 codexDebuff06|Increased monster attack, movement and projectile speed|Скорость атаки, передвижения и снарядов монстров увеличена.
-codexDebuff07|Summon 3 Scythes targeting you when using a flask|При использовании зелья появляются 3 косы, преследующие вас.
+codexDebuff07|Summon 3 Scythes targeting you when using a flask|При использовании флакона появляются 3 косы, преследующие вас.
 ||
 [Journal]||
 journal_runewords|Runeword|Рунное слово
-journal_chaos_pillar|Chaos Pillar|Столб Хаоса
+journal_chaos_pillar|Chaos Pillar|Столп Хаоса
 journal_bifrost|Bifröst|Биврёст
 journal_unstableRift|Unstable Rift|Нестабильный разлом
 journal_eternalBattleField|Eternal Battle Field|Вечное поле битвы
@@ -1473,7 +1472,7 @@ journal_angelicRealm|Angelic Realm|Ангельское царство
 journal_unholy_siege|Unholy Siege|Нечестивая осада
 ||
 journal_desc_runewords|You can insert Runes into gray items with sockets in order to create powerful runeword items. Runes need to be inserted in the right order; You can find all the runewords in the journal´s Runewords tab.|Вы можете вставлять руны в серые предметы с гнездами, чтобы создавать мощные рунные слова. Руны нужно вставлять в правильном порядке. Список всех рунных слов можно найти во вкладке «Рунны» в журнале.
-journal_desc_chaos_pillar|You can find Chaos Pillars in the overworld areas. These pillars can spawn as Common / Superior / Rare / Mythic / Satanic / Angelic. The higher rarity the pillar is, the more affixes it gives. Once you activate the pillar, it will collapse and spawn a pack of monsters with the pillars modifiers. You can obtain Chaos Keys as random drops from killing monsters!|Вы можете найти столпы Хаоса в открытом мире. Они бывают разной редкости: обычные, превосходные, редкие, мифические, сатанинские и ангельские. Чем выше редкость, тем больше аффиксов. При активации столб рушится и призывает группу монстров с модификаторами. Ключи Хаоса выпадают случайным образом из монстров.
+journal_desc_chaos_pillar|You can find Chaos Pillars in the overworld areas. These pillars can spawn as Common / Superior / Rare / Mythic / Satanic / Angelic. The higher rarity the pillar is, the more affixes it gives. Once you activate the pillar, it will collapse and spawn a pack of monsters with the pillars modifiers. You can obtain Chaos Keys as random drops from killing monsters!|Вы можете найти столпы Хаоса в открытом мире. Они бывают разной редкости: обычные, превосходные, редкие, мифические, сатанинские и ангельские. Чем выше редкость, тем больше аффиксов. При активации столп рушится и призывает группу монстров с модификаторами. Ключи Хаоса выпадают случайным образом из монстров.
 journal_desc_bifrost|Once you find a Bifröst Key you can visit Astral Encampment (Act 7 town) to access Bifröst. In Bifröst you meet Heimdall who will grant you two randomly picked choices. Once chosen, enter the Bifröst device behind Heimdall to travel into the destination!|Найдя ключ Биврёста, вы можете попасть туда через Астральный лагерь (город 7 акта). Там вы встретите Хеймдалля, который предложит два случайных варианта. Сделав выбор, используйте устройство Биврёста за ним, чтобы отправиться в путь.
 journal_desc_unstableRift|Unstable Rifts can spawn into the overworld areas. Entering a rift can send you inside a Chaos Tower, or into a random dungeon or into an unstable version of the area you entered in. Unstable areas have a chance to drop Unstable Dust from monsters when killed.|Нестабильные разломы могут появиться в открытом мире. Они ведут в Башню Хаоса, случайное подземелье или нестабильную версию текущей локации. В нестабильных зонах из монстров выпадает нестабильная пыль.
 journal_desc_eternalBattleField|Eternal Battle Field can randomly spawn into the overworld areas. Going close to the portal it will activate, growing larger and larger spawning legions of monsters. These monsters can drop Battle Fragments, which can be used to enter a cleared portal to travel into the Eternal Battlefield.|Вечное поле битвы может случайно появиться в открытом мире. При приближении портал активируется и призывает легионы монстров. Из них выпадают фрагменты битвы, которые нужны для входа на само Вечное поле битвы.

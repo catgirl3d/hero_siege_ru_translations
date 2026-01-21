@@ -3,10 +3,10 @@
 quest_bodyPart|Body Part|Часть тела
 quest_blackHole|Black Hole|Черная дыра
 quest_coffeeBeans|Coffee Beans|Кофейные зерна
-quest_coffeeBrick|Brick|Кирпич
-quest_corruptedStatue|Corrupted Statue|Поврежденная статуя
-quest_cogVines|Cogwheel Vines|Зубчатые лозы
-quest_hotWater|Hot Water|Горячая вода
+quest_coffeeBrick|Brick|Брикет
+quest_corruptedStatue|Corrupted Statue|Оскверненная статуя
+quest_cogVines|Cogwheel Vines|Механические лозы
+quest_hotWater|Hot Water|Кипяток
 quest_treasureMark|Marked Spot|Отмеченное место
 quest_civilian|Civilian|Гражданский
 quest_book|Spellbook|Книга заклинаний
@@ -16,43 +16,43 @@ quest_portalDemonic|Demonic Portal|Демонический портал
 quest_boat|Boat|Лодка
 quest_braggiteOre|Braggite Ore|Браггитовая руда
 quest_essenceOfGods|Essence of Gods|Сущность богов
-quest_bossGemstone|Satanic Gemstone|Сатанинский драгоценный камень
+quest_bossGemstone|Satanic Gemstone|Сатанинский самоцвет
 quest_cartWheel|Cartwheel|Колесо телеги
-quest_cartWheelAttach|Cartwheel Attach|Прикрепить колесо тележки
+quest_cartWheelAttach|Cartwheel Attach|Прикрепить колесо
 quest_nagaScale|Naga Scale|Чешуя наги
 quest_deliciousHogMeat|Hog Meat|Свинина
-quest_deliciousHogMeatCooked|Cooked Hog Meat|Приготовленное мясо свиньи
+quest_deliciousHogMeatCooked|Cooked Hog Meat|Жареная свинина
 quest_gjollWater|Gjöll River Water|Вода реки Гьёлль
 quest_doomWeed|Doom Weed|Роковая трава
-quest_corruptedDirt|Corrupted Dirt|Испорченная грязь
-quest_corruptedDirtCollect|Corrupted Dirt Collected|Собрана испорченная грязь
-quest_corruptedDirtPotion|Corrupted Potion|Испорченное зелье
-quest_tiredVikingPotion|Viking’s Flask|Настойка викинга
-quest_goldenWarriorStatue|Golden Warrior Statue|Статуя Золотого Воина
+quest_corruptedDirt|Corrupted Dirt|Оскверненная земля
+quest_corruptedDirtCollect|Corrupted Dirt Collected|Собрано оскверненной земли
+quest_corruptedDirtPotion|Corrupted Potion|Зелье осквернения
+quest_tiredVikingPotion|Viking’s Flask|Фляга викинга
+quest_goldenWarriorStatue|Golden Warrior Statue|Золотая статуя воина
 quest_nagaTempleAmulet|Naga Amulet|Амулет Наги
 quest_niflhelSkull|Possessed Skull|Одержимый череп
-quest_rainbowFragment|Rainbow Fragment|Радужный фрагмент
+quest_rainbowFragment|Rainbow Fragment|Радужный осколок
 quest_pumpkinIngredient|Crimson Pumpkin|Багровая тыква
-quest_maggotStewCauldron|Maggot Stew Cauldron|Котел с рагу из личинок
+quest_maggotStewCauldron|Maggot Stew Cauldron|Котел рагу из личинок
 quest_maggotCorpse|Maggot Carcass|Туша личинки
-quest_spellbookAhriman|Murder of Crows|Убийство ворон
-quest_herbPouch|Herb Pouch|Травяной мешочек
-quest_carnageTrack|Carnage Track|Карнаж Трек
+quest_spellbookAhriman|Murder of Crows|Стая ворон
+quest_herbPouch|Herb Pouch|Мешочек с травами
+quest_carnageTrack|Carnage Track|След Карнажа
 quest_carnagesPelt|Carnage’s Pelt|Шкура Карнажа
 quest_whipJasper|Jasper’s Whip|Кнут Джаспера
 quest_mapJasper|Pyramid Map|Карта пирамиды
 quest_staffAnubis|Staff of Anubis|Посох Анубиса
 quest_sturdyBamboo|Sturdy Bamboo|Прочный бамбук
 quest_spiderweb|Spiderweb|Паутина
-quest_metalHook|Metal Hook|Металлический Крюк
+quest_metalHook|Metal Hook|Металлический крюк
 quest_eternalChalice|Eternal Chalice|Вечная Чаша
 quest_soulOfTheDamned|Soul of the Damned|Душа Проклятого
 quest_ginseng|Ginseng|Женьшень
 quest_dill|Dill|Укроп
-quest_loska|Loska|Лоска
-quest_vermRoot|Vermroot|Кореньверма
+quest_loska|Loska|Слякоть
+quest_vermRoot|Vermroot|Корень Верма
 quest_fanglen|Fanglen|Фэнглен
-quest_devilsGabbage|Devils Gabbage|Дьявольский Габбадж
+quest_devilsGabbage|Devils Gabbage|Дьявольская капуста
 quest_toyBear|Toy Bear|Игрушечный медведь
 quest_muspelheimCrown|Surtur’s Crown|Корона Суртура
 quest_surturChainPile|Iron Chain|Железная цепь
@@ -60,34 +60,34 @@ quest_esseceOfDead|Essence of Undead|Сущность нежити
 quest_lostManual|Lost Manual|Потерянное руководство
 quest_wildBerry|Wild Berry|Лесная ягода
 quest_wildBerryBush|Wild Berry Bush|Куст лесной ягоды
-quest_glitchingObject|Glitching Object|Сбойный объект
+quest_glitchingObject|Glitching Object|Глючный объект
 quest_soulCocoon|Soul Cocoon|Кокон души
 quest_anitas_amulet|Anita’s Amulet|Амулет Аниты
 quest_njals_head|Njal’s head|Голова Ньяла
 quest_securityBeacon|Broken Security Beacon|Сломанный маяк безопасности
 quest_securityBeacon_fixed|Security Beacon|Маяк безопасности
 quest_securityBeaconController|Security System Main Control Unit|Главный блок управления системой безопасности
-quest_iceCrack|Ice Crack|Ледяная трещина
-quest_iceEncasedBeer|Beer encased in ice|Пиво, заключённое во льду
-quest_explosives|Explosives|Взрывчатые вещества
-quest_place_explosives|Place explosives|Установить взрывчатые вещества
-quest_bigboom2000|Big Boom 2000B|Большой бум 2000B
+quest_iceCrack|Ice Crack|Трещина во льду
+quest_iceEncasedBeer|Beer encased in ice|Пиво во льду
+quest_explosives|Explosives|Взрывчатка
+quest_place_explosives|Place explosives|Установить взрывчатку
+quest_bigboom2000|Big Boom 2000B|Большой Бум 2000В
 quest_false_prophet|Luthor|Лютор
-quest_workbench|Work Bench|Рабочий стол
-quest_miningEquipment|Mining Equipment|Горнодобывающее оборудование
-quest_valhallaRiverBeacon|Gate Beacon|Маяк ворот 
+quest_workbench|Work Bench|Верстак
+quest_miningEquipment|Mining Equipment|Горное оборудование
+quest_valhallaRiverBeacon|Gate Beacon|Маяк у ворот
 ||
-quest_halloweenDustFeederTooth|Dust Feeder Tooth|Зуб подачи пыли
+quest_halloweenDustFeederTooth|Dust Feeder Tooth|Зуб Пылееда
 quest_halloweenGhostSkull|Ghost Skull|Призрачный череп
 quest_halloweenMaggotSlime|Maggot’s Slime|Слизь личинки
-quest_halloweenMummyBandages|Mummy Wrappings|Обертывания для мумий
+quest_halloweenMummyBandages|Mummy Wrappings|Бинты мумии
 quest_halloweenPumpkinJuice|Pumpkin Juice|Тыквенный сок
 quest_halloweenRatEar|Rat Ear|Крысиное ухо
 quest_halloweenSpellBook|Spell Book|Книга заклинаний
-quest_halloweenSpiderLeg|Spider Leg|Нога паука
-quest_halloweenChickenFeather|Chicken Feather|Куриное Перо
+quest_halloweenSpiderLeg|Spider Leg|Лапа паука
+quest_halloweenChickenFeather|Chicken Feather|Куриное перо
 quest_halloweenBone|Bone|Кость
-quest_halloweenCandy|Candy|Конфеты
+quest_halloweenCandy|Candy|Конфета
 quest_halloweenApple|Candy Apple|Карамельное яблоко
 quest_halloweenChain1|Skeleton’s Skull|Череп скелета
 quest_halloweenChain2|Skeleton’s Spine|Позвоночник скелета
@@ -97,8 +97,8 @@ quest_halloweenChain5|Skeleton’s Right Foot|Правая нога скелет
 quest_halloweenChain6|Skeleton’s Left Foot|Левая нога скелета
 ||
 quest_xmasSnowball|Snowball|Снежок
-quest_xmasCandyCane|Candy Cane|Конфета-трость
-quest_xmasLight|Christmas Light|Рождественский свет
-quest_book_page|Book of Soulforge page|Страница книги Soulforge
+quest_xmasCandyCane|Candy Cane|Леденец-трость
+quest_xmasLight|Christmas Light|Рождественский огонек
+quest_book_page|Book of Soulforge page|Страница Книги Кузницы Душ
 quest_soul_essence|Soul Essence|Сущность души
-quest_warrior_soul|Soul of the Fallen Warrior|Душа павшего воина 
+quest_warrior_soul|Soul of the Fallen Warrior|Душа павшего воина

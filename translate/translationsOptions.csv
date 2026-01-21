@@ -1,227 +1,227 @@
 [Video]|[en]|ru
-options_desc_fullscreen|Switch to Fullscreen or Windowed.| Переключиться в полноэкранный или оконный режим.
-options_desc_window_size|Size of the game window on Windowed.| Размер окна игры в оконном режиме.
-options_desc_aspect_ratio|Aspect Ratio of the game.| Соотношение сторон игры.
-options_desc_vsync|Vertical sync synchronizes the refresh rate and frame rate of a monitor fixing screen tearing.| Вертикальная синхронизация синхронизирует частоту обновления и частоту кадров монитора, устраняя разрывы изображения на экране.
-options_desc_framerate|Framerate determines how many frames per second your monitor draws improving the smoothness of the game. Additionally also due to game engine limitations this also determines how many times code is ran in the games step loop, this might cause slowdowns on lower end devices/hardware.| Частота кадров определяет, сколько кадров в секунду отрисовывает ваш монитор, улучшая плавность игры. Кроме того, из-за ограничений игрового движка это также определяет, сколько раз код запускается в игровом цикле
-options_desc_field_of_view|Field of View ingame. This determines how close or far the camera is zoomed to your player.| Поле зрения в игре. Это определяет, насколько близко или далеко камера приближается к игроку.
-options_desc_outline|Enable/disable outline drawing.| Включить/выключить рисование контуров.
-options_desc_show_experience|Enable/disable experience numbers shown in main HUD.| Включить/отключить отображение чисел опыта в основном HUD.
-options_desc_show_fps|Enable/disable Frames Per Second shown in main HUD.| Включить/выключить отображение количества кадров в секунду на основном HUD.
-options_desc_color_blind_mode|Enable/disable colorblindness correction filter.| Включить/отключить фильтр коррекции дальтонизма.
-options_desc_font|Select an alternative text font.| Выберите альтернативный шрифт текста.
-options_desc_cursor_size|Size of the ingame mouse cursor.| Размер курсора игровой мыши.
-options_desc_default|Set binds back to default values.| Верните привязки к значениям по умолчанию.
+options_desc_fullscreen|Switch to Fullscreen or Windowed|Переключение между полноэкранным и оконным режимом
+options_desc_window_size|Size of the game window on Windowed|Размер окна игры в оконном режиме
+options_desc_aspect_ratio|Aspect Ratio of the game|Соотношение сторон экрана
+options_desc_vsync|Vertical sync synchronizes the refresh rate and frame rate of a monitor fixing screen tearing|Вертикальная синхронизация (VSync) устраняет разрывы изображения, синхронизируя частоту кадров с частотой обновления монитора
+options_desc_framerate|Framerate determines how many frames per second your monitor draws improving the smoothness of the game. Additionally also due to game engine limitations this also determines how many times code is ran in the games step loop, this might cause slowdowns on lower end devices/hardware|Частота кадров (FPS) определяет плавность игры. Кроме того, из-за ограничений движка это также влияет на частоту выполнения кода; высокие значения могут вызвать замедление на слабых устройствах
+options_desc_field_of_view|Field of View ingame. This determines how close or far the camera is zoomed to your player|Поле зрения (FOV). Определяет, насколько близко или далеко камера находится от персонажа
+options_desc_outline|Enable/disable outline drawing|Включить/выключить обводку контуров
+options_desc_show_experience|Enable/disable experience numbers shown in main HUD|Включить/выключить отображение чисел опыта в основном интерфейсе (HUD)
+options_desc_show_fps|Enable/disable Frames Per Second shown in main HUD|Включить/выключить счетчик FPS в основном интерфейсе
+options_desc_color_blind_mode|Enable/disable colorblindness correction filter|Включить/выключить фильтр для дальтоников
+options_desc_font|Select an alternative text font|Выбрать альтернативный шрифт
+options_desc_cursor_size|Size of the ingame mouse cursor|Размер курсора мыши в игре
+options_desc_default|Set binds back to default values|Сбросить клавиши управления по умолчанию
 ||
-console|Console| Консоль
-brightness|Brightness| Яркость
-contrast|Contrast| Контраст
-outlines|Outlines| Контуры
-show_experience|Show Experience| Показать Опыт
-show_fps|Show FPS| Показать FPS
-combat_text_compress|Compress Combat Text| Сжать боевой текст
-mobile_hold_delay|Inventory Hold Delay| Задержка удержания инвентаря
-player_projectile_opacity_self|Skill Opacity (Self)| Непрозрачность навыка (соло)
-player_projectile_opacity_other|Skill Opacity (Party)| Непрозрачность навыка (группа)
-protanopia|Protanopia| Протанопия
-deuteranopia|Deuteranopia| Дейтеранопия
-tritanopia|Tritanopia| Тританопия
-cursor_size|Cursor Size| Размер курсора
-use_all_flasks|Use All Unique Flasks| Используйте все уникальные зелья
-options_font|Font| Шрифт
-show_item_info|Show Item Information| Показать информацию о товаре
-color_highlight|Loot Filter Highlight Color|
+console|Console|Консоль
+brightness|Brightness|Яркость
+contrast|Contrast|Контрастность
+outlines|Outlines|Контуры
+show_experience|Show Experience|Отображение опыта
+show_fps|Show FPS|Показать FPS
+combat_text_compress|Compress Combat Text|Сжать боевой текст
+mobile_hold_delay|Inventory Hold Delay|Задержка удержания (Инвентарь)
+player_projectile_opacity_self|Skill Opacity (Self)|Прозрачность умений (Вы)
+player_projectile_opacity_other|Skill Opacity (Party)|Прозрачность умений (Группа)
+protanopia|Protanopia|Протанопия
+deuteranopia|Deuteranopia|Дейтеранопия
+tritanopia|Tritanopia|Тританопия
+cursor_size|Cursor Size|Размер курсора
+use_all_flasks|Use All Unique Flasks|Использовать все уникальные зелья
+options_font|Font|Шрифт
+show_item_info|Show Item Information|Информация о предмете
+color_highlight|Loot Filter Highlight Color|Цвет подсветки фильтра добычи
 ||
 [Audio]||
-options_desc_master_volume|The master volume of the game. All other volume sliders are relative to this one.| Основная громкость игры. Все остальные ползунки громкости относительны этой.
-options_desc_music_volume|The volume of music in the game.| Громкость музыки в игре.
-options_desc_ambient_volume|The volume of all ambient sounds of the game like wind and rain etc.| Громкость всех окружающих звуков в игре, таких как ветер, дождь и т. д.
-options_desc_sound_volume|The volume of all sound effects.| Громкость всех звуковых эффектов.
-options_desc_loot_volume|The volume of all loot drops.| Объем всей выпадающей добычи.
-options_desc_hero_voice_volume|The volume of hero voice lines.| Громкость реплик героев.
+options_desc_master_volume|The master volume of the game. All other volume sliders are relative to this one|Общая громкость игры. Влияет на все остальные настройки звука
+options_desc_music_volume|The volume of music in the game|Громкость музыки
+options_desc_ambient_volume|The volume of all ambient sounds of the game like wind and rain etc|Громкость звуков окружения (ветер, дождь и т.д.)
+options_desc_sound_volume|The volume of all sound effects|Громкость звуковых эффектов
+options_desc_loot_volume|The volume of all loot drops|Громкость звуков выпадения добычи
+options_desc_hero_voice_volume|The volume of hero voice lines|Громкость голоса героя
 ||
 [Gameplay]||
 [Visual]||
-health_bar_scale|Health Bar Scale| Шкала здоровья
-show_enemy_hitbox|Show Enemy Attack Hitboxes| Показать зоны поражения вражеских атак
-center_dps_meter|Center DPS counter| Центральный счетчик DPS
-center_boss_cooldowns|Center Boss Cooldowns| Перезарядка центрального босса
-minimap_show_environment|Show Minimap Environment| Показать окружение миниатюры
-minimap_turboperformance|Minimap Turbo Performance| Турбопроизводительность миникарты
-show_enemy_affix|Show Monster Affixes| Показать аффиксы монстров
-minimap_show_monsters|Show Monsters in Minimap|
-show_dot|Show Dot Combat Text|
-hover_tooltip|Hover Item Tooltip|
-options_desc_hover_tooltip|Enable/Disable hovering item name always shows tooltip.|
-options_desc_show_player_name|Enable/disable showing the name of all players.| Включить/выключить отображение имен всех игроков.
-options_desc_show_player_health|Enable/disable showing the life and mana bars of all players.| Включить/выключить отображение полосок жизни и маны всех игроков.
-options_desc_show_loot_names|Enable/disable showing the names of all loot on the ground.| Включить/выключить отображение названий всей добычи на земле.
-options_desc_show_enemy_life|Enable/disable showing the life bar for enemies.| Включить/выключить отображение шкалы здоровья врагов.
-options_desc_show_enemy_hitbox|Enable/disable showing enemy attack hitboxes| Включить/выключить отображение хитбоксов атак противника
-options_desc_show_dps|Enable/disable the DPS counter tracking your damage dealt per second.|Включить/отключить счетчик DPS, отслеживающий наносимый вами урон в секунду.
-options_desc_show_boss_skill_cooldowns|Enable/disable cooldown counters for boss skills.| Включить/отключить счетчики перезарядки для навыков босса.
-options_desc_center_dps|Center the DPS counter position.| Центрируйте позицию счетчика DPS.
-options_desc_center_boss_skill_cooldowns|Center boss cooldown counter position.| Положение счетчика времени восстановления центрального босса.
-options_desc_show_combat_text|Enable/disable floating combat text when taking or dealing damage.| Включить/отключить всплывающий текст боя при получении или нанесении урона.
-options_desc_show_experience_gain|Enable/disable floating text for experience gain when killing enemies.| Включить/отключить плавающий текст для получения опыта за убийство врагов.
-options_desc_player_projectile_opacity_self|The opacity of your own skills and effects.| Непрозрачность ваших собственных навыков и эффектов.
-options_desc_player_projectile_opacity_other|The opacity of party member skills and effects.| Непрозрачность навыков и эффектов членов группы.
-options_desc_minimap_show_environment|Show or Hide Environment objects such as trees and buildings in the minimap| Показать или скрыть объекты окружающей среды, такие как деревья и здания, на мини-карте
-options_desc_minimap_turboperformance|Turboperformance for minimap. Increases FPS but lowers map updating frequency| Турбопроизводительность для миникарты. Увеличивает FPS, но снижает частоту обновления карты
-options_desc_health_bar_scale|Change the size of your health bar.| Измените размер шкалы здоровья.
-options_desc_cross_platform|Enable/disable the ability to see and join game sessions hosted by users outside of the PlayStation™Network. When enabled, players on other platforms can participate in your game sessions as well.| Включить/выключить возможность видеть и присоединяться к игровым сессиям, организованным пользователями за пределами PlayStation Network. Когда включено
-options_desc_use_all_flasks|Enable/Disable using all available unique flasks at the same time by using any one of them. This does not apply for common flasks.| Включить/выключить использование всех доступных уникальных колб одновременно, используя любую из них. Это не относится к общим колбам.
-options_desc_show_item_info|Always show the stat ranges and other information on items when hovering them.| Всегда показывать диапазоны характеристик и другую информацию о предметах при наведении на них курсора.
-options_desc_show_enemy_affix|Always show monster affixes.| Всегда показывать аффиксы монстров.
-options_desc_minimap_show_monsters|Enable/Disable showing monsters in minimap (Disabling increases performance)|
-options_desc_show_dot_text|Show/Hide damage over time combat text.|
+health_bar_scale|Health Bar Scale|Масштаб полоски здоровья
+show_enemy_hitbox|Show Enemy Attack Hitboxes|Показать хитбоксы атак врагов
+center_dps_meter|Center DPS counter|Счетчик DPS по центру
+center_boss_cooldowns|Center Boss Cooldowns|Перезарядка босса по центру
+minimap_show_environment|Show Minimap Environment|Детали окружения на миникарте
+minimap_turboperformance|Minimap Turbo Performance|Турбо-режим миникарты
+show_enemy_affix|Show Monster Affixes|Показывать аффиксы монстров
+minimap_show_monsters|Show Monsters in Minimap|Показывать монстров на миникарте
+show_dot|Show Dot Combat Text|Показывать текст периодического урона
+hover_tooltip|Hover Item Tooltip|Подсказка при наведении
+options_desc_hover_tooltip|Enable/Disable hovering item name always shows tooltip|Включить/выключить постоянное отображение окна характеристик при наведении на название предмета
+options_desc_show_player_name|Enable/disable showing the name of all players|Включить/выключить отображение имен всех игроков
+options_desc_show_player_health|Enable/disable showing the life and mana bars of all players|Включить/выключить отображение полосок здоровья и маны всех игроков
+options_desc_show_loot_names|Enable/disable showing the names of all loot on the ground|Включить/выключить отображение названий предметов на земле
+options_desc_show_enemy_life|Enable/disable showing the life bar for enemies|Включить/выключить отображение полосок здоровья врагов
+options_desc_show_enemy_hitbox|Enable/disable showing enemy attack hitboxes|Включить/выключить отображение зон поражения (хитбоксов) вражеских атак
+options_desc_show_dps|Enable/disable the DPS counter tracking your damage dealt per second|Включить/выключить счетчик DPS (урон в секунду)
+options_desc_show_boss_skill_cooldowns|Enable/disable cooldown counters for boss skills|Включить/выключить отображение перезарядки умений босса
+options_desc_center_dps|Center the DPS counter position|Разместить счетчик DPS в центре экрана
+options_desc_center_boss_skill_cooldowns|Center boss cooldown counter position|Разместить таймеры умений босса в центре экрана
+options_desc_show_combat_text|Enable/disable floating combat text when taking or dealing damage|Включить/выключить всплывающий текст урона
+options_desc_show_experience_gain|Enable/disable floating text for experience gain when killing enemies|Включить/выключить всплывающий текст получения опыта
+options_desc_player_projectile_opacity_self|The opacity of your own skills and effects|Прозрачность Ваших собственных умений и эффектов
+options_desc_player_projectile_opacity_other|The opacity of party member skills and effects|Прозрачность умений и эффектов членов группы
+options_desc_minimap_show_environment|Show or Hide Environment objects such as trees and buildings in the minimap|Показать или скрыть объекты окружения (деревья, здания) на миникарте
+options_desc_minimap_turboperformance|Turboperformance for minimap. Increases FPS but lowers map updating frequency|Турбо-режим миникарты. Повышает FPS, но снижает частоту обновления карты
+options_desc_health_bar_scale|Change the size of your health bar|Изменить размер вашей полоски здоровья
+options_desc_cross_platform|Enable/disable the ability to see and join game sessions hosted by users outside of the PlayStation™Network. When enabled, players on other platforms can participate in your game sessions as well|Включить/выключить кроссплатформенную игру. Если включено, вы сможете играть с пользователями других платформ
+options_desc_use_all_flasks|Enable/Disable using all available unique flasks at the same time by using any one of them. This does not apply for common flasks|Включить/выключить одновременное использование всех уникальных зелий при активации любого из них. Не влияет на обычные зелья
+options_desc_show_item_info|Always show the stat ranges and other information on items when hovering them|Всегда показывать диапазоны характеристик и подробную информацию о предметах при наведении
+options_desc_show_enemy_affix|Always show monster affixes|Всегда отображать список аффиксов под полоской здоровья монстра
+options_desc_minimap_show_monsters|Enable/Disable showing monsters in minimap (Disabling increases performance)|Включить/выключить отображение монстров на миникарте (Отключение повышает производительность)
+options_desc_show_dot_text|Show/Hide damage over time combat text|Показать/Скрыть всплывающий текст периодического урона
 ||
 [Minimap]||
-minimap_object_icon_size|Minimap Object Size| Размер объектов на миникарте
-minimap_enemy_icon_size|Minimap Player/Enemy Size| Размер игрока/врага на миникарте
-minimap_loot_icon_size|Minimap Loot Size| Размер добычи на миникарте
-options_desc_minimap_object_icon_size|The size of objects like portals, NPC, mining nodes etc. in the minimap.| Размер объектов, таких как порталы
-options_desc_minimap_enemy_icon_size|The size of Player and Enemies in the minimap.| Размер игрока и врагов на мини-карте.
-options_desc_minimap_loot_icon_size|The size of Loot in the minimap.| Размер добычи на миникарте.
-options_desc_minimap_color|The color blend for the minimap.| Цветовая гамма для мини-карты.
-options_desc_minimap_scale|The scale of your minimap.| Масштаб вашей миникарты.
-options_desc_minimap_opacity|The opacity of your minimap.| Непрозрачность вашей миникарты.
+minimap_object_icon_size|Minimap Object Size|Размер объектов миникарты
+minimap_enemy_icon_size|Minimap Player/Enemy Size|Размер игроков/врагов
+minimap_loot_icon_size|Minimap Loot Size|Размер добычи на миникарте
+options_desc_minimap_object_icon_size|The size of objects like portals, NPC, mining nodes etc. in the minimap|Размер объектов (порталы, NPC, руда и т.д.) на миникарте
+options_desc_minimap_enemy_icon_size|The size of Player and Enemies in the minimap|Размер иконок игрока и врагов на миникарте
+options_desc_minimap_loot_icon_size|The size of Loot in the minimap|Размер иконок добычи на миникарте
+options_desc_minimap_color|The color blend for the minimap|Цветовая гамма миникарты
+options_desc_minimap_scale|The scale of your minimap|Масштаб миникарты
+options_desc_minimap_opacity|The opacity of your minimap|Непрозрачность миникарты
 ||
 [Online Chat]||
-options_desc_general_chat|Enable/disable the General chat in the chat lobby as well as ingame.| Включить/отключить общий чат в лобби чата, а также в игре.
-options_desc_ingame_chat_notifications|Enable/disable notifications in the Ingame chat.| Включить/отключить уведомления в игровом чате.
-options_desc_general_chat_notifications|Enable/disable notifications in the General chat.| Включить/отключить уведомления в общем чате.
-options_desc_trade_chat_notifications|Enable/disable notifications in the Trade chat.| Включить/отключить уведомления в торговом чате.
-options_desc_guild_chat_notifications|Enable/disable notifications in the Guild chat.| Включить/отключить уведомления в чате гильдии.
-options_desc_ingame_chat_fading|Enable/disable Ingame chat fading. This causes the chat window to fade away after a period of time. if disabled the chat will always show.| Включить/выключить затухание игрового чата. Это заставит окно чата исчезнуть через некоторое время. Если отключить, чат будет отображаться всегда.
-options_desc_ingame_chat_fading_speed|How many seconds it takes before the chat starts to fade.| Сколько секунд проходит, прежде чем чат начинает исчезать.
-options_desc_ingame_chat_background_opacity|How visible the Ingame chats background box is.| Насколько заметно фоновое поле внутриигровых чатов.
+options_desc_general_chat|Enable/disable the General chat in the chat lobby as well as ingame|Включить/выключить Общий чат в лобби и в игре
+options_desc_ingame_chat_notifications|Enable/disable notifications in the Ingame chat|Включить/выключить уведомления в игровом чате
+options_desc_general_chat_notifications|Enable/disable notifications in the General chat|Включить/выключить уведомления в Общем чате
+options_desc_trade_chat_notifications|Enable/disable notifications in the Trade chat|Включить/выключить уведомления в Торговом чате
+options_desc_guild_chat_notifications|Enable/disable notifications in the Guild chat|Включить/выключить уведомления в чате Гильдии
+options_desc_ingame_chat_fading|Enable/disable Ingame chat fading. This causes the chat window to fade away after a period of time. if disabled the chat will always show|Включить/выключить затухание чата. Если включено, окно чата исчезает через некоторое время. Если выключено — отображается всегда
+options_desc_ingame_chat_fading_speed|How many seconds it takes before the chat starts to fade|Задержка в секундах перед исчезновением чата
+options_desc_ingame_chat_background_opacity|How visible the Ingame chats background box is|Прозрачность фона окна чата
 ||
 [Misc]||
-options_desc_screen_shake|Enable/disable screen shake from any source like abilities or cinematic events will be enabled/disabled.| Будет включено/выключено включение/выключение тряски экрана из любого источника, например, способностей или кинематографических событий.
-options_desc_vibration|Enable/disable vibration when taking damage for an example.|Включить/отключить вибрацию геймпада, например, при получении урона.
-options_desc_object_outline_color|The color of outline for enemies and other objects behind structures.| Цвет контура врагов и других объектов за строениями.
-options_desc_highlight_color|Choose the color for your filter highlighted items on ground and map.|
-options_name_lootFilter|Loot Filter|
-options_name_voteReset|Vote Reset|
-options_name_loadout01|Skill Loadout 1|
-options_name_loadout02|Skill Loadout 2|
-options_name_loadout03|Skill Loadout 3|
-options_name_loadout04|Skill Loadout 4|
+options_desc_screen_shake|Enable/disable screen shake from any source like abilities or cinematic events will be enabled/disabled|Включить/выключить тряску экрана от умений и событий
+options_desc_vibration|Enable/disable vibration when taking damage for an example|Включить/выключить вибрацию геймпада (например, при получении урона)
+options_desc_object_outline_color|The color of outline for enemies and other objects behind structures|Цвет контура врагов и объектов, скрытых за стенами
+options_desc_highlight_color|Choose the color for your filter highlighted items on ground and map|Выберите цвет подсветки для предметов, отмеченных фильтром
+options_name_lootFilter|Loot Filter|Фильтр добычи
+options_name_voteReset|Vote Reset|Голосование за сброс
+options_name_loadout01|Skill Loadout 1|Набор умений 1
+options_name_loadout02|Skill Loadout 2|Набор умений 2
+options_name_loadout03|Skill Loadout 3|Набор умений 3
+options_name_loadout04|Skill Loadout 4|Набор умений 4
 ||
 ||
 [Controls]||
 [Keyboard]||
-options_kb_use_potion_1|Key bind for using a potion in slot 1| Назначение клавиши для использования зелья в слоте 1
-options_kb_use_potion_2|Key bind for using a potion in slot 2| Назначение клавиши для использования зелья в слоте 2
-options_kb_use_potion_3|Key bind for using a potion in slot 3| Назначение клавиши для использования зелья в слоте 3
-options_kb_use_potion_4|Key bind for using a potion in slot 4| Назначение клавиши для использования зелья в слоте 4
-options_kb_use_skill_1|Key bind for using skill 1 if assigned.| Назначение клавиши для использования навыка 1, если назначена.
-options_kb_use_skill_2|Key bind for using skill 2 if assigned.| Назначение клавиши для использования навыка 2, если назначена.
-options_kb_use_skill_3|Key bind for using skill 3 if assigned.| Назначение клавиши для использования навыка 3, если назначено.
-options_kb_use_skill_4|Key bind for using skill 4 if assigned.| Назначение клавиши для использования навыка 4, если назначено.
-options_kb_use_skill_5|Key bind for using skill 5 if assigned.| Назначение клавиши для использования навыка 5, если назначено.
-options_kb_use_skill_6|Key bind for using skill 6 if assigned.| Назначение клавиши для использования навыка 6, если назначено.
-options_kb_use_skill_7|Key bind for using skill 7 if assigned.| Назначение клавиши для использования навыка 7, если назначена.
-options_kb_use_skill_8|Key bind for using skill 8 if assigned.| Назначение клавиши для использования навыка 8, если назначено.
-options_kb_use_skill_9|Key bind for using skill 9 if assigned.| Назначение клавиши для использования навыка 9, если назначено.
-options_kb_use_skill_10|Key bind for using skill 10 if assigned.| Назначение клавиши для использования навыка 10, если назначена.
-options_kb_use_skill_11|Key bind for using skill 11 if assigned.| Назначение клавиши для использования навыка 11, если назначено.
-options_kb_use_skill_12|Key bind for using skill 12 if assigned.| Назначение клавиши для использования навыка 12, если назначена.
-options_kb_move_up|Key bind for moving up.| Назначение клавиш для перемещения вверх.
-options_kb_move_left|Key bind for moving left.| Назначение клавиши для движения влево.
-options_kb_move_right|Key bind for moving right.| Назначение клавиш для движения вправо.
-options_kb_move_down|Key bind for moving down.| Назначение клавиш для перемещения вниз.
-options_kb_toggle_minimap|Key bind for toggling Minimap.| Назначение клавиш для переключения миникарты.
-options_kb_show_map|Key bind for showing the minimap in the middle of your screen.| Назначение клавиш для отображения мини-карты по центру экрана.
-options_kb_playerlist|Key bind for opening the playerlist.| Назначение клавиш для открытия списка игроков.
-options_kb_show_loot_names|Key bind for showing loot names on ground.| Назначение клавиш для отображения названий добычи на земле.
-options_kb_weapon_swap|Key bind for swapping weapon / shield slot.| Назначение клавиш для смены слота оружия/щита.
-options_kb_emote_menu|Key bind for Emote menu.| Назначение клавиш для меню эмоций.
-options_kb_cast_town_portal|Key bind for casting Town Portal.| Назначение клавиш для использования Городского портала.
-options_kb_force_stop|Key bind for force stop. You can force stop movement and your left ability attack/cast.| Назначение клавиш для принудительной остановки. Вы можете принудительно остановить движение и атаку/применение левой способности.
-options_kb_force_move|Key bind for force move. You can force movement ignoring your left ability from triggering.| Назначение клавиш для принудительного движения. Вы можете принудительно двигаться, игнорируя срабатывание левой способности.
-options_kb_pickup_use|Key bind for picking up loot and talking to NPC etc.| Назначение клавиш для сбора добычи, разговора с NPC и т. д.
-options_kb_jump|Key bind for Jumping.| Назначение клавиш для прыжков.
-options_kb_inventory_mercenary|Key bind for opening mercenary inventory.| Назначение клавиши для открытия инвентаря наемника.
-options_kb_guild_tab|Key bind for opening guild menu.| Назначение клавиш для открытия меню гильдии.
-options_kb_skill_menu|Key bind for opening skill menu.| Назначение клавиш для открытия меню навыков.
-options_kb_inventory|Key bind for opening inventory.| Привязка клавиш для открытия инвентаря.
-options_kb_chat|Key bind for opening ingame chat.| Назначение клавиш для открытия внутриигрового чата.
-options_kb_cutscene_skip|Key bind for skipping cutscenes.| Назначение клавиш для пропуска кат-сцен.
-options_disable_mouse_move|Disable Mouse Movement| Отключить движение мышью
-options_kb_ping|Key Bind for pinging on map| Назначение клавиш для пингования на карте
-options_kb_loot_filter|Key Bind for opening loot filter|
-options_kb_vote_reset|Key Bind for activating vote reset|
-options_kb_loadout_1|Key Bind for skill loadout 1|
-options_kb_loadout_2|Key Bind for skill loadout 2|
-options_kb_loadout_3|Key Bind for skill loadout 3|
-options_kb_loadout_4|Key Bind for skill loadout 4|
+options_kb_use_potion_1|Key bind for using a potion in slot 1|Клавиша для использования зелья в слоте 1
+options_kb_use_potion_2|Key bind for using a potion in slot 2|Клавиша для использования зелья в слоте 2
+options_kb_use_potion_3|Key bind for using a potion in slot 3|Клавиша для использования зелья в слоте 3
+options_kb_use_potion_4|Key bind for using a potion in slot 4|Клавиша для использования зелья в слоте 4
+options_kb_use_skill_1|Key bind for using skill 1 if assigned|Клавиша для использования умения 1
+options_kb_use_skill_2|Key bind for using skill 2 if assigned|Клавиша для использования умения 2
+options_kb_use_skill_3|Key bind for using skill 3 if assigned|Клавиша для использования умения 3
+options_kb_use_skill_4|Key bind for using skill 4 if assigned|Клавиша для использования умения 4
+options_kb_use_skill_5|Key bind for using skill 5 if assigned|Клавиша для использования умения 5
+options_kb_use_skill_6|Key bind for using skill 6 if assigned|Клавиша для использования умения 6
+options_kb_use_skill_7|Key bind for using skill 7 if assigned|Клавиша для использования умения 7
+options_kb_use_skill_8|Key bind for using skill 8 if assigned|Клавиша для использования умения 8
+options_kb_use_skill_9|Key bind for using skill 9 if assigned|Клавиша для использования умения 9
+options_kb_use_skill_10|Key bind for using skill 10 if assigned|Клавиша для использования умения 10
+options_kb_use_skill_11|Key bind for using skill 11 if assigned|Клавиша для использования умения 11
+options_kb_use_skill_12|Key bind for using skill 12 if assigned|Клавиша для использования умения 12
+options_kb_move_up|Key bind for moving up|Клавиша для движения вверх
+options_kb_move_left|Key bind for moving left|Клавиша для движения влево
+options_kb_move_right|Key bind for moving right|Клавиша для движения вправо
+options_kb_move_down|Key bind for moving down|Клавиша для движения вниз
+options_kb_toggle_minimap|Key bind for toggling Minimap|Клавиша переключения миникарты
+options_kb_show_map|Key bind for showing the minimap in the middle of your screen|Клавиша для отображения карты по центру экрана
+options_kb_playerlist|Key bind for opening the playerlist|Клавиша открытия списка игроков
+options_kb_show_loot_names|Key bind for showing loot names on ground|Клавиша отображения названий добычи на земле
+options_kb_weapon_swap|Key bind for swapping weapon / shield slot|Клавиша смены оружия
+options_kb_emote_menu|Key bind for Emote menu|Клавиша меню эмоций
+options_kb_cast_town_portal|Key bind for casting Town Portal|Клавиша сотворения Городского портала
+options_kb_force_stop|Key bind for force stop. You can force stop movement and your left ability attack/cast|Клавиша принудительной остановки
+options_kb_force_move|Key bind for force move. You can force movement ignoring your left ability from triggering|Клавиша принудительного движения
+options_kb_pickup_use|Key bind for picking up loot and talking to NPC etc|Клавиша взаимодействия (подобрать/говорить)
+options_kb_jump|Key bind for Jumping|Клавиша прыжка
+options_kb_inventory_mercenary|Key bind for opening mercenary inventory|Клавиша инвентаря наемника
+options_kb_guild_tab|Key bind for opening guild menu|Клавиша меню гильдии
+options_kb_skill_menu|Key bind for opening skill menu|Клавиша меню умений
+options_kb_inventory|Key bind for opening inventory|Клавиша инвентаря
+options_kb_chat|Key bind for opening ingame chat|Клавиша чата
+options_kb_cutscene_skip|Key bind for skipping cutscenes|Клавиша пропуска катсцен
+options_disable_mouse_move|Disable Mouse Movement|Отключить движение мышью
+options_kb_ping|Key Bind for pinging on map|Клавиша для сигнала (пинга) на карте
+options_kb_loot_filter|Key Bind for opening loot filter|Клавиша открытия фильтра добычи
+options_kb_vote_reset|Key Bind for activating vote reset|Клавиша голосования за сброс
+options_kb_loadout_1|Key Bind for skill loadout 1|Клавиша набора умений 1
+options_kb_loadout_2|Key Bind for skill loadout 2|Клавиша набора умений 2
+options_kb_loadout_3|Key Bind for skill loadout 3|Клавиша набора умений 3
+options_kb_loadout_4|Key Bind for skill loadout 4|Клавиша набора умений 4
 ||
 [Gamepad]||
-options_gp_use_potion_1|Button for using a potion in slot 1| Кнопка использования зелья в слоте 1
-options_gp_use_potion_2|Button for using a potion in slot 2| Клавиша использования зелья в слоте 2
-options_gp_use_potion_3|Button for using a potion in slot 3| Клавиша использования зелья в слоте 3
-options_gp_use_potion_4|Button for using a potion in slot 4| Клавиша использования зелья в слоте 4
-options_gp_use_skill_1|Button for using skill 1 if assigned.| Клавиша использования навыка 1, если назначена.
-options_gp_use_skill_2|Button for using skill 2 if assigned.| Клавиша использования навыка 2, если назначена.
-options_gp_use_skill_3|Button for using skill 3 if assigned.| Клавиша использования навыка 3, если назначена.
-options_gp_use_skill_4|Button for using skill 4 if assigned.| Клавиша использования навыка 4, если он назначен.
-options_gp_use_skill_5|Button for using skill 5 if assigned.| Клавиша использования навыка 5, если назначен.
-options_gp_use_skill_6|Button for using skill 6 if assigned.| Клавиша использования навыка 6, если он назначен.
-options_gp_use_skill_7|Button for using skill 7 if assigned.| Клавиша использования навыка 7, если он назначен.
-options_gp_use_skill_8|Button for using skill 8 if assigned.| Клавиша использования навыка 8, если он назначен.
-options_gp_use_skill_9|Button for using skill 9 if assigned.| Клавиша использования навыка 9, если он назначен.
-options_gp_use_skill_10|Button for using skill 10 if assigned.| Клавиша использования навыка 10, если он назначен.
-options_gp_use_skill_11|Button for using skill 11 if assigned.| Клавиша использования навыка 11, если он назначен.
-options_gp_use_skill_12|Button for using skill 12 if assigned.| Клавиша использования навыка 12, если он назначен.
-options_gp_ping|Button for pinging on map| Клавиша для пинга на карте
-options_gp_loot_filter|Button for opening loot filter|
-options_gp_vote_reset|Button for activating vote reset|
-options_gp_toggle_minimap|Button for toggling Minimap.| Клавиша переключения мини-карты.
-options_gp_playerlist|Button for opening the playerlist.| Клавиша открытия списка игроков.
-options_gp_show_loot_names|Button for showing loot names on ground.| Клавиша для отображения названий добычи на земле.
-options_gp_weapon_swap|Button for swapping weapon / shield slot.| Клавиша смены слота оружия/щита.
-options_gp_emote_menu|Button for Emote menu.| Клавиша для меню эмоций.
-options_gp_cast_town_portal|Button for casting Town Portal.| Клавиша для создания городского портала.
-options_gp_pickup_use|Button for picking up loot and talking to NPC etc.| Клавиша для сбора добычи, разговора с NPC и т. д.
-options_gp_jump|Button for Jumping.| Клавиша для прыжка.
-options_gp_inventory_mercenary|Button for opening mercenary inventory.| Клавиша открытия инвентаря наемника.
-options_gp_guild_tab|Button for opening guild menu.| Клавиша открытия меню гильдии.
-options_gp_skill_menu|Button for opening skill menu.| Клавиша открытия меню навыков.
-options_gp_inventory|Button for opening inventory.| Клавиша открытия инвентаря.
-inv_loadout|Equip Swap| Обмен оборудования
-options_gp_loadout_1|Button for skill loadout 1|
-options_gp_loadout_2|Button for skill loadout 2|
-options_gp_loadout_3|Button for skill loadout 3|
-options_gp_loadout_4|Button for skill loadout 4|
+options_gp_use_potion_1|Button for using a potion in slot 1|Кнопка использования зелья 1
+options_gp_use_potion_2|Button for using a potion in slot 2|Кнопка использования зелья 2
+options_gp_use_potion_3|Button for using a potion in slot 3|Кнопка использования зелья 3
+options_gp_use_potion_4|Button for using a potion in slot 4|Кнопка использования зелья 4
+options_gp_use_skill_1|Button for using skill 1 if assigned|Кнопка использования умения 1
+options_gp_use_skill_2|Button for using skill 2 if assigned|Кнопка использования умения 2
+options_gp_use_skill_3|Button for using skill 3 if assigned|Кнопка использования умения 3
+options_gp_use_skill_4|Button for using skill 4 if assigned|Кнопка использования умения 4
+options_gp_use_skill_5|Button for using skill 5 if assigned|Кнопка использования умения 5
+options_gp_use_skill_6|Button for using skill 6 if assigned|Кнопка использования умения 6
+options_gp_use_skill_7|Button for using skill 7 if assigned|Кнопка использования умения 7
+options_gp_use_skill_8|Button for using skill 8 if assigned|Кнопка использования умения 8
+options_gp_use_skill_9|Button for using skill 9 if assigned|Кнопка использования умения 9
+options_gp_use_skill_10|Button for using skill 10 if assigned|Кнопка использования умения 10
+options_gp_use_skill_11|Button for using skill 11 if assigned|Кнопка использования умения 11
+options_gp_use_skill_12|Button for using skill 12 if assigned|Кнопка использования умения 12
+options_gp_ping|Button for pinging on map|Кнопка для сигнала (пинга) на карте
+options_gp_loot_filter|Button for opening loot filter|Кнопка открытия фильтра добычи
+options_gp_vote_reset|Button for activating vote reset|Кнопка голосования за сброс
+options_gp_toggle_minimap|Button for toggling Minimap|Кнопка переключения миникарты
+options_gp_playerlist|Button for opening the playerlist|Кнопка списка игроков
+options_gp_show_loot_names|Button for showing loot names on ground|Кнопка отображения названий добычи
+options_gp_weapon_swap|Button for swapping weapon / shield slot|Кнопка смены оружия
+options_gp_emote_menu|Button for Emote menu|Кнопка меню эмоций
+options_gp_cast_town_portal|Button for casting Town Portal|Кнопка Городского портала
+options_gp_pickup_use|Button for picking up loot and talking to NPC etc|Кнопка взаимодействия (подобрать/говорить)
+options_gp_jump|Button for Jumping|Кнопка прыжка
+options_gp_inventory_mercenary|Button for opening mercenary inventory|Кнопка инвентаря наемника
+options_gp_guild_tab|Button for opening guild menu|Кнопка меню гильдии
+options_gp_skill_menu|Button for opening skill menu|Кнопка меню умений
+options_gp_inventory|Button for opening inventory|Кнопка инвентаря
+inv_loadout|Equip Swap|Смена экипировки
+options_gp_loadout_1|Button for skill loadout 1|Кнопка набора умений 1
+options_gp_loadout_2|Button for skill loadout 2|Кнопка набора умений 2
+options_gp_loadout_3|Button for skill loadout 3|Кнопка набора умений 3
+options_gp_loadout_4|Button for skill loadout 4|Кнопка набора умений 4
 ||
 [Loot Filter Presets]||
-loot_filter_preset_nightmare|Intended for playing through the campaign on Nightmare difficulty. At this point you will have several Superior+ items equipped,  and you are starting to look for cheap early game Runewords to craft. Low tier Common, Superior and Rare items are disabled as you are looking at upgrading to B+ items. | Предназначен для прохождения кампании на уровне сложности Кошмар. На этом этапе у вас будет несколько предметов Superior+.
-loot_filter_preset_hell_early|Intended for starting Hell 1-3, you just hit 100 and you are starting to farm maps. Low Tier non-Satanics are removed, and you are looking at good Runeword bases to craft sockets on.| Предназначен для запуска Ада 1-3
-loot_filter_preset_hell_midgame|Intended for Hell 3-5, you are climbing through the Incarnation Tree, and at this point will have fully equipped B+ tier Satanics or S tier Mythics. You are looking for very specific Runeword bases to craft on.| Предназначен для ада 3-5
-loot_filter_preset_hell_endgame|Intended for Hell 5+ speedfarming. At this point you are only looking for the very best Runeword bases, you also only care about A+ Satanics. You will have full charm slots, and are looking for very specific S tier charms.| Предназначен для скоростного фарма уровня Hell 5+. На этом этапе вы ищете только самые лучшие базы рунных слов
-loot_filter_preset_hell_endgame_norw|Intended for Hell 5+ speedfarming. You are only looking for A+ tier Satanics and are skipping Runewords.| Предназначено для скоростного фарма уровня Hell 5+. Вы ищете только сатанистов уровня A+ и пропускаете рунные слова.
-loot_filter_preset_normal|Intended for playing through the campaign on Normal difficulty. Low tier white items and non Runeword bases, such as Rings and Belts are disabled, everything else is enabled encouraging you to pick up items on the ground as you level.| Предназначен для прохождения кампании на уровне сложности Normal. Белые предметы низкого уровня и базы без рунных слов.
-loot_filter_title_nightmare|Nightmare| Кошмар
-loot_filter_title_hell_early|Early Hell| Ранний Ад
-loot_filter_title_hell_midgame|Midgame Hell| Ад в середине игры
-loot_filter_title_hell_endgame|Endgame Hell| Ад в конце игры
-loot_filter_title_hell_endgame_norw|Endgame Hell, no RW| Ад в конце игры
-loot_filter_title_normal|Normal| Нормальный
+loot_filter_preset_nightmare|Intended for playing through the campaign on Nightmare difficulty. At this point you will have several Superior+ items equipped,  and you are starting to look for cheap early game Runewords to craft. Low tier Common, Superior and Rare items are disabled as you are looking at upgrading to B+ items|Предназначен для прохождения кампании на сложности Кошмар. У вас уже есть Превосходные предметы, и вы ищете базы для ранних Рунных слов. Скрывает низкоуровневые Обычные, Превосходные и Редкие предметы, цель — поиск предметов ранга B+
+loot_filter_preset_hell_early|Intended for starting Hell 1-3, you just hit 100 and you are starting to farm maps. Low Tier non-Satanics are removed, and you are looking at good Runeword bases to craft sockets on|Предназначен для раннего Ада 1-3. Вы только взяли 100 уровень и начинаете фармить карты. Скрывает слабые не-Сатанические предметы, подсвечивает хорошие базы для Рунных слов
+loot_filter_preset_hell_midgame|Intended for Hell 3-5, you are climbing through the Incarnation Tree, and at this point will have fully equipped B+ tier Satanics or S tier Mythics. You are looking for very specific Runeword bases to craft on|Предназначен для Ада 3-5. Вы прокачиваете Древо Воплощения и одеты в Сатанические предметы ранга B+ или Мифические ранга S. Фильтр ищет конкретные базы для Рунных слов
+loot_filter_preset_hell_endgame|Intended for Hell 5+ speedfarming. At this point you are only looking for the very best Runeword bases, you also only care about A+ Satanics. You will have full charm slots, and are looking for very specific S tier charms|Предназначен для спидфарма Ада 5+. Вы ищете только лучшие базы для Рунных слов и Сатанические предметы ранга A+. Скрывает лишнее, так как у вас уже заполнены слоты талисманов
+loot_filter_preset_hell_endgame_norw|Intended for Hell 5+ speedfarming. You are only looking for A+ tier Satanics and are skipping Runewords|Предназначен для спидфарма Ада 5+. Вы ищете только Сатанические предметы ранга A+ и пропускаете Рунные слова
+loot_filter_preset_normal|Intended for playing through the campaign on Normal difficulty. Low tier white items and non Runeword bases, such as Rings and Belts are disabled, everything else is enabled encouraging you to pick up items on the ground as you level|Предназначен для прохождения кампании на Обычной сложности. Скрывает слабые обычные предметы и не подходящие для рунных слов (кольца, пояса), поощряя сбор полезной экипировки при прокачке
+loot_filter_title_nightmare|Nightmare|Кошмар
+loot_filter_title_hell_early|Early Hell|Ранний Ад
+loot_filter_title_hell_midgame|Midgame Hell|Середина Ада
+loot_filter_title_hell_endgame|Endgame Hell|Поздний Ад
+loot_filter_title_hell_endgame_norw|Endgame Hell, no RW|Поздний Ад (Без рунных слов)
+loot_filter_title_normal|Normal|Обычная
 ||
-highlight_filter_physical_attacker|Physical Attacker| Физический атакующий
-highlight_filter_arcane_attacker|Arcane Attacker| Аркан атакующий
-highlight_filter_poison_attacker|Poison Attacker| Ядовитый атакующий
-highlight_filter_lightning_attacker|Lightning Attacker| Молниевый атакующий
-highlight_filter_cold_attacker|Cold Attacker| Холодный атакующий
-highlight_filter_fire_attacker|Fire Attacker| Огненный атакующий
-highlight_filter_physical_caster|Physical Caster| Физический заклинатель
-highlight_filter_arcane_caster|Arcane Caster| Аркан заклинатель
-highlight_filter_poison_caster|Poison Caster| Ядовитый заклинатель
-highlight_filter_lightning_caster|Lightning Caster| Молниевый заклинатель
-highlight_filter_cold_caster|Cold Caster| Холодный заклинатель
-highlight_filter_fire_caster|Fire Caster| Огненный заклинатель
-highlight_filter_life_stacker|Life Stacker| Лайфстакер
-highlight_filter_mana_stacker|Mana Stacker| Манастакер
-highlight_filter_damage_return|Damage Return| Возврат урона
+highlight_filter_physical_attacker|Physical Attacker|Физ. урон (Атака)
+highlight_filter_arcane_attacker|Arcane Attacker|Тайная магия (Атака)
+highlight_filter_poison_attacker|Poison Attacker|Яд (Атака)
+highlight_filter_lightning_attacker|Lightning Attacker|Молния (Атака)
+highlight_filter_cold_attacker|Cold Attacker|Холод (Атака)
+highlight_filter_fire_attacker|Fire Attacker|Огонь (Атака)
+highlight_filter_physical_caster|Physical Caster|Физ. урон (Заклинатель)
+highlight_filter_arcane_caster|Arcane Caster|Тайная магия (Заклинатель)
+highlight_filter_poison_caster|Poison Caster|Яд (Заклинатель)
+highlight_filter_lightning_caster|Lightning Caster|Молния (Заклинатель)
+highlight_filter_cold_caster|Cold Caster|Холод (Заклинатель)
+highlight_filter_fire_caster|Fire Caster|Огонь (Заклинатель)
+highlight_filter_life_stacker|Life Stacker|Упор на Здоровье
+highlight_filter_mana_stacker|Mana Stacker|Упор на Ману
+highlight_filter_damage_return|Damage Return|Отражение урона
