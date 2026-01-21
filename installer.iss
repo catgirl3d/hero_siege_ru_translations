@@ -21,7 +21,6 @@ Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"
 
 [Files]
 Source: "translate\*"; DestDir: "{app}"; Flags: ignoreversion
-Source: "translate\**\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Code]
 var
