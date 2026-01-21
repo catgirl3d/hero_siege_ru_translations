@@ -22,6 +22,9 @@ Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"
 [Files]
 Source: "translate\*"; DestDir: "{app}"; Flags: ignoreversion
 
+[Run]
+Filename: "{app}\README.txt"; Description: "Показать README"; Flags: postinstall shellexec skipifsilent
+
 [Code]
 var
   InstallPath: String;
