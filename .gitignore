@@ -1,0 +1,5 @@
+translate/bup/*
+loc_guidelines.md
+translate/items_loc/*
+bup/translationsItem.csv
+.vscode/*

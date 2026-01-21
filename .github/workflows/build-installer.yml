@@ -1,0 +1,43 @@
+name: Build Installer
+
+on:
+  push:
+    branches: [ main, master ]
+    tags:
+      - 'v*'  # Запускается при пуше тегов вида v1.0.0
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Compile Inno Setup Script
+      uses: Minionguyjpro/Inno-Setup-Action@v1.2.4
+      with:
+        path: installer.iss
+        options: /O+
+    
+    - name: Upload Installer as Artifact
+      if: startsWith(github.ref, 'refs/tags/') == false
+      uses: actions/upload-artifact@v4
+      with:
+        name: hero-siege-ru-installer
+        path: hero_siege_ru_installer.exe
+        if-no-files-found: error
+    
+    - name: Create Release
+      if: startsWith(github.ref, 'refs/tags/')
+      uses: softprops/action-gh-release@v1
+      with:
+        files: hero_siege_ru_installer.exe
+        draft: false
+        prerelease: false
+        generate_release_notes: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
