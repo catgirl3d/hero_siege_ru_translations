@@ -610,6 +610,8 @@ stat_desc_lightning_resistance|Increases your resistance to Lightning damage.|У
 stat_desc_fire_absorb|Absorbs a portion of all incoming Fire Damage as healing.|Поглощает часть входящего урона от огня, преобразуя его в исцеление.
 stat_desc_cold_absorb|Absorbs a portion of all incoming Cold Damage as healing.|Поглощает часть входящего урона от холода, преобразуя его в исцеление.
 stat_desc_lightning_absorb|Absorbs a portion of all incoming Lightning Damage as healing.|Поглощает часть входящего урона от молнии, преобразуя его в исцеление.
+stat_desc_poison_absorb|Absorbs a portion of all incoming Poison Damage as healing|Поглощает часть входящего урона от яда, преобразуя его в исцеление.
+stat_desc_poison_absorb|Absorbs a portion of all incoming Arcane Damage as healing.|Поглощает часть входящего урона от тайной магии, преобразуя его в исцеление.
 stat_desc_light_radius|Effects your visibility range and base movement speed scaling.|Влияет на радиус освещения и прирост базовой скорости передвижения.
 stat_desc_mining|Your Mining skill level.|Ваш уровень навыка горного дела.
 stat_desc_jewelcrafting|Your Jewelcrafting skill level.|Ваш уровень навыка ювелирного дела.
@@ -1006,7 +1008,7 @@ satanicDebuffMana|Essence Drain|Истощение сущности
 satanicDebuffDarkness|Abyssal Gloom|Мрак Бездны
 satanicDebuffAllSkills|Skill Debilitation|Ослабление умений
 satanicDebuffAllAttributes|Weakening Essence|Ослабляющая сущность
-satanicDebuffRegen|Lifeflow Starvation|Иссушение жизни
+satanicDebuffRegen|Lifeflow Starvation|Иссушение жизненных сил
 satanicDebuffLifeSteal|Sanguine Impairment|Кровавый недуг
 satanicDebuffManaSteal|Arcane Impairment|Чародейский недуг
 satanicDebuffCooldown01|Consumed Time|Поглощенное время
@@ -1014,14 +1016,14 @@ satanicDebuffCooldown02|Absolute Limbo|Абсолютный лимб
 satanicDebuffBoulderFall|Boulder Fall|Камнепад
 satanicDebuffMovementSpeed|Lingering Evil|Гнетущее зло
 satanicDebuffMonsterCrit|Fatal Wounds|Смертельные раны
-satanicDebuffMonsterLife01|Bloated Veins|Вздутые вены
-satanicDebuffMonsterLife02|Abnormal Dwelling|Аномальное обиталище
+satanicDebuffMonsterLife01|Bloated Veins|Вздутые жилы
+satanicDebuffMonsterLife02|Abnormal Dwelling|Аномальное естество
 satanicDebuffMonsterLife03|Colossal Bloating|Колоссальное вздутие
 satanicDebuffNecrosis|Necrosis|Некроз
 satanicDebuffPoisonDuration|Venomous Presence|Ядовитое присутствие
 satanicDebuffFlamingAgony|Flaming Agony|Пламенная агония
 satanicDebuffMonsterSpeed|Unholy Agility|Нечестивая ловкость
-satanicDebuffBlockDisabled|Broken Armor|Сломанная броня
+satanicDebuffBlockDisabled|Broken Armor|Разбитая броня
 satanicDebuffStackedBleeding|Hemorrhage|Кровоизлияние
 satanicDebuffCripplingSlow|Crippling Slow|Парализующее замедление
 ||
