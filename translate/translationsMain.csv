@@ -420,7 +420,7 @@ report|Report|Пожаловаться
 report_send_success|Report sent succesfully|Жалоба успешно отправлена
 unblock|Unblock|Разблокировать
 show_player_messages|Show player messages|Показывать сообщения игроков
-show_item_drop_messages|Show item drop messages|Показывать уведомления о выпадении предметов
+show_item_drop_messages|Show item drop messages|Лог выпадения вещей
 start|Start|Начать
 submit|Submit|Подтвердить
 members|Members|Участники
