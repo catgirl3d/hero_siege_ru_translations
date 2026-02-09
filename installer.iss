@@ -3,7 +3,7 @@
 [Setup]
 AppId={{269210-HS-RU-TRANS}}
 AppName=Hero Siege Russian Translation
-AppVersion=1.0.3
+AppVersion=1.0.2
 AppPublisher=Alina Lisova
 DefaultDirName={code:GetInstallDir}
 DefaultGroupName=Hero Siege Russian Translation
