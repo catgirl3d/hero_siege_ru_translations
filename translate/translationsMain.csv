@@ -218,7 +218,7 @@ jump|Jump|Прыжок
 open_waypoint|Open Waypoint|Открыть путевую точку
 activate_waypoint|Activate Waypoint|Активировать путевую точку
 refresh_rate|Framerate|Частота кадров
-vote_reset|Vote Reset|Голос за обновление
+vote_reset|Vote Reset|Обновить локацию
 drowning|Drowning|Утопление
 falling|Falling|Падение
 minimap_scale|Minimap Scale|Масштаб миникарты
