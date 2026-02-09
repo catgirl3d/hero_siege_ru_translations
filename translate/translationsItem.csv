@@ -281,15 +281,15 @@ w_bow_arrow_of_niflheim|Arrow of Niflheim|
 w_bow_eternity|Eternity|
 w_bow_arrow_of_zamjo|Arrow of Zamjo|
 ||
-lore_w_bow_recurving_corrosion|When the toxic poison eats you from the inside, scorching your veins, there is only one way out.|Когда едкий яд пожирает тебя изнутри, обжигая вены, остается лишь один выход.|
-lore_w_bow_st_soloyolos_holy_bow|Facing the horrors of the dark entity alone, Saint SoloYolo paved the way for all creation alone with his trusted bow blessed by the light.|В одиночку противостоя ужасам темной сущности, святой СолоЙоло проложил путь всему сущему своим верным луком, благословленным светом.|
-lore_w_bow_deathquill|Almost as black as the soul of the necromancer who crafted this weapon, so is the death for the victims of this bow.|Смерть, уготованная жертвам этого лука, так же черна, как душа создавшего его некроманта.|
-lore_w_bow_shadowfury|With each arrow loosed, the bow releases a shadow-infused projectile that pierces the fabric of reality itself, leaving a temporary rift in its wake.|С каждой пущенной стрелой этот лук выпускает теневой снаряд, пронзающий саму ткань реальности и оставляющий за собой мимолетный разлом.|
-lore_w_bow_st_amithiels_truth|Truth is the ultimate killer..|Истина — идеальный убийца..|
-lore_w_bow_astral_projector|Birthed by immense pressure within the quantum realm..|Рожден под колоссальным давлением в квантовом мире..|
-lore_w_bow_arrow_of_niflheim|A glyphfrosted bow crafted by the ancient vikings in Niflheim..|Покрытый рунным инеем лук, созданный древними викингами в Нифльхейме..|
-lore_w_bow_eternity|Existing for an eternity.. Nobody knows who built this ancient killing machine..|Существует целую вечность.. Никто не знает, кто создал это древнее орудие смерти..|
-lore_w_bow_arrow_of_zamjo|The essence of thunder imbued into this ancient bow..|В этот древний лук заключена сама суть грома..|
+lore_w_bow_recurving_corrosion|When the toxic poison eats you from the inside, scorching your veins, there is only one way out.|Когда трупный яд вгрызается в твою плоть, выжигая жилы изнутри, остается лишь один выход — объятия холодной смерти.|
+lore_w_bow_st_soloyolos_holy_bow|Facing the horrors of the dark entity alone, Saint SoloYolo paved the way for all creation alone with his trusted bow blessed by the light.|Оставшись один на один с запредельным ужасом бездны, святой СолоЙоло проложил путь всему сущему. Его единственным союзником был этот лук, чья тетива поет песнь ослепительного света.|
+lore_w_bow_deathquill|Almost as black as the soul of the necromancer who crafted this weapon, so is the death for the victims of this bow.|Смерть от этого лука столь же беспросветна и черна, как извращенная душа некроманта, вдохнувшего жизнь в это костяное древо.|
+lore_w_bow_shadowfury|With each arrow loosed, the bow releases a shadow-infused projectile that pierces the fabric of reality itself, leaving a temporary rift in its wake.|Каждая стрела, сорвавшаяся с этой тетивы, несет в себе яд тени. Она разрывает саму ткань мироздания, оставляя за собой кровоточащий разлом в самой реальности.|
+lore_w_bow_st_amithiels_truth|Truth is the ultimate killer..|Истина — самый беспощадный палач. От неё не укрыться за сталью щитов и не сбежать в спасительную тень..|
+lore_w_bow_astral_projector|Birthed by immense pressure within the quantum realm..|Это оружие было рождено под гнетом запредельного давления в безднах астрального хаоса, где само время и материя сплетаются в предсмертном крике..|
+lore_w_bow_arrow_of_niflheim|A glyphfrosted bow crafted by the ancient vikings in Niflheim..|Древний лук, скованный льдами Нифльхейма. Его плечи покрыты морозными рунами, хранящими ледяную ярость и вечный холод северных воителей..|
+lore_w_bow_eternity|Existing for an eternity.. Nobody knows who built this ancient killing machine..|Оно существовало еще до того, как первый свет озарил этот мир. Никто не знает имени творца этой древней машины смерти, не знающей ни усталости, ни сострадания..|
+lore_w_bow_arrow_of_zamjo|The essence of thunder imbued into this ancient bow..|В этом древнем луке заключена ярость первородной бури. Сама суть грозового разряда вплетена в его тетиву, готовую обрушить гнев небес на головы обреченных..|
 ||
 [weapon_claw]||
 normal_claw_wrist_blades|Wrist Blades|
@@ -532,22 +532,22 @@ armors_wraiths_cloak|Wraith´s Cloak|
 armors_arcanists_wrath|Arcanist´s Wrath|
 armors_sharpshooters_cloak|Sharpshooter´s Cloak|
 ||
-lore_armors_gem_kings_garb|In a hall bedecked with jewels, the king, consumed by greed, bestows his blessings at a cost.Insert Pristine Gems to unlock ancient powers.|В зале, украшенном самоцветами, король, поглощенный жадностью, дарует свои благословения... за определенную цену. Вставьте безупречные гемы, чтобы пробудить древние силы.|
-lore_armors_tundra_hunters_long_coat|In the storms of a cold and frozen tundra, a lone hunter is stalking his prey.|Среди буранов холодной замерзшей тундры одинокий охотник выслеживает свою добычу.|
-lore_armors_thunder_guardians_plate|A noble warrior, infused with the storm in their veins, descends to protect the innocent.|Благородный воин, в чьих жилах течет сама буря, снисходит, чтобы защитить невинных.|
-lore_armors_st_judas_hauberk|High above the celestial realms, upon His resplendent throne, the Divine Observer gazes upon the entirety of creation, His eyes reaching every corner of existence. As the cosmic architect of justice, He unfailingly discerns the threads of fate, ready to mete out fair judgment to those who tread the paths of righteousness or wickedness.|Высоко над небесными сферами, на своем сияющем троне, Божественный Наблюдатель взирает на всё сущее; Его взор достигает самых дальних уголков мироздания. Как космический архитектор правосудия, Он неустанно распутывает нити судьбы, готовый вынести справедливый приговор и праведникам, и грешникам.|
-lore_armors_grimbones_ribcage|Ribcage of a thousand souls forged from the corpses of fallen warriors in Niflhel.|Грудная клетка тысячи душ, выкованная из останков павших воинов в Нифльхеле.|
-lore_armors_stoneplate_of_corruption|From the darkest pits of hell, forged in the pool of lost souls wields its carrier with eternal corruption..|Выкованная в омуте потерянных душ в самых мрачных безднах ада, эта плита клеймит своего владельца вечной скверной..|
-lore_armors_gabriels_broken_wings|The broken wings of a fallen angel..|Сломленные крылья падшего ангела..|
-lore_armors_tayrels_chestplate|Chestplate of the divine singularity..|Нагрудник божественной сингулярности..|
-lore_armors_executioneers_cocoon|Splattered by blood of the executioned|Забрызган кровью казненных|
-lore_armors_mantle_exiled_pagan|Exiled for preaching a false prophecy.. The mantle reeks of dark energy..|Изгнан за проповедь ложного пророчества.. От этой мантии за версту разит темной энергией..|
-lore_armors_grand_archwizards_mantle|Perfectly preserved through the test of time holding immense power within..|Идеально сохранившаяся сквозь века, она таит в себе безграничную мощь..|
-lore_armors_pit_fighters_band_shirt|The classic dirty band shirt.. Commanding respect within the pit!|Классическая грязная фанатская футболка.. Внушает уважение в любой яме!|
-lore_armors_dragon_knights_vanguard|Forged within the searing heat of a dragon´s den..|Выковано в обжигающем пламени драконьего логова..|
-lore_armors_wraiths_cloak|Death sees no elements, a luck of the draw..|Смерть не видит стихий, лишь волю случая..|
-lore_armors_arcanists_wrath|Once worn by a guardian of the magistrate..|Когда-то этот доспех носил страж магистрата..|
-lore_armors_sharpshooters_cloak|Merciless aim, absolutely unhinged..|Беспощадная меткость, полное безумие..|
+lore_armors_gem_kings_garb|In a hall bedecked with jewels, the king, consumed by greed, bestows his blessings at a cost.Insert Pristine Gems to unlock ancient powers.|Одеяние короля самоцветов. В залах, ослепительно сияющих золотом, монарх, чью душу сожрала алчность, раздает свои дары... но цена их страшна. Вставь безупречные камни, чтобы пробудить мощь былых эпох.|
+lore_armors_tundra_hunters_long_coat|In the storms of a cold and frozen tundra, a lone hunter is stalking his prey.|Одеяние того, кто сам стал частью ледяного шторма. В этой шкуре охотник превращается в безмолвный призрак тундры, неумолимо следующий по следу жертвы там, где сама жизнь замерзает на лету.|
+lore_armors_thunder_guardians_plate|A noble warrior, infused with the storm in their veins, descends to protect the innocent.|В каждом звене этих лат заточена ярость шторма. Воин, надевший их, становится живым воплощением небесного правосудия: его естество полнится громом, а его присутствие приносит кару нечестивым и спасение тем, кто уже не надеялся увидеть рассвет|
+lore_armors_st_judas_hauberk|High above the celestial realms, upon His resplendent throne, the Divine Observer gazes upon the entirety of creation, His eyes reaching every corner of existence. As the cosmic architect of justice, He unfailingly discerns the threads of fate, ready to mete out fair judgment to those who tread the paths of righteousness or wickedness.|Хауберк святого Иуды. В заоблачных высях, на сияющем троне, Божественный Наблюдатель взирает на прах земной; Его всевидящее око пронзает мрак в каждом закоулке бытия. Как великий зодчий справедливости, Он неумолимо распутывает нити рока, готовя кару грешным и воздаяние праведным.|
+lore_armors_grimbones_ribcage|Ribcage of a thousand souls forged from the corpses of fallen warriors in Niflhel.|Костяной панцирь, в который вплавлены тысячи душ. Он был выкован из останков тех, кто нашел свой бесславный конец в ледяных безднах Нифльхеля.|
+lore_armors_stoneplate_of_corruption|From the darkest pits of hell, forged in the pool of lost souls wields its carrier with eternal corruption..|Каменные латы Скверны. Выкованные в самых черных ямах преисподней, в омуте заблудших душ, эти плиты клеймят своего носителя печатью вечного проклятия..|
+lore_armors_gabriels_broken_wings|The broken wings of a fallen angel..|Сломленные крылья падшего ангела. Истерзанные, почерневшие перья падшего ангела, чей свет навсегда угас..|
+lore_armors_tayrels_chestplate|Chestplate of the divine singularity..|Нагрудник Тайреля. Панцирь божественной сингулярности, в котором заключена мощь созидания и первородного хаоса..|
+lore_armors_executioneers_cocoon|Splattered by blood of the executioned|Кокон палача. Слой за слоем пропитанный запекшейся, зловонной кровью бесчисленных казненных.|
+lore_armors_mantle_exiled_pagan|Exiled for preaching a false prophecy.. The mantle reeks of dark energy..|Одеяние еретика, изгнанного за слова, что отравляли умы. От этой ткани разит удушливой энергией запретных истин, которые лучше было бы оставить погребенными во тьме веков.
+lore_armors_grand_archwizards_mantle|Perfectly preserved through the test of time holding immense power within..|Мантия великого архимага. Неподвластная тлену веков, она по сей день вибрирует от заключенной внутри колоссальной, едва сдерживаемой магии..|
+lore_armors_pit_fighters_band_shirt|The classic dirty band shirt.. Commanding respect within the pit!|Футболка бойца ямы. Классическая грязная рвань, впитавшая пот и кровь арен. Только такая одежда внушает уважение в настоящей, беспощадной мясорубке!|
+lore_armors_dragon_knights_vanguard|Forged within the searing heat of a dragon´s den..|Этот доспех был выкован в нестерпимом жару драконьего логова. Металл всё еще хранит в себе ярость древнего пламени, способную испепелить любого агрессора|
+lore_armors_wraiths_cloak|Death sees no elements, a luck of the draw..|Саван призрака. Смерть слепа к стихиям и рангам — для неё ты лишь очередная карта в колоде рока, и этот плащ напоминает об этом каждым своим мертвенно-холодным касанием.|
+lore_armors_arcanists_wrath|Once worn by a guardian of the magistrate..|Гнев арканиста. Эти доспехи некогда защищали элитного стража магистрата, пока тот не сгорел в пламени собственной силы..|
+lore_armors_sharpshooters_cloak|Merciless aim, absolutely unhinged..|Плащ стрелка. Беспощадная, противоестественная точность, граничащая с полным, беспросветным помешательством..|
 ||
 [helms]||
 helmet_normal_cap|Cap|
@@ -653,12 +653,12 @@ helmet_veil_of_consecration|Veil of Consecration|
 ||
 lore_helmet_crown_of_north|Forged from tarethium deep in the glacial caves of Danethorpe. The ancient Jötunn tribe used to make these..|Этот венец, выкованный из таретиума в ледяных склепах Данеторпа, хранит в себе хладную ярость древних йотунов — племени, чьи сердца были тверже вековых ледников.|
 lore_helmet_tenebris_grievance|Tenebris was a legendary battlefield medic specialized in amputations. He used this weird kind of substance to relieve pain..|Тенебрис был печально известным костоправом, чье мастерство в ампутациях граничило с безумием. Шлем всё еще источает едкий запах того снадобья, которым он заглушал крики обреченных, лишая их боли вместе с остатками разума..|
-lore_helmet_pit_lords_vanquisher|From the dark pits of Tarethiel, a legendary gladiator's visage carries the strength of ten warriors and memories of untold battles.|Забрало, поднятое со дна проклятых ям Таретиэля. Оно хранит отзвуки тысячи битв и наделяет владельца свирепой мощью десяти воинов, чей путь оборвался на кровавом песке арен.|
-lore_helmet_lava_kings_lost_mask|In the depths of Muspelheim, forged from the ever-flowing molten rock by an ancient being who seeks to be freed once more.|Рожденная в раскаленном чреве Муспельхейма, эта маска была отлита из живой лавы существом, чей яростный дух веками жаждет лишь одного — вырваться из плена и испепелить этот мир.|
-lore_helmet_nikitas_kj33_helmet|Let there be carnage or bloodshed, keep your head protected and vision clear.|Пусть мир захлебнется в резне и крови — этот шлем сбережет твой разум холодным, а взор — ясным, пока ты прорубаешь путь сквозь ряды обреченных.|
-lore_helmet_sight_of_gods|Eyes of judgment cast from above, see the world with their gaze once more.|Очи беспристрастного правосудия, взирающие на мир с недосягаемых высот. Надень этот венец, и ты увидишь ничтожность сущего глазами богов, для которых жизнь смертного — лишь мимолетная вспышка во тьме.|
+lore_helmet_pit_lords_vanquisher|From the dark pits of Tarethiel, a legendary gladiator's visage carries the strength of ten warriors and memories of untold battles.|Из темных глубин Таретиэля явился этот легендарный шлем. В его чертах запечатлен триумф величайшего гладиатора, а внутри пульсирует мощь десяти сильнейших мужей. Он хранит память о битвах, само упоминание которых заставляет содрогаться нынешних королей.|
+lore_helmet_lava_kings_lost_mask|In the depths of Muspelheim, forged from the ever-flowing molten rock by an ancient being who seeks to be freed once more.|Эта маска соткана из вечно бурлящей магмы руками существа, чей возраст исчисляется эпохами. Творец вложил в раскаленный камень частицу своей измученной души, стремясь обрести свободу через того, кто осмелится надеть этот огненный венец и стать его проводником в мире живых.|
+lore_helmet_nikitas_kj33_helmet|Let there be carnage or bloodshed, keep your head protected and vision clear.|Пусть мир вокруг захлебывается в резне и тонет в крови — твоя голова останется целой, а взор — ледяным и ясным. В самом сердце бойни этот шлем станет гранью, отделяющей твой разум от безумия.|
+lore_helmet_sight_of_gods|Eyes of judgment cast from above, see the world with their gaze once more.|Взгляни на этот бренный мир очами тех, кто вершит судьбы с небесных престолов. Отныне их праведный суд — это твой взор, от которого не укроется ни одна живая душа..|
 lore_helmet_grimbones_visage|Grimbone the hivemind of tormented souls, face of terror to all those who meet their fate in Niflhel.|Лик Гримбона — содрогающееся воплощение коллективного разума истерзанных душ. Это лик абсолютного ужаса для каждого, кому суждено встретить свой конец в туманах Нифльхеля.|
-lore_helmet_high_rollers_crown|The next big win is right around the corner, keep going.|Ты чувствуешь это? Великий триумф уже близко, за следующим поворотом... Просто не останавливайся, даже если цена этой победы — твоя собственная душа.|
+lore_helmet_high_rollers_crown|The next big win is right around the corner, keep going.|Венец тех, кто ставил на кон саму жизнь и проигрывал. Он всё еще пульсирует лихорадочным азартом прошлых владельцев, заставляя тебя верить — в этот раз всё точно будет иначе. Просто не останавливайся.|
 lore_helmet_gaze_of_the_oblivion|Deep beyond the void, an ancient being gazes upon the weak mortals…|Там, за пределами пустоты, обитает нечто древнее и чуждое. Оно взирает на немощных смертных, и в его равнодушном взгляде — лишь обещание вечного забвения..|
 lore_helmet_eternal_death|The third eye of Amun Ra.. Legends say it is a portal to a barren dimension fueled by the essence of death..|Третий глаз Амона-Ра... Легенды гласят, что это врата в мертвое измерение — бесплодную пустошь, что вечно жаждет новой крови и питается самой сутью смерти..|
 lore_helmet_metal_vocalists_leather_mask|The fear inducing leather face with the screamo to live for!|Наводящая ужас кожаная маска, сквозь которую прорывается истошный вопль безумца. В этом крике — вся ярость и жажда жизни, ради которых стоит убивать.|
@@ -869,7 +869,7 @@ lore_boots_soulflaming_marchers|Burning in agony are the souls entrapped in this
 lore_boots_marchers_of_hatred|I just hate these dolls and the maggots feasting on its carcass..|Я просто ненавижу этих кукол и опарышей, пирующих на их гнилых останках..|
 lore_boots_developer_boots|I went to the store to buy some of them nuggets but the store was closed so I called my mom and tripped on the side of the road, fell into a hole and appeared in front of a church. They were serving soup for the homeless and this guy comes to me and tells me ‘Hey man you look like you like nuggets, I know exactly the place’. So I follow him to a night dark alley and we go inside this moldy appartment and he gives me this white rock kind of thing and tells me this is better than nuggets, we spent the whole night vaping this rock and those were the best nuggets I’ve ever eaten. |Пошел я за наггетсами, а магаз закрыт. Позвонил мамке, споткнулся, упал в яму и очутился у церкви. Там кормили бездомных супом, и какой-то тип говорит: «Слышь, ты вроде любишь наггетсы, я знаю место». Пошли мы в темный переулок, в какую-то плесневелую хату, и он дает мне белый камень. Говорит, это получше наггетсов будет. Всю ночь мы курили этот камень, и это были лучшие наггетсы в моей жизни.|
 lore_boots_lost_at_sea|Closer to astronauts than anyone other on the planet|Оказавшись в безмолвной пучине, ты становишься ближе к звездам, чем любой смертный на этой планете.|
-lore_boots_fumas_favela_flipflop|Flipflopping max speed running from the Policia Militar|Жми во всю мощь на одних шлепанцах — от военной полиции так просто не уйти!|
+lore_boots_fumas_favela_flipflop|Flipflopping max speed running from the Policia Militar|Скромная обувь отщепенцев из трущоб, позволяющая скользить между тенями с невероятной быстротой. Пока преследователи гремят сталью, ты исчезаешь в лабиринте подворотен, оставляя лишь эхо своего дерзкого побега.|
 lore_boots_metal_vocalists_war_boots|Stomping the ground amplifying the sweet sound of metal!|Пусть земля содрогается под твоим весом, усиливая яростный рев истинного металла!|
 lore_boots_deserts_storm|The storm is brewing, guiding your every step..|Буря уже сгущается, направляя каждый твой шаг..|
 lore_boots_chaoswalkers|Walk through the chaos like a king..|Ступай сквозь хаос с величием короля..|
@@ -2478,8 +2478,8 @@ glyph_rift|Rift|Глиф разлома
 glyph_bifrost|Bifröst|Глиф Биврёста
 glyph_alfather|Alfather|Глиф Всеотца
 glyph_relic|Relic|Глиф реликвии
-glyph_satanic_dice|Satanic Dice|Глиф сатанинских костей
-glyph_prime_evil|Prime Evil|Глиф первородного зла
+glyph_satanic_dice|Satanic Dice|Глиф сатанических костей
+glyph_prime_evil|Prime Evil|Глиф Изначального Зла
 glyph_artisan|Artisan|Глиф ремесленника
 glyph_infinity|Deprecated|
 glyph_gravity|Deprecated|
