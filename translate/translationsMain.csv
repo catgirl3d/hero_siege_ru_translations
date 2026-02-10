@@ -122,7 +122,7 @@ inventory_tab_buy_prompt|Would you like to purchase an extra inventory tab?|Хо
 get_more_character_slots|Get More Slots|Купить слоты
 manage_subscription|Manage Subscription|Управление подпиской
 clear_active_sessions|Clear active sessions|Завершить активные сеансы
-charms|Charms|Чары
+charms|Charms|Талисманы (Чары)
 iap_max_amount|You already have the maximum amount of this product.|У вас уже есть максимальное количество этого товара.
 iap_disabled|In Application Purchases have been disabled.|Внутриигровые покупки отключены.
 continue_unlinked|Continue unlinked|Продолжить без привязки
@@ -420,7 +420,7 @@ report|Report|Пожаловаться
 report_send_success|Report sent succesfully|Жалоба успешно отправлена
 unblock|Unblock|Разблокировать
 show_player_messages|Show player messages|Показывать сообщения игроков
-show_item_drop_messages|Show item drop messages|Лог выпадения вещей
+show_item_drop_messages|Show item drop messages|Лог выпадения предметов
 start|Start|Начать
 submit|Submit|Подтвердить
 members|Members|Участники
@@ -1204,7 +1204,7 @@ scrap|Scrap|Лом
 combine|Combine|Объединить
 dual_wield|Dual Wield|Парное оружие
 soulbound|Herobound|Привязано к герою
-inventory_sort_tab|Sort Tab|Сортировать вкладку
+inventory_sort_tab|Sort Tab|Сортировать
 inventory_autofill_belt|Autofill belt|Автозаполнение пояса
 inventory_useall_belt|Use All Slots|Использовать все ячейки
 split_stack|Split Stack|Разделить стопку
