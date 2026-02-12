@@ -1,40 +1,40 @@
 [Normal Axes]|en|ru
-normal_melee_hand_axe|Hand Axe|
-normal_melee_hatchet|Hatchet|
-normal_melee_naga|Naga|
-normal_melee_broad_axe|Broad Axe|
-normal_melee_war_axe|War Axe|
-normal_melee_giant_axe|Giant Axe|
+normal_melee_hand_axe|Hand Axe|Ручной топор
+normal_melee_hatchet|Hatchet|Топорик
+normal_melee_naga|Naga|Нага
+normal_melee_broad_axe|Broad Axe|Широкий топор
+normal_melee_war_axe|War Axe|Боевой топор
+normal_melee_giant_axe|Giant Axe|Гигантский топор
 ||
 [Normal Maces]||
-normal_mace_cudgel|Cudgel|
-normal_mace_mace|Mace|
-normal_mace_morning_star|Morning Star|
-normal_mace_spiked_club|Spiked Club|
-normal_mace_war_hammer|War Hammer|
-normal_mace_maul|Maul|
-normal_mace_ogre_maul|Ogre Maul|
-normal_mace_martel_de_fer|Martel De Fer|
-normal_mace_flail|Flail|
-normal_mace_devil_star|Devil Star|
+normal_mace_cudgel|Cudgel|Дубина
+normal_mace_mace|Mace|Булава
+normal_mace_morning_star|Morning Star|Моргенштерн
+normal_mace_spiked_club|Spiked Club|Шипастая дубина
+normal_mace_war_hammer|War Hammer|Боевой молот
+normal_mace_maul|Maul|Кувалда
+normal_mace_ogre_maul|Ogre Maul|Молот огра
+normal_mace_martel_de_fer|Martel De Fer|Мартель де фер
+normal_mace_flail|Flail|Цеп
+normal_mace_devil_star|Devil Star|Дьявольская звезда
 ||
 [Normal Daggers]||
-normal_dagger_dagger|Dagger|
-normal_dagger_dirge|Dirge|
-normal_dagger_kris|Kris|
+normal_dagger_dagger|Dagger|Кинжал
+normal_dagger_dirge|Dirge|Погребальный кинжал
+normal_dagger_kris|Kris|Крис
 ||
 [Normal Swords]||
-normal_sword_short_sword|Short Sword|
-normal_sword_sabre|Sabre|
-normal_sword_claymore|Claymore|
-normal_sword_broad_sword|Broad Sword|
-normal_sword_scimitar|Scimitar|
-normal_sword_giant_sword|Giant Sword|
-normal_sword_katana|Katana|
-normal_sword_war_sword|War Sword|
-normal_sword_falchion|Falchion|
-normal_sword_flamberge|Flamberge|
-normal_sword_zangetsu|Zangetsu|
+normal_sword_short_sword|Short Sword|Короткий меч
+normal_sword_sabre|Sabre|Сабля
+normal_sword_claymore|Claymore|Клеймор
+normal_sword_broad_sword|Broad Sword|Широкий меч
+normal_sword_scimitar|Scimitar|Скимитар
+normal_sword_giant_sword|Giant Sword|Гигантский меч
+normal_sword_katana|Katana|Катана
+normal_sword_war_sword|War Sword|Боевой меч
+normal_sword_falchion|Falchion|Фальшион
+normal_sword_flamberge|Flamberge|Фламберг
+normal_sword_zangetsu|Zangetsu|Дзангецу
 ||
 [weapon_melee_unique]||
 w_melee_godfather|Godfather|
@@ -125,46 +125,46 @@ w_melee_fenrirs_bloodfang|Fenrir´s Bloodfang|
 ||
 lore_w_melee_st_mikas_zweihander|Over the ages, Saint Mika's Zweihander became a relic passed down through the generations to those deemed worthy of its immense power. Many sought the sword for their own ambitions, but only those who held wisdom in their hearts and remained humble in the face of its might could unlock its true potential.|На протяжении веков цвайхендер святого Мики оставался реликвией, передаваемой из поколения в поколение тем, кто был достоин его безграничной мощи. Многие жаждали заполучить этот меч ради собственных амбиций, но лишь те, чьи сердца исполнены мудрости, а помыслы смиренны перед его величием, могли раскрыть его истинный потенциал.|
 lore_w_melee_st_rexis_sundering_axe|This axe does not belong to a saint in the traditional sense, for he did not follow the path of divinity or devotion to a particular deity. Instead, Saint Rexi was a warrior of unparalleled skill and valor, revered by the people as a guardian and protector.|Этот топор не принадлежит святому в привычном понимании, ибо его владелец не следовал путем божественного служения или поклонения конкретному божеству. Напротив, святой Рекси был воином беспримерного мастерства и доблести, которого народ почитал как своего защитника и хранителя.|
-lore_w_melee_riftmasters_dirge|The mysterious wizard at the edge of the universe enchanted this blade at the expense of a black hole.|Таинственный чародей на краю вселенной зачаровал этот клинок ценой целой черной дыры.|
-lore_w_melee_sung_lees_destroyer_flail|Brutal weapon of the warlord Sung Lee to bring carnage and death to anyone on it's path.|Жестокое оружие полководца Сунг Ли, несущее резню и смерть любому, кто встанет на его пути.|
-lore_w_melee_light_of_dawn|As the first light of dawn fills the vision of a hero after a night of terror, hope fills his heart as he presses on.|Когда первый свет зари предстает перед взором героя после ночи ужаса, надежда наполняет его сердце, давая силы двигаться дальше.|
-lore_w_melee_st_gabriels_retribution|Beware those who follow the path of the wicked and sin, as the punishment is coming from above.|Берегитесь те, кто ступил на путь нечестия и греха, ибо возмездие придет свыше.|
+lore_w_melee_riftmasters_dirge|The mysterious wizard at the edge of the universe enchanted this blade at the expense of a black hole.|Ткань пространства и времени, застывшая в форме клинка. Таинственный чародей с самого края мироздания закалил эту сталь в сердце черной дыры, обрекая ее на вечный голод и стремление к разрушению.|
+lore_w_melee_sung_lees_destroyer_flail|Brutal weapon of the warlord Sung Lee to bring carnage and death to anyone on it's path.|Тяжелая зазубренная сталь, закаленная в крови бесчисленных жертв военачальника Сун Ли. Этот цеп не ведает милосердия, сея лишь смерть и хаос на своем пути.|
+lore_w_melee_light_of_dawn|As the first light of dawn fills the vision of a hero after a night of terror, hope fills his heart as he presses on.|Выкованная из освященной стали, эта булава сияет подобно первому лучу зари, пронзающему морок бесконечной ночи и дарующему воину силы идти вопреки пережитому ужасу.|
+lore_w_melee_st_gabriels_retribution|Beware those who follow the path of the wicked and sin, as the punishment is coming from above.|Раскаленная добела сталь несет в себе очищающее пламя, не знающее жалости к отступникам. Всякий, кто ступил на путь греха, познает гнев, карающий с самых небес.|
 lore_w_melee_bonettis_rapier|Tarethiel's finest swordsman's arsenal is believed to be buried with them during the siege of Damien.|Считается, что арсенал величайшего фехтовальщика Таретиэля был погребен вместе с ним во время осады Дэмиена.|
-lore_w_melee_grimbones_scythe|A grim death awaits the victims of this scythe, as it reaps the soul from the corpse.|Мрачная смерть ждет жертв этой косы, когда она пожинает души из остывших тел.|
-lore_w_melee_shadow_carver|The Scythe of death so vicious and sharp it is rumored to cut shadows in half.|Коса смерти настолько яростная и острая, что, по слухам, она способна разрубать тени пополам.|
-lore_w_melee_sahkopuimuri|A thinning tool with no competition.|Инструмент для прореживания рядов врагов, не имеющий равных.|
-lore_w_melee_arch_angels_phase_blade|Ascended from the heavens to be wielded by the worthy.|Снизошел с небес, чтобы служить достойному.|
+lore_w_melee_grimbones_scythe|A grim death awaits the victims of this scythe, as it reaps the soul from the corpse.|Тяжелая зазубренная сталь, закаленная в крови тысячи грешников, превращает каждый взмах в жуткую жатву, вырывая жизненную искру из тел тех, кому суждено пасть от этого проклятого металла.|
+lore_w_melee_shadow_carver|The Scythe of death so vicious and sharp it is rumored to cut shadows in half.|Призрачный металл, не имеющий веса, наделяет это оружие ужасающей скоростью и точностью. Ходят легенды, что острота этого жнеца за гранью понимания: он способен разрубить надвое даже бесплотный дух.|
+lore_w_melee_sahkopuimuri|A thinning tool with no competition.|Тяжелое испещренное рунами железо наделяет этот клинок волей к абсолютному очищению. Там, где проходит этот жнец, остается лишь пустота — он не терпит равных себе в деле кровавой работы.|
+lore_w_melee_arch_angels_phase_blade|Ascended from the heavens to be wielded by the worthy.|Сплав ангельской благодати и несокрушимого небесного металла, лишенный веса в руках праведника. Этот клинок пронзает саму суть тьмы, повинуясь лишь тому, кто признан достойным нести свет в угасающий мир.|
 lore_w_melee_gem_kings_cleaver|In a hall bedecked with jewels, the king, consumed by greed, bestows his blessings at a cost.Insert Pristine Gems to unlock ancient powers.|В зале, украшенном самоцветами, король, поглощенный жадностью, дарует свои благословения... за определенную цену. Вставьте безупречные гемы, чтобы пробудить древние силы.|
-lore_w_melee_winters_bite|The only axe able to endure the lowest of sub zero conditions frostforged by an ancient god of war..|Единственный топор, способный выдержать запредельный холод; выкован во льдах древним богом войны..|
-lore_w_melee_wraith_forged_cleaver|Wielded by the shadowy creatures lurking in the depths of Helheim..|Оружие призрачных существ, таящихся в глубинах Хельхейма..|
-lore_w_melee_aurelion_fury|Once wielded by Koios, eternal god of the cosmos.. Approach with caution..|Когда-то этот клинок принадлежал Кою, вечному богу космоса... Приближайтесь с осторожностью...|
-lore_w_melee_abominations_gut_ripper|Stitched together from 7 fallen warrior's who performed deadly sins.. An ancient monstrosity forged this blood infused weapon of death..|Сшит из плоти семи павших воинов, совершивших смертные грехи... Древнее чудовище выковало это пропитанное кровью орудие смерти..|
-lore_w_melee_rakhuls_legion_crusher|Imbued by the blood of fallen gladiators within King Rakhul's colosseum..|Напитан кровью павших гладиаторов, пролитой на арене Колизея короля Рахула..|
+lore_w_melee_winters_bite|The only axe able to endure the lowest of sub zero conditions frostforged by an ancient god of war..|Пропитанный первородным хладом металл, способный выдержать запредельные температуры. Этот топор был выкован древним богом войны в самом сердце вечной мерзлоты, где само время обращается в лед|
+lore_w_melee_wraith_forged_cleaver|Wielded by the shadowy creatures lurking in the depths of Helheim..|Выкованный из самой тьмы Хельхейма, этот тесак впитал в себя ледяной ужас бездны. Им орудуют призрачные твари, таящиеся в тенях, куда никогда не проникает солнечный свет.|
+lore_w_melee_aurelion_fury|Once wielded by Koios, eternal god of the cosmos.. Approach with caution..|Холодная небесная сталь, впитавшая в себя ярость созвездий, когда-то принадлежала великому владыке миров. Будь осторожен — божественная воля Койоса до сих пор тлеет внутри, готовая вырваться наружу разрушительным вихрем.|
+lore_w_melee_abominations_gut_ripper|Stitched together from 7 fallen warrior's who performed deadly sins.. An ancient monstrosity forged this blood infused weapon of death..|Окровавленный металл, закаленный в муках семи падших душ, послужил основой для этого чудовищного клинка. В его зазубренном лезвии навеки заперта ненависть древнего монстра, превратившего останки грешников в идеальный инструмент убийства.|
+lore_w_melee_rakhuls_legion_crusher|Imbued by the blood of fallen gladiators within King Rakhul's colosseum..|Тяжелая сталь, окропленная кровью павших героев на арене короля Рахула. Это оружие хранит в себе безумие и отчаяние тех, кто навеки остался лежать в пыли великого колизея.|
 lore_w_melee_daisy|The bond shared between Daisy and the Butcher is bloody eternal.. Beautiful like a pile of corpses on a rainy morning..|Связь между Дейзи и Мясником вечна и кровава... Прекрасна, словно гора трупов дождливым утром..|
-lore_w_melee_dawn_bringer|Wielded by the fallen angel Lucifer.. A divine flail fueled by eternal hatred.|Оружие падшего ангела Люцифера... Божественный цеп, питаемый вечной ненавистью.|
+lore_w_melee_dawn_bringer|Wielded by the fallen angel Lucifer.. A divine flail fueled by eternal hatred.|Острые шипы, источающие призрачный свет павших небес. Оскверненная реликвия, ставшая продолжением воли Люцифера — жаждущая крови и ведомая лишь неугасающей яростью.|
 lore_w_melee_gabriels_broken_resolve|An unholy tool of execution, wielded by the fallen angel Gabriel..|Нечестивое орудие казни, принадлежащее падшему ангелу Габриэлю..|
-lore_w_melee_the_hope_ender|A cursed sword enhanced by rage and forged from pure hatred..|Проклятый меч, закаленный яростью и выкованный из чистой ненависти..|
+lore_w_melee_the_hope_ender|A cursed sword enhanced by rage and forged from pure hatred..|Сплав застывшего гнева и первородной злобы, закаленный в крови тех, кто посмел надеяться на спасение. Каждый дюйм этого проклятого меча жаждет лишь одного — конца всего сущего.|
 lore_w_melee_lucis_day|Eeny.. Meeny.. Miny.. Moe..|Эники.. Беники.. Ели.. Вареники..|
 lore_w_melee_kings_executioner|You can still hear the sound of the King’s Executioner sharpening his blade, waiting for the next poor soul to meet their fate.|Вы все еще можете слышать звук, с которым королевский палач точит свой клинок, ожидая следующую несчастную душу, готовую встретить свою судьбу.|
 lore_w_melee_shishkebab|Fresh and tasty, but very hot!!|Свежий и вкусный, но очень острый!!|
-lore_w_melee_stormslayer|Signed by bard..|Подписано бардом..|
-lore_w_melee_blood_moon_crescent|An ancient sword used to rule the masses by summoning and siphoning the blood moons presence painting the lands and sky red..|Древний меч, использовавшийся для правления массами. Он призывает силу кровавой луны, окрашивая земли и небеса в багровый цвет..|
-lore_w_melee_stofflix_cooking_cleaver|Sian-San once tried to lift this epic cooking cleaver but by not being worthy of wielding it burned his hands.. |Сиань-Сан однажды попытался поднять этот эпический кухонный тесак, но, будучи недостойным, лишь обжег свои руки.. |
+lore_w_melee_stormslayer|Signed by bard..|Закаленная молнией сталь гудит от скрытой ярости шторма. На эфесе едва различима подпись странствующего барда, который запечатлел в этом металле реквием по всем, кто падет от его искрящегося лезвия.|
+lore_w_melee_blood_moon_crescent|An ancient sword used to rule the masses by summoning and siphoning the blood moons presence painting the lands and sky red..|Тяжелая багряная сталь этого меча взывает к Кровавой луне, чье зловещее сияние некогда окрашивало небеса в цвет свежей крови, помогая тиранам подчинять себе волю целых народов.|
+lore_w_melee_stofflix_cooking_cleaver|Sian-San once tried to lift this epic cooking cleaver but by not being worthy of wielding it burned his hands.. |Раскаленный докрасна клинок, выкованный в глубинах Преисподней, не терпит слабых. Говорят, Сиань-Сань лишился кожи на ладонях, едва коснувшись рукояти этого исполинского ножа. |
 lore_w_melee_pit_fighters_skullcracker|Cracking skulls since the 70´s in pits across the world!|Крошит черепа в ямах по всему миру еще с семидесятых!|
 lore_w_melee_pit_fighters_brutalizer|Dominating and brutalizing any pit anywhere at any time!|Доминирует и подавляет в любой яме, в любое время и в любом месте!|
 lore_w_melee_metal_vocalists_warlock|Echoing the sound of true metal..|Вторит звучанию истинного метала..|
 lore_w_melee_fenrirs_bloodfang|Fang of the ancient wolf god fenrir who slaid gods and demons, but couldn´t catch a single fish from the rivers..|Клык Фенрира, древнего бога-волка, который сразил богов и демонов, но так и не смог поймать ни одной рыбешки в реках..|
 ||
 [weapon_throwing]||
-normal_throwing_throwing_axe|Throwing Axe|
-normal_throwing_battle_darts|Battle Darts|
-normal_throwing_throwing_disc|Throwing Disc|
-normal_throwing_harpoon|Harpoon|
-normal_throwing_javelin|Javelin|
-normal_throwing_pilum|Pilum|
-normal_throwing_simbilan|Simbilan|
-normal_throwing_short_spear|Short Spear|
-normal_throwing_throwing_spear|Throwing Spear|
+normal_throwing_throwing_axe|Throwing Axe|Метательный топор
+normal_throwing_battle_darts|Battle Darts|Боевые дротики
+normal_throwing_throwing_disc|Throwing Disc|Метательный диск
+normal_throwing_harpoon|Harpoon|Гарпун
+normal_throwing_javelin|Javelin|Дротик
+normal_throwing_pilum|Pilum|Пилум
+normal_throwing_simbilan|Simbilan|Симбилан
+normal_throwing_short_spear|Short Spear|Короткое копье
+normal_throwing_throwing_spear|Throwing Spear|Метательное копье
 ||
 [weapon_throwing_unique]||
 w_throwing_mimirs_corrupted_axe|Mimir's Corrupted Axe|
@@ -181,19 +181,19 @@ w_throwing_deep_sea_glaive|Deep Sea Glaive|
 w_throwing_sawyers_javelin_of_devastation|Sowyer's Javelin of Devastation|
 w_throwing_sidewinder|Sidewinder|
 ||
-lore_w_throwing_scarred_battle_darts|Said to contain vampiric powers within to leech the life force of the victim.|Говорят, что в них заключена вампирическая сила, высасывающая жизненную энергию жертвы.|
-lore_w_throwing_ukkos_revenge|As Ukko was betrayed by his own, the havoc is laid on those deserving a brutal death.|Поскольку Укко был предан своими соплеменниками, хаос обрушивается на тех, кто заслуживает лютой смерти.|
-lore_w_throwing_st_neris_rainbow_lance|As a rainbow descends from the heavens, Saint Neri, the Angel Warrior, rides upon it with their lance ready for combat against evil.|Когда радуга спускается с небес, святая Нери, ангел-воитель, мчится по ней с копьем наперевес, готовая к битве со злом.|
+lore_w_throwing_scarred_battle_darts|Said to contain vampiric powers within to leech the life force of the victim.|Древние руны на щербатом металле пульсируют в ожидании крови. Каждое попадание не просто ранит, а вытягивает душу, перекачивая тепло угасающей жизни от жертвы к убийце.|
+lore_w_throwing_ukkos_revenge|As Ukko was betrayed by his own, the havoc is laid on those deserving a brutal death.|Острое, как сама ненависть, лезвие, хранящее эхо небесного грозового раската. Боль предательства обратилась в чистую, первобытную ярость. В сердце Укко, пронзенном изменой близких, погас свет милосердия, теперь он несет только погибель.
+lore_w_throwing_st_neris_rainbow_lance|As a rainbow descends from the heavens, Saint Neri, the Angel Warrior, rides upon it with their lance ready for combat against evil.|Холодный блеск призматических граней этого копья внушает ужас врагам и надежду верным. Когда небеса разверзаются, Святая Нери сходит по мосту из слепящего света. Ее копье — не просто оружие, а карающая длань, готовая испепелить любую скверну на своем пути.|
 lore_w_throwing_sidewinder|[9 / 5 / -3 / 1]|
 ||
 [weapon_spell]||
-normal_spell_gnarled_staff|Gnarled Staff|
-normal_spell_cane|Cane|
-normal_spell_arcane_fork|Arcane Fork|
-normal_spell_spellblade|Spellblade|
-normal_spell_wand|Wand|
-normal_spell_magic_tome|Magic Tome|
-normal_spell_yew_wand|Yew Wand|
+normal_spell_gnarled_staff|Gnarled Staff|Узловатый посох
+normal_spell_cane|Cane|Трость
+normal_spell_arcane_fork|Arcane Fork|Двузубец тайной магии
+normal_spell_spellblade|Spellblade|Магический клинок
+normal_spell_wand|Wand|Жезл
+normal_spell_magic_tome|Magic Tome|Магический том
+normal_spell_yew_wand|Yew Wand|Тисовый жезл
 ||
 [weapon_spell_unique]||
 w_spell_spellshard|Spellshard|
@@ -241,23 +241,23 @@ w_spell_crows_whisper|Crow´s Whisper|
 w_spell_damiens_corrupted_head|Damien´s Corrupted Head|
 w_spell_witchs_wand|Witch´s Wand|
 ||
-lore_w_spell_nimosLightbringer|They will kneel before the might of light, for they are the bringer of the sacred, a morning star.|Они склонятся пред мощью света, ибо явился носитель святыни, утренняя звезда.|
-lore_w_spell_st_houdeaniis_tiny_fire_rod|Said to have lighten the eternal flame, a powerful magic item to aid those in need.|Говорят, этот жезл разжег вечное пламя — могущественный артефакт, призванный помочь нуждающимся.|
-lore_w_spell_spell_eater|Devour the spells of your enemies and infuse the energy to your own as you battle the darkness.|Пожирайте заклятия врагов и наполняйте их энергией собственные чары, сражаясь с тьмой.|
-lore_w_spell_blood_of_abaddon|Blood shed to the altar and by demonic forces arise; the staff of an Arch Demon.|Кровь, пролитая на алтарь, воззвала к демоническим силам; посох самого архидемона.|
-lore_w_spell_hypothermia|As cold as the heart of the grim reaper, the blade that cuts through souls.|Холодный, словно сердце Мрачного Жнеца — клинок, пронзающий души насквозь.|
-lore_w_spell_beacon_of_shadows|Harness the very essence of darkness itself, drawing power from the concealed corners of the world.|Обуздайте саму суть тьмы, черпая силу из самых потаенных уголков мира.|
+lore_w_spell_nimosLightbringer|They will kneel before the might of light, for they are the bringer of the sacred, a morning star.|Древний артефакт, источающий жар самого солнца. Пред величием этой священной Утренней звезды содрогнутся основания мира, и враги падут ниц, ослепленные её яростным светом...|
+lore_w_spell_st_houdeaniis_tiny_fire_rod|Said to have lighten the eternal flame, a powerful magic item to aid those in need.|Раскаленная сердцевина из обсидиана, пульсирующая жаром забытых эпох. Говорят, именно этот жезл подарил миру первый свет, и теперь его мощь служит верным щитом для страждущих в час великой нужды.|
+lore_w_spell_spell_eater|Devour the spells of your enemies and infuse the energy to your own as you battle the darkness.|Древний артефакт, чьи края сочатся фиолетовым пламенем, питается магией окружающих. Обрати чары противников в собственную энергию и обрушь ее на головы тех, кто посмел бросить тебе вызов.|
+lore_w_spell_blood_of_abaddon|Blood shed to the altar and by demonic forces arise; the staff of an Arch Demon.|Сгусток чистой тьмы, принявший форму посоха в руках хозяина бездны. Этот артефакт пробуждает первобытное зло всякий раз, когда на его поверхность попадает капля свежей крови.|
+lore_w_spell_hypothermia|As cold as the heart of the grim reaper, the blade that cuts through souls.|Закаленная в ледяном дыхании смерти сталь, холодная, словно сердце самого Жнеца. Этот клинок не просто ранит плоть, он выпивает тепло из самой глубины души.|
+lore_w_spell_beacon_of_shadows|Harness the very essence of darkness itself, drawing power from the concealed corners of the world.|Осколок застывшей тени, пульсирующий первозданным хаосом. Он позволяет подчинить себе энергию бездны, сокрытую в глубочайших расщелинах земли.|
 lore_w_spell_pagan_gods_blasphemy|All hail the false prophet! AVE SATANAS!|Да славится лжепророк! AVE SATANAS!|
-lore_w_spell_mystical_wand_of_manastream|The one who sparked the manaflame shall live on.|Тот, кто разжег пламя маны, будет жить вечно.|
-lore_w_spell_crackling_thunder|Can you hear the echo of the roaring storm?|Слышите ли вы эхо ревущей бури?|
+lore_w_spell_mystical_wand_of_manastream|The one who sparked the manaflame shall live on.|Древко из окаменевшего эфира вечно пульсирует теплом; искры маны в нем обещают жизнь вечную каждому, кто осмелится пробудить их истинную мощь.|
+lore_w_spell_crackling_thunder|Can you hear the echo of the roaring storm?|Проводящий кристалл на вершине едва сдерживает ярость стихии, в чьем непрерывном треске отчетливо слышен рокот приближающегося шторма.|
 lore_w_spell_necrobutchers_curse|From ashes to ashes and dust to dust..|Прах к праху, пыль к пыли..|
-lore_w_spell_crows_whisper|Who wields this staff has the crows power..|Владеющий этим посохом обретает силу ворона..|
+lore_w_spell_crows_whisper|Who wields this staff has the crows power..|Обугленный ясень, хранящий тепло магического пожарища. Сквозь это древко течет темная сила воронов, беспрекословно подчиняющаяся воле нового хозяина.|
 ||
 [weapon_bow]||
-normal_bow_crossbow|Crossbow|
-normal_bow_short_war_bow|Short War Bow|
-normal_bow_long_bow|Long Bow|
-normal_bow_gothic_bow|Gothic Bow|
+normal_bow_crossbow|Crossbow|Арбалет
+normal_bow_short_war_bow|Short War Bow|Короткий боевой лук
+normal_bow_long_bow|Long Bow|Длинный лук
+normal_bow_gothic_bow|Gothic Bow|Готический лук
 ||
 [weapon_bow_unique]||
 w_bow_buriza|Buriza-ko-nu|
@@ -292,9 +292,9 @@ lore_w_bow_eternity|Existing for an eternity.. Nobody knows who built this ancie
 lore_w_bow_arrow_of_zamjo|The essence of thunder imbued into this ancient bow..|В этом древнем луке заключена ярость первородной бури. Сама суть грозового разряда вплетена в его тетиву, готовую обрушить гнев небес на головы обреченных..|
 ||
 [weapon_claw]||
-normal_claw_wrist_blades|Wrist Blades|
-normal_claw_blade_talons|Blade Talons|
-normal_claw_feral_claws|Feral Claws|
+normal_claw_wrist_blades|Wrist Blades|Наручные клинки
+normal_claw_blade_talons|Blade Talons|Когти-лезвия
+normal_claw_feral_claws|Feral Claws|Звериные когти
 ||
 [weapon_claw_unique]||
 w_claw_storm_fury|Storm Fury|
@@ -310,15 +310,15 @@ w_claw_glacier_talon|Glacier Talons|
 lore_w_claw_storm_fury|High in the ethereal peaks amidst clouds, this lightning-infused claw took form, wrought by the hands of angels and ancient shamans. Whispers speak of a potent force, a lightning totem's essence bound within, fueling legends of untamed power.|Высоко на неземных пиках среди облаков руками ангелов и древних шаманов был выкован этот заряженный молнией коготь. Слухи гласят о великой силе заключенного внутри тотема, питающего легенды о необузданной мощи.
 ||
 [weapon_polearm]||
-normal_polearm_spear|Spear|
-normal_polearm_tribal_spear|Tribal Spear|
-normal_polearm_royal_lance|Royal Lance|
-normal_polearm_war_trident|War Trident|
-normal_polearm_battle_lance|Battle Lance|
-normal_polearm_hyperion_spear|Hyperion Spear|
-normal_polearm_yari|Yari|
-normal_polearm_fuscina|Fuscina|
-normal_polearm_war_spear|War Spear|
+normal_polearm_spear|Spear|Копье
+normal_polearm_tribal_spear|Tribal Spear|Племенное копье
+normal_polearm_royal_lance|Royal Lance|Королевская пика
+normal_polearm_war_trident|War Trident|Боевой трезубец
+normal_polearm_battle_lance|Battle Lance|Боевая пика
+normal_polearm_hyperion_spear|Hyperion Spear|Копье Гипериона
+normal_polearm_yari|Yari|Яри
+normal_polearm_fuscina|Fuscina|Фусцина
+normal_polearm_war_spear|War Spear|Боевое копье
 ||
 [weapon_spear_unique]||
 w_polearm_crusader_halberd|Crusader Halberd|
@@ -341,10 +341,10 @@ lore_w_polearm_brimskull_trident|Conjured into existence from the beyond, a plac
 lore_w_polearm_thorn_of_noxus|Wielded by a god of war.. A weapon able to penetrate any armor, living or dead..|Оружие самого бога войны.. Клинок, способный пробить любой доспех, будь то плоть или сталь, живое или мертвое..|
 ||
 [weapon_gun]||
-normal_gun_hand_cannon|Hand Cannon|
-normal_gun_hunting_rifle|Hunting Rifle|
-normal_gun_gatling_gun|Gatling Gun|
-normal_gun_battle_blaster|Battle Blaster|
+normal_gun_hand_cannon|Hand Cannon|Ручная пушка
+normal_gun_hunting_rifle|Hunting Rifle|Охотничье ружье
+normal_gun_gatling_gun|Gatling Gun|Гатлинг
+normal_gun_battle_blaster|Battle Blaster|Боевой бластер
 ||
 [weapon_gun_unique]||
 w_gun_rtx_xqc_4910|RT XQC-4910|
@@ -373,10 +373,10 @@ lore_w_gun_glock22|The GLOCK 22 fires the potent 40 S&W cartridge and holds more
 lore_w_gun_draculas_demise|A silver bullet from this legendary weapon ended a thousand years of darkness..|Серебряная пуля, выпущенная из этого легендарного оружия, положила конец тысячелетней тьме...|
 ||
 [weapon_chainsaw]||
-normal_chainsaw_battle_slicer|Battle Slicer|
-normal_chainsaw_war_saw|War Saw|
-normal_chainsaw_trunk_cutter|Trunk Cutter|
-normal_chainsaw_hand_saw|Hand Saw|
+normal_chainsaw_battle_slicer|Battle Slicer|Боевой рассекатель
+normal_chainsaw_war_saw|War Saw|Боевая пила
+normal_chainsaw_trunk_cutter|Trunk Cutter|Стволорез
+normal_chainsaw_hand_saw|Hand Saw|Ручная пила
 ||
 [weapon_chainsaw_unique]||
 w_chainsaw_sawgun|Sawgun|
@@ -395,10 +395,10 @@ lore_w_chainsaw_st_meeses_longsaw|It is said that when faced with danger, the ch
 lore_w_chainsaw_candy_shredder|Said to come from the mythical Sheeponia put together by the Sheep King himself.. bää.|Говорят, она родом из мифической Овцепонии и собрана самим Королем овец.. бе-е-е.|
 lore_w_chainsaw_edens_harvester|The unholy saw used to cut down the tree of life within the garden of eden..|Нечестивая пила, которой было срублено Древо жизни в Эдемском саду..|
 [weapon_flask]||
-normal_flask_poison_flask|Poison Flask|
-normal_flask_caustic_vial|Caustic Vial|
-normal_flask_acid_flask|Acid Flask|
-normal_flask_achemists_flask|Alchemist's Flask|
+normal_flask_poison_flask|Poison Flask|Флакон яда
+normal_flask_caustic_vial|Caustic Vial|Едкий флакон
+normal_flask_acid_flask|Acid Flask|Флакон кислоты
+normal_flask_achemists_flask|Alchemist's Flask|Флакон алхимика
 ||
 [weapon_flask_unique]||
 w_flask_cobra_blood_vial|Cobra Blood Vial|
@@ -409,25 +409,25 @@ w_flask_doctors_potion|Doctor's Potion|
 w_flask_doomweed_vial|Doomweed Vial|
 ||
 [weapon_universal]||
-w_universal_lemon|Lemon|
-w_universal_fishing_rod|Fishing Rod|
-w_universal_cheated_item|Voided Item|
+w_universal_lemon|Lemon|Лимон
+w_universal_fishing_rod|Fishing Rod|Удочка
+w_universal_cheated_item|Voided Item|Аннулированный предмет
 lore_w_universal_lemon|When life gives you Lemons, take them and throw them around without care in the world!|Когда жизнь дает тебе лимоны, просто швыряй их во все стороны, забыв обо всем на свете!|
-lore_w_universal_fishing_rod|A great bamboo stick turned into a fishing rod..|Крепкая бамбуковая палка, превращенная в удочку..|
+lore_w_universal_fishing_rod|A great bamboo stick turned into a fishing rod..|Крепкая бамбуковая палка, превращенная в удочку.|
 ||
 [armors]||
-armors_normal_steel_armor|Steel Armor|
-armors_normal_leather_coat|Leather Coat|
-armors_normal_studded_leather|Studded Leather|
-armors_normal_trellised_armor|Trellised Armor|
-armors_breast_plate|Breast Plate|
-armors_normal_cuirass|Cuirass|
-armors_templar_coat|Templar Coat|
-armors_wire_fleece|Wire Fleece|
-armors_boneweave|Boneweave|
-armors_chaos_armor|Chaos Armor|
-armors_dusk_shroud|Dusk Shroud|
-armors_great_hauberk|Great Hauberk|
+armors_normal_steel_armor|Steel Armor|Стальной доспех
+armors_normal_leather_coat|Leather Coat|Кожаный доспех
+armors_normal_studded_leather|Studded Leather|Шипованный кожаный доспех
+armors_normal_trellised_armor|Trellised Armor|Решетчатый доспех
+armors_breast_plate|Breast Plate|Нагрудник
+armors_normal_cuirass|Cuirass|Кираса
+armors_templar_coat|Templar Coat|Одеяние храмовника
+armors_wire_fleece|Wire Fleece|Проволочное руно
+armors_boneweave|Boneweave|Костяное плетение
+armors_chaos_armor|Chaos Armor|Доспех Хаоса
+armors_dusk_shroud|Dusk Shroud|Сумеречный саван
+armors_great_hauberk|Great Hauberk|Большой хауберк
 ||
 [armors_unique]||
 armors_heavens_might|Heaven's Might|
@@ -550,15 +550,15 @@ lore_armors_arcanists_wrath|Once worn by a guardian of the magistrate..|Гнев
 lore_armors_sharpshooters_cloak|Merciless aim, absolutely unhinged..|Плащ стрелка. Беспощадная, противоестественная точность, граничащая с полным, беспросветным помешательством..|
 ||
 [helms]||
-helmet_normal_cap|Cap|
-helmet_normal_casque|Casque|
-helmet_normal_basinet|Basinet|
-helmet_normal_war_hat|War Hat|
-helmet_normal_great_helm|Great Helm|
-helmet_normal_war_visage|War Visage|
-helmet_normal_shako|Shako|
-helmet_normal_horned_helm|Horned Helm|
-helmet_normal_basilisk_skull|Basilisk Skull|
+helmet_normal_cap|Cap|Шапка
+helmet_normal_casque|Casque|Каск
+helmet_normal_basinet|Basinet|Бацинет
+helmet_normal_war_hat|War Hat|Боевая шляпа
+helmet_normal_great_helm|Great Helm|Большой шлем
+helmet_normal_war_visage|War Visage|Боевой лик
+helmet_normal_shako|Shako|Шако
+helmet_normal_horned_helm|Horned Helm|Рогатый шлем
+helmet_normal_basilisk_skull|Basilisk Skull|Череп василиска
 ||
 [helms_unique]||
 helmet_harlequin_crest|Harlequinn's Crest|
@@ -656,30 +656,30 @@ lore_helmet_tenebris_grievance|Tenebris was a legendary battlefield medic specia
 lore_helmet_pit_lords_vanquisher|From the dark pits of Tarethiel, a legendary gladiator's visage carries the strength of ten warriors and memories of untold battles.|Из темных глубин Таретиэля явился этот легендарный шлем. В его чертах запечатлен триумф величайшего гладиатора, а внутри пульсирует мощь десяти сильнейших мужей. Он хранит память о битвах, само упоминание которых заставляет содрогаться нынешних королей.|
 lore_helmet_lava_kings_lost_mask|In the depths of Muspelheim, forged from the ever-flowing molten rock by an ancient being who seeks to be freed once more.|Эта маска соткана из вечно бурлящей магмы руками существа, чей возраст исчисляется эпохами. Творец вложил в раскаленный камень частицу своей измученной души, стремясь обрести свободу через того, кто осмелится надеть этот огненный венец и стать его проводником в мире живых.|
 lore_helmet_nikitas_kj33_helmet|Let there be carnage or bloodshed, keep your head protected and vision clear.|Пусть мир вокруг захлебывается в резне и тонет в крови — твоя голова останется целой, а взор — ледяным и ясным. В самом сердце бойни этот шлем станет гранью, отделяющей твой разум от безумия.|
-lore_helmet_sight_of_gods|Eyes of judgment cast from above, see the world with their gaze once more.|Взгляни на этот бренный мир очами тех, кто вершит судьбы с небесных престолов. Отныне их праведный суд — это твой взор, от которого не укроется ни одна живая душа..|
+lore_helmet_sight_of_gods|Eyes of judgment cast from above, see the world with their gaze once more.|Венец из почерневшего от звездной пыли золота, дарующий владельцу взор карающего божества. Взгляни на этот бренный мир очами тех, кто вершит судьбы с небесных престолов. Отныне их праведный суд — это твой взор, от которого не укроется ни одна живая душа..|
 lore_helmet_grimbones_visage|Grimbone the hivemind of tormented souls, face of terror to all those who meet their fate in Niflhel.|Лик Гримбона — содрогающееся воплощение коллективного разума истерзанных душ. Это лик абсолютного ужаса для каждого, кому суждено встретить свой конец в туманах Нифльхеля.|
 lore_helmet_high_rollers_crown|The next big win is right around the corner, keep going.|Венец тех, кто ставил на кон саму жизнь и проигрывал. Он всё еще пульсирует лихорадочным азартом прошлых владельцев, заставляя тебя верить — в этот раз всё точно будет иначе. Просто не останавливайся.|
 lore_helmet_gaze_of_the_oblivion|Deep beyond the void, an ancient being gazes upon the weak mortals…|Там, за пределами пустоты, обитает нечто древнее и чуждое. Оно взирает на немощных смертных, и в его равнодушном взгляде — лишь обещание вечного забвения..|
 lore_helmet_eternal_death|The third eye of Amun Ra.. Legends say it is a portal to a barren dimension fueled by the essence of death..|Третий глаз Амона-Ра... Легенды гласят, что это врата в мертвое измерение — бесплодную пустошь, что вечно жаждет новой крови и питается самой сутью смерти..|
 lore_helmet_metal_vocalists_leather_mask|The fear inducing leather face with the screamo to live for!|Наводящая ужас кожаная маска, сквозь которую прорывается истошный вопль безумца. В этом крике — вся ярость и жажда жизни, ради которых стоит убивать.|
-lore_helmet_dragon_knights_helmet|Can you feel it? The dragon´s breath burning your skin..|Чувствуешь, как раскаленный металл вгрызается в плоть? Это дыхание древнего змея обжигает твою кожу, закаляя волю в пламени истинной ярости..|
+lore_helmet_dragon_knights_helmet|Can you feel it? The dragon´s breath burning your skin..|Обагренный кровью виверны металл, источающий невыносимый жар. Чувствуешь, как раскаленный металл вгрызается в плоть? Это дыхание древнего змея обжигает твою кожу, закаляя волю в пламени истинной ярости..|
 lore_helmet_crown_of_doom|Crown of the most feared warrior to ever entertain the crowd in the colosseum..|Венец самого свирепого гладиатора, когда-либо упивавшегося кровью в Колизее. Эта корона всё еще пахнет гарью и триумфом того, чье имя заставляло толпу содрогаться от восторга и ужаса.|
 lore_helmet_lucifers_crown|Forged from divine essence and worn by the morning star..|Выкованный из чистой божественной субстанции, этот венец некогда венчал чело Утренней Звезды, пока тот не пал, осквернив свою святость непомерной гордыней.|
-lore_helmet_mask_of_celestial|Caged by the void´s gaze..|Твой разум скован безмолвным взором Пустоты. В этой маске ты — лишь узник вечного ничто, обреченный созерцать крушение небесных сфер.|
+lore_helmet_mask_of_celestial|Caged by the void´s gaze..|Тяжелая, ледяная на ощупь сталь, скованная безмолвным взором Пустоты. В этой маске ты — лишь узник вечного ничто, обреченный созерцать крушение небесных сфер.|
 ||
 [gloves]||
-gloves_normal_heavy_gloves|Heavy Gloves|
-gloves_normal_chain_gloves|Chain Gloves|
-gloves_normal_gauntlets|Gauntlets|
-gloves_normal_leather_gloves|Leather Gloves|
-gloves_normal_snakeskin_gloves|Snakeskin Gloves|
-gloves_normal_heavy_bracers|Heavy Bracers|
-gloves_normal_war_gauntlets|War Gauntlets|
-gloves_normal_devilhide_gloves|Devilhide Gloves|
-gloves_normal_vampirebone_gloves|Vampirebone Gloves|
-gloves_normal_demonbraces|Demonbraces|
-gloves_normal_ogre_gauntlets|Ogre Gauntlets|
-gloves_normal_archmage_wraps|Archmage Wraps|
+gloves_normal_heavy_gloves|Heavy Gloves|Тяжелые перчатки
+gloves_normal_chain_gloves|Chain Gloves|Кольчужные перчатки
+gloves_normal_gauntlets|Gauntlets|Рукавицы
+gloves_normal_leather_gloves|Leather Gloves|Кожаные перчатки
+gloves_normal_snakeskin_gloves|Snakeskin Gloves|Перчатки из змеиной кожи
+gloves_normal_heavy_bracers|Heavy Bracers|Тяжелые наручи
+gloves_normal_war_gauntlets|War Gauntlets|Боевые рукавицы
+gloves_normal_devilhide_gloves|Devilhide Gloves|Перчатки из дьявольской кожи
+gloves_normal_vampirebone_gloves|Vampirebone Gloves|Перчатки из кости вампира
+gloves_normal_demonbraces|Demonbraces|Демонические наручи
+gloves_normal_ogre_gauntlets|Ogre Gauntlets|Огровские рукавицы
+gloves_normal_archmage_wraps|Archmage Wraps|Обмотки архимага
 ||
 [gloves_unique]||
 gloves_shadows_grasp|Shadow's Grasp|
@@ -745,16 +745,16 @@ gloves_plague_bringers_touch|Plague Bringer´s Touch|
 gloves_pit_fighters_bone_crushers|Pit Fighter´s Bone Crushers|
 gloves_shade_of_sand|Shade of Sand|
 ||
-lore_gloves_ahtos_diamond_hands|The diamond hard gloves with the whole of heavens might infused within them, used by Saint Ahto the eternal protector of innocent and righteous.|Алмазные длани, наделенные всей мощью небес. В них святой Ахто, вечный защитник невинных, вершил правосудие над грешниками.|
-lore_gloves_spellweavers|A great wizard once lived in the deep woods as a hermit and infused part of his power to these gloves that now reveal themselves to those who are pure.|Великий чародей-отшельник веками томился в лесной глуши, вплетая магическую волю в эти ткани. Лишь чистые духом узрят их истинную силу.|
-lore_gloves_midas_hands|And so it was, that everything he touched with the gloves on turned into the finest gold on land.|Проклятый дар: одно касание в этих перчатках обращает и прах, и плоть в чистейшее золото.|
+lore_gloves_ahtos_diamond_hands|The diamond hard gloves with the whole of heavens might infused within them, used by Saint Ahto the eternal protector of innocent and righteous.|Сплав закаленного алмаза и небесной благодати, эти перчатки были опорой святого Ахто. Вечный страж невинных, он использовал их мощь, чтобы воздвигнуть нерушимую преграду перед лицом наступающего зла.|
+lore_gloves_spellweavers|A great wizard once lived in the deep woods as a hermit and infused part of his power to these gloves that now reveal themselves to those who are pure.|Грубая кожа, изрезанная светящимися рунами, хранит тепло рук великого магистра. Укрывшись от мира в лесной чаще, он вложил в этот доспех часть своей души, что откликнется лишь на зов чистого сердца.|
+lore_gloves_midas_hands|And so it was, that everything he touched with the gloves on turned into the finest gold on land.|Мягкая кожа, прошитая нитями из чистого самородного золота. Говорят, что любой предмет, которого коснутся эти перчатки, мгновенно превращается в драгоценный металл, обрекая владельца на вечное богатство и столь же вечное одиночество.|
 lore_gloves_shadow_occultists_wraps|The occultist who wore these has immense connection to the Shadow Realm, being able to conjure deadly shadow strikes on command.|Эти обмотки связывают владельца с Царством теней. Один жест — и сама тьма пронзает врага насквозь по вашему приказу.|
-lore_gloves_brawlers_fighting_mitts|Marshal Qin Tian was Sung Lee's right hand. This pit lord employed leather mitts adorned with brass knuckles, inflicting significant damage to his foes.|Маршал Цинь Тянь, правая рука Сунг Ли, не знал милосердия. Эти тяжелые рукавицы, усиленные кастетами, дробили кости врагов в кровавое месиво.|
-lore_gloves_rakhuls_stone_hands|Forged from the hardest and densest stone known to mortals.|Высечены из древнего камня, чья плотность не подвластна ни времени, ни человеческой стали.|
-lore_gloves_demonfire_accelerators|Held only by the seven keystone monks of the luciferian cult, pas.|Реликвия семи верховных монахов культа Люцифера. Они несут в себе обжигающее дыхание самой бездны.|
+lore_gloves_brawlers_fighting_mitts|Marshal Qin Tian was Sung Lee's right hand. This pit lord employed leather mitts adorned with brass knuckles, inflicting significant damage to his foes.|Потёртая кожа и зазубренная латунь хранят эхо криков из гладиаторских ям, где властвовал Цинь Тянь. Будучи правой рукой Сун Ли, он не нуждался в мечах — эти перчатки наносили раны куда более страшные и глубокие.|
+lore_gloves_rakhuls_stone_hands|Forged from the hardest and densest stone known to mortals.|Тяжелый обсидиановый блеск этих перчаток выдает их происхождение из самых глубоких и темных каверн мира. Твердость этого камня такова, что он игнорирует сталь, словно сухую солому.|
+lore_gloves_demonfire_accelerators|Held only by the seven keystone monks of the luciferian cult, pas.|Грубая кожа, выдубленная в демоническом огне, хранит на себе оттиски клейм семи столпов люциферианского ордена, чья вера была столь же горяча, как и адское пекло.|
 lore_gloves_alis_boxing_gloves|With these legendary gloves you will always corner your opponent.|С этими легендарными перчатками враг всегда окажется в ловушке: у него не останется путей к отступлению, лишь краткий миг перед концом
 lore_gloves_fighter_magis_grips|Fueled by magic power and expert accuracy!|Магическая воля направляет руку владельца, наделяя каждый удар сверхъестественной, фатальной точностью.|
-lore_gloves_necrocallers_grips|From beyond the grave it's grasp will pull souls to fuel the damned..|Ледяная хватка мертвеца дотянется до живых даже из-за могильной черты, вырывая их души, чтобы напитать легионы проклятых..|
+lore_gloves_necrocallers_grips|From beyond the grave it's grasp will pull souls to fuel the damned..|Костяные пластины, вшитые в огрубевшую кожу, светятся призрачным огнем. Этот доспех не просто защищает руки, он служит кандалами для душ, обреченных питать мощь некроманта.|
 lore_gloves_grasp_of_phoenix|Tailored from the feathers of a phoenix as a gift to a god of fire..|Сплетены из огненных перьев феникса в дар богу пламени. Жар, заключенный в них, не угаснет никогда..|
 lore_gloves_arcanum_asphyxiators|Legend says these gloves asphyxiated its previous owner..|Мрачное предание гласит, что эти перчатки восстали против собственного творца, сомкнувшись на его горле мертвой хваткой.|
 lore_gloves_tectonic_grips|An electric frequency so powerful it can move tectonic plates|В этих перчатках сокрыт гул самой земли. Электрический разряд такой мощи, что одно движение способно расколоть твердь и заставить горы содрогнуться.|
@@ -765,21 +765,21 @@ lore_gloves_plague_bringers_touch|Can you feel it? Slowly corrupting your veins 
 lore_gloves_pit_fighters_bone_crushers|Charging into the pit fist first crushing and causing mayhem!|Врывайся в яму кулаками вперед, сея хаос и безумие. Хруст раздробленных костей — единственная музыка, которую признает владелец этих перчаток!|
 ||
 [boots]||
-boots_normal_boots|Boots|
-boots_normal_heavy_boots|Heavy Boots|
-boots_normal_light_plated_boots|Light Plated Boots|
-boots_normal_chain_boots|Chain Boots|
-boots_normal_greaves|Greaves|
-boots_normal_battle_boots|Battle Boots|
-boots_normal_devilhide_boots|Devilhide Boots|
-boots_normal_mesh_boots|Mesh Boots|
-boots_normal_viperskin_boots|Viperskin Boots|
-boots_normal_war_boots|War Boots|
-boots_normal_boneweave_boots|Boneweave Boots|
-boots_normal_crusader_marchers|Crusader Marchers|
-boots_normal_demonplate_boots|Demonplate Boots|
-boots_normal_scarabshell_boots|Scarabshell Boots|
-boots_normal_wyrmhide_boots|Wyrmhide Boots|
+boots_normal_boots|Boots|Сапоги
+boots_normal_heavy_boots|Heavy Boots|Тяжелые сапоги
+boots_normal_light_plated_boots|Light Plated Boots|Легкие латные сапоги
+boots_normal_chain_boots|Chain Boots|Кольчужные сапоги
+boots_normal_greaves|Greaves|Поножи
+boots_normal_battle_boots|Battle Boots|Боевые сапоги
+boots_normal_devilhide_boots|Devilhide Boots|Сапоги из кожи дьявола
+boots_normal_mesh_boots|Mesh Boots|Плетеные сапоги
+boots_normal_viperskin_boots|Viperskin Boots|Сапоги из кожи гадюки
+boots_normal_war_boots|War Boots|Военные сапоги
+boots_normal_boneweave_boots|Boneweave Boots|Костяные сапоги
+boots_normal_crusader_marchers|Crusader Marchers|Походные сапоги крестоносца
+boots_normal_demonplate_boots|Demonplate Boots|Демонические латные сапоги
+boots_normal_scarabshell_boots|Scarabshell Boots|Сапоги из панциря скарабея
+boots_normal_wyrmhide_boots|Wyrmhide Boots|Сапоги из кожи змея
 ||
 [boots_unique]||
 boots_darkhide_boots|Darkhide Boots|
@@ -863,33 +863,33 @@ boots_deserts_storm|Desert´s Storm|
 boots_adamant_roamers|Adamant Roamers|
 ||
 lore_boots_wind_walkers_step|An ancient martial artist knows to go by the name of Wind Walker was said to be so agile he could run in the air using these carefully crafted boots.|Предания гласят о мастере боевых искусств по прозвищу Ветроход. Он был столь стремителен, что в этих искусно сработанных сапогах мог бежать по самому воздуху.|
-lore_boots_pearlescent_dream|In our dreams we are released from the mortal burden; in our own bubble we can conquer the largest mountain or swim in the deepest ocean.|Во снах мы сбрасываем бремя смертности. В коконе собственных грез нам подвластны и высочайшие пики, и темнейшие бездны океана.|
+lore_boots_pearlescent_dream|In our dreams we are released from the mortal burden; in our own bubble we can conquer the largest mountain or swim in the deepest ocean.|Холодный блеск жемчуга, рожденного в тишине морских глубин, дарует легкость призрака. Иллюзорное марево сопровождает каждый твой шаг. В мире, полном боли и тлена, эти сапоги — единственный путь в край, где страдания растворяются в мягком свете перламутра.|
 lore_boots_grimbones_marchers|Boots made of from the skin and bones of a thousand falled soldiers.|Сапоги, сшитые из кожи и костей тысячи павших воинов. Каждый шаг в них — эхо старой войны.|
-lore_boots_soulflaming_marchers|Burning in agony are the souls entrapped in this pair of boots..|Души, заточенные в этих сапогах, обречены на вечное пламя и бесконечную агонию..|
-lore_boots_marchers_of_hatred|I just hate these dolls and the maggots feasting on its carcass..|Я просто ненавижу этих кукол и опарышей, пирующих на их гнилых останках..|
+lore_boots_soulflaming_marchers|Burning in agony are the souls entrapped in this pair of boots..|Плененные в этих сапогах души обречены на вечное горение в невыносимой агонии. Каждый твой шаг отзывается их безмолвным криком, а земля под ногами обугливается от жара их вечных мучений.|
+lore_boots_marchers_of_hatred|I just hate these dolls and the maggots feasting on its carcass..|Я чувствую лишь презрение. К этим безжизненным оболочкам, к жирным личинкам в их утробах и к самому миру, породившему такую мерзость.|
 lore_boots_developer_boots|I went to the store to buy some of them nuggets but the store was closed so I called my mom and tripped on the side of the road, fell into a hole and appeared in front of a church. They were serving soup for the homeless and this guy comes to me and tells me ‘Hey man you look like you like nuggets, I know exactly the place’. So I follow him to a night dark alley and we go inside this moldy appartment and he gives me this white rock kind of thing and tells me this is better than nuggets, we spent the whole night vaping this rock and those were the best nuggets I’ve ever eaten. |Пошел я за наггетсами, а магаз закрыт. Позвонил мамке, споткнулся, упал в яму и очутился у церкви. Там кормили бездомных супом, и какой-то тип говорит: «Слышь, ты вроде любишь наггетсы, я знаю место». Пошли мы в темный переулок, в какую-то плесневелую хату, и он дает мне белый камень. Говорит, это получше наггетсов будет. Всю ночь мы курили этот камень, и это были лучшие наггетсы в моей жизни.|
-lore_boots_lost_at_sea|Closer to astronauts than anyone other on the planet|Оказавшись в безмолвной пучине, ты становишься ближе к звездам, чем любой смертный на этой планете.|
+lore_boots_lost_at_sea|Closer to astronauts than anyone other on the planet|Ни одна живая душа не заходила так далеко в объятия великого Ничто. Эти сапоги помнят холод истинной бездны, доступный лишь тем, кто решился заглянуть за край самого мироздания.|
 lore_boots_fumas_favela_flipflop|Flipflopping max speed running from the Policia Militar|Скромная обувь отщепенцев из трущоб, позволяющая скользить между тенями с невероятной быстротой. Пока преследователи гремят сталью, ты исчезаешь в лабиринте подворотен, оставляя лишь эхо своего дерзкого побега.|
-lore_boots_metal_vocalists_war_boots|Stomping the ground amplifying the sweet sound of metal!|Пусть земля содрогается под твоим весом, усиливая яростный рев истинного металла!|
-lore_boots_deserts_storm|The storm is brewing, guiding your every step..|Буря уже сгущается, направляя каждый твой шаг..|
-lore_boots_chaoswalkers|Walk through the chaos like a king..|Ступай сквозь хаос с величием короля..|
-lore_boots_thunder_roamers|Walk through the thunder like odin..|Ступай сквозь грозу с мощью Одина..|
-lore_boots_venom_roamers|Walk through the venom like a snake..|Ступай сквозь яд с коварством змеи..|
-lore_boots_chilling_roamers|Walk through the tundra like a viking..|Ступай сквозь тундру с отвагой викинга..|
-lore_boots_scorching_roamers|Walk through the flames like a dragon..|Ступай сквозь пламя с яростью дракона..|
-lore_boots_astral_roamers|Walk through the astral planes like a wizard..|Ступай сквозь астральные миры с мудростью чародея..|
-lore_boots_brutal_roamers|Walk through the battlefield like a god of war..|Ступай по полю боя подобно богу войны..|
-lore_boots_adamant_roamers|Walk through the mountain like a siege ram..|Твоя поступь дробит вековые скалы в прах, не зная преград на своем пути..|
+lore_boots_metal_vocalists_war_boots|Stomping the ground amplifying the sweet sound of metal!|Кованая сталь для тех, чей голос способен заглушить гром. Пусть враги трепещут от звука твоих шагов еще до того, как увидят блеск твоего клинка.|
+lore_boots_deserts_storm|The storm is brewing, guiding your every step..|Сами ветра преклоняют колени перед твоей поступью. Грядущая буря не просто следует за тобой по пятам — она указывает путь к величию сквозь хаос.|
+lore_boots_chaoswalkers|Walk through the chaos like a king..|Иди сквозь вихри безумия с гордо поднятой головой. Хаос не смеет коснуться того, кто носит в сердце тьму, способную поглотить даже свет умирающих звезд.|
+lore_boots_thunder_roamers|Walk through the thunder like odin..|Ступай сквозь бурю подобно Всеотцу, и пусть каждый твой шаг сотрясает небеса грохотом, возвещая о прибытии истинного владыки штормов.|
+lore_boots_venom_roamers|Walk through the venom like a snake..|Сапоги, источающие едкую желчь. Сама жизнь отшатывается от них, и даже камень шипит и плавится под тяжестью поступи их носителя.|
+lore_boots_chilling_roamers|Walk through the tundra like a viking..|Ступай по ледяным пустошам с яростью северного волка. Пусть мороз сковывает землю, а твой шаг останется твердым, как сталь драккара.|
+lore_boots_scorching_roamers|Walk through the flames like a dragon..|Ступай сквозь бушующее пламя с величием древнего дракона, для которого всепожирающий огонь — лишь родная стихия, дарующая силу.|
+lore_boots_astral_roamers|Walk through the astral planes like a wizard..|Ступай по зыбкой грани миров, где материя истончается в звездную пыль. Лишь истинный чародей способен проложить тропу сквозь вечную пустоту астрала, оставив позади законы физического мира.|
+lore_boots_brutal_roamers|Walk through the battlefield like a god of war..|Ступай по полю брани с величием древнего бога войны. Пусть под твоими подошвами хрустят кости врагов, а земля дрожит от тяжести твоего гнева.|
+lore_boots_adamant_roamers|Walk through the mountain like a siege ram..|Мир рассыпается в пыль под их тяжелой подошвой. Империи рождаются и гибнут в тени их шага, но чистейший адамант вечен — как и путь того, кто осмелится их надеть|
 ||
 craft_boots_arcs_walkers|Arc´s Walkers are powerful boots designed for leveling providing increased experience gain for characters below level 100.|Странники Арка — могущественное снаряжение для тех, кто жаждет быстрого роста. Они ускоряют путь к истинной силе, даруя больше опыта всем, кто еще не достиг сотого уровня.|
 ||
 [amulets]||
-amulets_normal_golden_amulet|Amulet|
-amulets_normal_silver_necklace|Locket|
-amulets_normal_jade_stone|Pearls|
-amulets_normal_skull_trophy|Talisman|
-amulets_normal_hawks_claw_amulet|Carcanet|
-amulets_normal_elven_necklace|Necklace|
+amulets_normal_golden_amulet|Amulet|Амулет
+amulets_normal_silver_necklace|Locket|Медальон
+amulets_normal_jade_stone|Pearls|Жемчуг
+amulets_normal_skull_trophy|Talisman|Талисман
+amulets_normal_hawks_claw_amulet|Carcanet|Колье
+amulets_normal_elven_necklace|Necklace|Ожерелье
 ||
 [amulets_unique]||
 amulets_all_seeing_eye|All Seeing Eye|
@@ -972,10 +972,10 @@ lore_amulets_amulet_of_colosseum|The mark of a true gladiator.|Символ че
 lore_amulets_liliths_scorn|You shall follow thee, as she shall walk the earth once again..|Ибо сказано: ты пойдешь вослед за Ней, когда стопы Её вновь коснутся сей бренной земли...|
 lore_amulets_eagles_claw|From miles high they spot their target. Then it’s time to execute.|Никому не скрыться от взора, следящего с заоблачных высот. Стоит цели показаться на глаза, как смерть обрушивается сверху — мгновенно и беспощадно.|
 lore_amulets_thoths_agony|The core of suffering worn by the arch mystic Thoth..|Сгусток первородной боли, некогда терзавший плоть и дух великого мистика Тота. В этом камне заточена агония, способная сокрушить волю любого смертного..|
-lore_amulets_metal_vocalists_pentagram|The sigil of an eternal blood pact with the devil..|Сигил вечного пакта, скрепленного кровью. Твоя душа больше тебе не принадлежит — она заложена владыке преисподней в обмен на этот дар..|
-lore_amulets_dragons_eye|The stare of the elder dragon scorching your presence..|Взор древнего змея, под которым сама реальность начинает обугливаться. Это пламя выжигает твою суть, не оставляя от тебя ничего, кроме тлеющего пепла..|
-lore_amulets_signet_of_kadosh|We support ourselves only on that which resists, and owe our success to opposition.|Мы черпаем силу лишь в том, что пытается нас сломить. Наш триумф рожден не в мире, а в яростном сопротивлении судьбе.|
-lore_amulets_shadow_beacon|The glowing sentry standing firmly in the shadows of death..|Сияющий часовой, непоколебимо застывший среди могильного мрака. Его свет — единственный ориентир в чертогах, где правит сама смерть..|
+lore_amulets_metal_vocalists_pentagram|The sigil of an eternal blood pact with the devil..|Сигил вечного пакта, скрепленного кровью. Твоя душа больше тебе не принадлежит — она заложена владыке преисподней в обмен на этот дар.|
+lore_amulets_dragons_eye|The stare of the elder dragon scorching your presence..|Взор древнего змея, под которым сама реальность начинает обугливаться. Это пламя выжигает твою суть, не оставляя от тебя ничего, кроме тлеющего пепла.|
+lore_amulets_signet_of_kadosh|We support ourselves only on that which resists, and owe our success to opposition.|Мы черпаем силу лишь в том, что пытается нас сломить. Наш триумф рожден не в мире, а в яростном сопротивлении судьбе...|
+lore_amulets_shadow_beacon|The glowing sentry standing firmly in the shadows of death..|Неугасимый страж, веками хранящий свой пост на границе мира живых. Сама тьма в бессилии отступает перед его холодным, непоколебимым сиянием.|
 ||
 craft_amulets_arcs_sigil|Arc´s Sigil is a powerful amulet designed for leveling providing increased experience for characters gain below level 100.|Сигил Арка — могущественный амулет, предназначенный для быстрого развития. Он увеличивает количество получаемого опыта для всех персонажей ниже 100-го уровня.|
 ||
@@ -1084,10 +1084,11 @@ charms_telescope|Telescope|
 charms_nomads_corpse|Nomad´s Rotten Corpse|
 charms_voodoo_doll|Voodoo Doll|
 ||
+lore_charms_sheep_kings_wool|Sheep King's Wool|Огрубевшее, пахнущее грозой руно, срезанное с павшего Короля Овец. Этот клочок руна все еще хранит первозданную мощь великого зверя, укрепляя плоть и разум владельца, позволяя его магии беспрепятственно пронзать любую защиту.
 lore_charms_loaded_dice|In the shadowed corners of a mystical realm, where chance and fate entwined like threads in a cosmic tapestry, a legendary artifact was born.|В сумрачных пределах бытия, где случай и рок сплетаются в единое полотно судьбы, был рожден этот легендарный артефакт.|
 lore_charms_tarethiels_ancient_wisdom|From the depths of the catacombs, Tarethiel's elder souls were combined into this singular point, granting knowledge and power to a hero in need.|Из глубин катакомб души древних старцев Таретиэля были слиты в единую искру, дарующую запретные знания и мощь тому, кто отважится их принять.|
 lore_charms_torch_of_shadows|Torch forged and lighted in the Shadow Realms that has some odd properties, spreading darkness in the mortal world where there should be light.|Факел, рожденный в кузнях Царства теней. Его пламя не разгоняет мрак, а поглощает свет смертного мира, заменяя его удушливой пустотой.|
-lore_charms_fulgurite|The power of this charm is determined by the skill of its creator. You just never know if its worthy or not..|Сила этого талисмана — лишь отражение мастерства его творца. Никогда не угадаешь, таится ли в нем истинная мощь или это лишь никчемный осколок, рожденный в попытке обуздать стихию.|
+lore_charms_fulgurite|The power of this charm is determined by the skill of its creator. You just never know if its worthy or not..|Застывшая ярость бури приняла форму этого острого кристалла. Его сила обманчива: в неумелых руках он — лишь кусок камня, но в руках истинного мастера этот талисман становится ключом к сокрушительному могуществу.|
 lore_charms_water_melon|One of the ancient Elemelons grown in the garden of Eden.|Древний Водный Элемелон, взращенный в садах Эдема.|
 lore_charms_earth_melon|One of the ancient Elemelons grown in the garden of Eden.|Древний Земляной Элемелон, взращенный в садах Эдема.|
 lore_charms_fire_melon|One of the ancient Elemelons grown in the garden of Eden.|Древний Огненный Элемелон, взращенный в садах Эдема.|
@@ -1112,17 +1113,17 @@ lore_charms_graxys_mom_lure|Thrown to the bottom of the barrel..|Эту безд
 lore_charms_almighty_nugget|Elias already took a bite..|Всемогущий наггетс. Элиас уже успел его куснуть..|
 lore_charms_orange_grayon|Emotional damage..|Эмоциональный урон..|
 lore_charms_aimbot_exe|So far undetected by VAC..|Пока не забанен в VAC..|
-lore_charms_storm_in_vial|A powerful storm locked into a vial..|Ярость бури, запертая в хрупком флаконе. Ощути, как стекло дрожит под пальцами от неукротимой мощи плененных небес.|
-lore_charms_dragons_heart|Smite your foes with the power of the elder dragon..|Испепеляй врагов, взывая к мощи древнего змея..|
+lore_charms_storm_in_vial|A powerful storm locked into a vial..|Толстое стекло этого флакона вибрирует от ярости запертого внутри шторма. В этой хрупкой темнице томится первобытный гнев небес, жаждущий вырваться наружу и испепелить всё живое на своем пути.|
+lore_charms_dragons_heart|Smite your foes with the power of the elder dragon..|Пульсирующий сгусток багровой ярости, вырванный из груди великого змея. Этот талисман наделяет владельца силой древнего пламени, перед которым бессильна любая сталь.|
 lore_charms_wizards_dice|Throw your faith in rolling the dice..|Предайся воле жребия. Когда слова силы срываются с губ, лишь этот бросок определит, станет ли магия твоим спасением или проклятием.|
 lore_charms_gladiators_dice|Throw your faith in rolling the dice..|Доверься року и брось кости. На арене, где молитвы заглушает звон стали, лишь их грани отделяют великий триумф от забвения.|
 lore_charms_bobs_grenade|CAUTION: Short fuse.|ОСТОРОЖНО: Короткий фитиль.|
-lore_charms_cursed_gyroscope|Absolute balance, wherever you go..|Ощути ледяное спокойствие абсолютного равновесия. Куда бы ты ни шел, этот проклятый механизм не даст тебе оступиться, даже если под ногами разверзнется бездна.|
+lore_charms_cursed_gyroscope|Absolute balance, wherever you go..|Гравированные руны на кольцах гироскопа светятся тусклым багрянцем при каждом повороте. Этот талисман станет твоей опорой, сохраняя центр тяжести неизменным в вихре кровавого безумия.|
 lore_charms_mysterious_monkey_paw|Be careful of what you wish, it might come true..|Бойся своих желаний, ибо они имеют свойство сбываться. Но помни: цена за мимолетную мечту всегда будет выше, чем ты готов заплатить.|
 lore_charms_dibbik_box|Holds an ancient entity inside, not to open!|Темница для существа из самой бездны. Глупец, сорвавший замок, станет первой жертвой его голода.|
 lore_charms_mystery_card|What might this be..|Последняя карта в колоде безумца. Рискнешь ли ты открыть её, зная, какую цену может потребовать правда?|
 lore_charms_overloaded_dice|Emitting powerful energy from within..|Изнутри этих костей пульсирует первобытная мощь, заставляя воздух вокруг дрожать и светиться от избытка чистой магии.|
-lore_charms_devils_pact|An eternal pact made with the devil, signed in blood.. Binding your bloodline forever..|Договор, подписанный горячей кровью, лишает твое древо будущего. Одна подпись обрекла всех твоих потомков на вечное служение тьме...|
+lore_charms_devils_pact|An eternal pact made with the devil, signed in blood.. Binding your bloodline forever..|Опаленный пергамент из человеческой кожи, скрепленный подписью самого владыки преисподней. Этот договор запечатан твоей кровью, накладывая несмываемое проклятие на весь твой род до скончания времен.|
 lore_charms_soul_collector|Triggers chemical reactions in released souls..|Внутри этого артефакта души подвергаются дистилляции, становясь топливом для жутких и неестественных процессов.|
 lore_charms_tiny_planet|Fuma loves tikka masala|Фума обожает тикка-масала.|
 lore_charms_telescope|Fuma loves the designated street|Для Фумы нет места прекраснее, чем камни этой мостовой. Сквозь холодное линзы он созерцает свою территорию с той же нежностью, с какой палач глядит на заточенный клинок.|
@@ -1131,17 +1132,17 @@ lore_charms_voodoo_doll|Fuck..|Блять..|
 craft_charms_supreme_elemelon|Combine the power of melons into a superior elemelon.|Слей мощь стихийных дынь воедино, чтобы создать Высший Элемелон.|
 ||
 [shields]||
-shields_normal_wooden_shield|Wooden Shield|
-shields_normal_buckler|Buckler|
-shields_normal_steel_ward|Steel Ward|
-shields_normal_small_crescent|Small Crescent|
-shields_normal_aegis|Aegis|
-shields_normal_kite_shield|Kite Shield|
-shields_normal_bone_shield|Bone Shield|
-shields_normal_luna|Luna|
-shields_normal_royal_shield|Royal Shield|
-shields_normal_monarch|Monarch|
-shields_normal_tribal_ward|Tribal Ward|
+shields_normal_wooden_shield|Wooden Shield|Деревянный щит
+shields_normal_buckler|Buckler|Баклер
+shields_normal_steel_ward|Steel Ward|Стальной оберег
+shields_normal_small_crescent|Small Crescent|Малый полумесяц
+shields_normal_aegis|Aegis|Эгида
+shields_normal_kite_shield|Kite Shield|Каплевидный щит
+shields_normal_bone_shield|Bone Shield|Костяной щит
+shields_normal_luna|Luna|Луна
+shields_normal_royal_shield|Royal Shield|Королевский щит
+shields_normal_monarch|Monarch|Монарх
+shields_normal_tribal_ward|Tribal Ward|Племенной оберег
 ||
 [shields_unique]||
 shields_ancient_aegis|Ancient Aegis|
@@ -1209,12 +1210,12 @@ lore_shields_fallen_gladiators_shield|As he took his last stand against a thousa
 lore_shields_shadow_lantern|A dimm light piercing through the shadows..|Тусклый, болезненный свет, прорезающий саму ткань вечной тени. Он не разгоняет мрак, а лишь указывает путь среди удушливых объятий пустоты..|
 ||
 [rings]||
-rings_normal_bronze_ring|Bronze Ring|
-rings_normal_iron_ring|Iron Ring|
-rings_normal_ring|Ring|
-rings_normal_socketed_ring|Socket Ring|
-rings_normal_primal_ring|Primal Ring|
-rings_normal_golden_ring|Golden Ring|
+rings_normal_bronze_ring|Bronze Ring|Бронзовое кольцо
+rings_normal_iron_ring|Iron Ring|Железное кольцо
+rings_normal_ring|Ring|Кольцо
+rings_normal_socketed_ring|Socket Ring|Кольцо с гнездом
+rings_normal_primal_ring|Primal Ring|Первозданное кольцо
+rings_normal_golden_ring|Golden Ring|Золотое кольцо
 ||
 [rings_unique]||
 rings_ras_band|Ra's Band|
@@ -1300,15 +1301,15 @@ lore_rings_gargantuan_soul|Gargantuan size and power infused into this cursed ri
 lore_rings_void_bomba|BOMBBBBBBAAAAA!|БОООООООООООМБА!|
 ||
 [belts]||
-belts_normal_sash|Sash|
-belts_normal_leather_belt|Leather Belt|
-belts_normal_heavy_belt|Heavy Belt|
-belts_normal_devilhide_sash|Devilhide Sash|
-belts_normal_viperskin_belt|Viperskin Belt|
-belts_normal_battle_belt|Battle Belt|
-belts_normal_wyrmhide_sash|Wyrmhide Sash|
-belts_normal_mithril_coil|Mithril Coil|
-belts_normal_vampirefang_girdle|Vampirefang Girdle|
+belts_normal_sash|Sash|Кушак
+belts_normal_leather_belt|Leather Belt|Кожаный пояс
+belts_normal_heavy_belt|Heavy Belt|Тяжелый пояс
+belts_normal_devilhide_sash|Devilhide Sash|Дьявольский кушак
+belts_normal_viperskin_belt|Viperskin Belt|Змеиный пояс
+belts_normal_battle_belt|Battle Belt|Боевой пояс
+belts_normal_wyrmhide_sash|Wyrmhide Sash|Кушак из кожи змея
+belts_normal_mithril_coil|Mithril Coil|Мифриловая перевязь
+belts_normal_vampirefang_girdle|Vampirefang Girdle|Пояс из вампирских клыков
 ||
 [belts_unique]||
 belts_warrior_belt|Tundra Warrior's Girdle|
@@ -1382,49 +1383,49 @@ lore_belts_girdle_of_eternal_war|Forged within the ashes of an eternal battle. W
 lore_belts_el_patrons_madness|He worked him self to the edge of madness.. The hours.. The days.. When does it end?|Он трудился, забыв о сне и еде, пока его разум не треснул под гнетом одержимости. Часы сливались в дни, дни — в года... Есть ли конец у этого безумия, или оно — лишь начало чего-то более жуткого?|
 ||
 [Consumables]||
-consumable_blood_of_spartan|Blood of Spartan|
-consumable_bottle_of_radogate|Bottle of Radogate|
-consumable_bottle_of_sake|Bottle of Sake|
-consumable_caffeinated_coffee_container|Caffeinated Coffee Container|
-consumable_elixir_of_death|Elixir of Death|
-consumable_elixir_of_unworldly_cognition|Elixir of Unworldly Cognition|
-consumable_empty_bottle_of_vodka|Empty Bottle of Vodka|
-consumable_ghostly_potion|Ghostly Potion|
-consumable_gold_inlaid_mysterious_potion|Gold Inlaid Mysterious Potion|
-consumable_maggot_eye_elixir|Maggot Eye Elixir|
-consumable_power_of_void|Power of Void|
-consumable_praetorian_blood|Praetorian Blood|
-consumable_prismatic_potion|Prismatic Potion|
-consumable_protein_shake|Protein Shake|
-consumable_radbull|Radbull|
-consumable_sung_lees_unleashed_rage|Sung Lee's Flask of Carnage|
-consumable_surstromming|Surströmming|
-consumable_witches_potion|Witches Potion|
-consumable_wizard_potion|Wizard Potion|
-consumable_coffee_mug|Sarcaster’s Coffee Mug|
-consumable_dark_vial_corrosion|Dark Vial of Corrosion|
-consumable_amun_ras_demise|Amun Ra´s Demise|
-consumable_tarot_deck|Tarot Deck|
+consumable_blood_of_spartan|Blood of Spartan|Кровь спартанца
+consumable_bottle_of_radogate|Bottle of Radogate|Бутылка Радогейта
+consumable_bottle_of_sake|Bottle of Sake|Бутылка саке
+consumable_caffeinated_coffee_container|Caffeinated Coffee Container|Контейнер с кофеиновым кофе
+consumable_elixir_of_death|Elixir of Death|Эликсир смерти
+consumable_elixir_of_unworldly_cognition|Elixir of Unworldly Cognition|Эликсир потустороннего познания
+consumable_empty_bottle_of_vodka|Empty Bottle of Vodka|Пустая бутылка водки
+consumable_ghostly_potion|Ghostly Potion|Призрачное зелье
+consumable_gold_inlaid_mysterious_potion|Gold Inlaid Mysterious Potion|Таинственное зелье с золотой инкрустацией
+consumable_maggot_eye_elixir|Maggot Eye Elixir|Эликсир из глаза личинки
+consumable_power_of_void|Power of Void|Сила Пустоты
+consumable_praetorian_blood|Praetorian Blood|Преторианская кровь
+consumable_prismatic_potion|Prismatic Potion|Призматическое зелье
+consumable_protein_shake|Protein Shake|Протеиновый коктейль
+consumable_radbull|Radbull|Радбулл
+consumable_sung_lees_unleashed_rage|Sung Lee's Flask of Carnage|Флакон резни Сунг Ли
+consumable_surstromming|Surströmming|Сюрстрёмминг
+consumable_witches_potion|Witches Potion|Ведьмино зелье
+consumable_wizard_potion|Wizard Potion|Зелье чародея
+consumable_coffee_mug|Sarcaster’s Coffee Mug|Кофейная кружка Саркастера
+consumable_dark_vial_corrosion|Dark Vial of Corrosion|Темный флакон коррозии
+consumable_amun_ras_demise|Amun Ra´s Demise|Погибель Амон-Ра
+consumable_tarot_deck|Tarot Deck|Колода Таро
 ||
-lore_consumable_blood_of_spartan|Enhances your Defense and Damage Return.|Повышает вашу защиту и возвращаемый урон.|
-lore_consumable_bottle_of_radogate|Gain Increased Movement Speed and Phasing.|Увеличивает скорость передвижения и позволяет проходить сквозь врагов.|
-lore_consumable_bottle_of_sake|Increases your Attack Damage and Critical Strike Damage.|Увеличивает ваш урон от атак и критический урон.|
-lore_consumable_caffeinated_coffee_container|Deal Increased Damage to Burning targets.|Вы наносите повышенный урон горящим целям.|
-lore_consumable_elixir_of_death|Enhances all Damage dealt.|Увеличивает весь наносимый урон.|
-lore_consumable_elixir_of_unworldly_cognition|Increases your Experience gained.|Увеличивает количество получаемого опыта.|
-lore_consumable_empty_bottle_of_vodka|Gain additional All Skills for its duration.|Повышает уровни всех умений на время действия эффекта.|
-lore_consumable_ghostly_potion|Enhances Magic Skill Damage.|Увеличивает урон магических умений.|
-lore_consumable_gold_inlaid_mysterious_potion|Gain Increased Magic Find and Gold from monster kills.|Повышает шанс нахождения магических предметов и количество золота, выпадающего из монстров.|
-lore_consumable_maggot_eye_elixir|Increases your Attack Speed and Attack Rating.|Увеличивает вашу скорость атаки и рейтинг атаки.|
-lore_consumable_power_of_void|Unleash Comets when casting any spell.|При сотворении любого заклинания вы выпускаете кометы.|
-lore_consumable_praetorian_blood|Gain Increased Life Steal.|Увеличивает похищение здоровья при атаке.|
-lore_consumable_prismatic_potion|Increases All Resistances.|Повышает сопротивление всем видам урона.|
-lore_consumable_protein_shake|Buffs your Strength and Vitality.|Повышает ваши характеристики: силу и живучесть.|
-lore_consumable_radbull|Gain Increased Attack Speed and Movement Speed.|Увеличивает скорость атаки и скорость передвижения.|
-lore_consumable_sung_lees_unleashed_rage|All Attacks now cause enemies to bleed.|Все ваши атаки теперь вызывают у врагов кровотечение.|
-lore_consumable_surstromming|Gain Increased Life Replenish and Mana Replenish.|Ускоряет восполнение здоровья и маны.|
-lore_consumable_witches_potion|Gain full Life & Mana and Increased Life & Mana Replenish.|Полностью восстанавливает здоровье и ману, а также ускоряет их восполнение.|
-lore_consumable_wizard_potion|Enhances your Cast Rate.|Увеличивает скорость сотворения заклинаний.|
+lore_consumable_blood_of_spartan|Enhances your Defense and Damage Return.|Густая, пахнущая медью и древней яростью кровь. Она наделяет кожу прочностью щита, значительно повышая вашу защиту и заставляя врагов содрогаться от боли, вызывая отражение полученного урона. (Повышает вашу защиту и возвращаемый урон)|
+lore_consumable_bottle_of_radogate|Gain Increased Movement Speed and Phasing.|Мерцающая, едва осязаемая субстанция, запертая в хрупком стекле. Она дарует телу призрачную легкость, увеличивая скорость передвижения и позволяя бесплотной тенью скользить сквозь ряды врагов. (Увеличивает скорость передвижения и позволяет проходить сквозь врагов)|
+lore_consumable_bottle_of_sake|Increases your Attack Damage and Critical Strike Damage.|Обожженная в горне бутыль полна жгучей влаги, что заставляет сердце биться в ритме войны. Ваша физическая мощь многократно возрастает, делая каждый критический удар воплощением чистой, первобытной боли. (Увеличивает ваш урон от атак и критический урон)|
+lore_consumable_caffeinated_coffee_container|Deal Increased Damage to Burning targets.|Жестяная емкость скрывает в себе напиток, горький как сама смерть. Он наделяет вас небывалой безжалостностью, позволяя гораздо эффективнее наносить урон целям, охваченные огнем. (Увеличенный урон горящим целям)|
+lore_consumable_elixir_of_death|Enhances all Damage dealt.|Густая, пульсирующая черным ихором субстанция, источающая запах тлена. Каждая капля этого зелья наполняет ваши атаки потусторонней злобой, значительно увеличивая весь наносимый урон. (Увеличивает весь наносимый урон)|
+lore_consumable_elixir_of_unworldly_cognition|Increases your Experience gained.|Прозрачный эфир, пропитанный энергией запретных знаний. Он связывает ваш разум с информационным полем вселенной, многократно увеличивая количество получаемого опыта. (Увеличивает количество получаемого опыта)|
+lore_consumable_empty_bottle_of_vodka|Gain additional All Skills for its duration.|Тяжелое горлышко с остатками обжигающей горечи пробуждает в крови первобытную ярость, временно даруя прибавку ко всем умениям. (Повышает уровни всех умений на время действия эффекта)|
+lore_consumable_ghostly_potion|Enhances Magic Skill Damage.|Мерцающая лазурью жидкость, которая кажется невесомой в руках. Магическая природа этого зелья резонирует с вашим внутренним даром, значительно повышая эффективность и урон всех заклинаний. (Увеличивает урон магических умений)|
+lore_consumable_gold_inlaid_mysterious_potion|Gain Increased Magic Find and Gold from monster kills.|Взвесь золотой пыли в этом тяжелом флаконе пробуждает в глазах алчный блеск, заставляя саму судьбу подбрасывать под ноги ценные трофеи и звонкую монету. (Повышает шанс нахождения магических предметов и количество золота, выпадающего из монстров)|
+lore_consumable_maggot_eye_elixir|Increases your Attack Speed and Attack Rating.|Тошнотворный настой на глазах личинок заставляет сердце биться в безумном ритме, ускоряя замах оружия и гарантируя точность каждого вашего выпада. (Увеличивает вашу скорость атаки и рейтинг атаки)|
+lore_consumable_power_of_void|Unleash Comets when casting any spell.|Мерцающая эссенция иного измерения, в которой заперт гнев мертвых солнц. При касте заклинаний эта мощь вырывается наружу, призывая сокрушительные кометы из глубин космоса. (При касте любого заклинания вы выпускаете кометы)|
+lore_consumable_praetorian_blood|Gain Increased Life Steal.|Древний состав, сваренный на крови лучших бойцов империи. Его свойства заставляют вашу плоть регенерировать с невероятной скоростью, пока вы продолжаете терзать тела своих недругов. (Увеличивает похищение здоровья при атаке)|
+lore_consumable_prismatic_potion|Increases All Resistances.|Мерцающая взвесь, переливающаяся всеми цветами спектра. Окутывает тело невидимым барьером, защищающим плоть от ярости первородных стихий. (Повышает сопротивление всем видам урона)|
+lore_consumable_protein_shake|Buffs your Strength and Vitality.|Концентрат из толченого рога демона и сердца разъяренного зверя, бьющий в нос резким запахом. Наполняет мышцы звериной мощью и укрепляет кости, повышая ваши силу и живучесть. (Повышает характеристики: силу и живучесть)|
+lore_consumable_radbull|Gain Increased Attack Speed and Movement Speed.|Ядовито-голубая эссенция, искрящаяся чистой энергией. Один глоток этой смеси наполняет мышцы неестественной силой, увеличивая скорость атаки и скорость передвижения (Увеличивает скорость атаки и скорость передвижения)|
+lore_consumable_sung_lees_unleashed_rage|All Attacks now cause enemies to bleed.|Багровый эликсир, замешанный на яде пустынных гадюк, делает раны незаживающими, из-за чего все ваши атаки провоцируют обильное кровотечение. (Все ваши атаки теперь вызывают у врагов кровотечение)|
+lore_consumable_surstromming|Gain Increased Life Replenish and Mana Replenish.|Настой из тухлой рыбы, который пахнет хуже, чем гниющий зомби. Эта невыносимая трапеза дает мощный толчок жизненным силам, ускоряя восполнение здоровья и маны. (Ускоряет восполнение здоровья и маны)|
+lore_consumable_witches_potion|Gain full Life & Mana and Increased Life & Mana Replenish.|Багровая настойка, вскипающая от малейшего прикосновения. Она питает тело энергией крови, восполняя здоровье и ману до самых краев и поддерживая их восстановление на высоком уровне. (Полностью восстанавливает здоровье и ману, а также ускоряет их восполнение)|
+lore_consumable_wizard_potion|Enhances your Cast Rate.|Густая лазурная эссенция отливающая цианом. Это зелье расширяет границы сознания, дарует кристаллическую ясность мысли, позволяя вашим заклинаниям срываться с пальцев с безумной скоростью. (Увеличивает скорость каста)|
 lore_consumable_coffee_mug|Kahtellaa syssymmällä..|Поглядим, что будет осенью...|
 lore_consumable_dark_vial_corrosion|Consists of an ancient mystic plague infused in darkness..|В этом флаконе томится древняя порча, взращенная в абсолютной тьме. Одно прикосновение этой жидкости превращает сталь в труху, а плоть — в смердящую жижу, кишащую тенями.|
 lore_consumable_amun_ras_demise|From beyond afterlife Amun Ra reaps the souls of the living and undead..|Эхо великого падения бога солнца. Этот эликсир позволяет тебе пожинать души живых и нежити с одинаковой легкостью, насыщая твое существо черным светом загробного мира.|
@@ -1719,32 +1720,32 @@ grenadier_setname|Grenadier´s Explosive|
 witching_setname|Witching|
 ||
 [Misc]||
-limited_socket|Unique|
+limited_socket|Unique|Уникальный
 prospect_copper|Prospect Copper Ore|Просеять медную руду
 prospect_iron|Prospect Iron Ore|Просеять железную руду
 prospect_gold|Prospect Gold Ore|Просеять золотую руду
 prospect_ruby|Prospect Ruby Ore|Просеять рубиновую руду
 prospect_jade|Prospect Jade Ore|Просеять нефритовую руду
 prospect_tarethium|Prospect Tarethium Ore|Просеять таретиевую руду
-potions_witches_potion|Witches Potion|
-potions_elixir_of_death|Elixir of Death|
-potions_maggot_eye_elixir|Maggot Eye Elixir|
-potions_empty_bottle_of_vodka|Empty Bottle of Vodka|
-potions_bottle_of_radogate|Bottle of Radogate|
-potions_wizard_potion|Wizard Potion|
-potions_radbull|Radbull|
-potions_surstromming|Surströmming|
-potions_protein_shake|Protein Shake|
-potions_blood_of_spartan|Blood of Spartan|
-potions_bottle_of_sake|Bottle of Sake|
-potions_praetorian_blood|Praetorian Blood|
-potions_ghostly_potion|Ghostly Potion|
-potions_prismatic_potion|Prismatic Potion|
-potions_sung_lees_unleashed_rage|Sung Lee's Unleashed Rage|
-potions_power_of_void|Power of the Void|
-potions_caffeinated_coffee_container|Caffeinated Coffee Container|
-potions_gold_inlaid_mysterious_potion|Gold Inlaid Mysterious Potion|
-potions_elixir_of_unwordly_cognition|Elixir of Unworldly Cognition|
+potions_witches_potion|Witches Potion|Зелье ведьмы
+potions_elixir_of_death|Elixir of Death|Эликсир смерти
+potions_maggot_eye_elixir|Maggot Eye Elixir|Эликсир из глаз личинки
+potions_empty_bottle_of_vodka|Empty Bottle of Vodka|Пустая бутылка водки
+potions_bottle_of_radogate|Bottle of Radogate|Бутылка «Радогейта»
+potions_wizard_potion|Wizard Potion|Зелье чародея
+potions_radbull|Radbull|Радбулл
+potions_surstromming|Surströmming|Сюрстрёмминг
+potions_protein_shake|Protein Shake|Протеиновый коктейль
+potions_blood_of_spartan|Blood of Spartan|Кровь спартанца
+potions_bottle_of_sake|Bottle of Sake|Бутылка саке
+potions_praetorian_blood|Praetorian Blood|Кровь преторианца
+potions_ghostly_potion|Ghostly Potion|Призрачное зелье
+potions_prismatic_potion|Prismatic Potion|Призматическое зелье
+potions_sung_lees_unleashed_rage|Sung Lee's Unleashed Rage|Неистовая ярость Сунг Ли
+potions_power_of_void|Power of the Void|Сила Пустоты
+potions_caffeinated_coffee_container|Caffeinated Coffee Container|Емкость с бодрящим кофе
+potions_gold_inlaid_mysterious_potion|Gold Inlaid Mysterious Potion|Загадочное зелье с золотой инкрустацией
+potions_elixir_of_unwordly_cognition|Elixir of Unworldly Cognition|Эликсир потустороннего познания
 ||
 [Keys]||
 keys_key|Basic Key|
@@ -2523,859 +2524,859 @@ shrine_reaper_affix02|of the Fallen Champion|павшего чемпиона
 shrine_reaper_affix03|of the Fallen Legion|павшего легиона
 ||
 [Prefixes]||
-prefix_battlescarred|Battlescarred|
-prefix_fieldtested|Fieldtested|
-prefix_wartorned|Wartorned|
-prefix_posttraumatic|Posttraumatic|
-prefix_warlegend|Warlegend|
-prefix_savage|Savage|
-prefix_brutal|Brutal|
-prefix_feral|Feral|
-prefix_merciless|Merciless|
-prefix_ferocious|Ferocious|
-prefix_owls|Owl|
-prefix_crows|Crow|
-prefix_hawks|Hawk|
-prefix_falcons|Falcon|
-prefix_eagles|Eagle|
-prefix_cobras|Cobra|
-prefix_basilisks|Basilisk|
-prefix_serpents|Serpent|
-prefix_dragons|Dragon|
-prefix_wyrms|Wyrm|
-prefix_kingcobras|King Cobra|
-prefix_kingbasilisks|King Basilisk|
-prefix_kingserpents|King Serpent|
-prefix_kingdragons|King Dragon|
-prefix_kingwyrms|King Wyrm|
-prefix_armorers|Armorer´s|
-prefix_defenders|Defender´s|
-prefix_bastions|Bastion´s|
-prefix_sentinels|Sentinel´s|
-prefix_guardians|Guardian´s|
-prefix_bears|Bear|
-prefix_rhinos|Rhino|
-prefix_whales|Whale|
-prefix_mammoths|Mammoth|
-prefix_mastodons|Mastodon|
-prefix_apexbears|Apex Bear|
-prefix_apexrhinos|Apex Rhino|
-prefix_apexwhales|Apex Whale|
-prefix_apexmammoths|Apex Mammoth|
-prefix_apexmastodons|Apex Mastodon|
-prefix_fire_cloaking|Firecloaking|
-prefix_fire_proof|Fireproof|
-prefix_fire_resisting|Fireresisting|
-prefix_fire_shielding|Fireshielding|
-prefix_fire_immune|Fireimmune|
-prefix_cold_cloaking|Coldcloaking|
-prefix_cold_proof|Coldproof|
-prefix_cold_resisting|Coldresisting|
-prefix_cold_shielding|Coldshielding|
-prefix_cold_immune|Coldimmune|
-prefix_poison_cloaking|Poisoncloaking|
-prefix_poison_proof|Poisonproof|
-prefix_poison_resisting|Poisonresisting|
-prefix_poison_shielding|Poisonshielding|
-prefix_poison_immune|Poisonimmune|
-prefix_lightning_cloaking|Lightningcloaking|
-prefix_lightning_proof|Lightningproof|
-prefix_lightning_resisting|Lightningresisting|
-prefix_lightning_shielding|Lightningshielding|
-prefix_lightning_immune|Lightningimmune|
-prefix_arcane_cloaking|Arcanecloaking|
-prefix_arcane_proof|Arcaneproof|
-prefix_arcane_resisting|Arcaneresisting|
-prefix_arcane_shielding|Arcaneshielding|
-prefix_arcane_immune|Arcaneimmune|
-prefix_leeching|Leeching|
-prefix_blood_drinking|Blood Drinking|
-prefix_life_vamping|Lifevamping|
-prefix_vampiric|Vampiric|
-prefix_draculs|Draculs|
-prefix_cave_bats|Cavebat|
-prefix_vesper_bats|Vesperbat|
-prefix_brown_bats|Brownbat|
-prefix_colossal_bats|Colossalbat|
-prefix_citadel_bats|Citadelbat|
-prefix_peasants|Peasant´s|
-prefix_archons|Archon´s|
-prefix_avengers|Avenger´s|
-prefix_keepers|Keeper´s|
-prefix_arch_angel|Archangel´s|
-prefix_mysticpond|Mystic Pond|
-prefix_mysticlake|Mystic Lake|
-prefix_mysticocean|Mystic Ocean|
-prefix_mysticfountain|Mystic Fountain|
-prefix_mysticspring|Mystic Spring|
-prefix_devoted|Devoted|
-prefix_smitten|Smitten|
-prefix_malice|Malice|
-prefix_incubus|Incubus|
-prefix_kindred|Kindred|
-prefix_ignited|Ignited|
-prefix_lit|Lit|
-prefix_timed|Timed|
-prefix_fired|Fired|
-prefix_doomed|Doomed|
-prefix_ward|Ward|
-prefix_eye|Eye|
-prefix_sentry|Sentry|
-prefix_turret|Turret|
-prefix_guardtower|Guard Tower|
-prefix_warping|Warping|
-prefix_whispering|Whispering|
-prefix_risen|Risen|
-prefix_undying|Undying|
-prefix_reanimated|Reanimated|
-prefix_lingering|Lingering|
-prefix_willowing|Willowing|
-prefix_hallowing|Hallowing|
-prefix_festering|Festering|
-prefix_slendering|Slendering|
-prefix_sinister|Sinister|
-prefix_malevolent|Malevolent|
-prefix_demonic|Demonic|
-prefix_diabolic|Diabolic|
-prefix_sacrilegious|Sacrilegious|
-prefix_precise|Precise|
-prefix_accurate|Accurate|
-prefix_locked|Locked|
-prefix_bullseye|Bullseye|
-prefix_sniper|Sniper|
-prefix_accursed|Accursed|
-prefix_perfected|Perfected|
-prefix_hardlocked|Hardlocked|
-prefix_sharpsight|Sharpsight|
-prefix_marksman|Marksman|
-prefix_gravedigger|Gravedigger|
-prefix_gravescavenger|Gravescavenger|
-prefix_corpsemaggot|Corpsemaggot|
-prefix_corpsemuncher|Corpsemuncher|
-prefix_cannibal|Cannibal|
-prefix_disciple|Disciple|
-prefix_monk|Monk|
-prefix_priest|Priest|
-prefix_gypsy|Gypsy|
-prefix_exorcist|Exorcist|
-prefix_walking|Walking|
-prefix_traveling|Traveling|
-prefix_sneaking|Sneaking|
-prefix_blinking|Blinking|
-prefix_phasing|Phasing|
-prefix_scarface|Scarface|
-prefix_hitman|Hitman|
-prefix_assassin|Assassin|
-prefix_ninja|Ninja|
-prefix_deadeye|Deadeye|
-prefix_wanderer|Wanderer|
-prefix_stalker|Stalker|
-prefix_packleader|Packleader|
-prefix_apex|Apex|
-prefix_predator|Predator|
-prefix_pickpocket|Pickpocket|
-prefix_thieves|Thieve´s|
-prefix_vultures|Vulture´s|
-prefix_greedy|Greedy|
-prefix_whitecollar|Whitecollar|
-prefix_mangling|Mangling|
-prefix_trashing|Trashing|
-prefix_breaking|Breaking|
-prefix_maiming|Maiming|
-prefix_crushing|Crushing|
-prefix_crucial|Crucial|
-prefix_sharp|Sharp|
-prefix_deadly|Deadly|
-prefix_fatal|Fatal|
-prefix_eliminating|Eliminating|
-prefix_scarring|Scarring|
-prefix_blistering|Blistering|
-prefix_ripping|Ripping|
-prefix_slashing|Slashing|
-prefix_hemorrhaging|Hemorrhaging|
-prefix_stuttering|Stuttering|
-prefix_entangling|Entangling|
-prefix_disrupting|Disrupting|
-prefix_slowing|Slowing|
-prefix_crippling|Crippling|
-prefix_foxhearts|Foxheart´s|
-prefix_wolfhearts|Wolfheart´s|
-prefix_jaguarhearts|Jaguarheart´s|
-prefix_tigerhearts|Tigerheart´s|
-prefix_lionhearts|Lionheart´s|
-prefix_earthworms|Earthworm´s|
-prefix_maggots|Maggot´s|
-prefix_snakes|Snake´s|
-prefix_pythons|Python´s|
-prefix_anacondas|Anaconda´s|
-prefix_forests|Forest|
-prefix_wilderness|Wilderness|
-prefix_oasis|Oasis|
-prefix_natures|Nature|
-prefix_prophets|Prophet|
-prefix_coldignoring|Coldignoring|
-prefix_coldpenetrating|Coldpenetrating|
-prefix_coldbreaking|Coldbreaking|
-prefix_coldpiercing|Coldpiercing|
-prefix_coldshattering|Coldshattering|
-prefix_fireignoring|Fireignoring|
-prefix_firepenetrating|Firepenetrating|
-prefix_firebreaking|Firebreaking|
-prefix_firepiercing|Firepiercing|
-prefix_fireshattering|Fireshattering|
-prefix_poisonignoring|Poisonignoring|
-prefix_poisonpenetrating|Poisonpenetrating|
-prefix_poisonbreaking|Poisonbreaking|
-prefix_poisonpiercing|Poisonpiercing|
-prefix_poisonshattering|Poisonshattering|
-prefix_lightningignoring|Lightiningignoring|
-prefix_lightningpenetrating|Lightningpenetrating|
-prefix_lightningbreaking|Lightningbreaking|
-prefix_lightningpiercing|Lightningpiercing|
-prefix_lightningshattering|Lightningshattering|
-prefix_arcaneignoring|Arcaneignoring|
-prefix_arcanepenetrating|Arcanepenetrating|
-prefix_arcanebreaking|Arcanebreaking|
-prefix_arcanepiercing|Arcanepiercing|
-prefix_arcaneshattering|Arcaneshattering|
-prefix_crafters|Crafter´s|
-prefix_tinkers|Tinker´s|
-prefix_forgers|Forger´s|
-prefix_blacksmiths|Blacksmith´s|
-prefix_runesmiths|Runesmith´s|
-prefix_vandals|Vandal´s|
-prefix_fools|Fool´s|
-prefix_jesters|Jester´s|
-prefix_tricksters|Trickster´s|
-prefix_royaljesters|Royal Jester´s|
-prefix_striking|Striking|
-prefix_slicing|Slicing|
-prefix_wounding|Wounding|
-prefix_mutilating|Mutilating|
-prefix_killing|Killing|
-prefix_chilling|Chilling|
-prefix_frozen|Frozen|
-prefix_coldsnap|Coldsnap|
-prefix_frostburning|Frostburning|
-prefix_glacial|Glacial|
-prefix_melting|Melting|
-prefix_flaming|Flaming|
-prefix_molten|Molten|
-prefix_burning|Burning|
-prefix_scorching|Scorching|
-prefix_shocked|Shocked|
-prefix_lightning|Lightning|
-prefix_static|Static|
-prefix_thunder|Thunder|
-prefix_monsoon|Monsoon|
-prefix_poisonous|Poisonous|
-prefix_venomous|Venomous|
-prefix_toxic|Toxic|
-prefix_asphyxiating|Asphyxiating|
-prefix_corroding|Corroding|
-prefix_magic|Magic|
-prefix_arcanist|Arcanist|
-prefix_conjured|Conjured|
-prefix_mystic|Mystic|
-prefix_rift|Rift|
-prefix_magewrath01|Magewrath|
-prefix_magewrath02|Magewrath|
-prefix_magewrath03|Magewrath|
-prefix_magewrath04|Magewrath|
-prefix_magewrath05|Magewrath|
-prefix_warriors01|Warrior´s|
-prefix_warriors02|Warrior´s|
-prefix_warriors03|Warrior´s|
-prefix_warriors04|Warrior´s|
-prefix_warriors05|Warrior´s|
-prefix_brutes01|Brute´s|
-prefix_brutes02|Brute´s|
-prefix_brutes03|Brute´s|
-prefix_brutes04|Brute´s|
-prefix_brutes05|Brute´s|
-prefix_juggernauts01|Juggernaut´s|
-prefix_juggernauts02|Juggernaut´s|
-prefix_juggernauts03|Juggernaut´s|
-prefix_juggernauts04|Juggernaut´s|
-prefix_juggernauts05|Juggernaut´s|
-prefix_soldiers|Soldier´s|
-prefix_berserkers|Berserker´s|
-prefix_crusaders|Crusader´s|
-prefix_legionnaires|Legionnaire´s|
-prefix_warlords|Warlord´s|
-prefix_swift|Swift|
-prefix_rapid|Rapid|
-prefix_quickened|Quickened|
-prefix_fleet|Fleet|
-prefix_zephyrs|Zephyr´s|
-prefix_fireinfusion01|Fireinfusion|
-prefix_fireinfusion02|Fireinfusion|
-prefix_fireinfusion03|Fireinfusion|
-prefix_fireinfusion04|Fireinfusion|
-prefix_fireinfusion05|Fireinfusion|
-prefix_coldinfusion01|Coldinfusion|
-prefix_coldinfusion02|Coldinfusion|
-prefix_coldinfusion03|Coldinfusion|
-prefix_coldinfusion04|Coldinfusion|
-prefix_coldinfusion05|Coldinfusion|
-prefix_lightninginfusion01|Lightninginfusion|
-prefix_lightninginfusion02|Lightninginfusion|
-prefix_lightninginfusion03|Lightninginfusion|
-prefix_lightninginfusion04|Lightninginfusion|
-prefix_lightninginfusion05|Lightninginfusion|
-prefix_arcaneinfusion01|Arcaneinfusion|
-prefix_arcaneinfusion02|Arcaneinfusion|
-prefix_arcaneinfusion03|Arcaneinfusion|
-prefix_arcaneinfusion04|Arcaneinfusion|
-prefix_arcaneinfusion05|Arcaneinfusion|
-prefix_skeletons|Skeleton´s|
-prefix_zombies|Zombie´s|
-prefix_ghouls|Ghoul´s|
-prefix_lich|Lich|
-prefix_blackknights|Black Knight´s|
-prefix_dark|Dark|
-prefix_black|Black|
-prefix_pitchblack|Pitchblack|
-prefix_eerie|Eerie|
-prefix_limbo|Limbo|
-prefix_miner|Miner|
-prefix_detonator|Detonator|
-prefix_fusing|Fusing|
-prefix_ticking|Ticking|
-prefix_exploding|Exploding|
-prefix_lurking|Lurking|
-prefix_watching|Watching|
-prefix_monitoring|Monitoring|
-prefix_scanning|Scanning|
-prefix_surveilling|Surveilling|
-prefix_timing|Timing|
-prefix_enduring|Enduring|
-prefix_lasting|Lasting|
-prefix_weaving|Weaving|
-prefix_everlasting|Everlasting|
-prefix_manaleak|Manaleak|
-prefix_manaspill|Manaspill|
-prefix_manasplash|Manasplash|
-prefix_manaflow|Manaflow|
-prefix_manahunger|Manahunger|
-prefix_mitigating|Mitigating|
-prefix_deflecting|Deflecting|
-prefix_defending|Defending|
-prefix_armored|Armored|
-prefix_bulwark|Bulwark|
-prefix_reanimator|Reanimator|
-prefix_deathcaller|Deathcaller|
-prefix_unholy|Unholy|
-prefix_summoner|Summoner|
-prefix_necromancer|Necromancer|
-prefix_superior_weapon1|Superior|
-prefix_superior_weapon2|Superior|
-prefix_superior_weapon3|Superior|
-prefix_superior_weapon4|Superior|
-prefix_superior_weapon5|Superior|
-prefix_superior_armor1|Superior|
-prefix_superior_armor2|Superior|
-prefix_superior_armor3|Superior|
-prefix_superior_armor4|Superior|
-prefix_superior_armor5|Superior|
-prefix_exceptional_weapon1|Exceptional|
-prefix_exceptional_weapon2|Exceptional|
-prefix_exceptional_weapon3|Exceptional|
-prefix_exceptional_weapon4|Exceptional|
-prefix_exceptional_weapon5|Exceptional|
-prefix_exceptional_armor1|Exceptional|
-prefix_exceptional_armor2|Exceptional|
-prefix_exceptional_armor3|Exceptional|
-prefix_exceptional_armor4|Exceptional|
-prefix_exceptional_armor5|Exceptional|
-prefix_astral_weapon1|Astral|
-prefix_astral_weapon2|Astral|
-prefix_astral_weapon3|Astral|
-prefix_astral_weapon4|Astral|
-prefix_astral_weapon5|Astral|
-prefix_astral_armor1|Astral|
-prefix_astral_armor2|Astral|
-prefix_astral_armor3|Astral|
-prefix_astral_armor4|Astral|
-prefix_astral_armor5|Astral|
-prefix_quantum_weapon1|Quantum|
-prefix_quantum_weapon2|Quantum|
-prefix_quantum_weapon3|Quantum|
-prefix_quantum_weapon4|Quantum|
-prefix_quantum_weapon5|Quantum|
-prefix_quantum_armor1|Quantum|
-prefix_quantum_armor2|Quantum|
-prefix_quantum_armor3|Quantum|
-prefix_quantum_armor4|Quantum|
-prefix_quantum_armor5|Quantum|
-prefix_glooming|Glooming|
-prefix_sparkling|Sparkling|
-prefix_lumninated|Luminated|
-prefix_luxified|Luxified|
-prefix_lightburning|Lightburning|
-prefix_regenerating|Regenerating|
-prefix_healing|Healing|
-prefix_fulfilling|Fulfilling|
-prefix_vitalizing|Vitalizing|
-prefix_consuming|Consuming|
-prefix_shortlived|Shortlived|
-prefix_fast|Fast|
-prefix_accelerated|Accelerated|
-prefix_hyperloop|Hyperloop|
-prefix_entangled|Entangled|
-prefix_soul_recon|Soul Recon|
-prefix_soul_infused|Soul Infused|
-prefix_soul_hungry|Soul Hungry|
-prefix_soul_filled|Soul Filled|
-prefix_soul_funneled|Soul Funneled|
-prefix_vital_recon|Vital Recon|
-prefix_vital_infused|Vital Infused|
-prefix_vital_hungry|Vital Hungry|
-prefix_vital_filled|Vital Filled|
-prefix_vital_funneled|Vital Funneled|
-prefix_quick_sentry|Quick Sentry|
-prefix_fast_sentry|Fast Sentry|
-prefix_speed_sentry|Speed Sentry|
-prefix_rapid_sentry|Rapid Sentry|
-prefix_fleet_sentry|Fleet Sentry|
-prefix_delirious|Delirious|
-prefix_dwelling|Dwelling|
-prefix_treasure|Treasure|
-prefix_legion|Legion|
-prefix_heroic|Heroic|
-prefix_vault_treasure01|Greedy|
-prefix_vault_treasure02|Greedy|
-prefix_vault_treasure03|Greedy|
-prefix_vault_treasure04|Greedy|
-prefix_vault_treasure05|Greedy|
-prefix_vault_treasure06|Greedy|
-prefix_vault_material01|Stacked|
-prefix_vault_material02|Stacked|
-prefix_vault_material03|Stacked|
-prefix_vault_material04|Stacked|
-prefix_vault_material05|Stacked|
-prefix_vault_material06|Stacked|
-prefix_vault_collectible01|Collecting|
-prefix_vault_collectible02|Collecting|
-prefix_vault_collectible03|Collecting|
-prefix_vault_collectible04|Collecting|
-prefix_vault_collectible05|Collecting|
-prefix_vault_collectible06|Collecting|
-prefix_vault_key01|Locked|
-prefix_vault_key02|Locked|
-prefix_vault_key03|Locked|
-prefix_vault_key04|Locked|
-prefix_vault_key05|Locked|
-prefix_vault_key06|Locked|
-prefix_vault_codex01|Enchanted|
-prefix_vault_codex02|Enchanted|
-prefix_vault_codex03|Enchanted|
-prefix_vault_codex04|Enchanted|
-prefix_vault_codex05|Enchanted|
-prefix_vault_codex06|Enchanted|
+prefix_battlescarred|Battlescarred|Закаленный в боях
+prefix_fieldtested|Fieldtested|Проверенный в бою
+prefix_wartorned|Wartorned|Истерзанный войной
+prefix_posttraumatic|Posttraumatic|Посттравматический
+prefix_warlegend|Warlegend|Легенда войны
+prefix_savage|Savage|Дикий
+prefix_brutal|Brutal|Жестокий
+prefix_feral|Feral|Первобытный
+prefix_merciless|Merciless|Беспощадный
+prefix_ferocious|Ferocious|Свирепый
+prefix_owls|Owl|Совиный
+prefix_crows|Crow|Вороний
+prefix_hawks|Hawk|Ястребиный
+prefix_falcons|Falcon|Соколиный
+prefix_eagles|Eagle|Орлиный
+prefix_cobras|Cobra|Кобры
+prefix_basilisks|Basilisk|Василиска
+prefix_serpents|Serpent|Змеи
+prefix_dragons|Dragon|Дракона
+prefix_wyrms|Wyrm|Вирма
+prefix_kingcobras|King Cobra|Королевской кобры
+prefix_kingbasilisks|King Basilisk|Королевского василиска
+prefix_kingserpents|King Serpent|Королевской змеи
+prefix_kingdragons|King Dragon|Королевского дракона
+prefix_kingwyrms|King Wyrm|Королевского Вирма
+prefix_armorers|Armorer´s|Бронника
+prefix_defenders|Defender´s|Защитника
+prefix_bastions|Bastion´s|Бастиона
+prefix_sentinels|Sentinel´s|Часового
+prefix_guardians|Guardian´s|Стража
+prefix_bears|Bear|Медведя
+prefix_rhinos|Rhino|Носорога
+prefix_whales|Whale|Кита
+prefix_mammoths|Mammoth|Мамонта
+prefix_mastodons|Mastodon|Мастодонта
+prefix_apexbears|Apex Bear|Верховного медведя
+prefix_apexrhinos|Apex Rhino|Верховного носорога
+prefix_apexwhales|Apex Whale|Верховного кита
+prefix_apexmammoths|Apex Mammoth|Верховного мамонта
+prefix_apexmastodons|Apex Mastodon|Верховного мастодонта
+prefix_fire_cloaking|Firecloaking|Огненного покрова
+prefix_fire_proof|Fireproof|Огнестойкий
+prefix_fire_resisting|Fireresisting|Сопротивления огню
+prefix_fire_shielding|Fireshielding|Огненного щита
+prefix_fire_immune|Fireimmune|Огнеупорный
+prefix_cold_cloaking|Coldcloaking|Морозного покрова
+prefix_cold_proof|Coldproof|Морозостойкий
+prefix_cold_resisting|Coldresisting|Сопротивления холоду
+prefix_cold_shielding|Coldshielding|Ледяного щита
+prefix_cold_immune|Coldimmune|Хладостойкий
+prefix_poison_cloaking|Poisoncloaking|Ядовитого покрова
+prefix_poison_proof|Poisonproof|Ядостойкий
+prefix_poison_resisting|Poisonresisting|Сопротивления яду
+prefix_poison_shielding|Poisonshielding|Ядовитого щита
+prefix_poison_immune|Poisonimmune|Иммунитета к яду
+prefix_lightning_cloaking|Lightningcloaking|Грозового покрова
+prefix_lightning_proof|Lightningproof|Молниестойкий
+prefix_lightning_resisting|Lightningresisting|Сопротивления молнии
+prefix_lightning_shielding|Lightningshielding|Грозового щита
+prefix_lightning_immune|Lightningimmune|Грозоупорный
+prefix_arcane_cloaking|Arcanecloaking|Покрова тайной магии
+prefix_arcane_proof|Arcaneproof|Стойкости к тайной магии
+prefix_arcane_resisting|Arcaneresisting|Сопротивления тайной магии
+prefix_arcane_shielding|Arcaneshielding|Щита тайной магии
+prefix_arcane_immune|Arcaneimmune|Иммунитета к тайной магии
+prefix_leeching|Leeching|Похищения
+prefix_blood_drinking|Blood Drinking|Кровопийцы
+prefix_life_vamping|Lifevamping|Жизнесосущий
+prefix_vampiric|Vampiric|Вампирский
+prefix_draculs|Draculs|Дракулы
+prefix_cave_bats|Cavebat|Пещерной летучей мыши
+prefix_vesper_bats|Vesperbat|Вечерницы
+prefix_brown_bats|Brownbat|Бурой летучей мыши
+prefix_colossal_bats|Colossalbat|Исполинской летучей мыши
+prefix_citadel_bats|Citadelbat|Цитадельной летучей мыши
+prefix_peasants|Peasant´s|Крестьянина
+prefix_archons|Archon´s|Архонта
+prefix_avengers|Avenger´s|Мстителя
+prefix_keepers|Keeper´s|Хранителя
+prefix_arch_angel|Archangel´s|Архангела
+prefix_mysticpond|Mystic Pond|Мистического пруда
+prefix_mysticlake|Mystic Lake|Мистического озера
+prefix_mysticocean|Mystic Ocean|Мистического океана
+prefix_mysticfountain|Mystic Fountain|Мистического фонтана
+prefix_mysticspring|Mystic Spring|Мистического источника
+prefix_devoted|Devoted|Преданный
+prefix_smitten|Smitten|Сраженный
+prefix_malice|Malice|Злобный
+prefix_incubus|Incubus|Инкуба
+prefix_kindred|Kindred|Родственный
+prefix_ignited|Ignited|Воспламененный
+prefix_lit|Lit|Освещенный
+prefix_timed|Timed|Выверенный
+prefix_fired|Fired|Опаленный
+prefix_doomed|Doomed|Обреченный
+prefix_ward|Ward|Оберегающий
+prefix_eye|Eye|Ока
+prefix_sentry|Sentry|Караульного
+prefix_turret|Turret|Турели
+prefix_guardtower|Guard Tower|Сторожевой башни
+prefix_warping|Warping|Искажающий
+prefix_whispering|Whispering|Шепчущий
+prefix_risen|Risen|Восставший
+prefix_undying|Undying|Бессмертный
+prefix_reanimated|Reanimated|Оживленный
+prefix_lingering|Lingering|Затяжной
+prefix_willowing|Willowing|Увядающий
+prefix_hallowing|Hallowing|Освящающий
+prefix_festering|Festering|Гноящийся
+prefix_slendering|Slendering|Истончающий
+prefix_sinister|Sinister|Зловещий
+prefix_malevolent|Malevolent|Злобный
+prefix_demonic|Demonic|Демонический
+prefix_diabolic|Diabolic|Дьявольский
+prefix_sacrilegious|Sacrilegious|Святотатственный
+prefix_precise|Precise|Точный
+prefix_accurate|Accurate|Меткий
+prefix_locked|Locked|Зафиксированный
+prefix_bullseye|Bullseye|Точного попадания
+prefix_sniper|Sniper|Снайперский
+prefix_accursed|Accursed|Проклятый
+prefix_perfected|Perfected|Совершенный
+prefix_hardlocked|Hardlocked|Непоколебимый
+prefix_sharpsight|Sharpsight|Зоркого глаза
+prefix_marksman|Marksman|Стрелка
+prefix_gravedigger|Gravedigger|Могильщика
+prefix_gravescavenger|Gravescavenger|Разхитителя гробниц
+prefix_corpsemaggot|Corpsemaggot|Трупного червя
+prefix_corpsemuncher|Corpsemuncher|Пожирателя трупов
+prefix_cannibal|Cannibal|Каннибала
+prefix_disciple|Disciple|Послушника
+prefix_monk|Monk|Монаха
+prefix_priest|Priest|Жреца
+prefix_gypsy|Gypsy|Цыганский
+prefix_exorcist|Exorcist|Экзорциста
+prefix_walking|Walking|Ходячий
+prefix_traveling|Traveling|Странствующий
+prefix_sneaking|Sneaking|Крадущийся
+prefix_blinking|Blinking|Мерцающий
+prefix_phasing|Phasing|Фазовый
+prefix_scarface|Scarface|Меченого
+prefix_hitman|Hitman|Наемного убийцы
+prefix_assassin|Assassin|Ассасина
+prefix_ninja|Ninja|Ниндзя
+prefix_deadeye|Deadeye|Верного глаза
+prefix_wanderer|Wanderer|Странника
+prefix_stalker|Stalker|Преследователя
+prefix_packleader|Packleader|Вожака стаи
+prefix_apex|Apex|Верховный
+prefix_predator|Predator|Хищника
+prefix_pickpocket|Pickpocket|Карманника
+prefix_thieves|Thieve´s|Вора
+prefix_vultures|Vulture´s|Стервятника
+prefix_greedy|Greedy|Жадный
+prefix_whitecollar|Whitecollar|Дельца
+prefix_mangling|Mangling|Калечащий
+prefix_trashing|Trashing|Громящий
+prefix_breaking|Breaking|Разрушающий
+prefix_maiming|Maiming|Увечащий
+prefix_crushing|Crushing|Сокрушительный
+prefix_crucial|Crucial|Решающий
+prefix_sharp|Sharp|Острый
+prefix_deadly|Deadly|Смертоносный
+prefix_fatal|Fatal|Роковой
+prefix_eliminating|Eliminating|Устраняющий
+prefix_scarring|Scarring|Оставляющий шрамы
+prefix_blistering|Blistering|Яростный
+prefix_ripping|Ripping|Разрывающий
+prefix_slashing|Slashing|Рубящий
+prefix_hemorrhaging|Hemorrhaging|Кровоточащий
+prefix_stuttering|Stuttering|Запинающийся
+prefix_entangling|Entangling|Оплетающий
+prefix_disrupting|Disrupting|Разрушающий
+prefix_slowing|Slowing|Замедляющий
+prefix_crippling|Crippling|Изнуряющий
+prefix_foxhearts|Foxheart´s|Лисьего сердца
+prefix_wolfhearts|Wolfheart´s|Волчьего сердца
+prefix_jaguarhearts|Jaguarheart´s|Сердца ягуара
+prefix_tigerhearts|Tigerheart´s|Тигриного сердца
+prefix_lionhearts|Lionheart´s|Львиного сердца
+prefix_earthworms|Earthworm´s|Земляного червя
+prefix_maggots|Maggot´s|Личинки
+prefix_snakes|Snake´s|Змеиный
+prefix_pythons|Python´s|Питона
+prefix_anacondas|Anaconda´s|Анаконды
+prefix_forests|Forest|Лесной
+prefix_wilderness|Wilderness|Диких земель
+prefix_oasis|Oasis|Оазиса
+prefix_natures|Nature|Природы
+prefix_prophets|Prophet|Пророка
+prefix_coldignoring|Coldignoring|Игнорирующий сопр. холоду
+prefix_coldpenetrating|Coldpenetrating|Проникающий сквозь сопр. холоду
+prefix_coldbreaking|Coldbreaking|Разрушающий сопр. холоду
+prefix_coldpiercing|Coldpiercing|Пронзающий сопр. холоду
+prefix_coldshattering|Coldshattering|Раскалывающий сопр. холоду
+prefix_fireignoring|Fireignoring|Игнорирующий сопр. огню
+prefix_firepenetrating|Firepenetrating|Проникающий сквозь сопр. огню
+prefix_firebreaking|Firebreaking|Разрушающий сопр. огню
+prefix_firepiercing|Firepiercing|Пронзающий сопр. огню
+prefix_fireshattering|Fireshattering|Раскалывающий сопр. огню
+prefix_poisonignoring|Poisonignoring|Игнорирующий сопр. яду
+prefix_poisonpenetrating|Poisonpenetrating|Проникающий сквозь сопр. яду
+prefix_poisonbreaking|Poisonbreaking|Разрушающий сопр. яду
+prefix_poisonpiercing|Poisonpiercing|Пронзающий сопр. яду
+prefix_poisonshattering|Poisonshattering|Раскалывающий сопр. яду
+prefix_lightningignoring|Lightiningignoring|Игнорирующий сопр. молнии
+prefix_lightningpenetrating|Lightningpenetrating|Проникающий сквозь сопр. молнии
+prefix_lightningbreaking|Lightningbreaking|Разрушающий сопр. молнии
+prefix_lightningpiercing|Lightningpiercing|Пронзающий сопр. молнии
+prefix_lightningshattering|Lightningshattering|Раскалывающий сопр. молнии
+prefix_arcaneignoring|Arcaneignoring|Игнорирующий сопр. тайной магии
+prefix_arcanepenetrating|Arcanepenetrating|Проникающий сквозь сопр. тайной магии
+prefix_arcanebreaking|Arcanebreaking|Разрушающий сопр. тайной магии
+prefix_arcanepiercing|Arcanepiercing|Пронзающий сопр. тайной магии
+prefix_arcaneshattering|Arcaneshattering|Раскалывающий сопр. тайной магии
+prefix_crafters|Crafter´s|Ремесленника
+prefix_tinkers|Tinker´s|Умельца
+prefix_forgers|Forger´s|Кузнеца
+prefix_blacksmiths|Blacksmith´s|Оружейника
+prefix_runesmiths|Runesmith´s|Рунного кузнеца
+prefix_vandals|Vandal´s|Вандала
+prefix_fools|Fool´s|Дурака
+prefix_jesters|Jester´s|Шута
+prefix_tricksters|Trickster´s|Плута
+prefix_royaljesters|Royal Jester´s|Королевского шута
+prefix_striking|Striking|Ударный
+prefix_slicing|Slicing|Режущий
+prefix_wounding|Wounding|Ранящий
+prefix_mutilating|Mutilating|Калечащий
+prefix_killing|Killing|Убийственный
+prefix_chilling|Chilling|Леденящий
+prefix_frozen|Frozen|Замороженный
+prefix_coldsnap|Coldsnap|Хладовейный
+prefix_frostburning|Frostburning|Морозного ожога
+prefix_glacial|Glacial|Ледниковый
+prefix_melting|Melting|Плавящий
+prefix_flaming|Flaming|Пламенный
+prefix_molten|Molten|Раскаленный
+prefix_burning|Burning|Горения
+prefix_scorching|Scorching|Опаляющий
+prefix_shocked|Shocked|Шокирующий
+prefix_lightning|Lightning|Молнии
+prefix_static|Static|Статический
+prefix_thunder|Thunder|Грома
+prefix_monsoon|Monsoon|Муссона
+prefix_poisonous|Poisonous|Ядовитый
+prefix_venomous|Venomous|Ядоносный
+prefix_toxic|Toxic|Токсичный
+prefix_asphyxiating|Asphyxiating|Удушающий
+prefix_corroding|Corroding|Разъедающий
+prefix_magic|Magic|Магический
+prefix_arcanist|Arcanist|Чародея
+prefix_conjured|Conjured|Сотворенный
+prefix_mystic|Mystic|Мистический
+prefix_rift|Rift|Разлома
+prefix_magewrath01|Magewrath|Гнева мага
+prefix_magewrath02|Magewrath|Гнева мага
+prefix_magewrath03|Magewrath|Гнева мага
+prefix_magewrath04|Magewrath|Гнева мага
+prefix_magewrath05|Magewrath|Гнева мага
+prefix_warriors01|Warrior´s|Воина
+prefix_warriors02|Warrior´s|Воина
+prefix_warriors03|Warrior´s|Воина
+prefix_warriors04|Warrior´s|Воина
+prefix_warriors05|Warrior´s|Воина
+prefix_brutes01|Brute´s|Громилы
+prefix_brutes02|Brute´s|Громилы
+prefix_brutes03|Brute´s|Громилы
+prefix_brutes04|Brute´s|Громилы
+prefix_brutes05|Brute´s|Громилы
+prefix_juggernauts01|Juggernaut´s|Джаггернаута
+prefix_juggernauts02|Juggernaut´s|Джаггернаута
+prefix_juggernauts03|Juggernaut´s|Джаггернаута
+prefix_juggernauts04|Juggernaut´s|Джаггернаута
+prefix_juggernauts05|Juggernaut´s|Джаггернаута
+prefix_soldiers|Soldier´s|Солдата
+prefix_berserkers|Berserker´s|Берсерка
+prefix_crusaders|Crusader´s|Крестоносца
+prefix_legionnaires|Legionnaire´s|Легионера
+prefix_warlords|Warlord´s|Военачальника
+prefix_swift|Swift|Стремительный
+prefix_rapid|Rapid|Быстрый
+prefix_quickened|Quickened|Ускоренный
+prefix_fleet|Fleet|Проворный
+prefix_zephyrs|Zephyr´s|Зефира
+prefix_fireinfusion01|Fireinfusion|Вливание огня
+prefix_fireinfusion02|Fireinfusion|Вливание огня
+prefix_fireinfusion03|Fireinfusion|Вливание огня
+prefix_fireinfusion04|Fireinfusion|Вливание огня
+prefix_fireinfusion05|Fireinfusion|Вливание огня
+prefix_coldinfusion01|Coldinfusion|Вливание холода
+prefix_coldinfusion02|Coldinfusion|Вливание холода
+prefix_coldinfusion03|Coldinfusion|Вливание холода
+prefix_coldinfusion04|Coldinfusion|Вливание холода
+prefix_coldinfusion05|Coldinfusion|Вливание холода
+prefix_lightninginfusion01|Lightninginfusion|Вливание молнии
+prefix_lightninginfusion02|Lightninginfusion|Вливание молнии
+prefix_lightninginfusion03|Lightninginfusion|Вливание молнии
+prefix_lightninginfusion04|Lightninginfusion|Вливание молнии
+prefix_lightninginfusion05|Lightninginfusion|Вливание молнии
+prefix_arcaneinfusion01|Arcaneinfusion|Вливание тайной магии
+prefix_arcaneinfusion02|Arcaneinfusion|Вливание тайной магии
+prefix_arcaneinfusion03|Arcaneinfusion|Вливание тайной магии
+prefix_arcaneinfusion04|Arcaneinfusion|Вливание тайной магии
+prefix_arcaneinfusion05|Arcaneinfusion|Вливание тайной магии
+prefix_skeletons|Skeleton´s|Скелета
+prefix_zombies|Zombie´s|Зомби
+prefix_ghouls|Ghoul´s|Гуля
+prefix_lich|Lich|Лича
+prefix_blackknights|Black Knight´s|Черного рыцаря
+prefix_dark|Dark|Темный
+prefix_black|Black|Черный
+prefix_pitchblack|Pitchblack|Беспросветный
+prefix_eerie|Eerie|Жуткий
+prefix_limbo|Limbo|Лимба
+prefix_miner|Miner|Шахтера
+prefix_detonator|Detonator|Детонатора
+prefix_fusing|Fusing|Сплавляющий
+prefix_ticking|Ticking|Тикающий
+prefix_exploding|Exploding|Взрывной
+prefix_lurking|Lurking|Притаившийся
+prefix_watching|Watching|Следящий
+prefix_monitoring|Monitoring|Наблюдающий
+prefix_scanning|Scanning|Сканирующий
+prefix_surveilling|Surveilling|Надзирающий
+prefix_timing|Timing|Рассчитанный
+prefix_enduring|Enduring|Стойкий
+prefix_lasting|Lasting|Длительный
+prefix_weaving|Weaving|Плетущий
+prefix_everlasting|Everlasting|Вечный
+prefix_manaleak|Manaleak|Утечки маны
+prefix_manaspill|Manaspill|Разлива маны
+prefix_manasplash|Manasplash|Всплеска маны
+prefix_manaflow|Manaflow|Потока маны
+prefix_manahunger|Manahunger|Голода маны
+prefix_mitigating|Mitigating|Смягчающий
+prefix_deflecting|Deflecting|Отклоняющий
+prefix_defending|Defending|Защитный
+prefix_armored|Armored|Бронированный
+prefix_bulwark|Bulwark|Оплота
+prefix_reanimator|Reanimator|Реаниматора
+prefix_deathcaller|Deathcaller|Вестника смерти
+prefix_unholy|Unholy|Нечестивый
+prefix_summoner|Summoner|Призывателя
+prefix_necromancer|Necromancer|Некроманта
+prefix_superior_weapon1|Superior|Превосходный
+prefix_superior_weapon2|Superior|Превосходный
+prefix_superior_weapon3|Superior|Превосходный
+prefix_superior_weapon4|Superior|Превосходный
+prefix_superior_weapon5|Superior|Превосходный
+prefix_superior_armor1|Superior|Превосходный
+prefix_superior_armor2|Superior|Превосходный
+prefix_superior_armor3|Superior|Превосходный
+prefix_superior_armor4|Superior|Превосходный
+prefix_superior_armor5|Superior|Превосходный
+prefix_exceptional_weapon1|Exceptional|Исключительный
+prefix_exceptional_weapon2|Exceptional|Исключительный
+prefix_exceptional_weapon3|Exceptional|Исключительный
+prefix_exceptional_weapon4|Exceptional|Исключительный
+prefix_exceptional_weapon5|Exceptional|Исключительный
+prefix_exceptional_armor1|Exceptional|Исключительный
+prefix_exceptional_armor2|Exceptional|Исключительный
+prefix_exceptional_armor3|Exceptional|Исключительный
+prefix_exceptional_armor4|Exceptional|Исключительный
+prefix_exceptional_armor5|Exceptional|Исключительный
+prefix_astral_weapon1|Astral|Астральный
+prefix_astral_weapon2|Astral|Астральный
+prefix_astral_weapon3|Astral|Астральный
+prefix_astral_weapon4|Astral|Астральный
+prefix_astral_weapon5|Astral|Астральный
+prefix_astral_armor1|Astral|Астральный
+prefix_astral_armor2|Astral|Астральный
+prefix_astral_armor3|Astral|Астральный
+prefix_astral_armor4|Astral|Астральный
+prefix_astral_armor5|Astral|Астральный
+prefix_quantum_weapon1|Quantum|Квантовый
+prefix_quantum_weapon2|Quantum|Квантовый
+prefix_quantum_weapon3|Quantum|Квантовый
+prefix_quantum_weapon4|Quantum|Квантовый
+prefix_quantum_weapon5|Quantum|Квантовый
+prefix_quantum_armor1|Quantum|Квантовый
+prefix_quantum_armor2|Quantum|Квантовый
+prefix_quantum_armor3|Quantum|Квантовый
+prefix_quantum_armor4|Quantum|Квантовый
+prefix_quantum_armor5|Quantum|Квантовый
+prefix_glooming|Glooming|Сумрачный
+prefix_sparkling|Sparkling|Сверкающий
+prefix_lumninated|Luminated|Озаренный
+prefix_luxified|Luxified|Сияющий
+prefix_lightburning|Lightburning|Световыжигающий
+prefix_regenerating|Regenerating|Регенерирующий
+prefix_healing|Healing|Исцеляющий
+prefix_fulfilling|Fulfilling|Наполняющий
+prefix_vitalizing|Vitalizing|Живительный
+prefix_consuming|Consuming|Пожирающий
+prefix_shortlived|Shortlived|Мимолетный
+prefix_fast|Fast|Быстрый
+prefix_accelerated|Accelerated|Ускоренный
+prefix_hyperloop|Hyperloop|Сверхскоростной
+prefix_entangled|Entangled|Опутанный
+prefix_soul_recon|Soul Recon|Разведки душ
+prefix_soul_infused|Soul Infused|Напитанный душами
+prefix_soul_hungry|Soul Hungry|Алчущий душ
+prefix_soul_filled|Soul Filled|Преисполненный душ
+prefix_soul_funneled|Soul Funneled|Слияния душ
+prefix_vital_recon|Vital Recon|Разведки жизни
+prefix_vital_infused|Vital Infused|Напитанный жизнью
+prefix_vital_hungry|Vital Hungry|Алчущий жизни
+prefix_vital_filled|Vital Filled|Преисполненный жизни
+prefix_vital_funneled|Vital Funneled|Слияния жизни
+prefix_quick_sentry|Quick Sentry|Проворного часового
+prefix_fast_sentry|Fast Sentry|Быстрого часового
+prefix_speed_sentry|Speed Sentry|Скоростного часового
+prefix_rapid_sentry|Rapid Sentry|Стремительного часового
+prefix_fleet_sentry|Fleet Sentry|Юркого часового
+prefix_delirious|Delirious|Бредовый
+prefix_dwelling|Dwelling|Обитающий
+prefix_treasure|Treasure|Сокровищ
+prefix_legion|Legion|Легиона
+prefix_heroic|Heroic|Героический
+prefix_vault_treasure01|Greedy|Алчный
+prefix_vault_treasure02|Greedy|Алчный
+prefix_vault_treasure03|Greedy|Алчный
+prefix_vault_treasure04|Greedy|Алчный
+prefix_vault_treasure05|Greedy|Алчный
+prefix_vault_treasure06|Greedy|Алчный
+prefix_vault_material01|Stacked|Заполненный
+prefix_vault_material02|Stacked|Заполненный
+prefix_vault_material03|Stacked|Заполненный
+prefix_vault_material04|Stacked|Заполненный
+prefix_vault_material05|Stacked|Заполненный
+prefix_vault_material06|Stacked|Заполненный
+prefix_vault_collectible01|Collecting|Коллекционный
+prefix_vault_collectible02|Collecting|Коллекционный
+prefix_vault_collectible03|Collecting|Коллекционный
+prefix_vault_collectible04|Collecting|Коллекционный
+prefix_vault_collectible05|Collecting|Коллекционный
+prefix_vault_collectible06|Collecting|Коллекционный
+prefix_vault_key01|Locked|Запертый
+prefix_vault_key02|Locked|Запертый
+prefix_vault_key03|Locked|Запертый
+prefix_vault_key04|Locked|Запертый
+prefix_vault_key05|Locked|Запертый
+prefix_vault_key06|Locked|Запертый
+prefix_vault_codex01|Enchanted|Зачарованный
+prefix_vault_codex02|Enchanted|Зачарованный
+prefix_vault_codex03|Enchanted|Зачарованный
+prefix_vault_codex04|Enchanted|Зачарованный
+prefix_vault_codex05|Enchanted|Зачарованный
+prefix_vault_codex06|Enchanted|Зачарованный
 ||
 ||
 [Suffixes]||
-suffix_of|of|
-suffix_strength|Strength|
-suffix_power|Power|
-suffix_force|Force|
-suffix_might|Might|
-suffix_fury|Fury|
-suffix_dexterity|Dexterity|
-suffix_sleight|Sleight|
-suffix_skill|Skill|
-suffix_reflex|Reflex|
-suffix_agility|Agility|
-suffix_energy|Energy|
-suffix_illumination|Illumination|
-suffix_mysticism|Mysticism|
-suffix_spirit|Spirit|
-suffix_resonance|Resonance|
-suffix_sorcer|Sorcer|
-suffix_mage|Mage|
-suffix_warlock|Warlock|
-suffix_wizard|Wizard|
-suffix_witch|Witch|
-suffix_armor|Armor|
-suffix_ward|Ward|
-suffix_guard|Guard|
-suffix_bulwark|Bulwark|
-suffix_bastion|Bastion|
-suffix_vitality|Vitality|
-suffix_endurance|Endurance|
-suffix_stamina|Stamina|
-suffix_vigor|Vigor|
-suffix_fortitude|Fortitude|
-suffix_mitigation|Mitigation|
-suffix_absorption|Absorption|
-suffix_shielding|Shielding|
-suffix_resilience|Resilience|
-suffix_protection|Protection|
-suffix_spellshield|Spellshield|
-suffix_spellabsorb|Spellabsorb|
-suffix_manashielding|Manashielding|
-suffix_spellcutter|Spellcutter|
-suffix_spellpurge|Spellpurge|
-suffix_absolute|Absolute|
-suffix_untouchable|Untouchable|
-suffix_fortification|Fortification|
-suffix_divinity|Divinity|
-suffix_immortality|Immortality|
-suffix_balance|Balance|
-suffix_reaction|Reaction|
-suffix_libra|Libra|
-suffix_recovery|Recovery|
-suffix_equilibrium|Equilibrium|
-suffix_flash|Flash|
-suffix_tempo|Tempo|
-suffix_swiftness|Swiftness|
-suffix_frenzy|Frenzy|
-suffix_blitzkrieg|Blitzkrieg|
-suffix_swiftcast|Swiftcast|
-suffix_quickchant|Rapidchant|
-suffix_spellhaste|Spellhaste|
-suffix_quickspell|Quickspell|
-suffix_rapidcasting|Rapidcasting|
-suffix_luck|Luck|
-suffix_fortune|Fortune|
-suffix_scavenger|Scavenger|
-suffix_tomb_raider|Tombraider|
-suffix_rngesus|RNGesus|
-suffix_leeching|Leeching|
-suffix_locust|Locust|
-suffix_lifesurge|Lifesurge|
-suffix_lifedrain|Lifedrain|
-suffix_lifetap|Lifetap|
-suffix_manavamp|Manavamp|
-suffix_manadrain|Manadrain|
-suffix_manatide|Manatide|
-suffix_manasiphon|Manasiphon|
-suffix_manawraith|Manawraith|
-suffix_dartguard|Dartguard|
-suffix_arrowguard|Arrowguard|
-suffix_flightguard|Flightguard|
-suffix_projectileguard|Projectileguard|
-suffix_missileguard|Missileguard|
-suffix_lifeinflux|Lifeinflux|
-suffix_lifepulse|Lifepulse|
-suffix_lifeflow|Lifeflow|
-suffix_lifespring|Lifespring|
-suffix_lifebloom|Lifebloom|
-suffix_manaflux|Manaflux|
-suffix_manawell|Manawell|
-suffix_manaflow|Manaflow|
-suffix_manaspring|Manaspring|
-suffix_manabloom|Manabloom|
-suffix_blockade|Blockade|
-suffix_deflection|Deflection|
-suffix_warding|Warding|
-suffix_barrier|Barrier|
-suffix_shieldwall|Shieldwall|
-suffix_tundra|Tundra|
-suffix_freljord|Freljord|
-suffix_quillboar|Quillboard|
-suffix_oak|Oak|
-suffix_thorns|Thorns|
-suffix_needle|Needle|
-suffix_armadillo|Armadillo|
-suffix_manablock|Manablock|
-suffix_manadeflect|Manadeflect|
-suffix_manaward|Manaward|
-suffix_manabarrier|Manabarrier|
-suffix_manawall|Manawall|
-suffix_lifeblock|Lifeblock|
-suffix_lifedeflect|Lifedeflect|
-suffix_lifeward|Lifeward|
-suffix_lifebarrier|Lifebarrier|
-suffix_lifewall|Lifewall|
-suffix_king01|King|
-suffix_king02|King|
-suffix_king03|King|
-suffix_king04|King|
-suffix_king05|King|
-suffix_archery01|Archery|
-suffix_archery02|Archery|
-suffix_archery03|Archery|
-suffix_archery04|Archery|
-suffix_archery05|Archery|
-suffix_intellect01|Intellect|
-suffix_intellect02|Intellect|
-suffix_intellect03|Intellect|
-suffix_intellect04|Intellect|
-suffix_intellect05|Intellect|
-suffix_spellpower01|Spellpower|
-suffix_spellpower02|Spellpower|
-suffix_spellpower03|Spellpower|
-suffix_spellpower04|Spellpower|
-suffix_spellpower05|Spellpower|
-suffix_defender01|Defender|
-suffix_defender02|Defender|
-suffix_defender03|Defender|
-suffix_defender04|Defender|
-suffix_defender05|Defender|
-suffix_holyvigor01|Holy Vigor|
-suffix_holyvigor02|Holy Vigor|
-suffix_holyvigor03|Holy Vigor|
-suffix_holyvigor04|Holy Vigor|
-suffix_holyvigor05|Holy Vigor|
-suffix_lonewolf|Lonewolf|
-suffix_legend|Legend|
-suffix_hero|Hero|
-suffix_samurai|Samurai|
-suffix_ronin|Ronin|
-suffix_battle_magus|Battlemagus|
-suffix_spell_caster|Spellcaster|
-suffix_high_sorcery|Highsorcery|
-suffix_grand_wizard|Grandwizard|
-suffix_arch_warlock|Archwarlock|
-suffix_firegod|Fire God|
-suffix_flamegod|Flame God|
-suffix_lavagod|Lava God|
-suffix_infernogod|Inferno God|
-suffix_hellfiregod|Hellfire God|
-suffix_icegod|Ice God|
-suffix_frostgod|Frost God|
-suffix_rimegod|Rime God|
-suffix_tundragod|Tundra God|
-suffix_glacialgod|Glacial God|
-suffix_arcanegod|Arcane God|
-suffix_magegod|Mage God|
-suffix_spellgod|Spell God|
-suffix_riftgod|Rift God|
-suffix_ethergod|Ether God|
-suffix_shockgod|Shock God|
-suffix_stasisgod|Stasis God|
-suffix_lightninggod|Lightning God|
-suffix_thundergod|Thunder God|
-suffix_stormgod|Storm God|
-suffix_poisongod|Poison God|
-suffix_venomgod|Venom God|
-suffix_toxicgod|Toxic God|
-suffix_plaguegod|Plague God|
-suffix_blackgod|Black God|
-suffix_ignoring|Ignoring|
-suffix_drilling|Drilling|
-suffix_penetration|Penetration|
-suffix_piercing|Piercing|
-suffix_armorcrushing|Armorcrushing|
-suffix_wholeness|Wholeness|
-suffix_totality|Totality|
-suffix_versatility|Versatility|
-suffix_unity|Unity|
-suffix_harmony|Harmony|
-suffix_kobold|Kobold|
-suffix_goblin|Goblin|
-suffix_hobgoblin|Hobgoblin|
-suffix_ethergoblin|Ethergoblin|
-suffix_treasuregoblin|Treasuregoblin|
-suffix_vision|Vision|
-suffix_memory|Memory|
-suffix_brain|Brain|
-suffix_illusion|Illusion|
-suffix_mind|Mind|
-suffix_ice|Ice|
-suffix_frost|Frost|
-suffix_chill|Chill|
-suffix_rime|Rime|
-suffix_glacier|Glacier|
-suffix_fire|Fire|
-suffix_flames|Flames|
-suffix_lava|Lava|
-suffix_volcano|Volcano|
-suffix_inferno|Inferno|
-suffix_shock|Shock|
-suffix_stasis|Stasis|
-suffix_voltage|Voltage|
-suffix_lightning|Lightning|
-suffix_thunder|Thunder|
-suffix_poison|Poison|
-suffix_toxicity|Toxicity|
-suffix_vile|Vile|
-suffix_plague|Plague|
-suffix_pandemic|Pandemic|
-suffix_arcanum|Arcanum|
-suffix_arcanist|Arcanist|
-suffix_arcana|Arcana|
-suffix_arcane_surge|Arcanesurge|
-suffix_arcane_wrath|Arcanewrath|
-suffix_shaking|Shaking|
-suffix_trembling|Trembling|
-suffix_fissure|Fissure|
-suffix_earthquake|Earthquake|
-suffix_cataclysm|Cataclysm|
-suffix_wishing|Wishing|
-suffix_prayer|Prayer|
-suffix_pineal_gland|Pinealgland|
-suffix_atlantis|Atlantis|
-suffix_anunnaki|Anunnaki|
-suffix_stunning01|Stunning|
-suffix_stunning02|Stunning|
-suffix_stunning03|Stunning|
-suffix_stunning04|Stunning|
-suffix_stunning05|Stunning|
-suffix_bleeding01|Bleeding|
-suffix_bleeding02|Bleeding|
-suffix_bleeding03|Bleeding|
-suffix_bleeding04|Bleeding|
-suffix_bleeding05|Bleeding|
-suffix_frostbiting01|Frostbiting|
-suffix_frostbiting02|Frostbiting|
-suffix_frostbiting03|Frostbiting|
-suffix_frostbiting04|Frostbiting|
-suffix_frostbiting05|Frostbiting|
-suffix_poisoning01|Poisoning|
-suffix_poisoning02|Poisoning|
-suffix_poisoning03|Poisoning|
-suffix_poisoning04|Poisoning|
-suffix_poisoning05|Poisoning|
-suffix_burning01|Burning|
-suffix_burning02|Burning|
-suffix_burning03|Burning|
-suffix_burning04|Burning|
-suffix_burning05|Burning|
-suffix_velocity|Velocity|
-suffix_swiftdart|Swiftdart|
-suffix_quickslug|Quickslug|
-suffix_rapidbolt|Rapidbolt|
-suffix_flashfire|Flashfire|
-suffix_ranger|Ranger|
-suffix_scout|Scout|
-suffix_sniper|Sniper|
-suffix_marksman|Marksman|
-suffix_sharpshooter|Sharpshooter|
-suffix_glimmer|Glimmer|
-suffix_light|Light|
-suffix_torch|Torch|
-suffix_lantern|Lantern|
-suffix_wildfire|Wildfire|
-suffix_vial|Vial|
-suffix_flask|Flask|
-suffix_cleanse|Cleanse|
-suffix_purge|Purge|
-suffix_antidote|Antidote|
-suffix_guardsman|Guardsman|
-suffix_watchman|Watchman|
-suffix_townsguard|Towns Guard|
-suffix_royalguard|Royal Guard|
-suffix_kingsguard|Kings Guard|
-suffix_fallensentry|Fallen Sentry|
-suffix_fallenguard|Fallen Guard|
-suffix_fallenberserker|Fallen Berserker|
-suffix_fallenknight|Fallen Knight|
-suffix_fallentemplar|Fallen Templar|
-suffix_ruggedcolossus|Rugged Colossus|
-suffix_sterncolossus|Stern Colossus|
-suffix_vitalcolossus|Vital Colossus|
-suffix_resilientcolossus|Resilient Colossus|
-suffix_fortifiedcolossus|Fortified Colossus|
-suffix_flamehunger01|Flame Hunger|
-suffix_flamehunger02|Flame Hunger|
-suffix_flamehunger03|Flame Hunger|
-suffix_flamehunger04|Flame Hunger|
-suffix_flamehunger05|Flame Hunger|
-suffix_frosthunger01|Frost Hunger|
-suffix_frosthunger02|Frost Hunger|
-suffix_frosthunger03|Frost Hunger|
-suffix_frosthunger04|Frost Hunger|
-suffix_frosthunger05|Frost Hunger|
-suffix_stormhunger01|Storm Hunger|
-suffix_stormhunger02|Storm Hunger|
-suffix_stormhunger03|Storm Hunger|
-suffix_stormhunger04|Storm Hunger|
-suffix_stormhunger05|Storm Hunger|
-suffix_plaguehunger01|Plague Hunger|
-suffix_plaguehunger02|Plague Hunger|
-suffix_plaguehunger03|Plague Hunger|
-suffix_plaguehunger04|Plague Hunger|
-suffix_plaguehunger05|Plague Hunger|
-suffix_arcanehunger01|Arcane Hunger|
-suffix_arcanehunger02|Arcane Hunger|
-suffix_arcanehunger03|Arcane Hunger|
-suffix_arcanehunger04|Arcane Hunger|
-suffix_arcanehunger05|Arcane Hunger|
-suffix_demonvigor01|Demon Vigor|
-suffix_demonvigor02|Demon Vigor|
-suffix_demonvigor03|Demon Vigor|
-suffix_demonvigor04|Demon Vigor|
-suffix_demonvigor05|Demon Vigor|
-suffix_jumping|Jumping|
-suffix_leaping|Leaping|
-suffix_parkour|Parkour|
-suffix_flying|Flying|
-suffix_bunnyhopping|Bunnyhopping|
-suffix_phasing|Phasing|
-suffix_afterlife|Afterlife|
-suffix_beyond|Beyond|
-suffix_death_realm|Death Realm|
-suffix_grave_siphoner|Grave Siphoner|
-suffix_soul_reaper|Soul Reaper|
-suffix_timewarp|Timewarp|
-suffix_clockwork|Clockwork|
-suffix_mechanism|Mechanism|
-suffix_event_horizon|Event Horizon|
-suffix_dimension|Dimension|
-suffix_stone|Stone|
-suffix_tombstone|Tombstone|
-suffix_monument|Monument|
-suffix_obelisk|Obelisk|
-suffix_monolith|Monolith|
-suffix_greed|Greed|
-suffix_gluttony|Gluttony|
-suffix_envy|Envy|
-suffix_darkness|Darkness|
-suffix_fear|Fear|
-suffix_vault_tarot01|Tarot|
-suffix_vault_tarot02|Tarot|
-suffix_vault_tarot03|Tarot|
-suffix_vault_tarot04|Tarot|
-suffix_vault_tarot05|Tarot|
-suffix_vault_tarot06|Tarot|
-suffix_vault_rune01|Rune|
-suffix_vault_rune02|Rune|
-suffix_vault_rune03|Rune|
-suffix_vault_rune04|Rune|
-suffix_vault_rune05|Rune|
-suffix_vault_rune06|Rune|
-suffix_vault_jewel01|Jewelry|
-suffix_vault_jewel02|Jewelry|
-suffix_vault_jewel03|Jewelry|
-suffix_vault_jewel04|Jewelry|
-suffix_vault_jewel05|Jewelry|
-suffix_vault_jewel06|Jewelry|
-suffix_vault_uncut_jewel01|Uncut Jewelry|
-suffix_vault_uncut_jewel02|Uncut Jewelry|
-suffix_vault_uncut_jewel03|Uncut Jewelry|
-suffix_vault_uncut_jewel04|Uncut Jewelry|
-suffix_vault_uncut_jewel05|Uncut Jewelry|
-suffix_vault_uncut_jewel06|Uncut Jewelry|
-suffix_vault_gem01|Gem|
-suffix_vault_gem02|Gem|
-suffix_vault_gem03|Gem|
-suffix_vault_gem04|Gem|
-suffix_vault_gem05|Gem|
-suffix_vault_gem06|Gem|
-suffix_vault_orb01|Orb|
-suffix_vault_orb02|Orb|
-suffix_vault_orb03|Orb|
-suffix_vault_orb04|Orb|
-suffix_vault_orb05|Orb|
-suffix_vault_orb06|Orb|
-suffix_vault_charm01|Charm|
-suffix_vault_charm02|Charm|
-suffix_vault_charm03|Charm|
-suffix_vault_charm04|Charm|
-suffix_vault_charm05|Charm|
-suffix_vault_charm06|Charm|
-suffix_vault_ore01|Mining|
-suffix_vault_ore02|Mining|
-suffix_vault_ore03|Mining|
-suffix_vault_ore04|Mining|
-suffix_vault_ore05|Mining|
-suffix_vault_ore06|Mining|
-suffix_vault_loot01|Treasure Goblin|
-suffix_vault_loot02|Treasure Goblin|
-suffix_vault_loot03|Treasure Goblin|
-suffix_vault_loot04|Treasure Goblin|
-suffix_vault_loot05|Treasure Goblin|
-suffix_vault_loot06|Treasure Goblin|
+suffix_of
+suffix_strength|Strength|Силы
+suffix_power|Power|Мощи
+suffix_force|Force|Натиска
+suffix_might|Might|Могущества
+suffix_fury|Fury|Ярости
+suffix_dexterity|Dexterity|Ловкости
+suffix_sleight|Sleight|Сноровки
+suffix_skill|Skill|Мастерства
+suffix_reflex|Reflex|Рефлексов
+suffix_agility|Agility|Подвижности
+suffix_energy|Energy|Энергии
+suffix_illumination|Illumination|Озарения
+suffix_mysticism|Mysticism|Мистицизма
+suffix_spirit|Spirit|Духа
+suffix_resonance|Resonance|Резонанса
+suffix_sorcer|Sorcer|Колдуна
+suffix_mage|Mage|Мага
+suffix_warlock|Warlock|Чернокнижника
+suffix_wizard|Wizard|Чародея
+suffix_witch|Witch|Ведьмы
+suffix_armor|Armor|Брони
+suffix_ward|Ward|Опеки
+suffix_guard|Guard|Стражи
+suffix_bulwark|Bulwark|Оплота
+suffix_bastion|Bastion|Бастиона
+suffix_vitality|Vitality|Живучести
+suffix_endurance|Endurance|Стойкости
+suffix_stamina|Stamina|Выносливости
+suffix_vigor|Vigor|Бодрости
+suffix_fortitude|Fortitude|Непреклонности
+suffix_mitigation|Mitigation|Смягчения
+suffix_absorption|Absorption|Поглощения
+suffix_shielding|Shielding|Заслона
+suffix_resilience|Resilience|Сопротивляемости
+suffix_protection|Protection|Защиты
+suffix_spellshield|Spellshield|Магического щита
+suffix_spellabsorb|Spellabsorb|Поглощения заклинаний
+suffix_manashielding|Manashielding|Щита маны
+suffix_spellcutter|Spellcutter|Прерывателя чар
+suffix_spellpurge|Spellpurge|Очищения от чар
+suffix_absolute|Absolute|Абсолюта
+suffix_untouchable|Untouchable|Неприкасаемости
+suffix_fortification|Fortification|Укрепления
+suffix_divinity|Divinity|Божественности
+suffix_immortality|Immortality|Бессмертия
+suffix_balance|Balance|Баланса
+suffix_reaction|Reaction|Реакции
+suffix_libra|Libra|Весов
+suffix_recovery|Recovery|Восстановления
+suffix_equilibrium|Equilibrium|Равновесия
+suffix_flash|Flash|Вспышки
+suffix_tempo|Tempo|Темпа
+suffix_swiftness|Swiftness|Быстроты
+suffix_frenzy|Frenzy|Исступления
+suffix_blitzkrieg|Blitzkrieg|Блицкрига
+suffix_swiftcast|Swiftcast|Быстрого каста
+suffix_quickchant|Rapidchant|Быстрого напева
+suffix_spellhaste|Spellhaste|Скорости заклинаний
+suffix_quickspell|Quickspell|Быстрого заклинания
+suffix_rapidcasting|Rapidcasting|Стремительного каста
+suffix_luck|Luck|Удачи
+suffix_fortune|Fortune|Фортуны
+suffix_scavenger|Scavenger|Падальщика
+suffix_tomb_raider|Tombraider|Расхитителя гробниц
+suffix_rngesus|RNGesus|Рандома
+suffix_leeching|Leeching|Вампиризма
+suffix_locust|Locust|Саранчи
+suffix_lifesurge|Lifesurge|Прилива здоровья
+suffix_lifedrain|Lifedrain|Похищения здоровья
+suffix_lifetap|Lifetap|Отвода здоровья
+suffix_manavamp|Manavamp|Вампиризма маны
+suffix_manadrain|Manadrain|Похищения маны
+suffix_manatide|Manatide|Прилива маны
+suffix_manasiphon|Manasiphon|Откачки маны
+suffix_manawraith|Manawraith|Призрака маны
+suffix_dartguard|Dartguard|Защиты от дротиков
+suffix_arrowguard|Arrowguard|Защиты от стрел
+suffix_flightguard|Flightguard|Защиты от снарядов
+suffix_projectileguard|Projectileguard|Защиты от метательного
+suffix_missileguard|Missileguard|Защиты от летящих снарядов
+suffix_lifeinflux|Lifeinflux|Притока здоровья
+suffix_lifepulse|Lifepulse|Пульсации здоровья
+suffix_lifeflow|Lifeflow|Потока здоровья
+suffix_lifespring|Lifespring|Источника здоровья
+suffix_lifebloom|Lifebloom|Расцвета здоровья
+suffix_manaflux|Manaflux|Притока маны
+suffix_manawell|Manawell|Колодца маны
+suffix_manaflow|Manaflow|Потока маны
+suffix_manaspring|Manaspring|Источника маны
+suffix_manabloom|Manabloom|Расцвета маны
+suffix_blockade|Blockade|Блокады
+suffix_deflection|Deflection|Отражения
+suffix_warding|Warding|Оберега
+suffix_barrier|Barrier|Барьера
+suffix_shieldwall|Shieldwall|Стены щитов
+suffix_tundra|Tundra|Тундры
+suffix_freljord|Freljord|Фрельйорда
+suffix_quillboar|Quillboard|Иглошкура
+suffix_oak|Oak|Дуба
+suffix_thorns|Thorns|Шипов
+suffix_needle|Needle|Иглы
+suffix_armadillo|Armadillo|Броненосца
+suffix_manablock|Manablock|Блока маны
+suffix_manadeflect|Manadeflect|Отражения маны
+suffix_manaward|Manaward|Оберега маны
+suffix_manabarrier|Manabarrier|Барьера маны
+suffix_manawall|Manawall|Стены маны
+suffix_lifeblock|Lifeblock|Блока здоровья
+suffix_lifedeflect|Lifedeflect|Отражения здоровья
+suffix_lifeward|Lifeward|Оберега здоровья
+suffix_lifebarrier|Lifebarrier|Барьера здоровья
+suffix_lifewall|Lifewall|Стены здоровья
+suffix_king01|King|Короля
+suffix_king02|King|Короля
+suffix_king03|King|Короля
+suffix_king04|King|Короля
+suffix_king05|King|Короля
+suffix_archery01|Archery|Стрельбы
+suffix_archery02|Archery|Стрельбы
+suffix_archery03|Archery|Стрельбы
+suffix_archery04|Archery|Стрельбы
+suffix_archery05|Archery|Стрельбы
+suffix_intellect01|Intellect|Интеллекта
+suffix_intellect02|Intellect|Интеллекта
+suffix_intellect03|Intellect|Интеллекта
+suffix_intellect04|Intellect|Интеллекта
+suffix_intellect05|Intellect|Интеллекта
+suffix_spellpower01|Spellpower|Силы заклинаний
+suffix_spellpower02|Spellpower|Силы заклинаний
+suffix_spellpower03|Spellpower|Силы заклинаний
+suffix_spellpower04|Spellpower|Силы заклинаний
+suffix_spellpower05|Spellpower|Силы заклинаний
+suffix_defender01|Defender|Защитника
+suffix_defender02|Defender|Защитника
+suffix_defender03|Defender|Защитника
+suffix_defender04|Defender|Защитника
+suffix_defender05|Defender|Защитника
+suffix_holyvigor01|Holy Vigor|Святой бодрости
+suffix_holyvigor02|Holy Vigor|Святой бодрости
+suffix_holyvigor03|Holy Vigor|Святой бодрости
+suffix_holyvigor04|Holy Vigor|Святой бодрости
+suffix_holyvigor05|Holy Vigor|Святой бодрости
+suffix_lonewolf|Lonewolf|Одинокого волка
+suffix_legend|Legend|Легенды
+suffix_hero|Hero|Героя
+suffix_samurai|Samurai|Самурая
+suffix_ronin|Ronin|Ронина
+suffix_battle_magus|Battlemagus|Боевого мага
+suffix_spell_caster|Spellcaster|Заклинателя
+suffix_high_sorcery|Highsorcery|Высшего чародейства
+suffix_grand_wizard|Grandwizard|Великого волшебника
+suffix_arch_warlock|Archwarlock|Верховного чернокнижника
+suffix_firegod|Fire God|Бога огня
+suffix_flamegod|Flame God|Бога пламени
+suffix_lavagod|Lava God|Бога лавы
+suffix_infernogod|Inferno God|Бога Инферно
+suffix_hellfiregod|Hellfire God|Бога адского пламени
+suffix_icegod|Ice God|Бога льда
+suffix_frostgod|Frost God|Бога мороза
+suffix_rimegod|Rime God|Бога инея
+suffix_tundragod|Tundra God|Бога тундры
+suffix_glacialgod|Glacial God|Бога ледников
+suffix_arcanegod|Arcane God|Бога тайной магии
+suffix_magegod|Mage God|Бога магов
+suffix_spellgod|Spell God|Бога заклинаний
+suffix_riftgod|Rift God|Бога разлома
+suffix_ethergod|Ether God|Бога эфира
+suffix_shockgod|Shock God|Бога шока
+suffix_stasisgod|Stasis God|Бога стазиса
+suffix_lightninggod|Lightning God|Бога молний
+suffix_thundergod|Thunder God|Бога грома
+suffix_stormgod|Storm God|Бога бури
+suffix_poisongod|Poison God|Бога яда
+suffix_venomgod|Venom God|Бога отравы
+suffix_toxicgod|Toxic God|Бога токсинов
+suffix_plaguegod|Plague God|Бога чумы
+suffix_blackgod|Black God|Черного бога
+suffix_ignoring|Ignoring|Игнорирования
+suffix_drilling|Drilling|Дырявления
+suffix_penetration|Penetration|Пробивания
+suffix_piercing|Piercing|Пронзания
+suffix_armorcrushing|Armorcrushing|Сокрушения брони
+suffix_wholeness|Wholeness|Целостности
+suffix_totality|Totality|Полноты
+suffix_versatility|Versatility|Универсальности
+suffix_unity|Unity|Единства
+suffix_harmony|Harmony|Гармонии
+suffix_kobold|Kobold|Кобольда
+suffix_goblin|Goblin|Гоблина
+suffix_hobgoblin|Hobgoblin|Хобгоблина
+suffix_ethergoblin|Ethergoblin|Эфирного гоблина
+suffix_treasuregoblin|Treasuregoblin|Гоблина-барахольщика
+suffix_vision|Vision|Видения
+suffix_memory|Memory|Памяти
+suffix_brain|Brain|Мозга
+suffix_illusion|Illusion|Иллюзии
+suffix_mind|Mind|Разума
+suffix_ice|Ice|Льда
+suffix_frost|Frost|Мороза
+suffix_chill|Chill|Холода
+suffix_rime|Rime|Инея
+suffix_glacier|Glacier|Ледника
+suffix_fire|Fire|Огня
+suffix_flames|Flames|Пламени
+suffix_lava|Lava|Лавы
+suffix_volcano|Volcano|Вулкана
+suffix_inferno|Inferno|Инферно
+suffix_shock|Shock|Шока
+suffix_stasis|Stasis|Стазиса
+suffix_voltage|Voltage|Напряжения
+suffix_lightning|Lightning|Молнии
+suffix_thunder|Thunder|Грома
+suffix_poison|Poison|Яда
+suffix_toxicity|Toxicity|Токсичности
+suffix_vile|Vile|Скверны
+suffix_plague|Plague|Чумы
+suffix_pandemic|Pandemic|Пандемии
+suffix_arcanum|Arcanum|Тайных знаний
+suffix_arcanist|Arcanist|Арканиста
+suffix_arcana|Arcana|Тайной магии
+suffix_arcane_surge|Arcanesurge|Тайного всплеска
+suffix_arcane_wrath|Arcanewrath|Тайного гнева
+suffix_shaking|Shaking|Сотрясения
+suffix_trembling|Trembling|Дрожи
+suffix_fissure|Fissure|Разлома
+suffix_earthquake|Earthquake|Землетрясения
+suffix_cataclysm|Cataclysm|Катаклизма
+suffix_wishing|Wishing|Желания
+suffix_prayer|Prayer|Молитвы
+suffix_pineal_gland|Pinealgland|Эпифиза
+suffix_atlantis|Atlantis|Атлантиды
+suffix_anunnaki|Anunnaki|Ануннаков
+suffix_stunning01|Stunning|Оглушения
+suffix_stunning02|Stunning|Оглушения
+suffix_stunning03|Stunning|Оглушения
+suffix_stunning04|Stunning|Оглушения
+suffix_stunning05|Stunning|Оглушения
+suffix_bleeding01|Bleeding|Кровотечения
+suffix_bleeding02|Bleeding|Кровотечения
+suffix_bleeding03|Bleeding|Кровотечения
+suffix_bleeding04|Bleeding|Кровотечения
+suffix_bleeding05|Bleeding|Кровотечения
+suffix_frostbiting01|Frostbiting|Обморожения
+suffix_frostbiting02|Frostbiting|Обморожения
+suffix_frostbiting03|Frostbiting|Обморожения
+suffix_frostbiting04|Frostbiting|Обморожения
+suffix_frostbiting05|Frostbiting|Обморожения
+suffix_poisoning01|Poisoning|Отравления
+suffix_poisoning02|Poisoning|Отравления
+suffix_poisoning03|Poisoning|Отравления
+suffix_poisoning04|Poisoning|Отравления
+suffix_poisoning05|Poisoning|Отравления
+suffix_burning01|Burning|Горения
+suffix_burning02|Burning|Горения
+suffix_burning03|Burning|Горения
+suffix_burning04|Burning|Горения
+suffix_burning05|Burning|Горения
+suffix_velocity|Velocity|Скорости
+suffix_swiftdart|Swiftdart|Быстрого дротика
+suffix_quickslug|Quickslug|Шустрой пули
+suffix_rapidbolt|Rapidbolt|Стремительного болта
+suffix_flashfire|Flashfire|Вспышки пламени
+suffix_ranger|Ranger|Рейнджера
+suffix_scout|Scout|Разведчика
+suffix_sniper|Sniper|Снайпера
+suffix_marksman|Marksman|Меткого стрелка
+suffix_sharpshooter|Sharpshooter|Стрелка
+suffix_glimmer|Glimmer|Мерцания
+suffix_light|Light|Света
+suffix_torch|Torch|Факела
+suffix_lantern|Lantern|Фонаря
+suffix_wildfire|Wildfire|Бушующего пламени
+suffix_vial|Vial|Склянки
+suffix_flask|Flask|Флакона
+suffix_cleanse|Cleanse|Очищения
+suffix_purge|Purge|Изгнания
+suffix_antidote|Antidote|Противоядия
+suffix_guardsman|Guardsman|Гвардейца
+suffix_watchman|Watchman|Дозорного
+suffix_townsguard|Towns Guard|Городского стражника
+suffix_royalguard|Royal Guard|Королевского гвардейца
+suffix_kingsguard|Kings Guard|Королевского стража
+suffix_fallensentry|Fallen Sentry|Павшего часового
+suffix_fallenguard|Fallen Guard|Павшего стража
+suffix_fallenberserker|Fallen Berserker|Павшего берсерка
+suffix_fallenknight|Fallen Knight|Павшего рыцаря
+suffix_fallentemplar|Fallen Templar|Павшего тамплиера
+suffix_ruggedcolossus|Rugged Colossus|Крепкого колосса
+suffix_sterncolossus|Stern Colossus|Сурового колосса
+suffix_vitalcolossus|Vital Colossus|Живучего колосса
+suffix_resilientcolossus|Resilient Colossus|Стойкого колосса
+suffix_fortifiedcolossus|Fortified Colossus|Укрепленного колосса
+suffix_flamehunger01|Flame Hunger|Жажда пламени
+suffix_flamehunger02|Flame Hunger|Жажда пламени
+suffix_flamehunger03|Flame Hunger|Жажда пламени
+suffix_flamehunger04|Flame Hunger|Жажда пламени
+suffix_flamehunger05|Flame Hunger|Жажда пламени
+suffix_frosthunger01|Frost Hunger|Жажда мороза
+suffix_frosthunger02|Frost Hunger|Жажда мороза
+suffix_frosthunger03|Frost Hunger|Жажда мороза
+suffix_frosthunger04|Frost Hunger|Жажда мороза
+suffix_frosthunger05|Frost Hunger|Жажда мороза
+suffix_stormhunger01|Storm Hunger|Жажда бури
+suffix_stormhunger02|Storm Hunger|Жажда бури
+suffix_stormhunger03|Storm Hunger|Жажда бури
+suffix_stormhunger04|Storm Hunger|Жажда бури
+suffix_stormhunger05|Storm Hunger|Жажда бури
+suffix_plaguehunger01|Plague Hunger|Жажда чумы
+suffix_plaguehunger02|Plague Hunger|Жажда чумы
+suffix_plaguehunger03|Plague Hunger|Жажда чумы
+suffix_plaguehunger04|Plague Hunger|Жажда чумы
+suffix_plaguehunger05|Plague Hunger|Жажда чумы
+suffix_arcanehunger01|Arcane Hunger|Жажда тайной магии
+suffix_arcanehunger02|Arcane Hunger|Жажда тайной магии
+suffix_arcanehunger03|Arcane Hunger|Жажда тайной магии
+suffix_arcanehunger04|Arcane Hunger|Жажда тайной магии
+suffix_arcanehunger05|Arcane Hunger|Жажда тайной магии
+suffix_demonvigor01|Demon Vigor|Бодрость демона
+suffix_demonvigor02|Demon Vigor|Бодрость демона
+suffix_demonvigor03|Demon Vigor|Бодрость демона
+suffix_demonvigor04|Demon Vigor|Бодрость демона
+suffix_demonvigor05|Demon Vigor|Бодрость демона
+suffix_jumping|Jumping|Прыжка
+suffix_leaping|Leaping|Наскока
+suffix_parkour|Parkour|Паркура
+suffix_flying|Flying|Полета
+suffix_bunnyhopping|Bunnyhopping|Заячьих прыжков
+suffix_phasing|Phasing|Фазирования
+suffix_afterlife|Afterlife|Посмертия
+suffix_beyond|Beyond|Запределья
+suffix_death_realm|Death Realm|Царства Смерти
+suffix_grave_siphoner|Grave Siphoner|Похитителя могил
+suffix_soul_reaper|Soul Reaper|Жнеца душ
+suffix_timewarp|Timewarp|Искажения времени
+suffix_clockwork|Clockwork|Часового механизма
+suffix_mechanism|Mechanism|Механизма
+suffix_event_horizon|Event Horizon|Горизонта событий
+suffix_dimension|Dimension|Измерения
+suffix_stone|Stone|Камня
+suffix_tombstone|Tombstone|Надгробия
+suffix_monument|Monument|Монумента
+suffix_obelisk|Obelisk|Обелиска
+suffix_monolith|Monolith|Монолита
+suffix_greed|Greed|Алчности
+suffix_gluttony|Gluttony|Чревоугодия
+suffix_envy|Envy|Зависти
+suffix_darkness|Darkness|Тьмы
+suffix_fear|Fear|Страха
+suffix_vault_tarot01|Tarot|Таро
+suffix_vault_tarot02|Tarot|Таро
+suffix_vault_tarot03|Tarot|Таро
+suffix_vault_tarot04|Tarot|Таро
+suffix_vault_tarot05|Tarot|Таро
+suffix_vault_tarot06|Tarot|Таро
+suffix_vault_rune01|Rune|Руны
+suffix_vault_rune02|Rune|Руны
+suffix_vault_rune03|Rune|Руны
+suffix_vault_rune04|Rune|Руны
+suffix_vault_rune05|Rune|Руны
+suffix_vault_rune06|Rune|Руны
+suffix_vault_jewel01|Jewelry|Украшений
+suffix_vault_jewel02|Jewelry|Украшений
+suffix_vault_jewel03|Jewelry|Украшений
+suffix_vault_jewel04|Jewelry|Украшений
+suffix_vault_jewel05|Jewelry|Украшений
+suffix_vault_jewel06|Jewelry|Украшений
+suffix_vault_uncut_jewel01|Uncut Jewelry|Неограненных украшений
+suffix_vault_uncut_jewel02|Uncut Jewelry|Неограненных украшений
+suffix_vault_uncut_jewel03|Uncut Jewelry|Неограненных украшений
+suffix_vault_uncut_jewel04|Uncut Jewelry|Неограненных украшений
+suffix_vault_uncut_jewel05|Uncut Jewelry|Неограненных украшений
+suffix_vault_uncut_jewel06|Uncut Jewelry|Неограненных украшений
+suffix_vault_gem01|Gem|Самоцвета
+suffix_vault_gem02|Gem|Самоцвета
+suffix_vault_gem03|Gem|Самоцвета
+suffix_vault_gem04|Gem|Самоцвета
+suffix_vault_gem05|Gem|Самоцвета
+suffix_vault_gem06|Gem|Самоцвета
+suffix_vault_orb01|Orb|Сферы
+suffix_vault_orb02|Orb|Сферы
+suffix_vault_orb03|Orb|Сферы
+suffix_vault_orb04|Orb|Сферы
+suffix_vault_orb05|Orb|Сферы
+suffix_vault_orb06|Orb|Сферы
+suffix_vault_charm01|Charm|Талисмана
+suffix_vault_charm02|Charm|Талисмана
+suffix_vault_charm03|Charm|Талисмана
+suffix_vault_charm04|Charm|Талисмана
+suffix_vault_charm05|Charm|Талисмана
+suffix_vault_charm06|Charm|Талисмана
+suffix_vault_ore01|Mining|Руды
+suffix_vault_ore02|Mining|Руды
+suffix_vault_ore03|Mining|Руды
+suffix_vault_ore04|Mining|Руды
+suffix_vault_ore05|Mining|Руды
+suffix_vault_ore06|Mining|Руды
+suffix_vault_loot01|Treasure Goblin|Гоблина-барахольщика
+suffix_vault_loot02|Treasure Goblin|Гоблина-барахольщика
+suffix_vault_loot03|Treasure Goblin|Гоблина-барахольщика
+suffix_vault_loot04|Treasure Goblin|Гоблина-барахольщика
+suffix_vault_loot05|Treasure Goblin|Гоблина-барахольщика
+suffix_vault_loot06|Treasure Goblin|Гоблина-барахольщика
