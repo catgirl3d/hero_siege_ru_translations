@@ -1,0 +1,260 @@
+PaladinsubPaladinVengeance01|Higher Frequency|Ритм бури
+subPaladinVengeance02|Uncontrolled Spike|Неуправляемый разряд
+subPaladinVengeance03|Amped Amps|Громовое усиление
+subPaladinVengeance04|Power Surge|Всплеск мощи
+subPaladinVengeance05|Recharging Strike|Подзаряжающий удар
+subPaladinVengeance06|Overclock|Перегрузка
+subPaladinVengeance07|Copper-plated Blade Edge|Медное острие
+subPaladinVengeance08|Direct Current|Направленный ток
+subPaladinVengeance09|Destructive Voltage|Губительный разряд
+subPaladinVengeance10|Alternative Current|Переменный поток
+subPaladinVengeance11|Charge Release|Высвобождение заряда
+subPaladinVengeance12|Thunderbolt|Удар грома
+subPaladinVengeance13|Electric Pillars|Электрические столбы
+subPaladinVengeance14|Self Shock|Электрический контур
+subDescPaladinVengeance01|Increases attack speed when using vengeance.|Увеличивает скорость атаки при использовании «Мести».
+subDescPaladinVengeance02|Increases the amount of lightning bolts from vengeance.|Увеличивает количество молний, выпускаемых «Местью».
+subDescPaladinVengeance03|Increases the lightning damage dealt by vengeance.|Увеличивает урон молнией «Мести».
+subDescPaladinVengeance04|Increases the attack damage dealt by vengeance according to your strength.|Увеличивает физический урон «Мести» в зависимости от вашей силы.
+subDescPaladinVengeance05|Vengeance restores a portion of damage dealt as mana on hit.|«Месть» восполняет ману в размере части от нанесенного урона при попадании.
+subDescPaladinVengeance06|Vengeance has increased attack range. No longer requires hitting a target.|Увеличивает дальность атаки «Мести»; теперь умение можно использовать, даже не попадая по врагу.
+subDescPaladinVengeance07|Chance to critically spell hit with increased critical strike damage.|Дает шанс нанести критический удар заклинанием с увеличенным критическим уроном.
+subDescPaladinVengeance08|Increases the length of lightning bolts.|Увеличивает длину разрядов молнии.
+subDescPaladinVengeance09|Vengeance's lightning bolts have a chance to inflict lightning break on hit.|Молнии «Мести» могут вызвать игнорирование сопр. молнии при попадании.
+subDescPaladinVengeance10|Vengeance's lightning bolts have a chance to zap monsters on hit dealing additional damage.|Молнии «Мести» могут поразить монстров током при попадании, нанося дополнительный урон.
+subDescPaladinVengeance11|Lightning now releases pulses of lightning on hit dealing area of effect damage.|Разряды молнии теперь испускают импульсы при попадании, нанося урон по области.
+subDescPaladinVengeance12|Strike monsters with additional bolts of thunder on hit.|Дополнительно поражает монстров раскатами грома при попадании.
+subDescPaladinVengeance13|Summon pillars of electricity to nearby monsters on hit.|При попадании призывает электрические столбы рядом с ближайшими врагами.
+subDescPaladinVengeance14|Lightning bolts now inflict a portion of your total damage return as lightning damage.|Молнии теперь наносят дополнительный урон молнией в размере части от вашего общего показателя возврата урона.
+||
+subPaladinDivineStorm01|Overloaded Coil|Избыточный разряд
+subPaladinDivineStorm02|Charged Cells|Заряженные искры
+subPaladinDivineStorm03|Divine Ionization|Божественная ионизация
+subPaladinDivineStorm04|Voltage Charge|Напряжение Света
+subPaladinDivineStorm05|Electron Jump|Скачок дуги
+subPaladinDivineStorm06|Heaven's Interference|Небесное вмешательство
+subPaladinDivineStorm07|Blow the Fuse|Разрыв цепи
+subPaladinDivineStorm08|Overwhelming Power|Подавляющая мощь
+subPaladinDivineStorm09|Precision of the Storm|Точность шторма
+subPaladinDivineStorm10|Dashing Flow|Стремительный поток
+subPaladinDivineStorm11|Chaining Storm|Цепной шторм
+subPaladinDivineStorm12|Eye of the Storm|Глаз бури
+subPaladinDivineStorm13|Bad Omens|Дурные предзнаменования
+subPaladinDivineStorm14|Charged Hurricane|Грозовой ураган
+subDescPaladinDivineStorm01|Increases the area of effect radius of divine storm.|Увеличивает радиус области действия «Божественной бури».
+subDescPaladinDivineStorm02|Chance on hit to inflict stasis for a portion of the damage.|Дает шанс при попадании наложить стазис, сила которого зависит от нанесенного урона.
+subDescPaladinDivineStorm03|Chance to inflict elemental break on hit.|Дает шанс вызвать игнорирование сопр. стихиям при попадании.
+subDescPaladinDivineStorm04|Chance to gain increased damage return on hit.|Дает шанс увеличить показатель возврата урона при попадании.
+subDescPaladinDivineStorm05|Chance on hit to gain increased defense for a short period.|Дает шанс на короткое время увеличить защиту при попадании.
+subDescPaladinDivineStorm06|Chance on cast to perform an additional storm.|Дает шанс при касте вызвать дополнительную бурю.
+subDescPaladinDivineStorm07|Chance on cast to zap enemies hit with lightning bolts.|Дает шанс при касте поразить врагов разрядами молнии.
+subDescPaladinDivineStorm08|Increases damage dealt by divine storm.|Увеличивает урон «Божественной бури».
+subDescPaladinDivineStorm09|Increases attack speed when using divine storm.|Увеличивает скорость атаки при использовании «Божественной бури».
+subDescPaladinDivineStorm10|Divine storm now travels forward for a short distance.|«Божественная буря» теперь перемещается вперед на небольшое расстояние.
+subDescPaladinDivineStorm11|Divine Storm inflicts monsters with zapper causing attacks on the monster to unleash chain lightning.|«Божественная буря» накладывает на монстров эффект «Проводник»; атаки по таким целям вызывают цепную молнию.
+subDescPaladinDivineStorm12|Unleash a storm around you dealing area of effect damage and inflicting lightning break. Divine storm now has a cooldown.|Вызывает бурю вокруг вас, нанося урон по области и вызывая игнорирование сопр. молнии. «Божественная буря» теперь имеет время восстановления.
+subDescPaladinDivineStorm13|Divine Storm slowly expands from it's casting area unleashing chain lightning on hit. Divine storm now has a cooldown.|«Божественная буря» медленно расширяется от точки каста, выпуская цепную молнию при попадании. Умение теперь имеет время восстановления.
+subDescPaladinDivineStorm14|Divine Storm now forms an electrically charged hurricane that whirls to a random direction.|«Божественная буря» теперь создает грозовой ураган, который движется в случайном направлении.
+||
+subPaladinHolyShockAura01|Adjusted Fuses|Настройка разряда
+subPaladinHolyShockAura02|Larger Grid|Грозовой предел
+subPaladinHolyShockAura03|Double the Hz|Удвоенный ритм
+subPaladinHolyShockAura04|Voltage Increase|Накал мощи
+subPaladinHolyShockAura05|Rupturing Lightning|Разрывающая молния
+subPaladinHolyShockAura06|Concentrated Aura|Концентрированная аура
+subPaladinHolyShockAura07|Charge Mark|Метка заряда
+subPaladinHolyShockAura08|Conduit|Проводник гнева
+subPaladinHolyShockAura09|Friendly Electron Flow|Благодатный поток
+subPaladinHolyShockAura10|Defensive Charge|Оборонительный щит
+subPaladinHolyShockAura11|Surging Wrath|Нарастающий гнев
+subPaladinHolyShockAura12|Lightning Tether|Молниеносные узы
+subPaladinHolyShockAura13|Chain Thunder|Цепной гром
+subPaladinHolyShockAura14|Gathering Storm|Надвигающаяся буря
+subDescPaladinHolyShockAura01|Chance to trigger a lightning explosion dealing additional damage on hit.|Дает шанс при попадании вызвать взрыв молнии, наносящий доп. урон.
+subDescPaladinHolyShockAura02|Increases the area of effect radius of holy shock aura.|Увеличивает радиус области действия «Ауры священного шока».
+subDescPaladinHolyShockAura03|Increases the hit frequency of holy shock aura.|Увеличивает частоту ударов «Ауры священного шока».
+subDescPaladinHolyShockAura04|Increases damage dealt by holy shock aura.|Увеличивает урон «Ауры священного шока».
+subDescPaladinHolyShockAura05|Chance to inflict lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
+subDescPaladinHolyShockAura06|Holy shock aura now deals increased damage in a cone in front of you instead.|«Аура священного шока» теперь наносит увеличенный урон в конусе перед вами.
+subDescPaladinHolyShockAura07|Chance to inflict stasis on hit.|Дает шанс наложить стазис при попадании.
+subDescPaladinHolyShockAura08|Increases damage dealt to bosses.|Увеличивает урон по боссам.
+subDescPaladinHolyShockAura09|Gain a stacking buff increasing lightning damage on hit.|При попадании дает суммирующийся бафф, увеличивающий урон молнией.
+subDescPaladinHolyShockAura10|Chance to increase your defense and lightning resistance on hit.|Дает шанс увеличить вашу защиту и сопротивление молнии при попадании.
+subDescPaladinHolyShockAura11|Increases the hit frequency and damage dealt by holy shock aura.|Увеличивает частоту ударов и урон «Ауры священного шока».
+subDescPaladinHolyShockAura12|Holy shock aura no longer deals periodical damage. Instead creates a tether of lightning between you and all monsters inside its radius dealing constant damage.|«Аура священного шока» больше не наносит периодический урон. Вместо этого она связывает вас молниеносными узами со всеми монстрами в радиусе, нанося им постоянный урон.
+subDescPaladinHolyShockAura13|Unleash chain lightning on hit dealing increased damage.|При попадании выпускает цепную молнию, наносящую увеличенный урон.
+subDescPaladinHolyShockAura14|Stack up static energy from monsters inside the aura radius and release a massive storm of lightning novas dealing damage on an increased radius.|Накапливает статическую энергию от монстров в радиусе ауры и выпускает мощный шторм из колец молний в увеличенном радиусе.
+||
+subPaladinBallLightning01|Outbursting Charge|Неистовый разряд
+subPaladinBallLightning02|Thicker Coil|Укрепленное плетение
+subPaladinBallLightning03|Flash from the Sky|Небесная вспышка
+subPaladinBallLightning04|Overcharge|Избыток мощи
+subPaladinBallLightning05|Rapid Retreat|Стремительный маневр
+subPaladinBallLightning06|Charged Bolts|Заряженные разряды
+subPaladinBallLightning07|Phantom Ball|Призрачная сфера
+subPaladinBallLightning08|Within the Storm|В сердце шторма
+subPaladinBallLightning09|Efficient Vains|Проводящие жилы
+subPaladinBallLightning10|Angelic Interference|Ангельское вмешательство
+subPaladinBallLightning11|Hovering Bolt|Грозовой полет
+subPaladinBallLightning12|Pulsating Thunderball|Пульсирующий гром
+subPaladinBallLightning13|Righteous Leap|Праведный прыжок
+subPaladinBallLightning14|Charging Ball|Опустошающий шторм
+subDescPaladinBallLightning01|Increases the damage dealt by ball lightning.|Увеличивает урон «Шаровой молнии».
+subDescPaladinBallLightning02|Gain increased lightning resistance when using ball lightning.|Увеличивает ваше сопротивление молнии при использовании «Шаровой молнии».
+subDescPaladinBallLightning03|Increases the critical strike damage when using ball lightning.|Увеличивает критический урон «Шаровой молнии».
+subDescPaladinBallLightning04|Chance to critically hit when using ball lightning.|Дает шанс нанести критический удар при использовании «Шаровой молнии».
+subDescPaladinBallLightning05|When landing gain increased movement speed and defense for a short period.|После приземления ваша скорость передвижения и защита ненадолго увеличиваются.
+subDescPaladinBallLightning06|When landing additionally unleash multiple charged bolts bouncing off of terrain dealing additional damage.|При приземлении вы дополнительно выпускаете несколько «Заряженных разрядов», которые отскакивают от препятствий и наносят доп. урон.
+subDescPaladinBallLightning07|Chance when casting to summon phantom illusions jumping into nearby monsters dealing additional damage.|Дает шанс при касте призвать призрачные иллюзии; они бросаются на ближайших монстров, нанося доп. урон.
+subDescPaladinBallLightning08|Chance when landing to render you immune to all damage for a short period.|Дает шанс при приземлении на короткое время стать неуязвимым к любому урону.
+subDescPaladinBallLightning09|Decreases the mana cost of ball lightning.|Снижает затраты маны на «Шаровую молнию».
+subDescPaladinBallLightning10|When below 25% life ball lightning gains increased speed, damage, area of effect and knocks monsters into the air.|Если уровень здоровья падает ниже 25%, «Шаровая молния» бьет быстрее и сильнее, а её взрыв подбрасывает монстров в воздух.
+subDescPaladinBallLightning11|Become an orb of lightning and hover to the target location unleashing chain lightning on nearby monsters.|Вы принимаете облик электрической сферы и летите в указанную точку, поражая ближайших врагов цепной молнией.
+subDescPaladinBallLightning12|When landing you instead bounce multiple times releasing electrified pulses with increased damage and area of effect radius when landing.|При приземлении вы несколько раз отскакиваете от земли, испуская мощные электрические импульсы.
+subDescPaladinBallLightning13|When landing taunt nearby monsters and increases your damage return for a short period.|При приземлении вы провоцируете ближайших монстров, а ваш показатель возврата урона ненадолго увеличивается.
+subDescPaladinBallLightning14|Unleash a charged storm of lightning on nearby monsters when landing dealing increased damage with increased area of effect radius. Ball lightning now has a cooldown.|При приземлении вы вызываете сокрушительный шторм, наносящий огромный урон в большом радиусе. Умение теперь имеет время восстановления.
+||
+subPaladinLightningFury01|Lightning Stasis|Грозовой стазис
+subPaladinLightningFury02|Retribution|Возмездие
+subPaladinLightningFury03|Million Volt Charge|Колоссальный разряд
+subPaladinLightningFury04|Crackling Thunder|Трескучий гром
+subPaladinLightningFury05|Breaking Soundbarrier|Громовой прорыв
+subPaladinLightningFury06|Electro Pulse|Электроимпульс
+subPaladinLightningFury07|Forking Bolt|Разветвленный разряд
+subPaladinLightningFury08|Low Resistance|Пробой защиты
+subPaladinLightningFury09|Double Conduit|Двойной исток
+subPaladinLightningFury10|Maximize Fury|Предел ярости
+subPaladinLightningFury11|Storm Surge|Штормовой всплеск
+subPaladinLightningFury12|Concentrated Fury|Концентрированная ярость
+subPaladinLightningFury13|Ionizing Fury|Ионизирующая ярость
+subPaladinLightningFury14|Fury Within|Внутренняя ярость
+subDescPaladinLightningFury01|Increases the amount of bounces.|Увеличивает количество рикошетов.
+subDescPaladinLightningFury02|Increases damage dealt by lightning fury based on your strength.|Увеличивает урон «Ярости молнии» в зависимости от вашей силы.
+subDescPaladinLightningFury03|Increases lightning damage dealt by lightning fury.|Увеличивает урон молнией умения «Ярость молнии».
+subDescPaladinLightningFury04|Chance to inflict lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
+subDescPaladinLightningFury05|Chance on attack to increase the amount of bounces.|Дает шанс увеличить количество рикошетов при атаке.
+subDescPaladinLightningFury06|Chance on chain lightning hit to unleash electric pulses dealing area of effect damage.|Цепная молния при попадании может испустить электрические импульсы, наносящие урон по области.
+subDescPaladinLightningFury07|Chance on hit to fork into an additional chain lightning.|При попадании дает шанс создать дополнительную цепную молнию.
+subDescPaladinLightningFury08|Increases attack speed when using lightning fury.|Увеличивает скорость атаки при использовании «Ярости молнии».
+subDescPaladinLightningFury09|Chance to call down bolts of thunder on hit dealing additional damage.|Дает шанс обрушить удары грома при попадании, нанося доп. урон.
+subDescPaladinLightningFury10|Increases spell critical chance and damage when using lightning.|Увеличивает шанс критического удара заклинанием и критический урон при использовании магии молнии.
+subDescPaladinLightningFury11|Unleash a wide surge of lightning on hit with increased area of effect and dealing additional damage.|При попадании вызывает мощную волну молний с увеличенным радиусом, наносящую доп. урон.
+subDescPaladinLightningFury12|Summon an orb of lightning orbiting you and zapping nearby monsters.|Призывает сферу молний, которая вращается вокруг вас и поражает ближайших врагов разрядами.
+subDescPaladinLightningFury13|Chance on hit to halve the damage but double the amount of bounces and inflicting stasis.|Дает шанс уменьшить урон вдвое, но при этом удвоить количество рикошетов и наложить стазис.
+subDescPaladinLightningFury14|Lightning fury now triggers without hitting enemies increasing its range and damage.|«Ярость молнии» теперь срабатывает даже без попадания по врагу; дальность и урон увеличены.
+||
+subPaladinHolyBolt01|Divine Combustion|Божественное возгорание
+subPaladinHolyBolt02|Heaven's Help|Помощь Небес
+subPaladinHolyBolt03|Lightforce|Сила света
+subPaladinHolyBolt04|Bolt Rampage|Буйство стрел
+subPaladinHolyBolt05|Rewarded by the Angels|Дар ангелов
+subPaladinHolyBolt06|Call of Justice|Зов правосудия
+subPaladinHolyBolt07|Strengthened Will|Непреклонная воля
+subPaladinHolyBolt08|Spoils of Holy War|Трофеи священной войны
+subPaladinHolyBolt09|Illumination|Озарение
+subPaladinHolyBolt10|Reveal the Sinners|Обличение грешников
+subPaladinHolyBolt11|Rolling Judgement|Грядущее правосудие
+subPaladinHolyBolt12|Touch of Righteousness|Прикосновение праведности
+subPaladinHolyBolt13|Righteous Path|Праведный путь
+subPaladinHolyBolt14|Divine Assbeating|Божественная кара
+subDescPaladinHolyBolt01|Inflicts burning for a portion of the damage.|Накладывает горение, урон которого зависит от нанесенного урона.
+subDescPaladinHolyBolt02|Increases projectile speed.|Увеличивает скорость полета снаряда.
+subDescPaladinHolyBolt03|Unleash a pulse of holy essence dealing area of effect damage on hit.|При попадании испускает импульс святой энергии, наносящий урон по области.
+subDescPaladinHolyBolt04|Unleash multiple holy bolts with halved damage.|Выпускает несколько «Святых стрел», урон которых уменьшен вдвое.
+subDescPaladinHolyBolt05|Chance to replenish a portion of your maximum life on hit.|Дает шанс восстановить часть макс. здоровья при попадании.
+subDescPaladinHolyBolt06|Chance to ricochet into a nerby monster with increased damage on hit.|Дает шанс снаряду срикошетить в ближайшего монстра с увеличенным уроном.
+subDescPaladinHolyBolt07|Increases damage dealt by holy bolt.|Увеличивает урон «Святой стрелы».
+subDescPaladinHolyBolt08|Chance on kill to drop increased amount of gold.|Увеличивает шанс выпадения золота при убийстве.
+subDescPaladinHolyBolt09|Chance on hit to summon a pillar of light inflicting arcane break and dealing area of effect damage.|Дает шанс при попадании призвать столп света, наносящий урон по области и вызывающий игнорирование сопр. тайной магии.
+subDescPaladinHolyBolt10|Mark targets as sinners on hit. Damaging a sinner unleashes holy smite dealing additional arcane damage.|Помечает цели как грешников; урон по таким врагам вызывает «Святую кару», наносящую доп. урон тайной магией.
+subDescPaladinHolyBolt11|Holy bolt travels slower but grows larger over time ticking faster and dealing increased damage based on it´s size.|«Святая стрела» летит медленнее, но растет в размерах, чаще наносит урон и бьет сильнее по мере роста.
+subDescPaladinHolyBolt12|Unleash a holy nova on allied impact healing allies and damaging foes.|При попадании в союзника вызывает «Святую нову», которая лечит соратников и наносит урон врагам.
+subDescPaladinHolyBolt13|Unleash a barrage of holy bolts dealing increased damage. Holy bolt now has a cooldown.|Выпускает шквал «Святых стрел» с увеличенным уроном. Умение теперь имеет время восстановления.
+subDescPaladinHolyBolt14|Unleash righteous fists instead attaching on to monsters on hit dealing damage over time and exploding dealing area of effect damage.|Вместо стрел выпускает «Кулаки правосудия»; они прикрепляются к монстрам, наносят периодический урон и взрываются, задевая врагов по области.
+||
+subPaladinHolyNova01|Crusade Allies|Соратники похода
+subPaladinHolyNova02|Practical Punishment|Суровая кара
+subPaladinHolyNova03|Strength Prayer|Молитва силы
+subPaladinHolyNova04|Strong Faith|Крепкая вера
+subPaladinHolyNova05|Spiritual Awakening|Духовное пробуждение
+subPaladinHolyNova06|Restore Light|Возвращение света
+subPaladinHolyNova07|Blessing Buff|Благословение
+subPaladinHolyNova08|Warrior's Light|Свет воина
+subPaladinHolyNova09|Deliver Consequences|Расплата
+subPaladinHolyNova10|Heaven's Chosen|Избранник небес
+subPaladinHolyNova11|Righteous Transaction|Праведный обмен
+subPaladinHolyNova12|Mark of Judgement|Метка правосудия
+subPaladinHolyNova13|Remote Prayer|Молитва на расстоянии
+subPaladinHolyNova14|Faith's Winds|Ветры веры
+subDescPaladinHolyNova01|Allies healed by holy nova take reduced damage for a short period.|Союзники, исцеленные «Святой новой», получают меньше урона в течение короткого времени.
+subDescPaladinHolyNova02|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
+subDescPaladinHolyNova03|Increases area of effect radius of holy nova.|Увеличивает радиус области действия «Святой новы».
+subDescPaladinHolyNova04|Increases the damage dealt by holy nova.|Увеличивает урон «Святой новы».
+subDescPaladinHolyNova05|Holy nova no longer heals you or your allies but recovers a portion of your maximum mana instead.|«Святая нова» больше не лечит, а восстанавливает часть вашего макс. запаса маны.
+subDescPaladinHolyNova06|Holy nova heals you for a portion of your missing life.|«Святая нова» восполняет здоровье в зависимости от вашего потерянного запаса.
+subDescPaladinHolyNova07|Chance on cast to increase your and allied arcane damage and magic find for a short period.|При касте дает шанс на короткое время увеличить урон тайной магией (ваш и союзников) и поиск магических предметов.
+subDescPaladinHolyNova08|Increases damage dealt by holy nova scaling with your vitality.|Увеличивает урон «Святой новы» в зависимости от вашей живучести.
+subDescPaladinHolyNova09|Increases damage dealt by holy nova and gives a chance to instantly execute non-boss targets affected by mark of judgement.|Увеличивает урон «Святой новы» и дает шанс мгновенно казнить рядовых врагов под действием «Метки правосудия».
+subDescPaladinHolyNova10|Chance on cast to unleash an additional holy nova.|Дает шанс при касте выпустить дополнительную «Святую нову».
+subDescPaladinHolyNova11|Steal a portion of target life on hit over time.|При попадании постепенно похищает часть здоровья цели.
+subDescPaladinHolyNova12|Mark target monsters with judgement on hit causing them to take increased damage on hit consuming the mark.|Помечает монстров «Правосудием»; при получении урона метка поглощается, нанося увеличенный урон.
+subDescPaladinHolyNova13|Holy nova now heals all allies within the same area with increased power.|«Святая нова» теперь лечит всех союзников в зоне действия с увеличенной силой.
+subDescPaladinHolyNova14|Unleash multiple smaller orbiting novas around you.|Выпускает несколько малых нов, которые вращаются вокруг вас.
+||
+subPaladinHolyHammer01|Anvil Smash|Мощь наковальни
+subPaladinHolyHammer02|Blessed Light|Благословенный свет
+subPaladinHolyHammer03|Divine Prayer|Божественная молитва
+subPaladinHolyHammer04|Free of Sin|Очищение от греха
+subPaladinHolyHammer05|Smite|Кара
+subPaladinHolyHammer06|Double Forge|Двойная ковка
+subPaladinHolyHammer07|Thor’s Revenge|Месть Тора
+subPaladinHolyHammer08|Sacred Hammer|Священный молот
+subPaladinHolyHammer09|Colossus Hammer|Молот колосса
+subPaladinHolyHammer10|Slamming Mallet|Сокрушающий молот
+subPaladinHolyHammer11|Divine Lightning|Божественная молния
+subPaladinHolyHammer12|Returning Lightforge|Светозарный возврат
+subPaladinHolyHammer13|Orbital Light|Кружащий свет
+subPaladinHolyHammer14|Chaining Mallet|Цепной молот
+subDescPaladinHolyHammer01|Increases holy hammer projectile speed.|Увеличивает скорость полета «Святого молота».
+subDescPaladinHolyHammer02|Increases damage dealt by holy hammer.|Увеличивает урон «Святого молота».
+subDescPaladinHolyHammer03|Decreases holy hammer mana cost.|Снижает затраты маны на «Святой молот».
+subDescPaladinHolyHammer04|Decreases movement diminish when using holy hammer.|Уменьшает штраф к скорости передвижения при использовании «Святого молота».
+subDescPaladinHolyHammer05|Chance on hit to ricochet an additional hammer into the closest monster.|Дает шанс при попадании выпустить дополнительный молот, рикошетящий в ближайшего врага.
+subDescPaladinHolyHammer06|Chance on cast to unleash an additional hammer.|Дает шанс при касте выпустить дополнительный молот.
+subDescPaladinHolyHammer07|Chance on hit to drop a hammer down from the sky dealing area of effect damage.|Дает шанс при попадании обрушить молот с небес, наносящий урон по области.
+subDescPaladinHolyHammer08|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
+subDescPaladinHolyHammer09|Increases the size of holy hammers.|Увеличивает размер святых молотов.
+subDescPaladinHolyHammer10|Hammers now knock monsters back unleashing a holy pulse on hit dealing area of effect damage.|Молоты теперь отбрасывают врагов и при попадании испускают кольцо света, наносящее урон по области.
+subDescPaladinHolyHammer11|Hammers unleash a chain of divine lightning on hit.|При попадании молоты выпускают цепь божественных молний.
+subDescPaladinHolyHammer12|Throw multiple hammers traveling in a straight line and returning to you. Hammers no longer orbit.|Вы бросаете сразу несколько молотов по прямой; они возвращаются к вам, более не вращаясь вокруг героя.
+subDescPaladinHolyHammer13|Hammers now follow you with increased radius and damage.|Молоты теперь следуют за вами; их радиус вращения и урон увеличены.
+subDescPaladinHolyHammer14|Throw hammers that chain on hit dealing area of effect damage.|Вы бросаете молоты, которые поражают цели по цепочке и наносят урон по области.
+||
+subPaladinFistOfTheHeavens01|One with the Faith|Единство веры
+subPaladinFistOfTheHeavens02|Guardian Angels|Ангелы-хранители
+subPaladinFistOfTheHeavens03|Punish the Sinners|Кара грешников
+subPaladinFistOfTheHeavens04|Trust in Faith|Оплот веры
+subPaladinFistOfTheHeavens05|Heaven's Wrath|Гнев небес
+subPaladinFistOfTheHeavens06|Heaven's Might|Мощь небес
+subPaladinFistOfTheHeavens07|Divine Reach|Божественный охват
+subPaladinFistOfTheHeavens08|Crusader of Heavens|Небесный крестоносец
+subPaladinFistOfTheHeavens09|Halting Luminosity|Сдерживающее сияние
+subPaladinFistOfTheHeavens10|Blessed One|Благословенный
+subPaladinFistOfTheHeavens11|Divine Explosion|Небесная вспышка
+subPaladinFistOfTheHeavens12|Forceful Salvation|Грозное спасение
+subPaladinFistOfTheHeavens13|Immaculate Warrior|Непорочный воин
+subPaladinFistOfTheHeavens14|Tiring Combat|Изнуряющая битва
+subDescPaladinFistOfTheHeavens01|Increases the amount of projectiles.|Увеличивает количество снарядов.
+subDescPaladinFistOfTheHeavens02|Increases damage dealt by fist of the heavens.|Увеличивает урон «Кулака небес».
+subDescPaladinFistOfTheHeavens03|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescPaladinFistOfTheHeavens04|Decreases fist of the heavens mana cost.|Снижает затраты маны на «Кулак небес».
+subDescPaladinFistOfTheHeavens05|Holy bolts now return back to the point of impact dealing increased damage.|Святые стрелы теперь возвращаются в точку удара, нанося увеличенный урон.
+subDescPaladinFistOfTheHeavens06|Chance to stun target on hit.|Дает шанс оглушить цель при попадании.
+subDescPaladinFistOfTheHeavens07|Increases cast rate when using fist of the heavens.|Увеличивает скорость каста при использовании «Кулака небес».
+subDescPaladinFistOfTheHeavens08|Chance on cast to summon an additional fist.|Дает шанс при касте призвать дополнительный «Кулак небес».
+subDescPaladinFistOfTheHeavens09|Inflicts slow on hit.|При попадании накладывает замедление.
+subDescPaladinFistOfTheHeavens10|Fist of the heavens no longer fires holy bolts. Instead unleash a holy nova scaling its damage based on projectile amount.|«Кулак небес» больше не выпускает святые стрелы, а вызывает кольцо света; урон зависит от количества снарядов.
+subDescPaladinFistOfTheHeavens11|Fist of heavens grows in size according to the amount of projectiles shocking the ground dealing damage in an increased area of effect radius.|Размер «Кулака небес» растет в зависимости от количества снарядов; удары по земле наносят урон в увеличенном радиусе.
+subDescPaladinFistOfTheHeavens12|Unleash the fist towards target location pulsating holy bolts as it travels and then returns back to you.|Вы выпускаете кулак в указанную точку; в полете он испускает пульсирующие святые стрелы, после чего возвращается к вам.
+subDescPaladinFistOfTheHeavens13|Smash with the fist dealing increased damage based on projectile amount inflicting arcane break and knocking back targets.|Мощный удар кулаком, урон которого зависит от количества снарядов; вызывает игнорирование сопр. тайной магии и отбрасывает цели.
+subDescPaladinFistOfTheHeavens14|Summon multiple smaller fist of the heavens orbiting you and unleashing holy bolts on hit.|Призывает несколько малых «Кулаков небес», которые вращаются вокруг вас и выпускают святые стрелы при попадании.

@@ -1,0 +1,289 @@
+subWhiteMageShadowBolt01|Consuming Flames|Всепоглощающее пламя
+subWhiteMageShadowBolt02|Arcane Surge|Всплеск тайной магии
+subWhiteMageShadowBolt03|Power of the Dark Side|Сила темной стороны
+subWhiteMageShadowBolt04|Dark Conjurer|Темный заклинатель
+subWhiteMageShadowBolt05|Taunting Shadows|Дразнящие тени
+subWhiteMageShadowBolt06|Inner Corruption|Внутренняя порча
+subWhiteMageShadowBolt07|Shadows Dispair|Отчаяние теней
+subWhiteMageShadowBolt08|Flames of Corruption|Пламя порчи
+subWhiteMageShadowBolt09|Warlock from the Shadows|Чернокнижник из теней
+subWhiteMageShadowBolt10|Warlocks Might|Мощь чернокнижника
+subWhiteMageShadowBolt11|Shadow Flame|Теневое пламя
+subWhiteMageShadowBolt12|Shadow Beams|Теневые лучи
+subWhiteMageShadowBolt13|Shadows Grasp|Хватка тени
+subWhiteMageShadowBolt14|Shadow Cascade|Теневой каскад
+subDescWhiteMageShadowBolt01|Chance to inflict shadow burn on hit.|Дает шанс наложить теневое горение при попадании.
+subDescWhiteMageShadowBolt02|Increases damage dealt by shadow bolt.|Увеличивает урон «Теневой стрелы».
+subDescWhiteMageShadowBolt03|Decreases mana cost of shadow bolt.|Снижает затраты маны на «Теневую стрелу».
+subDescWhiteMageShadowBolt04|Chance on cast to unleash an additional shadow bolt.|Дает шанс при касте выпустить дополнительную «Теневую стрелу».
+subDescWhiteMageShadowBolt05|Chance to taunt monsters on hit.|Дает шанс спровоцировать монстров при попадании.
+subDescWhiteMageShadowBolt06|Increases the size of shadow bolts.|Увеличивает размер «Теневых стрел».
+subDescWhiteMageShadowBolt07|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescWhiteMageShadowBolt08|Increases damage dealt to shadow burning targets.|Увеличивает урон по целям с теневым горением.
+subDescWhiteMageShadowBolt09|Chance on hit to critically hit with increased critical damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescWhiteMageShadowBolt10|Increases the projectile speed of shadow bolt.|Увеличивает скорость снарядов «Теневой стрелы».
+subDescWhiteMageShadowBolt11|Shadow bolt bursts into a shadow nova on hit with increased damage and area of effect radius.|При попадании «Теневая стрела» взрывается теневой новой с увеличенным уроном и радиусом.
+subDescWhiteMageShadowBolt12|Unleash beams of shadows towards monsters on hit.|При попадании выпускает теневые лучи в сторону монстров.
+subDescWhiteMageShadowBolt13|Unleash a grasping shadow hand pulling monsters towards you inflicting arcane break on hit.|Выпускает цепкую теневую руку, которая притягивает монстров к вам и вызывает игнорирование сопр. тайной магии.
+subDescWhiteMageShadowBolt14|Shadow bolt has a chance to burst into smaller shadow bolts on hit. This effect can occur infinitely.|«Теневая стрела» может разделиться на малые стрелы при попадании. Этот эффект может срабатывать бесконечно.
+||
+subWhiteMageSoulSpurn01|Last Mortal Act|Последний вздох
+subWhiteMageSoulSpurn02|Solidify|Отвердевание
+subWhiteMageSoulSpurn03|Repeating Reaping|Повторная жатва
+subWhiteMageSoulSpurn04|Consume|Поглощение
+subWhiteMageSoulSpurn05|Highway to Purgatory|Путь в чистилище
+subWhiteMageSoulSpurn06|Restore|Восстановление
+subWhiteMageSoulSpurn07|Revitalise|Прилив сил
+subWhiteMageSoulSpurn08|Floating Cultist|Парящий культист
+subWhiteMageSoulSpurn09|Shattering Destruction|Сокрушительное разрушение
+subWhiteMageSoulSpurn10|Corrupted Rapture|Оскверненное вознесение
+subWhiteMageSoulSpurn11|Soulfilled Tradeoff|Душевный обмен
+subWhiteMageSoulSpurn12|Purgatory|Чистилище
+subWhiteMageSoulSpurn13|Lifeline Tether|Узы жизни
+subWhiteMageSoulSpurn14|Harvest the Damned|Жатва проклятых
+subDescWhiteMageSoulSpurn01|Ripped souls deal a portion of the damage.|Вырванные души наносят часть урона.
+subDescWhiteMageSoulSpurn02|Increases the damage dealt by soul spurn.|Увеличивает урон «Отвержения души».
+subDescWhiteMageSoulSpurn03|Chance on cast to deal increased damage.|Дает шанс нанести увеличенный урон при использовании.
+subDescWhiteMageSoulSpurn04|Chance on cast to unleash an additional soul spurn.|Дает шанс при касте вызвать дополнительное «Отвержение души».
+subDescWhiteMageSoulSpurn05|Increases the speed of ripped souls.|Увеличивает скорость вырванных душ.
+subDescWhiteMageSoulSpurn06|Soul spurn recovers a portion of your maximum mana on hit.|«Отвержение души» восполняет ману в размере части от вашего макс. запаса при попадании.
+subDescWhiteMageSoulSpurn07|Soul spurn recovers a portion of your maximum life on hit.|«Отвержение души» восполняет здоровье в размере части от вашего макс. запаса при попадании.
+subDescWhiteMageSoulSpurn08|Reduces movement diminish when using soul spurn.|Уменьшает штраф к скорости передвижения при использовании «Отвержения души».
+subDescWhiteMageSoulSpurn09|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescWhiteMageSoulSpurn10|Increases the area of effect radius of soul spurn.|Увеличивает радиус области действия «Отвержения души».
+subDescWhiteMageSoulSpurn11|Increases the damage dealt by soul spurn but decreases the area of effect radius.|Увеличивает урон «Отвержения души», но уменьшает радиус его действия.
+subDescWhiteMageSoulSpurn12|Soul spurn becomes a toggle skill ripping souls from monsters around you draining a portion of your maximum life frequently.|«Отвержение души» становится переключаемым умением; оно вырывает души у врагов вокруг вас, периодически поглощая часть вашего макс. здоровья.
+subDescWhiteMageSoulSpurn13|Rip souls for all nearby allies restoring their mana and life.|Вырывает души у всех ближайших союзников, восстанавливая им ману и здоровье.
+subDescWhiteMageSoulSpurn14|Monsters killed by soul spurn inflicts you with a buff increasing your arcane damage, life replenish and mana replenish for a short duration.|Убийство монстров «Отвержением души» дает бафф, увеличивающий ваш урон тайной магией и скорость восстановления здоровья и маны.
+||
+subWhiteMageSatansMark01|Heil Satan|Слава Сатане
+subWhiteMageSatansMark02|Long Lasting Darkness|Долгая тьма
+subWhiteMageSatansMark03|Mark of the Beast|Знак зверя
+subWhiteMageSatansMark04|Grasp of Lucifer|Хватка Люцифера
+subWhiteMageSatansMark05|Satanic Transe|Сатанинский транс
+subWhiteMageSatansMark06|Blood Ritual|Кровавый ритуал
+subWhiteMageSatansMark07|The Black Bible|Черная библия
+subWhiteMageSatansMark08|Messenger of Satan|Посланник Сатаны
+subWhiteMageSatansMark09|Reach of Darkness|Охват тьмы
+subWhiteMageSatansMark10|False Prophecy|Ложное пророчество
+subWhiteMageSatansMark11|The Black Mass|Черная месса
+subWhiteMageSatansMark12|The Rapture|Вознесение
+subWhiteMageSatansMark13|The Devil In I|Дьявол во мне
+subWhiteMageSatansMark14|Soul Combustion|Возгорание души
+subDescWhiteMageSatansMark01|Increases the damage dealt by satan´s mark.|Увеличивает урон «Метки Сатаны».
+subDescWhiteMageSatansMark02|Increases the duration of satan´s mark.|Увеличивает длительность действия «Метки Сатаны».
+subDescWhiteMageSatansMark03|Chance on cast to spawn crows circling around the target location for a short duration dealing additional damage.|Дает шанс при касте призвать ворон, которые кружат в указанной области и наносят доп. урон.
+subDescWhiteMageSatansMark04|Increases the area of effect radius of satan´s mark.|Увеличивает радиус области действия «Метки Сатаны».
+subDescWhiteMageSatansMark05|Increases the amount of stacks applied to targets.|Увеличивает количество зарядов, накладываемых на цели.
+subDescWhiteMageSatansMark06|Increases the blood ripple area of effect radius of satan´s mark.|Увеличивает радиус кровавой ряби «Метки Сатаны».
+subDescWhiteMageSatansMark07|Chance to apply satan´s mark to nearby monsters on hit.|Дает шанс наложить «Метку Сатаны» на ближайших врагов при попадании.
+subDescWhiteMageSatansMark08|Decreases the cooldown of satan´s mark.|Снижает время восстановления «Метки Сатаны».
+subDescWhiteMageSatansMark09|Increases the maximum cast range of satan´s mark.|Увеличивает максимальную дальность применения «Метки Сатаны».
+subDescWhiteMageSatansMark10|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescWhiteMageSatansMark11|Satan´s mark unleashes chains of unholy lightning when struck by black mass executing low life monsters on hit.|При попадании «Черной мессой» цель с «Меткой Сатаны» выпускает цепи нечестивых молний, казня монстров с низким уровнем здоровья.
+subDescWhiteMageSatansMark12|Satan´s mark is applied to monsters around you on a large radius with increased stacks. Satan´s mark now has an increased cooldown.|«Метка Сатаны» накладывается на всех врагов вокруг в большом радиусе с повышенным количеством зарядов. Время восстановления умения увеличено.
+subDescWhiteMageSatansMark13|Stuns monsters affected by satan´s mark inflicting arcane break.|Оглушает монстров под действием «Метки Сатаны» и вызывает игнорирование сопр. тайной магии.
+subDescWhiteMageSatansMark14|Satan´s mark causes target souls to explode after a short delay dealing increased damage.|«Метка Сатаны» заставляет души целей взрываться после короткой задержки, нанося увеличенный урон.
+||
+subWhiteMageRestlessSpirits01|Arcane Echoes|Эхо тайной магии
+subWhiteMageRestlessSpirits02|Shadowflame Affliction|Недуг теневого пламени
+subWhiteMageRestlessSpirits03|Spiritual Expansion|Духовная экспансия
+subWhiteMageRestlessSpirits04|Wraiths Call|Зов призраков
+subWhiteMageRestlessSpirits05|Spectral Efficiency|Призрачная эффективность
+subWhiteMageRestlessSpirits06|Phantom Step|Призрачный шаг
+subWhiteMageRestlessSpirits07|Hexbound Spirits|Проклятые духи
+subWhiteMageRestlessSpirits08|Wraiths Fury|Ярость призраков
+subWhiteMageRestlessSpirits09|Shattering Spirits|Сокрушающие духи
+subWhiteMageRestlessSpirits10|Spectral Velocity|Призрачная скорость
+subWhiteMageRestlessSpirits11|Spirit Circle|Круг духов
+subWhiteMageRestlessSpirits12|Master of Spirits|Повелитель духов
+subWhiteMageRestlessSpirits13|Soul Termination|Истребление душ
+subWhiteMageRestlessSpirits14|Feast on the Harvest|Пир на жатве
+subDescWhiteMageRestlessSpirits01|Increases damage dealt by restless spirits.|Увеличивает урон «Беспокойных духов».
+subDescWhiteMageRestlessSpirits02|Chance to inflict shadow burn on hit.|Дает шанс наложить теневое горение при попадании.
+subDescWhiteMageRestlessSpirits03|Increases the size of restless spirits.|Увеличивает размер «Беспокойных духов».
+subDescWhiteMageRestlessSpirits04|Increases the amount of restless spirits.|Увеличивает количество «Беспокойных духов».
+subDescWhiteMageRestlessSpirits05|Decreases the mana cost of restless spirits.|Снижает затраты маны на «Беспокойных духов».
+subDescWhiteMageRestlessSpirits06|Decreases movement diminish when using restless spirits.|Уменьшает штраф к скорости передвижения при использовании «Беспокойных духов».
+subDescWhiteMageRestlessSpirits07|Chance to summon orbiting souls at target location on hit dealing damage for a short duration.|Дает шанс при попадании призвать в указанную точку души, которые кружат и наносят урон.
+subDescWhiteMageRestlessSpirits08|Increases the damage dealt by restless spirits over time.|Увеличивает периодический урон «Беспокойных духов».
+subDescWhiteMageRestlessSpirits09|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescWhiteMageRestlessSpirits10|Increases the projectile speed of restless spirits.|Увеличивает скорость полета «Беспокойных духов».
+subDescWhiteMageRestlessSpirits11|Restless spirits now orbit you for a short duration.|«Беспокойные духи» теперь кружат вокруг вас в течение короткого времени.
+subDescWhiteMageRestlessSpirits12|Summon multiple spirit servants following you and unleashing shadow bolts towards nearby monsters. Restless Spirits now has a cooldown.|Призывает духов-слуг, которые следуют за вами и выпускают теневые стрелы. «Беспокойные духи» теперь имеют время восстановления.
+subDescWhiteMageRestlessSpirits13|Restless spirits explode on hit dealing a portion of their damage as area of effect damage.|«Беспокойные духи» взрываются при попадании, нанося часть своего урона по области.
+subDescWhiteMageRestlessSpirits14|Increases the amount of restless spirits according to the stack amount of harvest the damned consuming the buff.|Увеличивает количество «Беспокойных духов» за счет поглощения зарядов эффекта «Жатва проклятых».
+||
+subWhiteMageDarkOath01|Soulburn|Ожог души
+subWhiteMageDarkOath02|Oath Amplifier|Усиление клятвы
+subWhiteMageDarkOath03|Healing Corruption|Исцеляющая порча
+subWhiteMageDarkOath04|Shadows Reach|Охват теней
+subWhiteMageDarkOath05|Covens Oath|Клятва Ковена
+subWhiteMageDarkOath06|Pulse of Vitality|Пульс живучести
+subWhiteMageDarkOath07|Lust for Power|Жажда власти
+subWhiteMageDarkOath08|Shadowsteps|Теневые шаги
+subWhiteMageDarkOath09|Intrusive Corruption|Проникающая порча
+subWhiteMageDarkOath10|Devastating Pulse|Разрушительный импульс
+subWhiteMageDarkOath11|Sacrificial Oath|Жертвенная клятва
+subWhiteMageDarkOath12|Soul Collector|Собиратель душ
+subWhiteMageDarkOath13|Corrupting Pulse|Оскверняющий импульс
+subWhiteMageDarkOath14|Burning Darkness|Пылающая тьма
+subDescWhiteMageDarkOath01|Increases the tick frequency of dark oath.|Увеличивает частоту срабатывания «Темной клятвы».
+subDescWhiteMageDarkOath02|Increases the damage dealt by dark oath.|Увеличивает урон «Темной клятвы».
+subDescWhiteMageDarkOath03|Chance to recover a portion of your maximum life on hit.|Дает шанс восстановить часть макс. здоровья при попадании.
+subDescWhiteMageDarkOath04|Increases the area of effect radius of dark oath.|Увеличивает радиус области действия «Темной клятвы».
+subDescWhiteMageDarkOath05|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescWhiteMageDarkOath06|Chance to increase your life and mana replenish on hit for a short duration.|Дает шанс кратковременно увеличить скорость восстановления здоровья и маны при попадании.
+subDescWhiteMageDarkOath07|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescWhiteMageDarkOath08|Chance to increase your movement speed on hit for a short duration.|Дает шанс на короткое время увеличить скорость передвижения при попадании.
+subDescWhiteMageDarkOath09|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescWhiteMageDarkOath10|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
+subDescWhiteMageDarkOath11|Each pulse unleashes multiple restless spirits.|Каждый импульс выпускает несколько беспокойных духов.
+subDescWhiteMageDarkOath12|Dark oath pulses collect souls from monsters. After reaching the maximum stack of souls the next pulse will deal increased damage with increased area of effect radius.|Импульсы «Темной клятвы» собирают души монстров; при накоплении максимума душ следующий импульс нанесет увеличенный урон в большем радиусе.
+subDescWhiteMageDarkOath13|Chance to unleash additional pulses of dark oath from monsters on hit.|Дает шанс вызвать дополнительные импульсы «Темной клятвы» от пораженных врагов.
+subDescWhiteMageDarkOath14|Inflicts shadow burn and slow on hit.|При попадании накладывает теневое горение и замедление.
+||
+subWhiteMageBlackMass01|Dark Gathering|Темное собрание
+subWhiteMageBlackMass02|Cult's Migration|Шествие культа
+subWhiteMageBlackMass03|Loyal Followers|Верные приспешники
+subWhiteMageBlackMass04|Raise Morale|Воодушевление
+subWhiteMageBlackMass05|The Devil Within|Дьявол внутри
+subWhiteMageBlackMass06|Darkness Infused|Насыщение тьмой
+subWhiteMageBlackMass07|Bloated Followers|Раздутые приспешники
+subWhiteMageBlackMass08|Crowd Stomp|Топот толпы
+subWhiteMageBlackMass09|Eternal Corruption|Вечная порча
+subWhiteMageBlackMass10|Murder Frenzy|Безумие убийства
+subWhiteMageBlackMass11|Shadow Puppets|Теневые марионетки
+subWhiteMageBlackMass12|Protective Circle|Защитный круг
+subWhiteMageBlackMass13|Loyal Followers|Верные приспешники
+subWhiteMageBlackMass14|Cult Bishops|Епископы культа
+subDescWhiteMageBlackMass01|Increases the amount of cultists.|Увеличивает количество культистов.
+subDescWhiteMageBlackMass02|Increases the movement speed of cultists.|Увеличивает скорость передвижения культистов.
+subDescWhiteMageBlackMass03|Decreases the cooldown of black mass.|Снижает время восстановления «Черной мессы».
+subDescWhiteMageBlackMass04|Decreases the mana costs of black mass.|Снижает затраты маны на «Черную мессу».
+subDescWhiteMageBlackMass05|Chance to unleash a ripple of blood on hit dealing additional damage.|Дает шанс вызвать кровавую рябь при попадании, наносящую доп. урон.
+subDescWhiteMageBlackMass06|Increases the damage dealt by black mass.|Увеличивает урон «Черной мессы».
+subDescWhiteMageBlackMass07|Increases the size of cultists.|Увеличивает размер культистов.
+subDescWhiteMageBlackMass08|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
+subDescWhiteMageBlackMass09|Chance on cast to summon an additional black mass.|Дает шанс при касте призвать дополнительную «Черную мессу».
+subDescWhiteMageBlackMass10|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescWhiteMageBlackMass11|Summon a static cultist. The cultist emmits a portion of all damage taken to nearby monsters as area of effect damage.|Призывает неподвижного культиста, который отражает часть полученного урона на ближайших врагов.
+subDescWhiteMageBlackMass12|Increased amount of cultists are now summoned in a circle around target location.|В указанной точке теперь призывается увеличенное число культистов, стоящих кругом.
+subDescWhiteMageBlackMass13|Summon a horde of static cultists at target location for a short duration dealing increased damage.|На короткое время призывает орду неподвижных культистов, наносящих увеличенный урон.
+subDescWhiteMageBlackMass14|Send forward a cult bishop inflicting burning, dealing increased damage according to your energy and stunning monsters on hit.|Вы посылаете вперед епископа культа, который накладывает горение, оглушает врагов и наносит урон, зависящий от вашей энергии.
+||
+subWhiteMageHeavenlyFire01|Lamb of God|Агнец Божий
+subWhiteMageHeavenlyFire02|Flame of the Heavens|Небесное пламя
+subWhiteMageHeavenlyFire03|Heaven's Burn|Жар небес
+subWhiteMageHeavenlyFire04|Scorched Retribution|Жгучее возмездие
+subWhiteMageHeavenlyFire05|Heaven's Blessing|Небесное благословение
+subWhiteMageHeavenlyFire06|Heavenly Smite|Небесная кара
+subWhiteMageHeavenlyFire07|Inner Ignition|Внутренний огонь
+subWhiteMageHeavenlyFire08|Shattering Flames|Сокрушительное пламя
+subWhiteMageHeavenlyFire09|Ethereal Burn|Эфирный жар
+subWhiteMageHeavenlyFire10|Word of God|Слово Божье
+subWhiteMageHeavenlyFire11|Essence of Heavens|Сущность небес
+subWhiteMageHeavenlyFire12|Chain of Fire|Цепь огня
+subWhiteMageHeavenlyFire13|Righteous Path|Праведный путь
+subWhiteMageHeavenlyFire14|Ascendant Flame|Восходящее пламя
+subDescWhiteMageHeavenlyFire01|Chance on hit to set monsters on fire causing them to spread flames while moving.|Дает шанс поджечь монстров при попадании, заставляя их оставлять огненный след при движении.
+subDescWhiteMageHeavenlyFire02|Increases the tick frequency of heavenly fire.|Увеличивает частоту ударов «Небесного огня».
+subDescWhiteMageHeavenlyFire03|Increases the damage dealt by heavenly fire.|Увеличивает урон «Небесного огня».
+subDescWhiteMageHeavenlyFire04|Inflicts burning on hit.|При попадании накладывает горение.
+subDescWhiteMageHeavenlyFire05|Decreases the mana cost of heavenly fire.|Снижает затраты маны на «Небесный огонь».
+subDescWhiteMageHeavenlyFire06|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescWhiteMageHeavenlyFire07|Chance to increase your arcane damage on hit for a short duration.|Дает шанс на короткое время увеличить ваш урон тайной магией при попадании.
+subDescWhiteMageHeavenlyFire08|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescWhiteMageHeavenlyFire09|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescWhiteMageHeavenlyFire10|Increases the area of effect radius of heavenly fire.|Увеличивает радиус области действия «Небесного огня».
+subDescWhiteMageHeavenlyFire11|Unleash a heavenly orb scorching the ground below leaving behind a trail of burning flames.|Выпускает небесную сферу, которая выжигает землю, оставляя за собой огненный след.
+subDescWhiteMageHeavenlyFire12|Chance to unleash a chain of fire on hit dealing increased damage.|Дает шанс выпустить цепь огня при попадании, наносящую увеличенный урон.
+subDescWhiteMageHeavenlyFire13|Leave behind a trail of heavenly fire for a short duration inflicting elemental break on hit. Heavenly Fire now has a cooldown.|Оставляет за собой след небесного огня, вызывающий игнорирование сопр. стихиям. «Небесный огонь» теперь имеет время восстановления.
+subDescWhiteMageHeavenlyFire14|Increases the size and tick frequency of heavenly fire over time.|Со временем увеличивает размер и частоту ударов «Небесного огня».
+||
+subWhiteMageBurstOfLight01|Manabinded Cast|Узы маны
+subWhiteMageBurstOfLight02|Solar Infusion|Солнечное насыщение
+subWhiteMageBurstOfLight03|Piercing Ray|Пронзающий луч
+subWhiteMageBurstOfLight04|Heaven's Brightness|Небесное сияние
+subWhiteMageBurstOfLight05|Total Illumination|Полное озарение
+subWhiteMageBurstOfLight06|Forking Glare|Ветвящийся отблеск
+subWhiteMageBurstOfLight07|Lens Flare|Световой блик
+subWhiteMageBurstOfLight08|Light Orb|Сфера света
+subWhiteMageBurstOfLight09|Blazing Light|Пылающий свет
+subWhiteMageBurstOfLight10|Blinding Light|Ослепляющий свет
+subWhiteMageBurstOfLight11|Holy Beam|Святой луч
+subWhiteMageBurstOfLight12|Burning Smite|Огненная кара
+subWhiteMageBurstOfLight13|Purification|Очищение
+subWhiteMageBurstOfLight14|Light Within|Внутренний свет
+subDescWhiteMageBurstOfLight01|Chance to smite monsters with a pillar of searing light on hit dealing additional damage according to your energy.|Дает шанс поразить монстров столпом жгучего света при попадании, нанося доп. урон в зависимости от вашей энергии.
+subDescWhiteMageBurstOfLight02|Increases damage dealt by burst of light.|Увеличивает урон «Вспышки света».
+subDescWhiteMageBurstOfLight03|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescWhiteMageBurstOfLight04|Chance to replenish a portion of your maximum mana on hit.|Дает шанс восстановить часть маны при попадании.
+subDescWhiteMageBurstOfLight05|Chance on cast to unleash additional bursts in an arc.|Дает шанс при касте выпустить дополнительные вспышки по дуге.
+subDescWhiteMageBurstOfLight06|Chance to unleash an additional burst of light from a nearby monster on hit.|Дает шанс вызвать дополнительную вспышку света от ближайшего монстра при попадании.
+subDescWhiteMageBurstOfLight07|Increases the range of burst of light.|Увеличивает дальность «Вспышки света».
+subDescWhiteMageBurstOfLight08|Chance on cast to unleash an orb of light briefly bursting into a burst of light.|Дает шанс при касте выпустить сферу света, которая вскоре взрывается вспышкой.
+subDescWhiteMageBurstOfLight09|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescWhiteMageBurstOfLight10|Chance to inflict stun and deal increased damage on hit.|Дает шанс оглушить врага и нанести увеличенный урон при попадании.
+subDescWhiteMageBurstOfLight11|Unleash multiple bursts of light in an arc on hit.|При попадании выпускает несколько вспышек света по дуге.
+subDescWhiteMageBurstOfLight12|Unleash burst of light with increased size leaving the ground burning and inflicting slow on hit.|Создает «Вспышку света» увеличенного размера, которая поджигает землю и замедляет врагов.
+subDescWhiteMageBurstOfLight13|Inflict monsters with a stack of purification on hit increasing the damage dealt by burst of light.|Накладывает на монстров заряды очищения, увеличивающие урон от «Вспышки света».
+subDescWhiteMageBurstOfLight14|Burst of light unleashes as a nova of light around you with increased area of effect radius and dealing increased damage.|«Вспышка света» срабатывает как кольцо света вокруг вас с увеличенным радиусом и уроном.
+||
+subWhiteMageChainOfHolyLight01|Holy Velocity|Священное ускорение
+subWhiteMageChainOfHolyLight02|Plasma Burst|Вспышка плазмы
+subWhiteMageChainOfHolyLight03|Holy Discharge|Святой разряд
+subWhiteMageChainOfHolyLight04|Divine Divergence|Божественное разделение
+subWhiteMageChainOfHolyLight05|Amplifying Prayer|Усиливающая молитва
+subWhiteMageChainOfHolyLight06|Spellbreak Prayer|Молитва развеивания
+subWhiteMageChainOfHolyLight07|Celestial Light|Небесный свет
+subWhiteMageChainOfHolyLight08|Sacred Steps|Священная поступь
+subWhiteMageChainOfHolyLight09|Lightened Path|Освещенный путь
+subWhiteMageChainOfHolyLight10|Light's Embrace|Объятия света
+subWhiteMageChainOfHolyLight11|God´s Altar|Божий алтарь
+subWhiteMageChainOfHolyLight12|Recursive Light|Возвратный свет
+subWhiteMageChainOfHolyLight13|Echo of Heavens|Эхо небес
+subWhiteMageChainOfHolyLight14|God's Grasp|Божественная хватка
+subDescWhiteMageChainOfHolyLight01|Increases the projectile speed of chain of holy light.|Увеличивает скорость снарядов «Цепи святого света».
+subDescWhiteMageChainOfHolyLight02|Increases the damage dealt by chain of holy light.|Увеличивает урон «Цепи святого света».
+subDescWhiteMageChainOfHolyLight03|Chance to smite monsters with holy lightning on hit dealing additional damage.|Дает шанс поразить монстров святой молнией при попадании, нанося доп. урон.
+subDescWhiteMageChainOfHolyLight04|Chance to unleash an additional chain of holy light on hit.|Дает шанс выпустить дополнительную «Цепь святого света» при попадании.
+subDescWhiteMageChainOfHolyLight05|Increases the damage dealt by chain of holy light with each bounce.|Увеличивает урон «Цепи святого света» с каждым последующим отскоком.
+subDescWhiteMageChainOfHolyLight06|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescWhiteMageChainOfHolyLight07|Increases the amount of bounces.|Увеличивает количество отскоков.
+subDescWhiteMageChainOfHolyLight08|Decreases movement diminish when using chain of holy light.|Уменьшает штраф к скорости передвижения при использовании «Цепи святого света».
+subDescWhiteMageChainOfHolyLight09|Decreases the mana cost of chain of holy light.|Снижает затраты маны на «Цепь святого света».
+subDescWhiteMageChainOfHolyLight10|Chain of holy light heals you for a portion of your maximum life when hitting its last target.|«Цепь святого света» восполняет здоровье в размере части от макс. запаса при попадании в последнюю цель.
+subDescWhiteMageChainOfHolyLight11|Summon an altar of light unleashing chain of holy light on nearby monsters. Chain of holy light now has a cooldown.|Призывает Алтарь света, выпускающий цепи света в ближайших врагов. Умение теперь имеет время восстановления.
+subDescWhiteMageChainOfHolyLight12|Chain of holy light strikes the same target multiple times if there are no monsters nearby dealing a portion of its damage.|«Цепь святого света» может многократно поражать одну цель, если рядом нет других врагов (с пониженным уроном).
+subDescWhiteMageChainOfHolyLight13|Unleash holy bolts towards targets on hit with a chance to proc heavenly fire on hit.|При попадании выпускает в цели святые стрелы, которые могут вызвать «Небесный огонь».
+subDescWhiteMageChainOfHolyLight14|Pull monsters towards the first target on hit unleashing a divine explosion dealing increased damage with increased area of effect radius.|Притягивает монстров к первой цели и вызывает божественный взрыв с увеличенным уроном и радиусом.
+||
+subWhiteMageManaOrb01|Conduit|Проводник
+subWhiteMageManaOrb02|Mana Incursion|Магический прорыв
+subWhiteMageManaOrb03|Burst of Energy|Вспышка энергии
+subWhiteMageManaOrb04|Energy Charges|Энергетические заряды
+subWhiteMageManaOrb05|Corrupting Manapulse|Оскверняющий импульс
+subWhiteMageManaOrb06|Meditation|Медитация
+subWhiteMageManaOrb07|Mage's Might|Мощь мага
+subWhiteMageManaOrb08|Amplified Magic|Усиленная магия
+subWhiteMageManaOrb09|Heaven's Aid|Помощь небес
+subWhiteMageManaOrb10|Energy Fountain|Источник энергии
+subWhiteMageManaOrb11|Energy Orbit|Энергетическая орбита
+subWhiteMageManaOrb12|Chosen One|Избранный
+subWhiteMageManaOrb13|Hauling Manawell|Притягивающий колодец
+subWhiteMageManaOrb14|Compacting Power|Уплотнение силы
+subDescWhiteMageManaOrb01|Increases the mana replenish from mana orb.|Увеличивает восстановление маны от «Сферы маны».
+subDescWhiteMageManaOrb02|Increases the damage dealt by mana orb.|Увеличивает урон «Сферы маны».
+subDescWhiteMageManaOrb03|Chance to critically hit dealing increased critical strike damage according to your energy.|Дает шанс нанести критический удар; критический урон зависит от вашей энергии.
+subDescWhiteMageManaOrb04|Increases the duration of mana orb.|Увеличивает длительность действия «Сферы маны».
+subDescWhiteMageManaOrb05|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescWhiteMageManaOrb06|Reduces the cooldown of mana orb.|Снижает время восстановления «Сферы маны».
+subDescWhiteMageManaOrb07|Increases the area of effect radius of mana orb.|Увеличивает радиус действия «Сферы маны».
+subDescWhiteMageManaOrb08|Increases the tick frequency of mana orb.|Увеличивает частоту пульсации «Сферы маны».
+subDescWhiteMageManaOrb09|Chance to summon an additional mana orb at target location on hit.|Дает шанс призвать дополнительную сферу маны в точке удара.
+subDescWhiteMageManaOrb10|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescWhiteMageManaOrb11|Summon multiple mana orbs orbitting you and dealing damage based on your energy. Consumes all of your mana on cast.|Призывает несколько сфер маны, вращающихся вокруг вас; урон зависит от вашей энергии. Применение расходует всю ману.
+subDescWhiteMageManaOrb12|Summon a mana orb within you gaining increased life replenish, mana replenish and arcane damage for the duration of mana orb.|Призывает сферу маны внутри вас, увеличивая восстановление здоровья, маны и урон тайной магией на время действия.
+subDescWhiteMageManaOrb13|Conjure a flying mana orb pulling monsters into its core on hit.|Создает летящую сферу маны, которая при попадании затягивает монстров в свой центр.
+subDescWhiteMageManaOrb14|Summon a mana orb with increased duration and size. Each mana pulse now increases its damage but shrinks it in size.|Призывает сферу маны увеличенного размера и длительности. Каждый импульс повышает урон сферы, но уменьшает её размер.

@@ -1,0 +1,231 @@
+subBardSlayingRiffs01|Multipicking|Шквальный перебор
+subBardSlayingRiffs02|Heavy Notes|Тяжелые ноты
+subBardSlayingRiffs03|Breaking The Soundbarrier|Звуковой прорыв
+subBardSlayingRiffs04|Picking Skills|Техника игры
+subBardSlayingRiffs05|Widened Amplifiers|Мощные усилители
+subBardSlayingRiffs06|Stage Agility|Сценическая пластика
+subBardSlayingRiffs07|Ear Penetration|Разрыв перепонок
+subBardSlayingRiffs08|Splitting Sound|Расщепление звука
+subBardSlayingRiffs09|Burning Acoustics|Жгучая акустика
+subBardSlayingRiffs10|Paralyzing Volume|Парализующая громкость
+subBardSlayingRiffs11|Bursting Sound|Взрывной звук
+subBardSlayingRiffs12|Echoing Sound Wall|Стена эха
+subBardSlayingRiffs13|Satanic Notes|Дьявольские ноты
+subBardSlayingRiffs14|Symphony of Destruction|Симфония разрушения
+subDescBardSlayingRiffs01|Increases the projectile amount of slaying riffs.|Увеличивает количество снарядов «Убийственных риффов».
+subDescBardSlayingRiffs02|Increases the damage dealt by slaying riffs.|Увеличивает урон «Убийственных риффов».
+subDescBardSlayingRiffs03|Increases the projectile speed of slaying riffs.|Увеличивает скорость полета снарядов «Убийственных риффов».
+subDescBardSlayingRiffs04|Increases cast rate when using slaying riffs.|Увеличивает скорость каста при использовании «Убийственных риффов».
+subDescBardSlayingRiffs05|Increases the size of slaying riffs.|Увеличивает размер снарядов «Убийственных риффов».
+subDescBardSlayingRiffs06|Decreases movement diminish when using slaying riffs.|Уменьшает штраф к скорости передвижения при использовании «Убийственных риффов».
+subDescBardSlayingRiffs07|Chance to inflict lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
+subDescBardSlayingRiffs08|Chance for notes to split in two on hit.|Дает шанс нотам расщепиться надвое при попадании.
+subDescBardSlayingRiffs09|Chance to inflict stasis on hit.|Дает шанс наложить стазис при попадании.
+subDescBardSlayingRiffs10|Increases damage dealt to monsters inflicted with stasis.|Увеличивает урон по врагам, находящимся в стазисе.
+subDescBardSlayingRiffs11|Unleash a single note exploding into multiple notes on hit dealing increased damage.|Выпускает одну ноту, которая при попадании взрывается множеством других нот и наносит увеличенный урон.
+subDescBardSlayingRiffs12|Unleash the notes in an arc bouncing off terrain dealing increased damage.|Выпускает ноты по дуге; они отскакивают от препятствий и наносят увеличенный урон.
+subDescBardSlayingRiffs13|Pull nearby monsters towards target on hit unleashing a sonar pulse.|При попадании притягивает ближайших монстров к цели и испускает сонарный импульс.
+subDescBardSlayingRiffs14|Increases the projectile amount and cast radius of slaying riffs.|Увеличивает количество снарядов и дальность применения «Убийственных риффов».
+||
+subBardVisceralGrowl01|Amplified Sound|Усиленный звук
+subBardVisceralGrowl02|Vocal Echo|Вокальное эхо
+subBardVisceralGrowl03|Octavism|Октавизм
+subBardVisceralGrowl04|Acoustic Piercing|Пронзительный звук
+subBardVisceralGrowl05|Sound Weight|Тяжесть звука
+subBardVisceralGrowl06|After Growl|Остаточный рык
+subBardVisceralGrowl07|Reaching Roar|Громогласный рев
+subBardVisceralGrowl08|Vocal Therapy|Вокальная терапия
+subBardVisceralGrowl09|Trembling Growl|Сотрясающий рык
+subBardVisceralGrowl10|Stuttering Frequency|Рваная частота
+subBardVisceralGrowl11|Echo in the Darkness|Эхо во тьме
+subBardVisceralGrowl12|Vocal Concentration|Голосовое средоточие
+subBardVisceralGrowl13|Tinnitus|Звон в ушах
+subBardVisceralGrowl14|Unleash The Metal|Высвобождение металла
+subDescBardVisceralGrowl01|Increases the damage dealt by visceral growl.|Увеличивает урон «Утробного рыка».
+subDescBardVisceralGrowl02|Increases the area of effect radius of visceral growl.|Увеличивает радиус действия «Утробного рыка».
+subDescBardVisceralGrowl03|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescBardVisceralGrowl04|Chance to unleash a chain lightning from target on hit.|Дает шанс выпустить цепную молнию из цели при попадании.
+subDescBardVisceralGrowl05|Chance on hit to knock monsters back dealing increased damage.|Дает шанс отбросить монстров при попадании, нанося увеличенный урон.
+subDescBardVisceralGrowl06|Chance on cast to unleash an additional fast and powerful growl.|Дает шанс при касте издать дополнительный быстрый и мощный рык.
+subDescBardVisceralGrowl07|Increases the range of visceral growl.|Увеличивает дальность «Утробного рыка».
+subDescBardVisceralGrowl08|Increases damage dealt to targets inflicted by stasis.|Увеличивает урон по целям под действием стазиса.
+subDescBardVisceralGrowl09|Chance to unleash piercing notes towards target on hit.|Дает шанс выпустить в цель пронзающие ноты при попадании.
+subDescBardVisceralGrowl10|Chance to inflict stasis on hit.|Дает шанс наложить стазис при попадании.
+subDescBardVisceralGrowl11|Unleash a shockwave of visceral growls towards target location.|Выпускает ударную волну «Утробных рыков» в указанную область.
+subDescBardVisceralGrowl12|Unleash a narrow growl with increased length dealing increased damage and stunning targets on hit.|Выпускает узкий, но протяженный поток рыка, который наносит увеличенный урон и оглушает врагов.
+subDescBardVisceralGrowl13|Increases the proc chance of stuttering frequency increasing the damage and tick frequency of stasis.|Повышает шанс срабатывания «Рваной частоты», увеличивая урон и частоту тактов стазиса.
+subDescBardVisceralGrowl14|Increases the area of effect radius of visceral growl knocking monsters back with force dealing increased damage.|Увеличивает радиус действия «Утробного рыка»; умение с силой отбрасывает монстров и наносит повышенный урон.
+||
+subBardSacrilegiousSymphony01|Marked By The Devil|Клеймо дьявола
+subBardSacrilegiousSymphony02|Echoing Riffs|Эхо риффов
+subBardSacrilegiousSymphony03|Scorching Riffs|Опаляющие риффы
+subBardSacrilegiousSymphony04|Blasting Soundwave|Взрывная волна
+subBardSacrilegiousSymphony05|Free Will|Свобода воли
+subBardSacrilegiousSymphony06|Trembling Symphony|Симфония содрогания
+subBardSacrilegiousSymphony07|Increased Tempo|Ускоренный темп
+subBardSacrilegiousSymphony08|Symphony of Anxiety|Симфония тревоги
+subBardSacrilegiousSymphony09|Double the Satisfaction|Двойной восторг
+subBardSacrilegiousSymphony10|Static Symphony|Статическая симфония
+subBardSacrilegiousSymphony11|Sacrilegious Encore|Святотатственный бис
+subBardSacrilegiousSymphony12|Symphony of Destruction|Симфония разрушения
+subBardSacrilegiousSymphony13|Pulling the Crowd|Внимание публики
+subBardSacrilegiousSymphony14|Spiraling to Insanity|Спираль безумия
+subDescBardSacrilegiousSymphony01|Increases the damage dealt by sacrilegious symphony.|Увеличивает урон «Святотатственной симфонии».
+subDescBardSacrilegiousSymphony02|Increases the area of effect radius of sacrilegious symphony.|Увеличивает радиус действия «Святотатственной симфонии».
+subDescBardSacrilegiousSymphony03|Chance to inflict stasis on hit.|Дает шанс наложить стазис при попадании.
+subDescBardSacrilegiousSymphony04|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescBardSacrilegiousSymphony05|Increases your movement speed for a short duration when casting sacrilegious symphony.|На короткое время увеличивает вашу скорость передвижения при использовании «Святотатственной симфонии».
+subDescBardSacrilegiousSymphony06|Chance to stun monsters on hit dealing increased damage.|Дает шанс оглушить монстров при попадании, нанося увеличенный урон.
+subDescBardSacrilegiousSymphony07|Decreases the cooldown of sacrilegious Symphony|Снижает время восстановления «Святотатственной симфонии».
+subDescBardSacrilegiousSymphony08|Increases the activation time of sacrilegious symphony.|Увеличивает длительность действия «Святотатственной симфонии».
+subDescBardSacrilegiousSymphony09|Chance on cast to deal double damage|Дает шанс нанести двойной урон при использовании.
+subDescBardSacrilegiousSymphony10|Increases damage dealt to targets inflicted by stasis|Увеличивает урон по целям под действием стазиса.
+subDescBardSacrilegiousSymphony11|Sacrilegious symphony now echoes additional times with increased area of effect radius.|«Святотатственная симфония» теперь создает эхо, срабатывая повторно с увеличенным радиусом действия.
+subDescBardSacrilegiousSymphony12|Unleash a massive shockwave knocking monsters up causing them to deal area of effect damage when landing.|Вызывает мощную ударную волну, подбрасывающую монстров; при приземлении они наносят урон по области.
+subDescBardSacrilegiousSymphony13|Pull nearby monsters towards you when casting and stunning them for a short while.|При использовании притягивает ближайших монстров к вам и ненадолго оглушает их.
+subDescBardSacrilegiousSymphony14|Unleash multiple piercing notes orbitting around you dealing increased damage.|Выпускает несколько пронзающих нот, которые вращаются вокруг вас и наносят увеличенный урон.
+||
+subBardProgeniesOfTheGreatCataclysm01|Black Metals Reach|Хватка блэк-метала
+subBardProgeniesOfTheGreatCataclysm02|Stage OSHA Violation|Сценический беспредел
+subBardProgeniesOfTheGreatCataclysm03|Longer Cord|Удлиненный шнур
+subBardProgeniesOfTheGreatCataclysm04|The Sound of Darkness|Звук тьмы
+subBardProgeniesOfTheGreatCataclysm05|Amping Up The Metal|Больше металла
+subBardProgeniesOfTheGreatCataclysm06|Penetrating Soundwaves|Пронзающие волны
+subBardProgeniesOfTheGreatCataclysm07|Broken Electric Cord|Оголенный шнур
+subBardProgeniesOfTheGreatCataclysm08|Electric Soundwaves|Электрические волны
+subBardProgeniesOfTheGreatCataclysm09|Overheated Amplifier|Перегретый усилитель
+subBardProgeniesOfTheGreatCataclysm10|Electrocuting Soundblast|Громовой аккорд
+subBardProgeniesOfTheGreatCataclysm11|Increasing Sound Levels|Рост громкости
+subBardProgeniesOfTheGreatCataclysm12|Crushing Sound Levels|Сокрушительный звук
+subBardProgeniesOfTheGreatCataclysm13|Orbital Soundwaves|Орбитальные волны
+subBardProgeniesOfTheGreatCataclysm14|Tripping Electric Cord|Искрящий шнур
+subDescBardProgeniesOfTheGreatCataclysm01|Increases maximum targets.|Увеличивает максимальное количество целей.
+subDescBardProgeniesOfTheGreatCataclysm02|Chance on hit to drop an exploding amplifier from the sky dealing area of effect damage upon landing.|Дает шанс при попадании обрушить с небес взрывной усилитель, наносящий урон по области при приземлении.
+subDescBardProgeniesOfTheGreatCataclysm03|Increases the range of the amplifier.|Увеличивает радиус действия усилителя.
+subDescBardProgeniesOfTheGreatCataclysm04|Increases the damage dealt by the amplifier.|Увеличивает урон усилителя.
+subDescBardProgeniesOfTheGreatCataclysm05|Decreases the cooldown of progenies of the great cataclysm.|Снижает время восстановления «Потомков Великого Катаклизма».
+subDescBardProgeniesOfTheGreatCataclysm06|Gain a chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescBardProgeniesOfTheGreatCataclysm07|Chance to inflict lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
+subDescBardProgeniesOfTheGreatCataclysm08|Chance on hit to unleash a chain lightning dealing additional damage.|Дает шанс при попадании выпустить цепную молнию, наносящую доп. урон.
+subDescBardProgeniesOfTheGreatCataclysm09|Chance on amplifier cast to send trails of flames towards random directions.|При установке усилителя есть шанс выпустить потоки пламени в случайных направлениях.
+subDescBardProgeniesOfTheGreatCataclysm10|Chance to inflict stasis on hit.|Дает шанс наложить стазис при попадании.
+subDescBardProgeniesOfTheGreatCataclysm11|The main amplifier now creates additional smaller amplifiers pulsating and dealing area of effect lightning damage.|Основной усилитель теперь создает малые усилители, которые пульсируют и наносят урон молнией по области.
+subDescBardProgeniesOfTheGreatCataclysm12|The amplifier now sends shockwaves instead of notes with a lowered projectile count.|Усилитель теперь испускает ударные волны вместо нот; количество снарядов снижено.
+subDescBardProgeniesOfTheGreatCataclysm13|The amplifier now orbits you with increased cast speed.|Усилитель теперь вращается вокруг вас; скорость его установки увеличена.
+subDescBardProgeniesOfTheGreatCataclysm14|The amplifier cord now deals increased damage to monsters with increased frequency.|Шнур усилителя теперь чаще наносит увеличенный урон монстрам.
+||
+subBardHeadBanger01|Banging Hard|Тяжелый забой
+subBardHeadBanger02|Hair Length|Роскошная грива
+subBardHeadBanger03|Whipping Faster|Бешеный ритм
+subBardHeadBanger04|Hair Clipping|Острые пряди
+subBardHeadBanger05|Taking Advantage|Удар по слабому
+subBardHeadBanger06|Crushing Hair Sweep|Сокрушительный взмах
+subBardHeadBanger07|Ripping Hair|Рвущие пряди
+subBardHeadBanger08|Vile Slash|Подлый порез
+subBardHeadBanger09|Smacking Whip|Хлесткий удар
+subBardHeadBanger10|Rupturing Headbang|Раздирающий хедбэнг
+subBardHeadBanger11|Hair Whipper|Волосяной хлыст
+subBardHeadBanger12|Hair Tornado|Вихрь из волос
+subBardHeadBanger13|Slapping Around|Раскидывание
+subBardHeadBanger14|Hemorrhaging Hairbang|Кровавый хедбэнг
+subDescBardHeadBanger01|Increases damage dealt by headbanger.|Увеличивает урон «Хедбэнгера».
+subDescBardHeadBanger02|Increases the area of effect radius of headbanger.|Увеличивает радиус действия «Хедбэнгера».
+subDescBardHeadBanger03|Increases attack speed when using headbanger.|Увеличивает скорость атаки при использовании «Хедбэнгера».
+subDescBardHeadBanger04|Chance on hit to deal increased damage and stun the target.|Дает шанс при попадании нанести увеличенный урон и оглушить цель.
+subDescBardHeadBanger05|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescBardHeadBanger06|Chance to inflict armor break on hit.|При попадании вызывает пробивание брони.
+subDescBardHeadBanger07|Chance to inflict bleed on hit.|При попадании вызывает кровотечение.
+subDescBardHeadBanger08|Chance to deal increased critical strike damage on hit.|Дает шанс нанести увеличенный критический урон при попадании.
+subDescBardHeadBanger09|Chance on hit to deal double damage.|Дает шанс нанести двойной урон при попадании.
+subDescBardHeadBanger10|Chance on hit to deal increased damage to bleeding targets and increase the frequency of bleeding.|Дает шанс нанести увеличенный урон целям с кровотечением и повышает частоту срабатывания кровотечения.
+subDescBardHeadBanger11|Headbang with every attack dealing a portion of the damage.|Каждая атака сопровождается хедбэнгом, наносящим часть урона.
+subDescBardHeadBanger12|Unleash a tornado of hair dealing increased damage.|Вызывает торнадо из волос, наносящее увеличенный урон.
+subDescBardHeadBanger13|Knock monsters back when headbanging causing them to take increased damage when hitting terrain.|«Хедбэнгер» отбрасывает монстров; при столкновении с препятствием они получают увеличенный урон.
+subDescBardHeadBanger14|Headbang now stacks bleeding with increased damage.|«Хедбэнгер» теперь накладывает суммирующееся кровотечение, наносящее повышенный урон.
+||
+subBardCrowdDiver01|Uppercuts.. So Many Uppercuts|Град апперкотов
+subBardCrowdDiver02|Headbutt|Удар головой
+subBardCrowdDiver03|Colliding Masses|Столкновение масс
+subBardCrowdDiver04|Diving Stamina|Стойкость в прыжке
+subBardCrowdDiver05|Get Out The Way|Прочь с дороги!
+subBardCrowdDiver06|Crowd Violation|Беспредел в толпе
+subBardCrowdDiver07|Dirty Diver|Подлый прыжок
+subBardCrowdDiver08|Hammer Dive|Молот-прыжок
+subBardCrowdDiver09|Quick Dive|Быстрый прыжок
+subBardCrowdDiver10|Lengthy Dive|Затяжной прыжок
+subBardCrowdDiver11|Pit Fighters|Бойцы слэма
+subBardCrowdDiver12|Flying Fists|Летящие кулаки
+subBardCrowdDiver13|iFist|Я — кулак
+subBardCrowdDiver14|Blinkfist Strike|Мерцающий удар
+subDescBardCrowdDiver01|Chance to knock monsters airborne on hit dealing area of effect damage when landing.|Дает шанс подбросить монстров в воздух; при приземлении они наносят урон по области.
+subDescBardCrowdDiver02|Increases damage dealt by crowd diver.|Увеличивает урон «Прыжка в толпу».
+subDescBardCrowdDiver03|Chance to inflict armor break on hit.|Дает шанс вызвать пробивание брони при попадании.
+subDescBardCrowdDiver04|Decreases cooldown of crowd diver|Снижает время восстановления «Прыжка в толпу».
+subDescBardCrowdDiver05|Chance on cast to knock monsters back causing them to take increased damage from terrain.|Дает шанс отбросить монстров; они получают увеличенный урон при ударе о препятствия.
+subDescBardCrowdDiver06|Stun targets on hit.|Оглушает цели при попадании.
+subDescBardCrowdDiver07|Chance to deal increased critical strike damage on hit.|Дает шанс нанести увеличенный критический урон при попадании.
+subDescBardCrowdDiver08|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescBardCrowdDiver09|Increases the dash speed of crowd diver.|Увеличивает скорость рывка «Прыжка в толпу».
+subDescBardCrowdDiver10|Increases the maximum length of crowd diver.|Увеличивает максимальную дистанцию «Прыжка в толпу».
+subDescBardCrowdDiver11|Spawn pit fighters to fight by your side for a short duration after impact.|После приземления призывает бойцов слэма, которые сражаются на вашей стороне короткое время.
+subDescBardCrowdDiver12|Unleash pummeling fists towards nearby monsters dealing damage with increased critical strike damage.|Обрушивает град ударов на ближайших монстров; критический урон этих атак увеличен.
+subDescBardCrowdDiver13|Turn into a fist unleashing an area of effect pulse dealing increased damage on a large radius when hitting terrain.|Вы превращаетесь в кулак; при столкновении с препятствием возникает мощный импульс урона в большом радиусе.
+subDescBardCrowdDiver14|Teleport a short distance falling down from the sky with a massive fist dealing area of effect damage inflicting burning and stunning on hit.|Вы телепортируетесь и обрушиваетесь с неба огромным кулаком, нанося урон по области, поджигая и оглушая врагов.
+||
+subBardPyroTechnician01|Heat To The Flames|Масло в огонь
+subBardPyroTechnician02|Amping Up The Heat|Нарастающий жар
+subBardPyroTechnician03|Lit On Flames|Во власти пламени
+subBardPyroTechnician04|Fueling The Engine|Подпитка горнила
+subBardPyroTechnician05|Afterflame|Остаточное пламя
+subBardPyroTechnician06|Melting Bones|Плавящиеся кости
+subBardPyroTechnician07|Wounding Fire|Ранящее пламя
+subBardPyroTechnician08|Covering The Stage|Охват сцены
+subBardPyroTechnician09|Pulsating Pyrokinesis|Биение пламени
+subBardPyroTechnician10|Concentrated Scorching|Испепеление
+subBardPyroTechnician11|Rapid Burns|Быстрые ожоги
+subBardPyroTechnician12|Traveling Pyre|Блуждающий костер
+subBardPyroTechnician13|Circle of Burning|Кольцо всесожжения
+subBardPyroTechnician14|Burning Surface|Пылающая земля
+subDescBardPyroTechnician01|Increases physical damage and fire damage dealt by pyro technician|Увеличивает физический урон и урон огнем умения «Пиротехник».
+subDescBardPyroTechnician02|Gain maximum heat stacks increasing your attack speed per stack.|Дает заряды накала, увеличивающие скорость атаки за каждый эффект.
+subDescBardPyroTechnician03|Chance on hit to inflict burning for a portion of your physical and fire damage.|Дает шанс наложить горение при попадании; урон зависит от ваших показателей физ. урона и урона огнем.
+subDescBardPyroTechnician04|Increases attack speed when using pyro technician.|Увеличивает скорость атаки при использовании умения «Пиротехник».
+subDescBardPyroTechnician05|Chance on kill to unleash a flaming pulse dealing damage on a large radius around the target.|Дает шанс при убийстве вызвать огненную вспышку, наносящую урон в большом радиусе вокруг цели.
+subDescBardPyroTechnician06|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescBardPyroTechnician07|Increases damage dealt to bosses.|Увеличивает урон по боссам.
+subDescBardPyroTechnician08|Increases the area of effect radius of pyro technician.|Увеличивает радиус области действия умения «Пиротехник».
+subDescBardPyroTechnician09|Execute low life monsters below a treshold.|Казнит врагов с уровнем здоровья ниже определенного порога.
+subDescBardPyroTechnician10|Chance for both physical and fire damage to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар как физическим уроном, так и уроном огнем; критический урон при этом увеличен.
+subDescBardPyroTechnician11|Increases the frequency and damage of inflicted burning.|Увеличивает частоту и урон наложенного горения.
+subDescBardPyroTechnician12|Unleash multiple burning tornados on hit dealing additional damage.|При попадании выпускает несколько огненных смерчей, наносящих доп. урон.
+subDescBardPyroTechnician13|Chance on attack to hit multiple targets dealing increased damage.|Дает шанс при атаке поразить несколько целей, нанося увеличенный урон.
+subDescBardPyroTechnician14|Scorch the ground below your targets dealing a portion of your damage for a short duration. Effect stacks infinitely.|Выжигает землю под целями, нанося периодический урон в течение короткого времени. Эффект суммируется бесконечно.
+||
+subBardMoshpitMassacre01|Pit Crowd|Толпа в мошпите
+subBardMoshpitMassacre02|Moshpit Mania|Безумие мошпита
+subBardMoshpitMassacre03|Amping Up The Crowd|Разогрев толпы
+subBardMoshpitMassacre04|Pit Fatality|Летальный исход
+subBardMoshpitMassacre05|MAKE IT BIGGER!!|ЕЩЕ БОЛЬШЕ!!
+subBardMoshpitMassacre06|Broken Noses|Сломанные носы
+subBardMoshpitMassacre07|Pit Full Of Injuries|Кровавое месиво
+subBardMoshpitMassacre08|Going Crazy|Исступление
+subBardMoshpitMassacre09|Slamming Around|Пляска смерти
+subBardMoshpitMassacre10|Brutal Intimacy|Жестокая близость
+subBardMoshpitMassacre11|Follow The Lead|Следуй за лидером
+subBardMoshpitMassacre12|Pitfighting Colossus|Гладиатор мошпита
+subBardMoshpitMassacre13|Beach Balls|Пляжные мячи
+subBardMoshpitMassacre14|Total Anarchy|Полная анархия
+subDescBardMoshpitMassacre01|Increases the amount of fighters in the pit|Увеличивает количество бойцов в мошпите.
+subDescBardMoshpitMassacre02|Increases the damage dealt by pit fighters|Увеличивает урон бойцов мошпита.
+subDescBardMoshpitMassacre03|Increases the attack speed of pit fighters.|Увеличивает скорость атаки бойцов мошпита.
+subDescBardMoshpitMassacre04|Pit fighters execute low life targets|Бойцы мошпита казнят цели с низким уровнем здоровья.
+subDescBardMoshpitMassacre05|Increases the area of effect radius of the pit.|Увеличивает радиус области действия мошпита.
+subDescBardMoshpitMassacre06|Pit fighters have a chance to inflict bleed on hit.|Бойцы мошпита могут вызвать кровотечение при попадании.
+subDescBardMoshpitMassacre07|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescBardMoshpitMassacre08|Increases the movement speed of the pit fighters|Увеличивает скорость передвижения бойцов мошпита.
+subDescBardMoshpitMassacre09|Increases the critical strike chance and damage of the pit fighters.|Увеличивает шанс критического удара и критический урон бойцов мошпита.
+subDescBardMoshpitMassacre10|Decreases the area of effect radius of the pit.|Уменьшает радиус области действия мошпита.
+subDescBardMoshpitMassacre11|The pit provides increased attack speed, movement speed and damage to the pit fighters.|Нахождение в мошпите увеличивает скорость атаки, скорость передвижения и урон бойцов.
+subDescBardMoshpitMassacre12|Only spawn one pit fighter with increased stats scaling off of the total amount of pit fighters.|Призывает только одного бойца, чья сила зависит от вашего общего лимита бойцов.
+subDescBardMoshpitMassacre13|Add multiple flying beach balls into the pit bouncing off of its edges dealing additional damage.|Добавляет в мошпит пляжные мячи, которые отскакивают от его границ и наносят доп. урон.
+subDescBardMoshpitMassacre14|Spawn pit fighters without the pits limitations following you around with a portion of their stats.|Призывает бойцов мошпита, которые следуют за вами без привязки к зоне умения; они наследуют часть своих характеристик.

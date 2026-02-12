@@ -1,0 +1,318 @@
+subPirateBuckshot01|Black Powder|Черный порох
+subPirateBuckshot02|Stack of Slugs|Запас пуль
+subPirateBuckshot03|Spiced Up|С огоньком
+subPirateBuckshot04|Eye Patch|Повязка на глаз
+subPirateBuckshot05|Scorched Slugshot|Опаленный выстрел
+subPirateBuckshot06|Longshot|Дальний выстрел
+subPirateBuckshot07|Colossus Slugs|Колоссальные пули
+subPirateBuckshot08|Targeted Slugs|Прицельные пули
+subPirateBuckshot09|Firearm Expert|Знаток оружия
+subPirateBuckshot10|Sluglust|Оружейный азарт
+subPirateBuckshot11|Big Slugs|Тяжелые пули
+subPirateBuckshot12|One Slug to End Them All|Одна пуля для всех
+subPirateBuckshot13|Circle of Slugs|Кольцо пуль
+subPirateBuckshot14|Slick Slugs|Скользящие пули
+subDescPirateBuckshot01|Increases damage dealt by buckshot.|Увеличивает урон «Картечи».
+subDescPirateBuckshot02|Increases the amount of buckshot trails.|Увеличивает количество снарядов «Картечи».
+subDescPirateBuckshot03|Inflicts burning on hit.|При попадании накладывает горение.
+subDescPirateBuckshot04|Chance to stun on hit.|Дает шанс оглушить цель при попадании.
+subDescPirateBuckshot05|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPirateBuckshot06|Increases the range of buckshot.|Увеличивает дальность «Картечи».
+subDescPirateBuckshot07|Buckshot projectile size increased.|Увеличивает размер снарядов «Картечи».
+subDescPirateBuckshot08|Increases the attack rating when using buckshot.|Увеличивает рейтинг атаки при использовании «Картечи».
+subDescPirateBuckshot09|Increases the attack speed of buckshot while wielding a gun.|Увеличивает скорость атаки «Картечи» при использовании огнестрельного оружия.
+subDescPirateBuckshot10|Killing an enemy with buckshot increases your fire damage for a short period of time.|Убийство врага «Картечью» на короткое время увеличивает ваш урон огнем.
+subDescPirateBuckshot11|Projectiles are now bigger and travel farther also knocking monsters back.|Снаряды становятся крупнее, летят дальше и отбрасывают монстров.
+subDescPirateBuckshot12|Fire a single slug scaling a portion of its damage from the amount of total projectiles.|Вы выпускаете одну мощную пулю, урон которой зависит от общего количества снарядов.
+subDescPirateBuckshot13|Fire multiple waves of slugs in every direction. Buckshot now has a cooldown.|Вы выпускаете несколько волн пуль во всех направлениях. «Картечь» теперь имеет время восстановления.
+subDescPirateBuckshot14|Projectiles now chain off of the target with decreased damage.|Снаряды теперь поражают дополнительные цели по цепочке с пониженным уроном.
+||
+subPirateExplosiveBarrel01|Explosive Containers|Запас взрывчатки
+subPirateExplosiveBarrel02|Barrel Blast Radius|Радиус взрыва бочки
+subPirateExplosiveBarrel03|Inflammable Liquid|Горючая смесь
+subPirateExplosiveBarrel04|Scatter Barrel|Раскалывающаяся бочка
+subPirateExplosiveBarrel05|Sudden Dynamite|Внезапный динамит
+subPirateExplosiveBarrel06|Stack of Explosives|Куча пороха
+subPirateExplosiveBarrel07|MORE BARRELS!|БОЛЬШЕ БОЧЕК!
+subPirateExplosiveBarrel08|Incendiary Explosives|Зажигательная смесь
+subPirateExplosiveBarrel09|Deepfrozen Barrel|Промороженная бочка
+subPirateExplosiveBarrel10|Barrels of the Freljord|Бочки Фрельйорда
+subPirateExplosiveBarrel11|Bring the Grog!|Подать грог!
+subPirateExplosiveBarrel12|Field of Explosives|Минное поле
+subPirateExplosiveBarrel13|Explosive Collision|Взрывное столкновение
+subPirateExplosiveBarrel14|Circle of TNT|Кольцо из тротила
+subDescPirateExplosiveBarrel01|Increases the amount of spawned barrels.|Увеличивает количество создаваемых «Взрывных бочек».
+subDescPirateExplosiveBarrel02|Increases explosion area of effect radius of explosive barrel.|Увеличивает радиус взрыва «Взрывной бочки».
+subDescPirateExplosiveBarrel03|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPirateExplosiveBarrel04|Chance on cast to unleash an additional barrel.|Дает шанс при касте создать дополнительную бочку.
+subDescPirateExplosiveBarrel05|Chance on exploding to launch shrapnel around dealing additional damage.|При взрыве бочка может разбросать осколки, наносящие дополнительный урон.
+subDescPirateExplosiveBarrel06|Increases the damage dealt by barrels.|Увеличивает урон «Взрывных бочек».
+subDescPirateExplosiveBarrel07|Increases proc rate of explosive barrel.|Увеличивает частоту срабатывания «Взрывной бочки».
+subDescPirateExplosiveBarrel08|Inflicts burning on hit.|При попадании накладывает горение.
+subDescPirateExplosiveBarrel09|Dealing cold damage with explosive barrel freezes enemies and inflicts permafrost.|Нанесение урона холодом при помощи «Взрывной бочки» замораживает врагов и вызывает вечную мерзлоту.
+subDescPirateExplosiveBarrel10|Barrels now explode in a frigid blast converting damage dealt to cold inflicting cold break.|Бочки теперь взрываются ледяным взрывом, нанося урон холодом и вызывая игнорирование сопр. холоду.
+subDescPirateExplosiveBarrel11|Barrels are now big and leave the ground burning with increased blast radius.|Бочки становятся больше и поджигают землю; радиус взрыва увеличен.
+subDescPirateExplosiveBarrel12|Create multiple trails of smaller barrels.|Создает несколько рядов бочек меньшего размера.
+subDescPirateExplosiveBarrel13|Now throw a barrel bouncing and exploding multiple times.|Теперь вы бросаете бочку, которая подпрыгивает и взрывается несколько раз.
+subDescPirateExplosiveBarrel14|Now creates a circle of barrels around the target.|Создает кольцо из бочек вокруг цели.
+||
+subPirateCannonball01|Cannon Scatter|Разлет ядер
+subPirateCannonball02|Shrapnel Count|Количество осколков
+subPirateCannonball03|Cannon Accuracy|Точность орудий
+subPirateCannonball04|Steel Balls|Стальные ядра
+subPirateCannonball05|Slowmode|Убойная шрапнель
+subPirateCannonball06|Artillery Farshot|Дальнобойная артиллерия
+subPirateCannonball07|Empowered Blasting Powder|Усиленный порох
+subPirateCannonball08|Mayday|Сигнал бедствия
+subPirateCannonball09|Slay the Weak!|Смерть слабым!
+subPirateCannonball10|Blasting Balls|Разрывные ядра
+subPirateCannonball11|Bomb Trail|Бомбовый след
+subPirateCannonball12|Blast the Horizon|Залп за горизонт
+subPirateCannonball13|Mega Shot|Исполинский выстрел
+subPirateCannonball14|Rolling Balls|Катящиеся ядра
+subDescPirateCannonball01|Increases the amount of chain bounces.|Увеличивает количество рикошетов «Пушечного ядра».
+subDescPirateCannonball02|Increases the amount of shrapnel from cannonball explosion.|Увеличивает количество осколков при взрыве «Пушечного ядра».
+subDescPirateCannonball03|Increases the attack rating when using cannonball.|Увеличивает рейтинг атаки при использовании «Пушечного ядра».
+subDescPirateCannonball04|Increases the damage dealt by cannonball.|Увеличивает урон «Пушечного ядра».
+subDescPirateCannonball05|Increases the damage dealt by cannonball shrapnel.|Увеличивает урон от осколков «Пушечного ядра».
+subDescPirateCannonball06|Increases the range of cannonball.|Увеличивает дальность полета «Пушечного ядра».
+subDescPirateCannonball07|Increases the projectile speed of cannonball shrapnel.|Увеличивает скорость полета осколков «Пушечного ядра».
+subDescPirateCannonball08|Increases the size and explosion area of effect radius of cannonball.|Увеличивает размер и радиус взрыва «Пушечного ядра».
+subDescPirateCannonball09|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPirateCannonball10|Cannonball no longer explodes on hit but instead knocks monsters back with increased damage according to the amount of shrapnel.|«Пушечное ядро» больше не взрывается, а отбрасывает монстров; урон при этом зависит от количества осколков.
+subDescPirateCannonball11|Cannonball no longer chains but is now piercing and unleashes bombs on every monster hit.|«Пушечное ядро» теперь пронзает врагов и выпускает бомбу при каждом попадании (эффект рикошета отключен).
+subDescPirateCannonball12|Fire multiple cannonballs in an arc with decreased damage and bounces.|Вы выпускаете несколько ядер по дуге; их урон и количество рикошетов снижены.
+subDescPirateCannonball13|Fire a mega cannon ball with increased damage unleashing additional cannonballs around the impact location.|Выпускает исполинское ядро с увеличенным уроном, которое при ударе порождает дополнительные ядра.
+subDescPirateCannonball14|Fire rolling cannon balls traveling forward on the ground exploding with increased radius and inflicting burning on hit.|Ядра теперь катятся по земле и взрываются в большом радиусе, накладывая горение при попадании.
+||
+subPirateExplosiveBullets01|Grouping Up|Тесный контакт
+subPirateExplosiveBullets02|Gunner's Glory|Слава канонира
+subPirateExplosiveBullets03|Shattering Blast|Разрушительный взрыв
+subPirateExplosiveBullets04|Sudden Scatter|Внезапный разброс
+subPirateExplosiveBullets05|Boss Killer|Убийца вожаков
+subPirateExplosiveBullets06|Multiplosion|Серия взрывов
+subPirateExplosiveBullets07|Explosion Site|Эпицентр
+subPirateExplosiveBullets08|Target Locked|Цель захвачена
+subPirateExplosiveBullets09|Napalm Infusion|Напалмовая смесь
+subPirateExplosiveBullets10|Gasoline|Горючее
+subPirateExplosiveBullets11|Chain Reaction|Цепная реакция
+subPirateExplosiveBullets12|Shotwave|Взрывная волна
+subPirateExplosiveBullets13|Blast Pulse|Взрывной импульс
+subPirateExplosiveBullets14|Penetrating Trail|Пронзающий след
+subDescPirateExplosiveBullets01|Chance to attach an additional explosive to a nearby target on hit.|Дает шанс при попадании прикрепить дополнительную взрывчатку к ближайшей цели.
+subDescPirateExplosiveBullets02|Increases the damage dealt by explosive bullets when wielding a gun.|Увеличивает урон «Разрывных пуль» при использовании огнестрельного оружия.
+subDescPirateExplosiveBullets03|Inflicts armor break on hit.|При попадании вызывает пробивание брони.
+subDescPirateExplosiveBullets04|Chance on attack to fire an additional explosive bullet.|Дает шанс выпустить дополнительную «Разрывную пулю» при атаке.
+subDescPirateExplosiveBullets05|Increases the damage dealt by explosive bullets against bosses.|Увеличивает урон «Разрывных пуль» по боссам.
+subDescPirateExplosiveBullets06|Chance on hit to unleash additional explosions.|При попадании дает шанс вызвать дополнительные взрывы.
+subDescPirateExplosiveBullets07|Increases the explosion area of effect radius for explosive bullet.|Увеличивает радиус взрыва «Разрывной пули».
+subDescPirateExplosiveBullets08|Increases attack rating when using explosive bullets.|Увеличивает рейтинг атаки при использовании «Разрывных пуль».
+subDescPirateExplosiveBullets09|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescPirateExplosiveBullets10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPirateExplosiveBullets11|Explosive bullet now explodes multiple times.|«Разрывная пуля» теперь взрывается несколько раз.
+subDescPirateExplosiveBullets12|On hit create a shockwave of explosions towards the target dealing increased damage.|При попадании создает череду взрывов в направлении цели, нанося увеличенный урон.
+subDescPirateExplosiveBullets13|Explosive bullet now deals increased damage and knocks nearby monsters back with massive force.|«Разрывная пуля» наносит увеличенный урон и с огромной силой отбрасывает врагов.
+subDescPirateExplosiveBullets14|Explosive bullet now pierces and sticks explosives to all monsters hit.|«Разрывная пуля» теперь пронзает врагов, прикрепляя взрывчатку к каждой цели на пути.
+||
+subPiratePowderTrail01|Napalm Powder|Напалмовый порох
+subPiratePowderTrail02|Spinning Barrel|Вращающаяся бочка
+subPiratePowderTrail03|Blowing Up|Подрыв
+subPiratePowderTrail04|Colliding Barrel|Удар бочкой
+subPiratePowderTrail05|Heated Powder|Разогретый порох
+subPiratePowderTrail06|Stacked Fumes|Концентрация паров
+subPiratePowderTrail07|Powder Detonation|Детонация пороха
+subPiratePowderTrail08|Dual Barrel|Двойная бочка
+subPiratePowderTrail09|Mage of the Trails|Мастер следов
+subPiratePowderTrail10|Shortened Fuse|Короткий фитиль
+subPiratePowderTrail11|Barrel of Barrels|Бочка с сюрпризом
+subPiratePowderTrail12|Fragmenting Barrel|Осколочная бочка
+subPiratePowderTrail13|Heavy Barrel|Тяжелая бочка
+subPiratePowderTrail14|Flaming Barrels|Пылающие бочки
+subDescPiratePowderTrail01|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescPiratePowderTrail02|Increases the projectile speed of powder trail.|Увеличивает скорость снарядов «Порохового следа».
+subDescPiratePowderTrail03|Increases the damage dealt by barrel explosions.|Увеличивает урон от взрывов бочек.
+subDescPiratePowderTrail04|Increases the damage dealt by powder trail barrels.|Увеличивает урон бочек «Порохового следа».
+subDescPiratePowderTrail05|Increases damage to burning targets.|Увеличивает урон по горящим целям.
+subDescPiratePowderTrail06|Every time the barrel hits an enemy it gives you a stacking buff increasing fire skill damage.|Каждое попадание бочкой дает суммирующийся эффект, увеличивающий урон умений огня.
+subDescPiratePowderTrail07|Chance to unleash a fiery pulse dealing additional damage on hit.|Дает шанс вызвать огненную вспышку при попадании, нанося доп. урон.
+subDescPiratePowderTrail08|Chance on cast to unleash an additional barrel.|Дает шанс при касте выпустить дополнительную бочку.
+subDescPiratePowderTrail09|Increases cast rate when using powder trail.|Увеличивает скорость каста при использовании «Порохового следа».
+subDescPiratePowderTrail10|Increases explosion area of effect but decreases traveling time.|Увеличивает область взрыва, но сокращает время полета бочки.
+subDescPiratePowderTrail11|Send forward a big barrel exploding on hit dealing damage and sending smaller barrels to all directions.|Выпускает вперед большую бочку; при попадании она взрывается и разлетается на бочки поменьше во все стороны.
+subDescPiratePowderTrail12|The barrel stops into terrain or on monster hit releasing flying bombs in an arc forward after exploding.|При попадании в препятствие или врага бочка взрывается, выпуская веер летящих бомб перед собой.
+subDescPiratePowderTrail13|Send forward a slowly rolling barrel that knocks monsters back dealing increased damage and stunning them.|Выпускает медленно катящуюся бочку, которая отбрасывает, оглушает и наносит увеличенный урон.
+subDescPiratePowderTrail14|Send forward multiple barrels. Explosions now sets the ground on fire slowing and dealing damage.|Выпускает несколько бочек; взрывы поджигают землю, замедляя врагов и нанося им периодический урон.
+||
+ubPirateBombBarrage01|Bombardation|Бомбардировка
+subPirateBombBarrage02|Barrage Blasting Radius|Радиус взрыва обстрела
+subPirateBombBarrage03|Bombination|Гул бомб
+subPirateBombBarrage04|Explosive Barrage|Взрывной обстрел
+subPirateBombBarrage05|Piercing Blastwave|Пронзающая взрывная волна
+subPirateBombBarrage06|Scaled Blastradius|Масштабируемый радиус
+subPirateBombBarrage07|Molten Heat Bombs|Раскаленные бомбы
+subPirateBombBarrage08|Sharp Scatter|Острые осколки
+subPirateBombBarrage09|Quick Barrage|Беглый обстрел
+subPirateBombBarrage10|Critical Explosion|Критический взрыв
+subPirateBombBarrage11|Crossed Spot|Перекрестье
+subPirateBombBarrage12|Bomb Shower|Бомбовый ливень
+subPirateBombBarrage13|Rapid Barrage|Скоростной обстрел
+subPirateBombBarrage14|Rain of Bombs|Град бомб
+subDescPirateBombBarrage01|Increases the amount of bombs thrown.|Увеличивает количество бросаемых бомб.
+subDescPirateBombBarrage02|Increases explosion area of effect of bomb barrage.|Увеличивает радиус взрыва «Бомбового обстрела».
+subDescPirateBombBarrage03|Increases the frequency of bombs.|Увеличивает частоту падения бомб.
+subDescPirateBombBarrage04|Increases the damage dealt by bomb barrage.|Увеличивает урон «Бомбового обстрела».
+subDescPirateBombBarrage05|Inflicts fire break on hit.|При попадании вызывает игнорирование сопр. огню.
+subDescPirateBombBarrage06|Increases damage dealt based on your explosion area of effect stat.|Увеличивает урон в зависимости от вашего показателя области взрыва.
+subDescPirateBombBarrage07|Bombs have a chance to scorch the ground dealing additional damage.|Бомбы могут поджечь землю, нанося дополнительный урон.
+subDescPirateBombBarrage08|Chance for bombs to shatter into fragments inflicting bleeding when exploding.|Бомбы могут разлетаться на осколки при взрыве, вызывая кровотечение.
+subDescPirateBombBarrage09|Increases the projectile speed of bomb barrage.|Увеличивает скорость снарядов «Бомбового обстрела».
+subDescPirateBombBarrage10|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescPirateBombBarrage11|Mark a location where to fire all bombs.|Вы выбираете точку, в которую будут сброшены все бомбы.
+subDescPirateBombBarrage12|Fire multiple bombs in all directions from you.|Выпускает несколько бомб во всех направлениях от вас.
+subDescPirateBombBarrage13|Rapidly fire bombs with increased speed dealing area of effect damage and knocking monsters back on hit.|Быстро выпускает бомбы с повышенной скоростью, нанося урон по области и отбрасывая врагов.
+subDescPirateBombBarrage14|Now throw a single bomb marking the target location and dropping multiple bombs from the sky.|Вы бросаете одну бомбу, помечающую цель, после чего с неба обрушивается град бомб.
+||
+subPirateTorrent01|Splash Impact|Сила всплеска
+subPirateTorrent02|Watery Fissure|Водяной разлом
+subPirateTorrent03|Subzero Liquid|Хладная влага
+subPirateTorrent04|Torrenting Current|Бурное течение
+subPirateTorrent05|Waterwalk|Водная поступь
+subPirateTorrent06|Collateral Splash|Побочный всплеск
+subPirateTorrent07|Water Mass|Толща воды
+subPirateTorrent08|Pillar of Water|Водяной столп
+subPirateTorrent09|Ocean´s Might|Мощь океана
+subPirateTorrent10|Hypothermic Liquid|Студеная влага
+subPirateTorrent11|Ocean Storm|Океанский шторм
+subPirateTorrent12|Chaotic Wave|Хаотичная волна
+subPirateTorrent13|Whirlpool|Водоворот
+subPirateTorrent14|Storm Pillar|Столп шторма
+subDescPirateTorrent01|Chance when casting to summon an additional torrent at the closest monster.|Дает шанс при касте вызвать дополнительный поток на ближайшего врага.
+subDescPirateTorrent02|Chance on hit to knock enemies into the air dealing area of effect damage upon landing.|Дает шанс подбросить врагов в воздух; при приземлении они получают урон по области.
+subDescPirateTorrent03|Chance to inflict cold break on hit.|При попадании дает шанс вызвать игнорирование сопр. холоду.
+subDescPirateTorrent04|Torrents now burst additional times.|Потоки теперь срабатывают несколько раз.
+subDescPirateTorrent05|Decreases the movement diminish when using torrent.|Уменьшает штраф к скорости передвижения при использовании «Потока».
+subDescPirateTorrent06|Torrents have a chance on hit to chain their damage dealt to multiple nearby monsters.|При попадании «Поток» может поразить несколько ближайших монстров по цепочке.
+subDescPirateTorrent07|Increases the damage dealt by torrent.|Увеличивает урон «Потока».
+subDescPirateTorrent08|Chance on cast to replace torrent with a watery tornado dealing damage, freezing and lasting for an increased duration.|Дает шанс заменить поток водяным торнадо, который наносит урон, замораживает и дольше существует.
+subDescPirateTorrent09|Increases the size and area of effect of torrent.|Увеличивает размер и область действия «Потока».
+subDescPirateTorrent10|Increases damage dealt to frozen targets.|Увеличивает урон по замороженным целям.
+subDescPirateTorrent11|Unleash multiple torrents around target location.|Вызывает несколько потоков в указанной области.
+subDescPirateTorrent12|Send forward a tsunami unleashing torrents on hit. Torrent now has a cooldown.|Выпускает цунами, порождающее потоки при попадании. «Поток» теперь имеет время восстановления.
+subDescPirateTorrent13|Create a whirlpool sucking in monsters on a large radius eventually collapsing into torrents. Torrent now has a cooldown.|Создает водоворот, затягивающий монстров и превращающийся в серию потоков. «Поток» теперь имеет время восстановления.
+subDescPirateTorrent14|Unleash a big torrent knocking monsters back and airborne with force causing them to take increased damage when hitting the ground.|Вызывает мощный поток, с силой подбрасывающий врагов; при падении они получают увеличенный урон.
+||
+subPirateFreezingChainShot01|Poseidon's Fist|Кулак Посейдона
+subPirateFreezingChainShot02|Precision Chain|Точная цепь
+subPirateFreezingChainShot03|Good Ol' Ways|Старая закалка
+subPirateFreezingChainShot04|Pack a Punch|Крепкий удар
+subPirateFreezingChainShot05|Shatter|Раскол
+subPirateFreezingChainShot06|Ice Age|Ледниковый период
+subPirateFreezingChainShot07|Ice Healing|Ледяное исцеление
+subPirateFreezingChainShot08|Gulf Stream|Гольфстрим
+subPirateFreezingChainShot09|Grip Boots|Цепкие сапоги
+subPirateFreezingChainShot10|Coldspot|Очаг холода
+subPirateFreezingChainShot11|Frozen Chain Rip|Ледяной разрыв
+subPirateFreezingChainShot12|Coldsnap Vacuum|Морозный вакуум
+subPirateFreezingChainShot13|Catch of the Day|Улов дня
+subPirateFreezingChainShot14|Freezing Whiplash|Ледяной хлест
+subDescPirateFreezingChainShot01|Breaks cold resistances on striking.|При попадании вызывает игнорирование сопр. холоду.
+subDescPirateFreezingChainShot02|Increased hit rating.|Увеличивает рейтинг атаки.
+subDescPirateFreezingChainShot03|Gain additional attacks per second while wielding a bow.|Дает бонус к количеству атак в секунду при использовании лука.
+subDescPirateFreezingChainShot04|Increases the projectile speed of freezing chain shot.|Увеличивает скорость снарядов «Замораживающего цепного выстрела».
+subDescPirateFreezingChainShot05|Increases damage dealt to frozen targets.|Увеличивает урон по замороженным целям.
+subDescPirateFreezingChainShot06|Freezes enemies with a chance on striking to deepfreeze them.|Замораживает врагов; при ударе есть шанс наложить глубокую заморозку.
+subDescPirateFreezingChainShot07|Restores a flat amount of health and mana on hit.|Восполняет фиксированное количество здоровья и маны при попадании.
+subDescPirateFreezingChainShot08|Chance on hit to increase your attackspeed for a short duration.|Дает шанс при попадании увеличить скорость атаки на короткое время.
+subDescPirateFreezingChainShot09|Decreases the movement diminish when using freezing chain shot.|Уменьшает штраф к скорости передвижения при использовании «Замораживающего цепного выстрела».
+subDescPirateFreezingChainShot10|Freezing chain shot deals damage in a small area around the targets hit.|«Замораживающий цепной выстрел» наносит урон в небольшой области вокруг цели.
+subDescPirateFreezingChainShot11|Freezing chain shot now chains and pulls chained monsters towards the first target.|«Замораживающий цепной выстрел» теперь сковывает врагов и притягивает их к первой цели.
+subDescPirateFreezingChainShot12|Fire a huge chainshot catching monsters on its way and dealing increased damage and stunning caught monsters when hitting terrain.|Выпускает огромную цепь, захватывающую монстров; при столкновении с препятствием враги оглушаются и получают увеличенный урон.
+subDescPirateFreezingChainShot13|On hit release additional chain shots in all directions.|При попадании выпускает дополнительные цепи во все стороны.
+subDescPirateFreezingChainShot14|When hitting terrain the chainshot spins and grows in size rapidly sending monsters into the air dealing increased damage and stunning them.|При столкновении с препятствием цепь начинает вращаться и быстро расти, подбрасывая и оглушая монстров.
+||
+subPirateParrot01|Peck Peck|Яростный клев
+subPirateParrot02|Birdstrike|Птичий удар
+subPirateParrot03|Flock Gathering|Сбор стаи
+subPirateParrot04|GM Crops|ГМ-корм
+subPirateParrot05|Birdflu Vax|Птичья вакцина
+subPirateParrot06|Target Practise|Учебная стрельба
+subPirateParrot07|Pirate's Best Friend|Лучший друг пирата
+subPirateParrot08|Upper Wing|Крепкое крыло
+subPirateParrot09|Beak of Steel|Стальной клюв
+subPirateParrot10|Killing Command|Команда «Взять!»
+subPirateParrot11|Screech|Визг
+subPirateParrot12|Pecking Pack|Клюющая стая
+subPirateParrot13|Captain's Parrot|Капитанский попугай
+subPirateParrot14|Pecking Order|Иерархия стаи
+subDescPirateParrot01|Increases parrot attack speed.|Увеличивает скорость атаки попугая.
+subDescPirateParrot02|Increases parrot movement speed.|Увеличивает скорость передвижения попугая.
+subDescPirateParrot03|Increases the maximum amount of parrots.|Увеличивает максимальное количество попугаев.
+subDescPirateParrot04|Increases the life and damage dealt by parrots.|Увеличивает здоровье и урон попугаев.
+subDescPirateParrot05|Increases the resistances of parrots.|Повышает сопротивления попугаев.
+subDescPirateParrot06|Increases the damage dealt by parrots against bosses.|Увеличивает урон попугаев по боссам.
+subDescPirateParrot07|Chance on hit to reduce target's damage dealt.|Дает шанс при попадании снизить наносимый целью урон.
+subDescPirateParrot08|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescPirateParrot09|Increases the damage dealt by parrot.|Увеличивает урон попугая.
+subDescPirateParrot10|Parrots have a chance on hit to enrage, significantly increasing their attack speed and damage for a short duration before dying.|Попугаи могут впасть в ярость при попадании, значительно увеличивая свою скорость атаки и урон на короткое время перед смертью.
+subDescPirateParrot11|Parrots now send a traveling screeching wave on attack knocking monsters back dealing increased damage.|При атаке попугаи теперь выпускают визжащую волну, которая отбрасывает монстров и наносит увеличенный урон.
+subDescPirateParrot12|Summon all parrots with one cast empowering the parrots with increased attack speed. Parrot now has a cooldown.|Призывает всех попугаев одним кастом, наделяя их повышенной скоростью атаки. «Попугай» теперь имеет время восстановления.
+subDescPirateParrot13|Now only summon one big parrot scaling with the amount of total parrots attacking with increased radius and damage.|Теперь призывается только один огромный попугай, чей урон и радиус атаки зависят от вашего общего лимита попугаев.
+subDescPirateParrot14|Parrots now unleash a frozen nova every five attacks with increased radius and damage.|Каждую пятую атаку попугаи выпускают кольцо холода с увеличенным радиусом и уроном.
+||
+subPirateAnchorSwing01|On The Deck|На палубу!
+subPirateAnchorSwing02|Rusted Chain|Ржавая цепь
+subPirateAnchorSwing03|Spin to Win|Крути и побеждай
+subPirateAnchorSwing04|Sharpened Bill|Заостренный рог
+subPirateAnchorSwing05|Baby Anchor|Малый якорь
+subPirateAnchorSwing06|iAnchor|Я-якорь
+subPirateAnchorSwing07|Frozen Tip|Ледяной зацеп
+subPirateAnchorSwing08|Cold Smash|Морозный удар
+subPirateAnchorSwing09|Man of War|Линейный корабль
+subPirateAnchorSwing10|Aerodynamic Chain|Обтекаемая цепь
+subPirateAnchorSwing11|Anchoring the Anchor|Якорь на привязи
+subPirateAnchorSwing12|Extended Weight|Утяжелитель
+subPirateAnchorSwing13|Colossal Anchor|Колоссальный якорь
+subPirateAnchorSwing14|Trembling Smash|Сотрясающий удар
+subDescPirateAnchorSwing01|Decreases movement diminish when using anchor swing.|Уменьшает штраф к скорости передвижения при использовании «Взмаха якорем».
+subDescPirateAnchorSwing02|Inflicts cold break on hit.|При попадании вызывает игнорирование сопр. холоду.
+subDescPirateAnchorSwing03|Increases the duration of anchor swing.|Увеличивает длительность «Взмаха якорем».
+subDescPirateAnchorSwing04|Increases damage dealt by anchor.|Увеличивает урон якоря.
+subDescPirateAnchorSwing05|Chance on cast to summon a small anchor spinning close to the pirate.|Дает шанс при касте призвать малый якорь, вращающийся рядом с пиратом.
+subDescPirateAnchorSwing06|Chance on cast to unleash an additional anchor.|Дает шанс при касте выпустить дополнительный якорь.
+subDescPirateAnchorSwing07|Increases damage dealt by anchor and freezes monsters on hit.|Увеличивает урон якоря и замораживает монстров при попадании.
+subDescPirateAnchorSwing08|Increases damage to frozen targets.|Увеличивает урон по замороженным целям.
+subDescPirateAnchorSwing09|Increases anchor size and area of effect radius.|Увеличивает размер якоря и радиус его области действия.
+subDescPirateAnchorSwing10|Increases the spinning speed.|Увеличивает скорость вращения.
+subDescPirateAnchorSwing11|Throw the anchor on target location unleashing another anchor swinging around that one with increased radius.|Вы бросаете якорь в указанную точку; он начинает вращаться, увлекая за собой еще один якорь с увеличенным радиусом.
+subDescPirateAnchorSwing12|Anchor now has an additional spinning anchor attached to it.|К основному якорю теперь прикреплен дополнительный вращающийся якорь.
+subDescPirateAnchorSwing13|Unleash a massive anchor covering a wide radius with increased damage. Anchor swing now has a cooldown.|Вы выпускаете массивный якорь, накрывающий огромную область и наносящий увеличенный урон. «Взмах якорем» теперь имеет время восстановления.
+subDescPirateAnchorSwing14|Send the anchor forward unleashing a shockwave of torrents to all directions when hitting terrain.|Вы бросаете якорь вперед; при столкновении с препятствием он вызывает ударную волну потоков во всех направлениях.
+||
+subPirateLandAhoy01|Armada|Армада
+subPirateLandAhoy02|Fire All!|Залп из всех орудий!
+subPirateLandAhoy03|Rum Infused Ammo|Ромовая шрапнель
+subPirateLandAhoy04|Blunder Bombs|Разрывные бомбы
+subPirateLandAhoy05|Warheads|Боеголовки
+subPirateLandAhoy06|Strategic Airstrikes|Стратегический обстрел
+subPirateLandAhoy07|Food for Cannon|Пушечное мясо
+subPirateLandAhoy08|Sonic Impact|Звуковой удар
+subPirateLandAhoy09|MOAB|MOAB
+subPirateLandAhoy10|Fuel to the Fire|Масло в огонь
+subPirateLandAhoy11|Concentrated Blast Radius|Кучный взрыв
+subPirateLandAhoy12|Land Annihilation|Аннигиляция суши
+subPirateLandAhoy13|Traveling Bombardment|Походный обстрел
+subPirateLandAhoy14|Reign of Fire|Власть огня
+subDescPirateLandAhoy01|Increases the amount of bombs fired.|Увеличивает количество сбрасываемых бомб.
+subDescPirateLandAhoy02|Decreases the cooldown of land ahoy.|Снижает время восстановления умения «Земля на горизонте!».
+subDescPirateLandAhoy03|Bombs have a chance to explode an additional time.|Бомбы могут сдетонировать повторно.
+subDescPirateLandAhoy04|Increases explosion area of effect radius of land ahoy.|Увеличивает радиус взрыва умения «Земля на горизонте!».
+subDescPirateLandAhoy05|Increases the damage dealt by land ahoy.|Увеличивает урон умения «Земля на горизонте!».
+subDescPirateLandAhoy06|Chance on cast to fire additional bombs towards nearby monsters.|Дает шанс при касте выпустить дополнительные бомбы в ближайших монстров.
+subDescPirateLandAhoy07|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescPirateLandAhoy08|Chance on hit to stun.|Дает шанс оглушить при попадании.
+subDescPirateLandAhoy09|Chance on cast to fire larger bombs knocking monsters airborne on hit dealing increased damage.|Дает шанс при касте выпустить крупные бомбы, которые подбрасывают монстров и наносят увеличенный урон.
+subDescPirateLandAhoy10|Increases bomb damage based on explosion area of effect stat.|Увеличивает урон бомб в зависимости от вашего показателя области взрыва.
+subDescPirateLandAhoy11|Significantly decreases the area of effect radius of land ahoy! and increasing the amount of cannon balls. |Значительно уменьшает радиус области действия «Земля на горизонте!», но увеличивает количество пушечных ядер.
+subDescPirateLandAhoy12|Drop a reduced amount of big bombs on a significantly larger radius. Land Ahoy! now has a cooldown. |Обрушивает меньше бомб, но они огромного размера и накрывают значительно большую область. «Земля на горизонте!» теперь имеет время восстановления.
+subDescPirateLandAhoy13|Mark a location and fire bombs landing from your location to target location in a narrow line.|Вы выбираете точку, и бомбы падают от вас до цели по узкой линии.
+subDescPirateLandAhoy14|Damage type is changed to Fire. Explosive Barrels rain from the sky inflicting burning on hit |Тип урона меняется на огонь. С неба обрушиваются взрывные бочки, накладывающие горение при попадании.

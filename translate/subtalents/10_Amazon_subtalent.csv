@@ -1,0 +1,289 @@
+subAmazonNoxiousStrike01|Corrosive Force|Коррозийная сила
+subAmazonNoxiousStrike02|Touch of Noxus|Прикосновение Ноксуса
+subAmazonNoxiousStrike03|Empowered Toxins|Усиленные токсины
+subAmazonNoxiousStrike04|Noxious Bolts|Ядовитые снаряды
+subAmazonNoxiousStrike05|Noxian Slash|Ноксианский разрез
+subAmazonNoxiousStrike06|Corrosive Reach|Коррозийный охват
+subAmazonNoxiousStrike07|Envenoming Empowerment|Ядовитое усиление
+subAmazonNoxiousStrike08|Glimmering Venom|Мерцающий яд
+subAmazonNoxiousStrike09|Crushing Corrosion|Сокрушительная коррозия
+subAmazonNoxiousStrike10|Noxious Duality|Ядовитая двойственность
+subAmazonNoxiousStrike11|Spinning Speartips|Вращающиеся наконечники
+subAmazonNoxiousStrike12|Explosive Toxins|Взрывные токсины
+subAmazonNoxiousStrike13|Elemental Fragmentation|Стихийное расщепление
+subAmazonNoxiousStrike14|Noxious Sequence|Ядовитая серия
+subDescAmazonNoxiousStrike01|Increases damage dealt by noxious strike.|Увеличивает урон «Ядовитого удара».
+subDescAmazonNoxiousStrike02|Increases poisoned damage inflicted by noxious strike.|Увеличивает урон от яда, наносимый «Ядовитым ударом».
+subDescAmazonNoxiousStrike03|Increases damage dealt to poisoned targets.|Увеличивает урон по отравленным целям.
+subDescAmazonNoxiousStrike04|Increases projectile count on your third attack.|Увеличивает количество снарядов при каждой третьей атаке.
+subDescAmazonNoxiousStrike05|Increases the damage and area of effect of your third attack.|Увеличивает урон и область действия каждой третьей атаки.
+subDescAmazonNoxiousStrike06|Increased attack damage and attack range while wielding a polearm.|Увеличивает урон и дальность атаки при использовании древкового оружия.
+subDescAmazonNoxiousStrike07|Killing a monster with noxious strike grants you a burst of movement speed.|Убийство монстра «Ядовитым ударом» дает кратковременный бонус к скорости передвижения.
+subDescAmazonNoxiousStrike08|Increases poison damage dealt by noxious strike.|Увеличивает урон ядом «Ядовитого удара».
+subDescAmazonNoxiousStrike09|Chance to inflict poison break on hit.|Дает шанс вызвать игнорирование сопр. яду при попадании.
+subDescAmazonNoxiousStrike10|Chance on attack to perform an additional noxious strike.|Дает шанс провести дополнительный «Ядовитый удар» при атаке.
+subDescAmazonNoxiousStrike11|Throw multiple spears on your third attack in an arc. The spears start spinning when hitting the ground dealing area of effect damage for a short period.|При каждой третьей атаке вы бросаете веер копий; при попадании в землю они вращаются и наносят урон по области.
+subDescAmazonNoxiousStrike12|Poison projectiles explode on hit, dissolving into an acidic pool inflicting poison break and dealing additional damage. Acidic pool area of effect radius is increased based on your dexterity.|Ядовитые снаряды взрываются при попадании, оставляя кислотную лужу, которая вызывает игнорирование сопр. яду. Радиус лужи зависит от вашей ловкости.
+subDescAmazonNoxiousStrike13|Increases damage dealt by noxious strike and inflicts stacking elemental break on hit.|Увеличивает урон «Ядовитого удара» и накладывает суммирующееся игнорирование сопр. стихиям.
+subDescAmazonNoxiousStrike14|Perform additional spin attacks after the third one.|Добавляет дополнительные вращательные атаки после каждого третьего удара.
+||
+subAmazonLeapingAmbush01|Power Quads|Мощные мышцы
+subAmazonLeapingAmbush02|Heavyweight Slam|Тяжелый удар
+subAmazonLeapingAmbush03|Tribal Spearnage|Копье предков
+subAmazonLeapingAmbush04|Landing Blast|Взрыв при приземлении
+subAmazonLeapingAmbush05|Stunning Smash|Оглушающий сокрушитель
+subAmazonLeapingAmbush06|Crippling the Weak|Истязание слабых
+subAmazonLeapingAmbush07|Venomous Blastwave|Ядовитая взрывная волна
+subAmazonLeapingAmbush08|Adrenaline Rush|Прилив адреналина
+subAmazonLeapingAmbush09|Anti-Antidote|Анти-антидот
+subAmazonLeapingAmbush10|Stoneskinned Warrior|Каменнокожий воин
+subAmazonLeapingAmbush11|Envenomous Groundslam|Ядовитый удар о землю
+subAmazonLeapingAmbush12|Master of Agility|Мастер ловкости
+subAmazonLeapingAmbush13|Arc of Spears|Веер копий
+subAmazonLeapingAmbush14|Ground Stomper|Сотрясатель земли
+subDescAmazonLeapingAmbush01|Increases maximum leap distance.|Увеличивает максимальную дальность прыжка.
+subDescAmazonLeapingAmbush02|Increases damage dealt by leaping ambush.|Увеличивает урон «Прыжка из засады».
+subDescAmazonLeapingAmbush03|Chance to rain down falling spears on hit dealing additional damage.|Дает шанс обрушить на врагов град копий при попадании, нанося доп. урон.
+subDescAmazonLeapingAmbush04|Increases the area of effect radius of leaping ambush.|Увеличивает радиус области действия «Прыжка из засады».
+subDescAmazonLeapingAmbush05|Chance on hit to stun the target.|Дает шанс оглушить цель при попадании.
+subDescAmazonLeapingAmbush06|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescAmazonLeapingAmbush07|Chance on hit to inflict poisoned.|Дает шанс наложить отравление при попадании.
+subDescAmazonLeapingAmbush08|Landing grants you a burst of attack speed and cast rate.|Приземление временно увеличивает вашу скорость атаки и скорость каста.
+subDescAmazonLeapingAmbush09|Inflicts poison break on hit.|При попадании вызывает игнорирование сопр. яду.
+subDescAmazonLeapingAmbush10|Gain increased damage reduction when leaping.|Увеличивает снижение урона во время прыжка.
+subDescAmazonLeapingAmbush11|Unleash a burst of poison from the ground on hit dealing increased damage and inflicting poisoned.|При попадании высвобождает из земли ядовитую вспышку, нанося увеличенный урон и накладывая отравление.
+subDescAmazonLeapingAmbush12|Leaping ambush can now be casted through terrain with decreased damage.|«Прыжок из засады» теперь можно использовать сквозь препятствия; наносимый урон при этом снижен.
+subDescAmazonLeapingAmbush13|Throw multiple piercing spears around you upon landing dealing increased damage.|При приземлении вы выпускаете во все стороны пронзающие копья, наносящие увеличенный урон.
+subDescAmazonLeapingAmbush14|When landing, stomp the ground multiple times with increased area of effect radius and dealing increased damage.|При приземлении вы несколько раз бьете по земле; радиус и урон ударов увеличены.
+||
+subAmazonCausticSpearhead01|Stocked Quiver|Полный колчан
+subAmazonCausticSpearhead02|Caustic Liquid|Едкая жидкость
+subAmazonCausticSpearhead03|Fierce Spearheads|Свирепые наконечники
+subAmazonCausticSpearhead04|Venomous Touch|Ядовитое касание
+subAmazonCausticSpearhead05|Splintering Arrows|Расщепляющиеся стрелы
+subAmazonCausticSpearhead06|Tribal Hunter's Aim|Меткость охотника
+subAmazonCausticSpearhead07|Rapid Arrows|Быстрые стрелы
+subAmazonCausticSpearhead08|Additional Venom|Дополнительный яд
+subAmazonCausticSpearhead09|Arrow Wound|Рана от стрелы
+subAmazonCausticSpearhead10|Erupting Spearheads|Взрывные наконечники
+subAmazonCausticSpearhead11|Caustic Arc|Едкая дуга
+subAmazonCausticSpearhead12|Caustic Rampage|Едкое буйство
+subAmazonCausticSpearhead13|Toxic Spores|Токсичные споры
+subAmazonCausticSpearhead14|Venomous Burst|Ядовитый взрыв
+subDescAmazonCausticSpearhead01|Increases projectile amount.|Увеличивает количество снарядов.
+subDescAmazonCausticSpearhead02|Increases poisoned damage inflicted by caustic spearhead.|Увеличивает урон от яда, наносимый «Едким острием».
+subDescAmazonCausticSpearhead03|Increases damage dealt by caustic spearhead.|Увеличивает урон «Едкого острия».
+subDescAmazonCausticSpearhead04|Inflicts the target with stacks of venom on hit increasing damage dealt by poisoned.|При попадании накладывает заряды яда, которые увеличивают урон, получаемый целью от отравления.
+subDescAmazonCausticSpearhead05|Spearheads have a chance to fork on hit with increased damage.|Наконечники могут разделиться при попадании, нанося увеличенный урон.
+subDescAmazonCausticSpearhead06|Increases attack rating when using caustic spearhead.|Увеличивает рейтинг атаки при использовании «Едкого острия».
+subDescAmazonCausticSpearhead07|Increases projectile speed.|Увеличивает скорость полета снаряда.
+subDescAmazonCausticSpearhead08|Chance to inflict poison break on hit.|Дает шанс вызвать игнорирование сопр. яду при попадании.
+subDescAmazonCausticSpearhead09|Chance for spearheads to get stuck on enemies dealing damage over time for a short period.|Наконечники могут вонзиться во врагов, нанося периодический урон в течение короткого времени.
+subDescAmazonCausticSpearhead10|Chance for spearheads to explode on hit dealing increased damage with increased area of effect radius.|Дает шанс наконечникам взорваться при попадании; урон и радиус взрыва увеличены.
+subDescAmazonCausticSpearhead11|Split spearheads into multiple arrows in a circle around the target on hit.|При попадании наконечник разлетается на несколько стрел во все стороны от цели.
+subDescAmazonCausticSpearhead12|Fire additional smaller spearheads in a tighter spread increasing chance of dealing critical strikes and dealing increased critical strike damage.|Выпускает дополнительные малые наконечники с меньшим разбросом, увеличивая шанс критического удара и критический урон.
+subDescAmazonCausticSpearhead13|Caustic spearhead leaves spores behind seeking nearby monsters and exploding on hit dealing additional damage and inflicting poisoned.|«Едкое острие» оставляет после себя споры, которые ищут ближайшие цели и взрываются при попадании, нанося доп. урон и накладывая отравление.
+subDescAmazonCausticSpearhead14|Whenever a monster reaches maximum stacks of venom it unleashes a burst of poison dealing the full damage of venom consuming it.|При достижении максимума зарядов яда происходит вспышка, наносящая весь накопленный урон яда разом и поглощающая заряды.
+||
+subAmazonDeathFromAbove01|Rapid Spearhandling|Быстрое метание
+subAmazonDeathFromAbove02|Heavy Spears|Тяжелые копья
+subAmazonDeathFromAbove03|Icebreaking Spearshower|Ледобойный ливень
+subAmazonDeathFromAbove04|Spearhandler's Intellect|Интеллект копьеносца
+subAmazonDeathFromAbove05|Need for Speed|Жажда скорости
+subAmazonDeathFromAbove06|Beast Slayer|Убийца зверей
+subAmazonDeathFromAbove07|Safeheaven|Тихая гавань
+subAmazonDeathFromAbove08|Critical Arrowfall|Критический град
+subAmazonDeathFromAbove09|Stacking Life|Накопление здоровья
+subAmazonDeathFromAbove10|Dual Spearshower|Двойной ливень
+subAmazonDeathFromAbove11|Spear Delivery|Запуск копья
+subAmazonDeathFromAbove12|Ancient Device|Древний механизм
+subAmazonDeathFromAbove13|Detonation Shower|Разрывной ливень
+subAmazonDeathFromAbove14|Storm of Spears|Шторм копий
+subDescAmazonDeathFromAbove01|Increases cast rate when using death from above.|Увеличивает скорость каста при использовании «Смерти с небес».
+subDescAmazonDeathFromAbove02|Increases falling speed and damage dealt by death from above.|Увеличивает скорость падения копий и урон «Смерти с небес».
+subDescAmazonDeathFromAbove03|Increases damage dealt by death from above to monsters at maximum life.|Увеличивает урон «Смерти с небес» по монстрам с полным здоровьем.
+subDescAmazonDeathFromAbove04|Decreases mana cost when using death from above.|Снижает затраты маны на «Смерть с небес».
+subDescAmazonDeathFromAbove05|Death from above deals additional damage based on your bonus movement speed.|«Смерть с небес» наносит дополнительный урон в зависимости от вашего бонуса к скорости передвижения.
+subDescAmazonDeathFromAbove06|Increases damage dealt to bosses.|Увеличивает урон по боссам.
+subDescAmazonDeathFromAbove07|If there are no nearby enemies, death from above covers a larger area with increased damage.|Если поблизости нет врагов, «Смерть с небес» поражает большую область и наносит увеличенный урон.
+subDescAmazonDeathFromAbove08|Now has a chance to critically strike dealing increased damage based on your critical strike damage.|Дает шанс нанести критический удар, урон которого зависит от вашего показателя критического урона.
+subDescAmazonDeathFromAbove09|Increase your maximum life and mana on hit for a short period.|Кратковременно увеличивает ваше максимальное здоровье и ману при попадании.
+subDescAmazonDeathFromAbove10|Chance to fire an additional death from above.|Дает шанс вызвать повторную «Смерть с небес».
+subDescAmazonDeathFromAbove11|Throw multiple spears in an arc unleashing death from above on hit.|Вы бросаете веер копий, которые вызывают «Смерть с небес» при попадании.
+subDescAmazonDeathFromAbove12|Summon an ancient device periodically firing death from above on nearby targets based on your cooldown recovery.|Призывает древний механизм, который периодически применяет «Смерть с небес» к ближайшим целям; частота зависит от вашего восстановления умений.
+subDescAmazonDeathFromAbove13|Chance on landing for spears to explode dealing increased damage.|Дает шанс копьям взорваться при приземлении, нанося увеличенный урон.
+subDescAmazonDeathFromAbove14|Multiple waves of spears rain down over time in a larger area that slowly follows the closest enemy. Death from above now has a small cooldown.|Несколько волн копий падают в обширной области, которая медленно следует за ближайшим врагом. «Смерть с небес» теперь имеет небольшое время восстановления.
+||
+subAmazonEnvenom01|Toxic Fortune|Ядовитая удача
+subAmazonEnvenom02|Empowered Toxin|Усиленный токсин
+subAmazonEnvenom03|Toxic Afterburst|Вторичный выброс
+subAmazonEnvenom04|Corrosive Liquid|Едкая жидкость
+subAmazonEnvenom05|Lifesap|Вытягивание жизни
+subAmazonEnvenom06|Toxic Reach|Токсичный охват
+subAmazonEnvenom07|Spreading Disease|Распространение болезни
+subAmazonEnvenom08|Crippling Poison|Калечащий яд
+subAmazonEnvenom09|Added Venom|Дополнительный яд
+subAmazonEnvenom10|Venom Overflow|Переполнение ядом
+subAmazonEnvenom11|Stacked Weakness|Накопленная слабость
+subAmazonEnvenom12|Rapid End|Скорая кончина
+subAmazonEnvenom13|Envenova|Ядовитая нова
+subAmazonEnvenom14|Venomwave|Ядовитая волна
+subDescAmazonEnvenom01|Increases envenom proc chance.|Увеличивает шанс срабатывания «Отравления».
+subDescAmazonEnvenom02|Increases poisoned damage inflicted by envenom.|Увеличивает урон от яда, наносимый «Отравлением».
+subDescAmazonEnvenom03|Chance for a fissure to burst twice on hit.|Дает шанс трещине взорваться дважды при попадании.
+subDescAmazonEnvenom04|Increases damage dealt by envenom.|Увеличивает урон «Отравления».
+subDescAmazonEnvenom05|Chance to unleash a venomous nova dealing poison damage.|Дает шанс выпустить ядовитую нову, наносящую урон ядом.
+subDescAmazonEnvenom06|Increases the area of effect radius of envenom.|Увеличивает радиус области действия «Отравления».
+subDescAmazonEnvenom07|Chance to unleash an additional envenom on a nearby monster on hit.|При попадании дает шанс вызвать дополнительное «Отравление» на ближайшем монстре.
+subDescAmazonEnvenom08|Inflicts slow on hit.|При попадании накладывает замедление.
+subDescAmazonEnvenom09|Increases damage to poisoned targets.|Увеличивает урон по отравленным целям.
+subDescAmazonEnvenom10|Chance to increase poisoned damage on hit.|Дает шанс увеличить урон от отравления при попадании.
+subDescAmazonEnvenom11|Inflict stacking poison break on hit.|При попадании накладывает суммирующееся игнорирование сопр. яду.
+subDescAmazonEnvenom12|Increases poisoned damage and the tick frequency of poisoned.|Увеличивает урон от отравления и частоту тактов урона.
+subDescAmazonEnvenom13|Unleash a poisonous nova instead with increased damage.|Вместо этого выпускает ядовитую нову с увеличенным уроном.
+subDescAmazonEnvenom14|Unleash waves of fissures from targets dealing additional damage.|Вызывает волны трещин от целей, нанося дополнительный урон.
+||
+subAmazonAstropesGift01|Master of Javelin|Мастер дротика
+subAmazonAstropesGift02|Power Current|Поток силы
+subAmazonAstropesGift03|Astrope's Curse|Проклятие Астропы
+subAmazonAstropesGift04|Astrope's Revenge|Месть Астропы
+subAmazonAstropesGift05|Rapid Momentum|Стремительный импульс
+subAmazonAstropesGift06|Powerstasis|Силовой стазис
+subAmazonAstropesGift07|Ending Fate|Роковой исход
+subAmazonAstropesGift08|Astrope's Agility|Проворство Астропы
+subAmazonAstropesGift09|Astrope's Dexterity|Ловкость Астропы
+subAmazonAstropesGift10|Zapping Voltage|Разящее напряжение
+subAmazonAstropesGift11|Surging Stormbolt|Бушующий грозовой разряд
+subAmazonAstropesGift12|Thundering Storm|Грозовая буря
+subAmazonAstropesGift13|Critical Thunderbolt|Критический удар грома
+subAmazonAstropesGift14|Eye of Storm|Око бури
+subDescAmazonAstropesGift01|Fire additional projectiles when using a throwing weapon.|Выпускает дополнительные снаряды при использовании метательного оружия.
+subDescAmazonAstropesGift02|Increases damage dealt by astrope’s gift.|Увеличивает урон «Дара Астропы».
+subDescAmazonAstropesGift03|Chance to inflict lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
+subDescAmazonAstropesGift04|Chance to unleash an additional lightning bolt on hit.|Дает шанс выпустить дополнительную молнию при попадании.
+subDescAmazonAstropesGift05|Grants you a stacking attack speed buff on hit. All stacks are lost if you miss.|При попадании дает суммирующийся эффект скорости атаки; при промахе все заряды теряются.
+subDescAmazonAstropesGift06|Lightning bolts have a chance to deal double damage.|Разряды молнии могут нанести двойной урон.
+subDescAmazonAstropesGift07|Increases damage to bosses when using polearms or throwing weapons.|Увеличивает урон по боссам при использовании древкового или метательного оружия.
+subDescAmazonAstropesGift08|Decreases movement diminish when using astrope’s gift.|Уменьшает штраф к скорости передвижения при использовании «Дара Астропы».
+subDescAmazonAstropesGift09|Increases attack rating when using astrope’s gift.|Увеличивает рейтинг атаки при использовании «Дара Астропы».
+subDescAmazonAstropesGift10|Chance to inflict stasis on hit.|Дает шанс наложить стазис при попадании.
+subDescAmazonAstropesGift11|Lightning strikes now unleash an AoE pulse with increased area of effect radius and damage.|Удары молнии теперь создают импульс, наносящий увеличенный урон по области.
+subDescAmazonAstropesGift12|Summons a thundering storm dealing area of effect damage for a short period instead of a lightning bolt.|Вместо молнии призывает грозовую бурю, наносящую урон по области в течение короткого времени.
+subDescAmazonAstropesGift13|Lightning bolts can critically hit dealing increased critical strike damage when using polearms or throwing weapons.|Молнии могут наносить критические удары с повышенным уроном при использовании древкового или метательного оружия.
+subDescAmazonAstropesGift14|Summon a storm following you and rapidly shrinking. Hitting a monster causes the storm to grow in size.|Призывает бурю, которая следует за вами и быстро уменьшается; попадания по монстрам увеличивают её размер.
+||
+subAmazonRebound01|Jumping Spear|Прыгающее копье
+subAmazonRebound02|Damascus Speartip|Дамасский наконечник
+subAmazonRebound03|Reaching Ricochet|Дальний рикошет
+subAmazonRebound04|Splitting Speartip|Разделяющийся наконечник
+subAmazonRebound05|Multi Rebound|Множественный отскок
+subAmazonRebound06|Accurate Spearshot|Точный бросок
+subAmazonRebound07|Increasing Odds|Растущие шансы
+subAmazonRebound08|Penetrating Rebound|Пронзающий рикошет
+subAmazonRebound09|Marksmanship|Меткость
+subAmazonRebound10|Rapidfly|Стремительный полет
+subAmazonRebound11|Electrocharged Rebound|Заряженный рикошет
+subAmazonRebound12|Rebomb|Взрывной рикошет
+subAmazonRebound13|Orbital Rebound|Орбитальный рикошет
+subAmazonRebound14|Kickback Projectile|Возвратный снаряд
+subDescAmazonRebound01|Increases the amount of rebounds.|Увеличивает количество отскоков.
+subDescAmazonRebound02|Increases the damage dealt by rebound.|Увеличивает урон «Рикошета».
+subDescAmazonRebound03|Increases the maximum range of rebound.|Увеличивает максимальную дальность «Рикошета».
+subDescAmazonRebound04|Chance on hit for the rebound projectile to split into an additional rebound.|Дает шанс снаряду разделиться при попадании, создав дополнительный отскок.
+subDescAmazonRebound05|Increases the amount of rebounds from the initial hit. Damage is reduced.|Увеличивает количество отскоков при первом попадании, но снижает урон.
+subDescAmazonRebound06|Increases attack rating when using rebound.|Увеличивает рейтинг атаки при использовании «Рикошета».
+subDescAmazonRebound07|Rebound gains additional crit damage on each bounce.|Каждый отскок увеличивает критический урон снаряда.
+subDescAmazonRebound08|Chance to lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
+subDescAmazonRebound09|Increases attack speed when using a bow with rebound.|Увеличивает скорость атаки при использовании лука с «Рикошетом».
+subDescAmazonRebound10|Increases the projectile speed of rebound.|Увеличивает скорость полета снарядов «Рикошета».
+subDescAmazonRebound11|Chance to strike targets with bolts of lightning on hit.|Дает шанс поразить цель молнией при попадании.
+subDescAmazonRebound12|Rebound now increases its damage and size with every bounce and explodes at the end dealing damage on a large radius.|Урон и размер снаряда растут с каждым отскоком; в конце пути он взрывается, нанося урон в большом радиусе.
+subDescAmazonRebound13|When hitting an enemy spawn the rebound projectile orbiting you until it hits a monster.|При попадании во врага снаряд начинает вращаться вокруг вас, пока не поразит нового монстра.
+subDescAmazonRebound14|Rebound projectiles now return to you instead of expiring dealing increased damage to monsters on its path.|Снаряды теперь возвращаются к вам, нанося увеличенный урон всем монстрам на пути.
+||
+subAmazonSpearnage01|Lethal Spearstorm|Смертоносный шквал
+subAmazonSpearnage02|Spear Storm|Град копий
+subAmazonSpearnage03|Accurate Spearing|Точные броски
+subAmazonSpearnage04|Thundertips|Громовые наконечники
+subAmazonSpearnage05|Timefunneling Spears|Нарастающие копья
+subAmazonSpearnage06|Pointy Ends|Острые наконечники
+subAmazonSpearnage07|Swift Glaives|Быстрые глефы
+subAmazonSpearnage08|Swiftstepping|Стремительный шаг
+subAmazonSpearnage09|Conqueror of Light|Завоеватель света
+subAmazonSpearnage10|Sudden Flank|Внезапный обход
+subAmazonSpearnage11|Spinning to Win|Победный вихрь
+subAmazonSpearnage12|Lightning Ball|Шаровая молния
+subAmazonSpearnage13|Boomerang Spears|Возвратные копья
+subAmazonSpearnage14|Explosive Speartips|Взрывные наконечники
+subDescAmazonSpearnage01|Increases the physical damage dealt by spearnage.|Увеличивает физический урон умения «Град копий».
+subDescAmazonSpearnage02|Increases the amount of spears thrown.|Увеличивает количество метаемых копий.
+subDescAmazonSpearnage03|Increases attack rating when using spearnage.|Увеличивает рейтинг атаки при использовании умения «Град копий».
+subDescAmazonSpearnage04|Increases lightning damage dealt by spearnage.|Увеличивает урон молнией умения «Град копий».
+subDescAmazonSpearnage05|Spears grow in size and gain increased damage while traveling.|Копья увеличиваются в размере и наносят больше урона по мере полета.
+subDescAmazonSpearnage06|Chance to inflict lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
+subDescAmazonSpearnage07|Increases spearnage projectile speed.|Увеличивает скорость полета копий.
+subDescAmazonSpearnage08|Decreases movement diminish when using spearnage.|Уменьшает штраф к скорости передвижения при использовании умения «Град копий».
+subDescAmazonSpearnage09|Increases damage dealt to bosses.|Увеличивает урон по боссам.
+subDescAmazonSpearnage10|Spears have a chance to ricochet towards another target on hit.|Копья могут срикошетить в другую цель при попадании.
+subDescAmazonSpearnage11|Rapidly throw spears around you for a short duration dealing increased damage.|Вы быстро бросаете копья вокруг себя в течение короткого времени, нанося увеличенный урон.
+subDescAmazonSpearnage12|Chance on hit to spawn a ball of lightning traveling forward dealing increased lightning damage.|Дает шанс при попадании создать шаровую молнию, летящую вперед и наносящую урон молнией.
+subDescAmazonSpearnage13|Spears now return to you dealing increased damage.|Копья теперь возвращаются к вам, нанося увеличенный урон.
+subDescAmazonSpearnage14|Spears have a chance to explode on hit dealing area of effect damage on an increased radius.|Копья могут взорваться при попадании, нанося урон по области в увеличенном радиусе.
+||
+subAmazonStormDash01|Agile Zapper|Проворный разряд
+subAmazonStormDash02|Zapping Force|Сила разряда
+subAmazonStormDash03|Bouncing Current|Отскакивающий ток
+subAmazonStormDash04|Thunderfall|Громопад
+subAmazonStormDash05|Hopping Surge|Всплеск в прыжке
+subAmazonStormDash06|Landing Surge|Всплеск приземления
+subAmazonStormDash07|Lightning Strikes|Удары молнии
+subAmazonStormDash08|Voltage Struck|Вольтовый удар
+subAmazonStormDash09|Electric Current|Электрический ток
+subAmazonStormDash10|Agility Over Power|Ловкость превыше силы
+subAmazonStormDash11|Lightning Trail|Грозовой след
+subAmazonStormDash12|Storm Orbs|Сферы шторма
+subAmazonStormDash13|Storm Gates|Врата шторма
+subAmazonStormDash14|Pillar of Storm|Столп бури
+subDescAmazonStormDash01|Increases the frequency of chain lightnings.|Увеличивает частоту возникновения цепных молний.
+subDescAmazonStormDash02|Increases damage dealt by storm dash.|Увеличивает урон «Штормового рывка».
+subDescAmazonStormDash03|Increases the amount of chain lightning bounces.|Увеличивает количество отскоков цепной молнии.
+subDescAmazonStormDash04|Chain lightning has a chance to call down a thunderbolt on the target dealing additional damage.|Цепная молния может обрушить на цель громовой разряд, наносящий дополнительный урон.
+subDescAmazonStormDash05|Increases the maximum range of storm dash.|Увеличивает максимальную дальность «Штормового рывка».
+subDescAmazonStormDash06|When landing unleash a lightning explosion for additional area of effect damage and stunning on hit.|Приземление вызывает взрыв молнии, наносящий урон по области и оглушающий врагов.
+subDescAmazonStormDash07|Unleash lightning strikes on nearby monsters when landing.|При приземлении поражает ближайших монстров ударами молнии.
+subDescAmazonStormDash08|Chance to stun on hit.|Дает шанс оглушить при попадании.
+subDescAmazonStormDash09|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescAmazonStormDash10|You can now travel through terrain but the damage of storm dash is reduced.|Теперь вы можете перемещаться сквозь препятствия, но урон «Штормового рывка» снижен.
+subDescAmazonStormDash11|Leave behind a trail of lightning inflicting electrified and lightning break.|Вы оставляете за собой след из молний, накладывающий электризацию и вызывающий игнорирование сопр. молнии.
+subDescAmazonStormDash12|Landing on monsters summons lightning bolts orbiting around you continuously zapping nearby monsters with chain lightning. Storm dash now has a cooldown.|Приземление на монстров призывает сферы молний, которые кружат вокруг вас и бьют ближайших врагов цепными разрядами. Умение теперь имеет время восстановления.
+subDescAmazonStormDash13|Blink to target location summoning a lightning storm unleashing chain lightning on hit.|Вы мгновенно перемещаетесь в указанную точку, вызывая грозу, которая выпускает цепные молнии при попадании.
+subDescAmazonStormDash14|Leave behind a pillar of storm. Pillars of storm are linked with a chain of lightning dealing damage and inflicting stasis on hit.|Вы оставляете за собой столпы бури; они соединяются цепями молний, нанося урон и накладывая стазис.
+||
+subAmazonThunderFury01|Roaring Thunder|Ревущий гром
+subAmazonThunderFury02|Breaking Thunder|Сокрушительный гром
+subAmazonThunderFury03|Photonic Transfer|Световой перенос
+subAmazonThunderFury04|Thunderstep|Громовой шаг
+subAmazonThunderFury05|Storm´s Wisdom|Мудрость шторма
+subAmazonThunderFury06|Tectonic Hit|Тектонический удар
+subAmazonThunderFury07|Tectonic Tremors|Тектонические толчки
+subAmazonThunderFury08|Executioneer´s Fury|Ярость палача
+subAmazonThunderFury09|Tectonic Impact|Тектонический импульс
+subAmazonThunderFury10|Thunder´s Reach|Охват грома
+subAmazonThunderFury11|Arc Lightning|Дуговая молния
+subAmazonThunderFury12|Leaping Thunder|Прыгающая молния
+subAmazonThunderFury13|Vacuuming Thunder|Стягивающая молния
+subAmazonThunderFury14|Electric Essence|Электрическая эссенция
+subDescAmazonThunderFury01|Increases lightning damage dealt by thunder fury.|Увеличивает урон молнией «Громовой ярости».
+subDescAmazonThunderFury02|Chance to inflict lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
+subDescAmazonThunderFury03|Recover a portion of your life on hit.|Восполняет часть вашего здоровья при попадании.
+subDescAmazonThunderFury04|Decreases movement speed diminish when using thunder fury.|Уменьшает штраф к скорости передвижения при использовании «Громовой ярости».
+subDescAmazonThunderFury05|Chance to critically hit dealing increased damage based on your intelligence.|Дает шанс нанести критический удар; урон зависит от вашего интеллекта.
+subDescAmazonThunderFury06|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
+subDescAmazonThunderFury07|Increases damage to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescAmazonThunderFury08|Execute low life monsters.|Казнит монстров с низким уровнем здоровья.
+subDescAmazonThunderFury09|Stunned targets unleash an exploding lightning pulse on hit.|При ударе по оглушенным целям происходит взрывной импульс молнии.
+subDescAmazonThunderFury10|Increases the range of thunder fury.|Увеличивает дальность действия «Громовой ярости».
+subDescAmazonThunderFury11|Thunder bolts unleash an arc of additional bolts behind the target on hit.|При попадании разряды грома выпускают веер дополнительных молний позади цели.
+subDescAmazonThunderFury12|Release chain lightning on hit with an increased number of bounces.|При попадании выпускает цепную молнию с увеличенным количеством отскоков.
+subDescAmazonThunderFury13|Thunder bolts pull targets to the initial point of impact followed by a surge of lightning dealing area of effect damage.|Разряды грома притягивают цели к точке удара, после чего следует мощная вспышка молнии с уроном по области.
+subDescAmazonThunderFury14|Inflict lightning break and stasis to targets on hit.|При попадании вызывает игнорирование сопр. молнии и накладывает стазис.

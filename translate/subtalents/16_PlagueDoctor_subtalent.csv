@@ -1,0 +1,231 @@
+subPlagueDoctorMiasma01|Dense Haze|Густая дымка
+subPlagueDoctorMiasma02|Contagious Mist|Заразный туман
+subPlagueDoctorMiasma03|Harmful Poluents|Вредоносные пары
+subPlagueDoctorMiasma04|Eroding Haze|Едкая дымка
+subPlagueDoctorMiasma05|Hasty Vapors|Быстрые испарения
+subPlagueDoctorMiasma06|Hemoglobin Nova|Кровавая вспышка
+subPlagueDoctorMiasma07|Incendiary Fumes|Воспламеняющие пары
+subPlagueDoctorMiasma08|Intense Malodor|Нестерпимое зловоние
+subPlagueDoctorMiasma09|Sweep Scourge|Сметающий мор
+subPlagueDoctorMiasma10|Meteoric Haze|Метеоритная дымка
+subPlagueDoctorMiasma11|Tenacious Stench|Стойкое зловоние
+subPlagueDoctorMiasma12|Shoulder Fling|Бросок за спину
+subPlagueDoctorMiasma13|Epidemic Dissemination|Распространение эпидемии
+subPlagueDoctorMiasma14|Epinephrine Addict|Адреналиновый угар
+subDescPlagueDoctorMiasma01|Increases the tick frequency of miasma.|Увеличивает частоту тактов урона «Миазмов».
+subDescPlagueDoctorMiasma02|Chance to inflict poisoned on hit.|Дает шанс наложить отравление при попадании.
+subDescPlagueDoctorMiasma03|Increases the damage dealt by miasma.|Увеличивает урон «Миазмов».
+subDescPlagueDoctorMiasma04|Increases damage dealt to poisoned targets.|Увеличивает урон по отравленным целям.
+subDescPlagueDoctorMiasma05|Increases the size of miasma.|Увеличивает радиус действия «Миазмов».
+subDescPlagueDoctorMiasma06|Chance to unleash additional miasma clouds from poisoned targets on hit.|Дает шанс при попадании выпустить дополнительные облака миазмов из отравленных целей.
+subDescPlagueDoctorMiasma07|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescPlagueDoctorMiasma08|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescPlagueDoctorMiasma09|Increases attack rating when using miasma.|Увеличивает рейтинг атаки при использовании «Миазмов».
+subDescPlagueDoctorMiasma10|Chance to drop a burning meteor at burning targets on hit unleashing multiple fire balls to all directions when exploding.|При попадании по горящим целям может обрушить на них метеор, который при взрыве выпускает огненные шары во все стороны.
+subDescPlagueDoctorMiasma11|Miasma sticks to the target with increased size and damage.|«Миазмы» прилипают к цели; их размер и урон увеличены.
+subDescPlagueDoctorMiasma12|Fling targets behind you on hit inflicting elemental break and stunning them. Miasma clouds now spawn behind you.|При попадании вы перебрасываете цели за спину, оглушая их и вызывая игнорирование сопр. стихиям. Облака миазмов теперь появляются позади вас.
+subDescPlagueDoctorMiasma13|Unleash multiple miasma clouds in an arc when attacking. Miasma no longer requires you to strike a target.|Выпускает несколько облаков миазмов по дуге при атаке. Умение больше не требует прямого попадания по цели.
+subDescPlagueDoctorMiasma14|Striking monsters gives you a stack of epinephrine addict increasing your attack speed, movement speed and attack range. At maximum stacks gain phasing movement.|Удары по монстрам дают заряды «Адреналинового угара», увеличивающие скорость атаки, бега и дальность боя. При максимуме зарядов вы проходите сквозь врагов.
+||
+subPlagueDoctorSurgicalBloodLetting01|Incisive Cuts|Глубокие надрезы
+subPlagueDoctorSurgicalBloodLetting02|Cutting Edge|Режущая кромка
+subPlagueDoctorSurgicalBloodLetting03|Bolting Scalpels|Летящие скальпели
+subPlagueDoctorSurgicalBloodLetting04|Expert Surgeon|Опытный хирург
+subPlagueDoctorSurgicalBloodLetting05|Vitality Devourer|Пожиратель живучести
+subPlagueDoctorSurgicalBloodLetting06|Exsanguination|Обескровливание
+subPlagueDoctorSurgicalBloodLetting07|Plhebotomist|Кровопускатель
+subPlagueDoctorSurgicalBloodLetting08|Sanguine Eruption|Кровавое извержение
+subPlagueDoctorSurgicalBloodLetting09|Swift Precision|Стремительная точность
+subPlagueDoctorSurgicalBloodLetting10|Lifeblood Harvest|Жатва жизненной силы
+subPlagueDoctorSurgicalBloodLetting11|Surgeon´s Vortex|Вихрь хирурга
+subPlagueDoctorSurgicalBloodLetting12|Blood Thaumaturgist|Кровавый тауматург
+subPlagueDoctorSurgicalBloodLetting13|Fracturing Knifestack|Разлетающаяся связка
+subPlagueDoctorSurgicalBloodLetting14|Cutting Storm|Режущий шторм
+subDescPlagueDoctorSurgicalBloodLetting01|Increases the damage dealt by surgical blood letting.|Увеличивает урон «Хирургического кровопускания».
+subDescPlagueDoctorSurgicalBloodLetting02|Inflict bleeding to targets on hit.|При попадании вызывает у врагов кровотечение.
+subDescPlagueDoctorSurgicalBloodLetting03|Increases the projectile speed of surgical blood letting.|Увеличивает скорость снарядов «Хирургического кровопускания».
+subDescPlagueDoctorSurgicalBloodLetting04|Increases attack rating when using surgical blood letting.|Увеличивает рейтинг атаки при использовании «Хирургического кровопускания».
+subDescPlagueDoctorSurgicalBloodLetting05|Chance to restore life on hit for a portion of your additive physical damage.|Дает шанс восполнить здоровье при попадании; эффективность зависит от вашего добавочного физ. урона.
+subDescPlagueDoctorSurgicalBloodLetting06|Chance on attack to inflict increased bleed damage.|Дает шанс нанести увеличенный урон от кровотечения при атаке.
+subDescPlagueDoctorSurgicalBloodLetting07|Increases damage dealt to bleeding enemies.|Увеличивает урон по истекающим кровью врагам.
+subDescPlagueDoctorSurgicalBloodLetting08|Chance to unleash a ripple of blood on hit dealing area of effect damage.|Дает шанс вызвать при попадании кровавую волну, наносящую урон по области.
+subDescPlagueDoctorSurgicalBloodLetting09|Decreases movement diminish when using surgical blood letting.|Уменьшает штраф к скорости передвижения при использовании «Хирургического кровопускания».
+subDescPlagueDoctorSurgicalBloodLetting10|Chance on attack to increase damage dealt according to your vitality.|Дает шанс при атаке увеличить урон в зависимости от вашей живучести.
+subDescPlagueDoctorSurgicalBloodLetting11|Knives now orbit around you slowly going outwards.|Ножи теперь вращаются вокруг вас, медленно разлетаясь в стороны.
+subDescPlagueDoctorSurgicalBloodLetting12|Throw multiple knives in an arc. The knives stick to the targets for a short duration before pulling back to you dealing increased damage according to your vitality.|Вы бросаете веер ножей. Они вонзаются в цели, а затем возвращаются к вам, нанося увеличенный урон (зависит от вашей живучести).
+subDescPlagueDoctorSurgicalBloodLetting13|Throw a knife with increased projectile speed exploding into multiple piercing knives to all directions on hit.|Вы бросаете быстрый нож, который при попадании взрывается множеством пронзающих клинков во все стороны.
+subDescPlagueDoctorSurgicalBloodLetting14|Knives have a chance to conjure a spinning knife tornado on hit dealing increased damage over time.|При попадании ножи могут создать вихрь клинков, наносящий увеличенный периодический урон.
+||
+subPlagueDoctorToxicFlask01|One with the Poison|Единство с ядом
+subPlagueDoctorToxicFlask02|Harmful Vial|Губительный фиал
+subPlagueDoctorToxicFlask03|Modest Poison|Умеренный яд
+subPlagueDoctorToxicFlask04|Decomposing Materia|Разлагающаяся материя
+subPlagueDoctorToxicFlask05|Heatseeking Flask|Самонаводящийся флакон
+subPlagueDoctorToxicFlask06|Resistant Crystal|Прочный хрусталь
+subPlagueDoctorToxicFlask07|Apothecary|Аптекарь
+subPlagueDoctorToxicFlask08|Fake Throw|Обманный бросок
+subPlagueDoctorToxicFlask09|Agile Tosser|Ловкий метатель
+subPlagueDoctorToxicFlask10|Flask Flip|Финт с флаконом
+subPlagueDoctorToxicFlask11|Plague Radiator|Очаг заражения
+subPlagueDoctorToxicFlask12|Toxin Vials|Флаконы с токсином
+subPlagueDoctorToxicFlask13|Glassblowing Technician|Стеклодув
+subPlagueDoctorToxicFlask14|Vial of Alchemy|Алхимический флакон
+subDescPlagueDoctorToxicFlask01|Increases the maximum cast range and area of effect radius of toxic flask.|Увеличивает дальность броска и радиус взрыва «Токсичного флакона».
+subDescPlagueDoctorToxicFlask02|Increases the damage dealt by toxic flask.|Увеличивает урон «Токсичного флакона».
+subDescPlagueDoctorToxicFlask03|Decreases the mana cost of toxic flask.|Снижает затраты маны на «Токсичный флакон».
+subDescPlagueDoctorToxicFlask04|Chance to inflict poison break on hit.|Дает шанс вызвать игнорирование сопр. яду при попадании.
+subDescPlagueDoctorToxicFlask05|Toxic flasks home into the nearest monster with increased projectile speed after reaching the highest altitude.|Достигнув высшей точки полета, «Токсичные флаконы» ускоряются и наводятся на ближайшего монстра.
+subDescPlagueDoctorToxicFlask06|Increases the amount of ground bounces for toxic flask.|Увеличивает количество отскоков «Токсичного флакона» от земли.
+subDescPlagueDoctorToxicFlask07|Chance on cast to unleash an additional toxic flask.|Дает шанс при касте бросить дополнительный «Токсичный флакон».
+subDescPlagueDoctorToxicFlask08|Chance on cast to throw an additional toxic flask high in the air falling straight down with increased area of effect radius.|Дает шанс подбросить дополнительный флакон высоко вверх; он падает вертикально и имеет увеличенный радиус взрыва.
+subDescPlagueDoctorToxicFlask09|Decreases movement diminish when using toxic flask.|Уменьшает штраф к скорости передвижения при использовании «Токсичного флакона».
+subDescPlagueDoctorToxicFlask10|Teleport into target location when toxic flask hits the ground.|Телепортирует вас в точку приземления «Токсичного флакона».
+subDescPlagueDoctorToxicFlask11|Toxic flask emmits toxic clouds towards nearby monsters inflicting poisoned when hitting the ground.|При приземлении «Токсичный флакон» выпускает облака, которые отравляют ближайших монстров.
+subDescPlagueDoctorToxicFlask12|Throw multiple small toxic flasks in an arc.|Вы бросаете несколько малых токсичных флаконов по дуге.
+subDescPlagueDoctorToxicFlask13|Toxic flask breaks into glass shards dealing its damage as physical and ignoring all target defense.|«Токсичный флакон» разлетается на осколки, нанося физический урон и игнорируя любую защиту цели.
+subDescPlagueDoctorToxicFlask14|Throwing toxic flask at yourself or an ally empowers them with toxins granting increased damage, life and damage reduction.|Бросок флакона в себя или союзника наделяет цель токсинами, повышая урон, здоровье и сопротивление урону.
+||
+subPlagueDoctorCrematus01|Gas Cylinder|Газовый баллон
+subPlagueDoctorCrematus02|Potent Exhaling|Мощный выброс
+subPlagueDoctorCrematus03|Corrosive Burning|Едкое горение
+subPlagueDoctorCrematus04|Corrosive Embers|Едкие угли
+subPlagueDoctorCrematus05|Trifurcate Blow|Тройной поток
+subPlagueDoctorCrematus06|Toxic Dragonflight|Токсичный полет
+subPlagueDoctorCrematus07|Toxiamplified Alveoli|Токсичные альвеолы
+subPlagueDoctorCrematus08|Tachypnea|Тахипноэ
+subPlagueDoctorCrematus09|Engulfing Pyre|Всепоглощающий костер
+subPlagueDoctorCrematus10|Bursting Pustules|Лопающиеся гнойники
+subPlagueDoctorCrematus11|Spiraling Cremation|Спиральная кремация
+subPlagueDoctorCrematus12|Farflames|Дальнее пламя
+subPlagueDoctorCrematus13|Unstable Contamination|Нестабильное заражение
+subPlagueDoctorCrematus14|Toxin Container|Контейнер с токсином
+subDescPlagueDoctorCrematus01|Increases the duration of crematus.|Увеличивает длительность действия «Крематуса».
+subDescPlagueDoctorCrematus02|Increases the damage dealt by crematus.|Увеличивает урон «Крематуса».
+subDescPlagueDoctorCrematus03|Chance to inflict poisoned on hit.|Дает шанс наложить отравление при попадании.
+subDescPlagueDoctorCrematus04|Chance to inflict poison break on hit.|Дает шанс вызвать игнорирование сопр. яду при попадании.
+subDescPlagueDoctorCrematus05|Chance on cast to unleash two additional trails of crematus dealing a portion of the damage.|Дает шанс при касте выпустить две дополнительные струи «Крематуса», наносящие часть урона.
+subDescPlagueDoctorCrematus06|Gain increased movement speed when casting crematus.|Увеличивает скорость передвижения во время использования «Крематуса».
+subDescPlagueDoctorCrematus07|Increases the area of effect radius of crematus.|Увеличивает радиус области действия «Крематуса».
+subDescPlagueDoctorCrematus08|Decreases movement diminish when using crematus.|Уменьшает штраф к скорости передвижения при использовании «Крематуса».
+subDescPlagueDoctorCrematus09|Chance to burst the ground on flames at burning targets location on hit dealing a portion of the damage over time.|При попадании по горящей цели дает шанс поджечь землю под ней, нанося периодический урон.
+subDescPlagueDoctorCrematus10|Damaging a monster with crematus inflicts a stack of pustules. At full stacks unleash a burst of poison dealing area of effect damage.|Урон «Крематуса» накладывает на монстров заряды гнойников. При максимуме зарядов происходит ядовитый взрыв по области.
+subDescPlagueDoctorCrematus11|Unleash multiple swirling flames around you dealing increased damage.|Выпускает вокруг вас вихри пламени, наносящие увеличенный урон.
+subDescPlagueDoctorCrematus12|Increases the projectile speed, size and damage dealt by crematus.|Увеличивает скорость потока, размер и урон «Крематуса».
+subDescPlagueDoctorCrematus13|Activate/Deactivate to leave behind a trail of poisonous gas dealing damage over time and slowing targets. Drains mana constantly.|Переключаемое умение: оставляет за собой след ядовитого газа, наносящий урон и замедляющий врагов. Постоянно расходует ману.
+subDescPlagueDoctorCrematus14|Throw a plague container at target location unleashing crematus into all directions for a short duration. The plague container eventually explodes dealing area of effect damage and stunning nearby monsters.|Бросает контейнер с чумой, который извергает пламя «Крематуса» во все стороны, а затем взрывается, нанося урон и оглушая врагов.
+||
+subPlagueDoctorPlagueOfRats01|Horde of Rats|Крысиная орда
+subPlagueDoctorPlagueOfRats02|Gnawing Rodents|Гложущие грызуны
+subPlagueDoctorPlagueOfRats03|Lab Grown Rats|Лабораторные крысы
+subPlagueDoctorPlagueOfRats04|Bite Tethering|Связующий укус
+subPlagueDoctorPlagueOfRats05|Plague Carriers|Переносчики чумы
+subPlagueDoctorPlagueOfRats06|Painful Bite|Болезненный укус
+subPlagueDoctorPlagueOfRats07|Rodent Handler|Повелитель грызунов
+subPlagueDoctorPlagueOfRats08|Leptospirosis|Лептоспироз
+subPlagueDoctorPlagueOfRats09|Nimble Trainer|Ловкий дрессировщик
+subPlagueDoctorPlagueOfRats10|Plaguemausers|Чумные крысоловы
+subPlagueDoctorPlagueOfRats11|Ratsunami|Крысонами
+subPlagueDoctorPlagueOfRats12|Rat Den|Крысиное логово
+subPlagueDoctorPlagueOfRats13|Spreading Infestation|Распространение заразы
+subPlagueDoctorPlagueOfRats14|Ratpocalypse|Крысопокалипсис
+subDescPlagueDoctorPlagueOfRats01|Increases the projectile amount of plague of rats.|Увеличивает количество снарядов «Нашествия крыс».
+subDescPlagueDoctorPlagueOfRats02|Increases the damage dealt by plague of rats.|Увеличивает урон «Нашествия крыс».
+subDescPlagueDoctorPlagueOfRats03|Increases the size of plague of rats.|Увеличивает размер крыс в «Нашествии крыс».
+subDescPlagueDoctorPlagueOfRats04|Decreases the mana cost of plague of rats.|Снижает затраты маны на «Нашествие крыс».
+subDescPlagueDoctorPlagueOfRats05|Chance for rats to explode into plagued chunks of meat dealing damage and inflicting poisoned on hit.|Крысы могут взорваться при попадании, разлетаясь на зараженные куски мяса, наносящие урон и накладывающие отравление.
+subDescPlagueDoctorPlagueOfRats06|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescPlagueDoctorPlagueOfRats07|Increases cast rate when using plague of rats.|Увеличивает скорость каста «Нашествия крыс».
+subDescPlagueDoctorPlagueOfRats08|Chance to inflict poison break on hit.|Дает шанс вызвать игнорирование сопр. яду при попадании.
+subDescPlagueDoctorPlagueOfRats09|Decreases movement diminish when using plague of rats.|Уменьшает штраф к скорости передвижения при использовании «Нашествия крыс».
+subDescPlagueDoctorPlagueOfRats10|Increases the projectile speed of plague of rats.|Увеличивает скорость бега крыс.
+subDescPlagueDoctorPlagueOfRats11|Summon increased amount of piercing rats bouncing off of high terrain.|Призывает больше пронзающих крыс, которые отскакивают от препятствий.
+subDescPlagueDoctorPlagueOfRats12|Summon a rat den at target location constantly sending rats towards nearby monsters. Plague of rats now has a cooldown.|Призывает в указанной точке крысиное логово, постоянно выпускающее крыс в ближайших врагов. «Нашествие крыс» теперь имеет время восстановления.
+subDescPlagueDoctorPlagueOfRats13|Increases the proc chance and poisoned damage of plague carriers. Plague carriers now additionally sends multiple piercing rats towards nearby monsters.|Увеличивает шанс срабатывания и урон ядом «Переносчиков чумы»; они теперь дополнительно выпускают пронзающих крыс в ближайших врагов.
+subDescPlagueDoctorPlagueOfRats14|Summon increased amount of rats in a circle around target location moving towards the center. Plague of rats now has a cooldown.|Призывает множество крыс кольцом вокруг цели, сбегающихся к центру. «Нашествие крыс» теперь имеет время восстановления.
+||
+subPlagueDoctorPlagueMaster01|Plague Domain|Чумные владения
+subPlagueDoctorPlagueMaster02|Toxology|Токсикология
+subPlagueDoctorPlagueMaster03|Flesh Melting|Растворение плоти
+subPlagueDoctorPlagueMaster04|Neverending Infection|Вечная инфекция
+subPlagueDoctorPlagueMaster05|Crippling Poison Vial|Флакон калечащего яда
+subPlagueDoctorPlagueMaster06|Escalating Illness|Обострение болезни
+subPlagueDoctorPlagueMaster07|Anemic Impact|Анемическое воздействие
+subPlagueDoctorPlagueMaster08|Boundless Agent|Всепроникающий реагент
+subPlagueDoctorPlagueMaster09|Pathogens|Патогены
+subPlagueDoctorPlagueMaster10|Concussive Effect|Контузия
+subPlagueDoctorPlagueMaster11|Stacked Bacteria|Колония бактерий
+subPlagueDoctorPlagueMaster12|Bulbonic Plague|Бубонная чума
+subPlagueDoctorPlagueMaster13|Containment Breakout|Прорыв изоляции
+subPlagueDoctorPlagueMaster14|Raise from the Pestilence|Восставшие из мора
+subDescPlagueDoctorPlagueMaster01|Increases the area of effect radius of plague master.|Увеличивает радиус области действия «Мастера чумы».
+subDescPlagueDoctorPlagueMaster02|Increases the damage dealt by plague master.|Увеличивает урон «Мастера чумы».
+subDescPlagueDoctorPlagueMaster03|Chance to inflict poison break on hit.|Дает шанс вызвать игнорирование сопр. яду при попадании.
+subDescPlagueDoctorPlagueMaster04|Increases the poisoned duration from plague master.|Увеличивает длительность отравления от «Мастера чумы».
+subDescPlagueDoctorPlagueMaster05|Chance on hit to stun enemies.|Дает шанс оглушить врагов при попадании.
+subDescPlagueDoctorPlagueMaster06|Increases the tick frequency of poisoned from plague master.|Увеличивает частоту нанесения урона отравлением от «Мастера чумы».
+subDescPlagueDoctorPlagueMaster07|Inflicts slow on hit.|При попадании накладывает замедление.
+subDescPlagueDoctorPlagueMaster08|Decreases the mana cost of plague master.|Снижает затраты маны на «Мастера чумы».
+subDescPlagueDoctorPlagueMaster09|Chance to summon a pool of bacteria and viruses on hit dealing damage over time.|Дает шанс при попадании создать лужу бактерий и вирусов, наносящую периодический урон.
+subDescPlagueDoctorPlagueMaster10|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescPlagueDoctorPlagueMaster11|Poisoned from plague master inflicts additional stacks of poisoned.|Отравление от «Мастера чумы» накладывает дополнительные заряды яда.
+subDescPlagueDoctorPlagueMaster12|Chance to inflict plague on hit causing targets to become infected inflicting damage to monsters around them.|Дает шанс заразить цель чумой при попадании; зараженный наносит урон монстрам вокруг себя.
+subDescPlagueDoctorPlagueMaster13|Increases the damage dealt and area of effect radius of plague master significantly. Increases the cooldown of plague master.|Значительно увеличивает урон и радиус действия «Мастера чумы», но увеличивает время восстановления.
+subDescPlagueDoctorPlagueMaster14|Monsters killed by plague master spawn a toxic anomaly. Toxic anomalies seek nearby monsters exploding on hit dealing increased area of effect damage.|Враги, убитые «Мастером чумы», порождают токсичную аномалию. Аномалии ищут ближайших монстров и взрываются, нанося увеличенный урон по области.
+||
+subPlagueDoctorJarOfLeeches01|Leech Swarm|Рой пиявок
+subPlagueDoctorJarOfLeeches02|Power Sucktion|Мощное высасывание
+subPlagueDoctorJarOfLeeches03|Nimble Creepers|Шустрые ползуны
+subPlagueDoctorJarOfLeeches04|Draining the Demons|Иссушение демонов
+subPlagueDoctorJarOfLeeches05|Bloody Surprise|Кровавый сюрприз
+subPlagueDoctorJarOfLeeches06|Overfed|Перекорм
+subPlagueDoctorJarOfLeeches07|Jar Handler|Властелин сосудов
+subPlagueDoctorJarOfLeeches08|Leaking Dents|Дырявая банка
+subPlagueDoctorJarOfLeeches09|Call to Ascend|Зов к росту
+subPlagueDoctorJarOfLeeches10|Blood Sharing|Обмен кровью
+subPlagueDoctorJarOfLeeches11|Jug Juggler|Жонглер банками
+subPlagueDoctorJarOfLeeches12|Blood-infused Leeches|Кровавые пиявки
+subPlagueDoctorJarOfLeeches13|Toxicophile Bloodsucker|Ядовитый кровосос
+subPlagueDoctorJarOfLeeches14|Lasting Hunger|Вечный голод
+subDescPlagueDoctorJarOfLeeches01|Increases the amount of leeches spawned.|Увеличивает количество призываемых пиявок.
+subDescPlagueDoctorJarOfLeeches02|Increases the damage dealt by jar of leeches.|Увеличивает урон «Банки с пиявками».
+subDescPlagueDoctorJarOfLeeches03|Increases the projectile speed of jar of leeches.|Увеличивает скорость полета «Банки с пиявками».
+subDescPlagueDoctorJarOfLeeches04|Increases the damage dealt to bosses.|Увеличивает урон по боссам.
+subDescPlagueDoctorJarOfLeeches05|Chance on cast to unleash an additional jar of leeches.|Дает шанс при касте бросить дополнительную «Банку с пиявками».
+subDescPlagueDoctorJarOfLeeches06|Increases area of effect radius of jar of leeches.|Увеличивает радиус области действия «Банки с пиявками».
+subDescPlagueDoctorJarOfLeeches07|Increases the maximum cast range of jar of leeches.|Увеличивает дальность броска «Банки с пиявками».
+subDescPlagueDoctorJarOfLeeches08|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescPlagueDoctorJarOfLeeches09|Consume nearby corpses adding additional leeches into the jar.|Поглощает ближайшие трупы, добавляя в банку дополнительных пиявок.
+subDescPlagueDoctorJarOfLeeches10|Restore a portion of your maximum life on hit.|Восполняет часть вашего макс. здоровья при попадании.
+subDescPlagueDoctorJarOfLeeches11|Throw multiple jars in an arc dealing a portion of the damage.|Вы бросаете несколько банок по дуге, но их урон снижен.
+subDescPlagueDoctorJarOfLeeches12|Increases leech damage, size and area of effect radius based on your vitality. Jar of leeches consumes a portion of your maximum life per cast.|Урон, размер и радиус пиявок увеличиваются от вашей живучести. Каждое использование «Банки с пиявками» поглощает часть вашего макс. здоровья.
+subDescPlagueDoctorJarOfLeeches13|Spawn a static leech at target location. The leech pulsates dealing damage and slowly pulling monsters towards it on hit. Jar of leeches now has a cooldown.|Призывает в указанной точке огромную пиявку, которая пульсирует, нанося урон и притягивая врагов. Умение теперь имеет время восстановления.
+subDescPlagueDoctorJarOfLeeches14|Leeches now stick on targets for a short duration dealing increased damage over time.|Пиявки теперь впиваются в цели, нанося повышенный периодический урон в течение короткого времени.
+||
+subPlagueDoctorRandyTheRancidRat01|Vigorous Leader|Могучий вожак
+subPlagueDoctorRandyTheRancidRat02|Enhanced Jaws|Усиленные челюсти
+subPlagueDoctorRandyTheRancidRat03|Rat Invoker|Крысиный призыватель
+subPlagueDoctorRandyTheRancidRat04|Speed Chomps|Быстрые укусы
+subPlagueDoctorRandyTheRancidRat05|Expansive Plague Mind|Разум чумного роя
+subPlagueDoctorRandyTheRancidRat06|Disease Hoarder|Накопитель болезней
+subPlagueDoctorRandyTheRancidRat07|Blood Transfusion|Переливание крови
+subPlagueDoctorRandyTheRancidRat08|Armored Fur|Бронированная шкура
+subPlagueDoctorRandyTheRancidRat09|Rage Sequence|Приступ ярости
+subPlagueDoctorRandyTheRancidRat10|Vital Division|Разделение жизни
+subPlagueDoctorRandyTheRancidRat11|Randy Rider|Верхом на крысе
+subPlagueDoctorRandyTheRancidRat12|Dragorat|Дракокрыс
+subPlagueDoctorRandyTheRancidRat13|QA3-Modified Specimen|Образец QA3
+subPlagueDoctorRandyTheRancidRat14|Gluttony|Чревоугодие
+subDescPlagueDoctorRandyTheRancidRat01|Increases the life of randy the rancid rat.|Увеличивает здоровье Рэнди, Мерзкой Крысы.
+subDescPlagueDoctorRandyTheRancidRat02|Increases the damage of randy the rancid rat.|Увеличивает урон Рэнди, Мерзкой Крысы.
+subDescPlagueDoctorRandyTheRancidRat03|Chance on hit to unleash piercing plague rats towards the target.|Дает шанс при попадании выпустить в цель пронзающих чумных крыс.
+subDescPlagueDoctorRandyTheRancidRat04|Increases the movement speed and attack speed of randy the rancid rat.|Увеличивает скорость передвижения и атаки Рэнди.
+subDescPlagueDoctorRandyTheRancidRat05|Randy the rancid rat gains an aura inflicting monsters with poisoned.|Рэнди получает ауру, накладывающую отравление на монстров.
+subDescPlagueDoctorRandyTheRancidRat06|Increases the poisoned inflicted by randy the rancid rat.|Увеличивает урон отравления, наносимого Рэнди.
+subDescPlagueDoctorRandyTheRancidRat07|Randy the rancid rat recovers a portion of its maximum life on hit.|Рэнди восполняет часть своего макс. здоровья при ударе.
+subDescPlagueDoctorRandyTheRancidRat08|Increases all resistances and damage reduction for randy the rancid rat.|Повышает все сопротивления и показатель снижения урона Рэнди.
+subDescPlagueDoctorRandyTheRancidRat09|Chance to become enraged on hit increasing damage dealt and attack speed.|Дает шанс впасть в ярость при попадании, увеличивая урон и скорость атаки.
+subDescPlagueDoctorRandyTheRancidRat10|Redirect a portion of incoming damage to randy the rancid rat.|Часть получаемого вами урона перенаправляется на Рэнди.
+subDescPlagueDoctorRandyTheRancidRat11|Mount randy the rancid rat gaining increased movement speed, jumping power and the ability to jump through high terrain. Taking damage will unmount you. Randy the rancid rat now has a cooldown.|Вы садитесь верхом на Рэнди, увеличивая скорость передвижения и прыгучесть (можно перепрыгивать препятствия). Получение урона сбрасывает вас. Умение теперь имеет время восстановления.
+subDescPlagueDoctorRandyTheRancidRat12|Randy the rancid rat unleashes a breath of fire when attacking.|Во время атаки Рэнди изрыгает огненное дыхание.
+subDescPlagueDoctorRandyTheRancidRat13|Randy the rancid rat summons additional tiny rats armed with blunderbusses dealing a portion of the damage on hit.|Рэнди призывает мелких крыс, вооруженных мушкетонами; их урон составляет часть от его урона.
+subDescPlagueDoctorRandyTheRancidRat14|Increases the attack area of effect radius of randy the rancid rat whenever striking a monster stacking infinitely. Decreases the duration of randy the rancid rat.|Каждый удар по монстру бесконечно увеличивает радиус атаки Рэнди, но время его призыва сокращено.

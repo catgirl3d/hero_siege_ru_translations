@@ -1,0 +1,231 @@
+subButcherSlicingThrow01|Cut In Half|Разрубание пополам
+subButcherSlicingThrow02|Precision Blade|Точный клинок
+subButcherSlicingThrow03|One Swift Strike|Стремительный удар
+subButcherSlicingThrow04|Cuts and Wounds|Рваные раны
+subButcherSlicingThrow05|Splitting Chain|Разделение цепи
+subButcherSlicingThrow06|Burn the Corpses!|Сжечь трупы!
+subButcherSlicingThrow07|Daisy´s Insight|Чутье Дейзи
+subButcherSlicingThrow08|Executioner's Apprentice|Ученик палача
+subButcherSlicingThrow09|Bladestorm|Вихрь клинков
+subButcherSlicingThrow10|Bloody Combustion|Кровавое воспламенение
+subButcherSlicingThrow11|Splitting blade|Раздвоенный клинок
+subButcherSlicingThrow12|Slicing Vortex|Рубящий вихрь
+subButcherSlicingThrow13|Bladesaw Massacre|Резня клинками
+subButcherSlicingThrow14|Daisy´s Regards|Привет от Дейзи
+subDescButcherSlicingThrow01|Increases the damage of slicing throw.|Увеличивает урон «Рубящего броска».
+subDescButcherSlicingThrow02|Passively increases your dexterity.|Пассивно увеличивает вашу ловкость.
+subDescButcherSlicingThrow03|Increases the critical strike damage and projectile speed of slicing throw.|Увеличивает критический урон и скорость полета снаряда «Рубящего броска».
+subDescButcherSlicingThrow04|Chance to inflict armor break on hit.|Дает шанс вызвать пробивание брони при попадании.
+subDescButcherSlicingThrow05|Chance to unleash an additional chaining blade on hit.|Дает шанс выпустить дополнительный цепной клинок при попадании.
+subDescButcherSlicingThrow06|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescButcherSlicingThrow07|Reduced the cooldown of slicing throw.|Снижает время восстановления «Рубящего броска».
+subDescButcherSlicingThrow08|Slicing throw executes monsters below a threshold.|«Рубящий бросок» казнит монстров, чей уровень здоровья ниже определенного порога.
+subDescButcherSlicingThrow09|Increases the size and spinning speed of slicing throw.|Увеличивает размер и скорость вращения снаряда «Рубящего броска».
+subDescButcherSlicingThrow10|Chance to unleash a ripple of blood from burning monsters on hit dealing additional damage.|При попадании по горящим монстрам дает шанс вызвать кровавую рябь, наносящую доп. урон.
+subDescButcherSlicingThrow11|Slicing throw splits into multiple orbiting blades spiraling outwards and returning to the initial location.|Снаряд «Рубящего броска» разделяется на несколько клинков, которые разлетаются по спирали и возвращаются в исходную точку.
+subDescButcherSlicingThrow12|Slicing throw now orbits you with increased projectile speed and increased damage.|Снаряды «Рубящего броска» теперь вращаются вокруг вас; их скорость и урон увеличены.
+subDescButcherSlicingThrow13|Throw multiple blades forming a huge chainsaw that can be controlled. Slicing throw cooldown is now increased.|Вы бросаете множество лезвий, образующих огромную управляемую пилу. Время восстановления «Рубящего броска» увеличено.
+subDescButcherSlicingThrow14|Slicing throw explodes into a fiery pentagram inflicting burning on hit.|«Рубящий бросок» взрывается огненной пентаграммой, накладывая горение при попадании.
+||
+subButcherFuriousStrike01|Wide Spread Epidemic|Массовая эпидемия
+subButcherFuriousStrike02|Down with Sickness|Тяжелый недуг
+subButcherFuriousStrike03|Furious Reach|Яростный размах
+subButcherFuriousStrike04|Strike of Hate|Удар ненависти
+subButcherFuriousStrike05|Blade Uppercut|Восходящий удар
+subButcherFuriousStrike06|Serious Fever|Жуткая лихорадка
+subButcherFuriousStrike07|Fueled Anger|Разжигание гнева
+subButcherFuriousStrike08|Mediocre Unit|Посредственность
+subButcherFuriousStrike09|Stay Still!|Ни с места!
+subButcherFuriousStrike10|Spread the Word|Разносчик чумы
+subButcherFuriousStrike11|Consumed by Hatred|Поглощенный ненавистью
+subButcherFuriousStrike12|Flames of Fury|Пламя ярости
+subButcherFuriousStrike13|Sick to the Core|Прогнивший насквозь
+subButcherFuriousStrike14|The Absolute Unit|Исполин
+subDescButcherFuriousStrike01|Increases the power of rabies from furious strike.|Увеличивает силу бешенства от «Яростного удара».
+subDescButcherFuriousStrike02|Chance to inflict poison on hit.|Дает шанс отравить врага при попадании.
+subDescButcherFuriousStrike03|Increases the attack range of furious strike.|Увеличивает дальность атаки «Яростного удара».
+subDescButcherFuriousStrike04|Increases the damage dealt by furious strike.|Увеличивает урон «Яростного удара».
+subDescButcherFuriousStrike05|Chance to slice monsters stunning and knocking them up dealing increased damage.|Дает шанс подбросить и оглушить монстров ударом, нанося увеличенный урон.
+subDescButcherFuriousStrike06|Increases the maximum amount of rabies stacks.|Увеличивает максимальное количество зарядов бешенства.
+subDescButcherFuriousStrike07|Increases attack speed when using furious strike.|Увеличивает скорость атаки при использовании «Яростного удара».
+subDescButcherFuriousStrike08|Chance to spawn healing orbs from targets on hit when in holy form. Chance to unleash piercing enraged rats spreading rabies on hit when in unholy form.|В святой форме дает шанс выбить сферы здоровья из врагов. В нечестивой форме дает шанс выпустить пронзающих бешеных крыс, распространяющих заразу.
+subDescButcherFuriousStrike09|Increases damage dealt to stunned target.|Увеличивает урон по оглушенным целям.
+subDescButcherFuriousStrike10|Chance to summon enraged flies on hit orbiting you and inflicting rabies.|Дает шанс при попадании призвать рой мух, который кружит вокруг вас и заражает врагов бешенством.
+subDescButcherFuriousStrike11|Striking monsters with maximum stacks of rabies consumes them ripping and crushing the monster unleashing its bones in an arc behind it dealing damage according to the rabies stacks.|Удар по врагу с максимумом зарядов бешенства разрывает его на части; кости разлетаются по дуге, нанося урон в зависимости от количества поглощенных зарядов.
+subDescButcherFuriousStrike12|Striking a monster inflicted with rabies causes flaming cinders to fly around the target lightning the ground on fire. Striking a monster with maximum stacks of rabies additionally consumes the stacks unleashing a scorching nova inflicting burning on hit.|Удары по зараженным целям разбрасывают искры, поджигающие землю. При максимуме зарядов происходит огненная вспышка, накладывающая горение.
+subDescButcherFuriousStrike13|Increases the maximum stacks of rabies and damage dealt by furious strike.|Увеличивает максимальное количество зарядов бешенства и урон «Яростного удара».
+subDescButcherFuriousStrike14|Striking a monster causes it to emmit fire damage based on your life replenish over time for a short duration on a radius around it when using holy form. Striking a monster unleashes impaling spikes dealing additional damage and a chance to replenish a portion of your maximum life on hit when using unholy form.|Святая форма: удары заставляют монстров излучать огонь (урон зависит от вашего восстановления здоровья). Нечестивая форма: удары вызывают шипы, наносящие доп. урон и восполняющие ваше здоровье.
+||
+subButcherChainRip01|Ranged Suffering|Длинная мука
+subButcherChainRip02|Chains of Hatred|Цепи ненависти
+subButcherChainRip03|Torture the Skin|Сдирание кожи
+subButcherChainRip04|Break the Flesh|Разрыв плоти
+subButcherChainRip05|The Real Monster|Истинное чудовище
+subButcherChainRip06|Shift of Power|Перевес силы
+subButcherChainRip07|Rocket Propelled Chains|Реактивная тяга
+subButcherChainRip08|Chains Unchained|Сорванные оковы
+subButcherChainRip09|Rage Trance|Транс ярости
+subButcherChainRip10|They Never Know What Hit Them|Внезапный удар
+subButcherChainRip11|Chains Attached|На цепи
+subButcherChainRip12|Chainfueled Hunting|Цепная охота
+subButcherChainRip13|Prey on the Weak|Травля слабых
+subButcherChainRip14|Carcass Rip|Разделка туши
+subDescButcherChainRip01|Increases the range of chain rip.|Увеличивает дальность «Разрыва цепи».
+subDescButcherChainRip02|Increases the damage dealt by chain rip.|Увеличивает урон «Разрыва цепи».
+subDescButcherChainRip03|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescButcherChainRip04|Inflicts armor break on hit.|При попадании вызывает пробивание брони.
+subDescButcherChainRip05|Replenish a portion of your maximum life and maximum mana on hit.|Восполняет часть вашего макс. здоровья и маны при попадании.
+subDescButcherChainRip06|Decreases monster attack rating inflicting slow on hit.|Снижает рейтинг атаки монстров и замедляет их при попадании.
+subDescButcherChainRip07|Increases the projectile speed of chain rip.|Увеличивает скорость полета цепи.
+subDescButcherChainRip08|Decreases the cooldown of chain rip.|Снижает время восстановления «Разрыва цепи».
+subDescButcherChainRip09|Gain increased damage reduction for a short duration when using chain rip.|Дает снижение получаемого урона на короткое время при использовании «Разрыва цепи».
+subDescButcherChainRip10|Chance to stun targets on hit dealing increased damage to stunned targets.|Дает шанс оглушить врагов при попадании; урон по оглушенным целям увеличен.
+subDescButcherChainRip11|Increases the range and damage of chain rip greatly. Cooldown is increased.|Значительно увеличивает дальность и урон «Разрыва цепи», но повышает время восстановления.
+subDescButcherChainRip12|Rapidly throw multiple piercing chains in a cone towards target location dealing increased damage. Chain rip no longer pulls enemies.|Быстро выпускает веер пронзающих цепей с увеличенным уроном. «Разрыв цепи» больше не притягивает врагов.
+subDescButcherChainRip13|Chain rip stuns targets on hit buffing your and nearby allies damage to stunned targets for a short duration.|«Разрыв цепи» оглушает цели и временно увеличивает урон по оглушенным врагам для вас и союзников.
+subDescButcherChainRip14|Chain rip chains into additional nearby monsters on hit pulling them towards the target.|При попадании цепь перекидывается на соседних монстров, стягивая их в одну точку.
+||
+subButcherBrutalizingSlash01|Butchering Skill|Мастерство мясника
+subButcherBrutalizingSlash02|Bonebreaker|Костолом
+subButcherBrutalizingSlash03|Unstoppable Rage|Неудержимая ярость
+subButcherBrutalizingSlash04|Descent to Madness|Погружение в безумие
+subButcherBrutalizingSlash05|With 2 Hands|Двуручный хват
+subButcherBrutalizingSlash06|Skullsplitter|Раскалыватель черепов
+subButcherBrutalizingSlash07|Afterlife Burner|Адское пекло
+subButcherBrutalizingSlash08|Precision Equals Power|Сила в точности
+subButcherBrutalizingSlash09|For the Weak|Удел слабых
+subButcherBrutalizingSlash10|Bleeding the Prey|Кровопускание
+subButcherBrutalizingSlash11|Pummeling Slashwave|Сокрушительная волна
+subButcherBrutalizingSlash12|Painmongering|Сеятель боли
+subButcherBrutalizingSlash13|Gutting Frenzy|Неистовое потрошение
+subButcherBrutalizingSlash14|Meet Daisy|Знакомьтесь, Дэйзи
+subDescButcherBrutalizingSlash01|Increases attack rating when using brutalizing slash.|Увеличивает рейтинг атаки при использовании «Зверского размаха».
+subDescButcherBrutalizingSlash02|Increases the damage dealt by brutalizing slash.|Увеличивает урон «Зверского размаха».
+subDescButcherBrutalizingSlash03|Decreases movement diminish when using brutalizing slash.|Уменьшает штраф к скорости передвижения при использовании «Зверского размаха».
+subDescButcherBrutalizingSlash04|Increases attack speed when using brutalizing slash.|Увеличивает скорость атаки при использовании «Зверского размаха».
+subDescButcherBrutalizingSlash05|Chance on attack to unleash an additional brutalizing slash.|Дает шанс нанести дополнительный «Зверский размах» при атаке.
+subDescButcherBrutalizingSlash06|Increases the critical strike damage dealt by brutalizing slash.|Увеличивает критический урон «Зверского размаха».
+subDescButcherBrutalizingSlash07|Chance on kill for the target to explode into a pile of corpses.|Дает шанс, что при убийстве цель взорвется, превратившись в груду останков.
+subDescButcherBrutalizingSlash08|Increases the damage dealt by brutalizing slash based on your dexterity.|Увеличивает урон «Зверского размаха» в зависимости от вашей ловкости.
+subDescButcherBrutalizingSlash09|Increases the attack range of brutalizing slash based on your strength.|Увеличивает дальность «Зверского размаха» в зависимости от вашей силы.
+subDescButcherBrutalizingSlash10|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescButcherBrutalizingSlash11|Unleash a slash wave on attack inflicting increased bleeding on hit.|При атаке выпускает режущую волну, накладывающую усиленное кровотечение.
+subDescButcherBrutalizingSlash12|Gain a stack of painmongering on hit increasing the tick frequency of bleed.|При попадании дает заряд «Сеятеля боли», увеличивающий частоту тактов кровотечения.
+subDescButcherBrutalizingSlash13|Chance to unleashes a ripple of blood on hit dealing increased critical damage based on your strength.|Дает шанс при попадании вызвать кровавую рябь, наносящую повышенный критический урон в зависимости от силы.
+subDescButcherBrutalizingSlash14|Every third attack unleashes daisy with increased damage and critical strike damage. The size of daisy is increased based on your missing life.|Каждая третья атака выпускает Дэйзи, которая наносит увеличенный урон (в т.ч. критический). Размер Дэйзи зависит от вашего недостающего здоровья.
+||
+subButcherButchersHook01|Everlasting Anger|Вечный гнев
+subButcherButchersHook02|Backed by Rage|Подпитка яростью
+subButcherButchersHook03|Hook Discharge|Бросок крюка
+subButcherButchersHook04|Carcass Carrier|Носильщик туш
+subButcherButchersHook05|Fresh Meat|Свежее мясо
+subButcherButchersHook06|Pierce the Torso|Пронзание плоти
+subButcherButchersHook07|Spin of Death|Смертельное вращение
+subButcherButchersHook08|Hellsent|Посланец ада
+subButcherButchersHook09|Immaculate Butcher|Безупречный мясник
+subButcherButchersHook10|Bring the Carnage|Время резни
+subButcherButchersHook11|Concussive Blow|Оглушающий удар
+subButcherButchersHook12|Critical Velocity|Критическая скорость
+subButcherButchersHook13|Master of Meat Hooks|Повелитель крюков
+subButcherButchersHook14|Welcome to Hell|Добро пожаловать в Ад
+subDescButcherButchersHook01|Increases the duration of butchers hook.|Увеличивает длительность действия «Крюка мясника».
+subDescButcherButchersHook02|Increases the projectile speed of butchers hook.|Увеличивает скорость полета «Крюка мясника».
+subDescButcherButchersHook03|Chance on cast to unleash an additional butchers hook.|Дает шанс при касте выпустить дополнительный «Крюк мясника».
+subDescButcherButchersHook04|Increases the size of butchers hook.|Увеличивает размер «Крюка мясника».
+subDescButcherButchersHook05|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescButcherButchersHook06|Chance to inflict armor break on hit.|Дает шанс вызвать пробивание брони при попадании.
+subDescButcherButchersHook07|Increases the damage dealt by butchers hook.|Увеличивает урон «Крюка мясника».
+subDescButcherButchersHook08|Gain increased movement speed and phasing when using butchers hook.|Дает бонус к скорости передвижения и позволяет проходить сквозь врагов при использовании «Крюка мясника».
+subDescButcherButchersHook09|Increases the critical strike damage dealt by butchers hook.|Увеличивает критический урон «Крюка мясника».
+subDescButcherButchersHook10|Decreases the cooldown of butchers hook.|Снижает время восстановления «Крюка мясника».
+subDescButcherButchersHook11|Butchers hook circles onces and slams into target location unleashing a corpse explosion with increased size and damage based on the amount of enemies captured in the hook.|«Крюк мясника» делает оборот и бьет в указанную точку, вызывая взрыв трупа; размер и урон взрыва зависят от количества пойманных врагов.
+subDescButcherButchersHook12|Increases the velocity of butchers hook over time causing it to deal damage more frequently.|Скорость «Крюка мясника» растет со временем, заставляя его наносить урон чаще.
+subDescButcherButchersHook13|Unleash multiple smaller hooks.|Выпускает множество малых крюков.
+subDescButcherButchersHook14|Unleash butchers hook towards target location with increased range and damage returning back after a short duration. Butchers hook no longer has a cooldown.|Выпускает «Крюк мясника» в указанную точку с увеличенной дальностью и уроном; крюк возвращается обратно через короткое время. Умение больше не имеет времени восстановления.
+||
+subButcherChainSwing01|The Huntsman|Охотник
+subButcherChainSwing02|Immobilizing Hit|Обездвиживающий удар
+subButcherChainSwing03|No Quarter|Никакой пощады
+subButcherChainSwing04|Demonic Chains|Демонические цепи
+subButcherChainSwing05|Introduce Fear|Внушение страха
+subButcherChainSwing06|Physical Torture|Физическая пытка
+subButcherChainSwing07|Killing Spree|Череда убийств
+subButcherChainSwing08|Scent of Prey|Запах добычи
+subButcherChainSwing09|Entry Frenzy|Безумный натиск
+subButcherChainSwing10|Unblessed Path|Нечестивый путь
+subButcherChainSwing11|Warm Welcome|Радушный прием
+subButcherChainSwing12|Hookstorm|Вихрь крюков
+subButcherChainSwing13|Prey of the Day|Добыча дня
+subButcherChainSwing14|Centrifugal Force|Центробежная сила
+subDescButcherChainSwing01|Increases the projectile speed of chain swing.|Увеличивает скорость полета «Взмаха цепью».
+subDescButcherChainSwing02|Chance to stun targets on hit.|Дает шанс оглушить цели при попадании.
+subDescButcherChainSwing03|Reduces the mana cost of chain swing.|Снижает затраты маны на «Взмах цепью».
+subDescButcherChainSwing04|Increases the damage dealt by chain swing.|Увеличивает урон «Взмаха цепью».
+subDescButcherChainSwing05|Pull monsters towards you from an increased radius after landing.|После приземления притягивает к вам монстров в увеличенном радиусе.
+subDescButcherChainSwing06|Chance to inflict armor break on hit.|Дает шанс вызвать пробивание брони при попадании.
+subDescButcherChainSwing07|Grants you a burst of attack speed after landing for a short duration.|Дает кратковременный всплеск скорости атаки после приземления.
+subDescButcherChainSwing08|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescButcherChainSwing09|Increases the critical strike damage dealt by chain swing.|Увеличивает критический урон «Взмаха цепью».
+subDescButcherChainSwing10|Increases the maximum cast range. Chain swing now ignores terrain.|Увеличивает дальность применения; «Взмах цепью» теперь игнорирует препятствия.
+subDescButcherChainSwing11|Unleash burning fissures at nearby monsters when landing inflicting burning.|При приземлении под ближайшими монстрами разверзаются горящие разломы, накладывающие горение.
+subDescButcherChainSwing12|Swing hooks around while travelling grabbing monsters on your path dealing increased damage.|Во время перемещения вы вращаете крюки вокруг себя, цепляя врагов на пути и нанося им увеличенный урон.
+subDescButcherChainSwing13|Connecting with a monster causes chain swing to pull all monsters nearby the target towards you.|При попадании по врагу «Взмах цепью» притягивает к вам всех монстров, находящихся рядом с целью.
+subDescButcherChainSwing14|Chain swing maximum length is significantly shorter but can be targeted. Spin around the target ignoring collision. Monsters hit by the chain take increased damage on hit.|Дальность «Взмаха цепью» сильно снижена, но умение можно наводить на цель. Вы вращаетесь вокруг цели, проходя сквозь неё; задетые цепью монстры получают увеличенный урон.
+||
+subButcherSubmergedKnives01|Impaling Horde|Пронзающая стая
+subButcherSubmergedKnives02|Agravating Wounds|Тяжкие увечья
+subButcherSubmergedKnives03|Sharp Edges|Острые грани
+subButcherSubmergedKnives04|Encased Cutters|Скрытые лезвия
+subButcherSubmergedKnives05|Jugular Cut|Удар в горло
+subButcherSubmergedKnives06|The Bigger They Are|Чем они больше...
+subButcherSubmergedKnives07|Blunt Cleaver|Тупой тесак
+subButcherSubmergedKnives08|Extended Gutting|Глубокое потрошение
+subButcherSubmergedKnives09|Nimble Handcraft|Ловкая работа
+subButcherSubmergedKnives10|Meat Skewer|Мясной вертел
+subButcherSubmergedKnives11|Tidal Knives|Прилив лезвий
+subButcherSubmergedKnives12|Sudden Chaining|Внезапные цепи
+subButcherSubmergedKnives13|Knifehoarder|Коллекционер ножей
+subButcherSubmergedKnives14|Bone Daggers|Костяные кинжалы
+subDescButcherSubmergedKnives01|Increases the amount of waves of submerged knives.|Увеличивает количество волн «Клинков из глубины».
+subDescButcherSubmergedKnives02|Increases the damage dealt by submerged knives.|Увеличивает урон «Клинков из глубины».
+subDescButcherSubmergedKnives03|Increases attack rating when using submerged knives.|Увеличивает рейтинг атаки при использовании «Клинков из глубины».
+subDescButcherSubmergedKnives04|Increases the area of effect radius of submerged knives.|Увеличивает радиус области действия «Клинков из глубины».
+subDescButcherSubmergedKnives05|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescButcherSubmergedKnives06|Increases damage dealt to bosses when using submerged knives.|Увеличивает урон «Клинков из глубины» по боссам.
+subDescButcherSubmergedKnives07|Chance to stun targets hit.|Дает шанс оглушить цель при попадании.
+subDescButcherSubmergedKnives08|Increases the maximum cast range of submerged knives.|Увеличивает максимальную дальность применения «Клинков из глубины».
+subDescButcherSubmergedKnives09|Reduces the cooldown of submerged knives.|Снижает время восстановления «Клинков из глубины».
+subDescButcherSubmergedKnives10|Chance to impale targets on hit dealing damage over time.|Дает шанс пронзить цель при попадании, нанося периодический урон.
+subDescButcherSubmergedKnives11|Unleash a shockwave of submerged knives towards target location.|Выпускает ударную волну «Клинков из глубины» в указанную область.
+subDescButcherSubmergedKnives12|Chance to unleash chains towards target on hit dealing additional damage.|При попадании дает шанс выбросить цепи в сторону цели, нанося доп. урон.
+subDescButcherSubmergedKnives13|Submerged knives can be activated/deactivated. While active periodically unleash submerged knives at nearby monsters inflicting bleeding. Drains a portion of your maximum mana while active.|«Клинки из глубины» становятся переключаемым умением. Пока оно активно, вы периодически выпускаете клинки в ближайших монстров, вызывая кровотечение. Поглощает часть макс. запаса маны.
+subDescButcherSubmergedKnives14|Consume corpses hit by submerged knives unleashing piercing gutting knives towards nearby monsters.|Поглощает трупы, задетые «Клинками из глубины», выпуская пронзающие потрошащие ножи в ближайших врагов.
+||
+subButcherBlender01|Sharpened Cleavers|Заточенные тесаки
+subButcherBlender02|Industrial Sized|Промышленные масштабы
+subButcherBlender03|No Bits Nor Pieces|Ни единого кусочка
+subButcherBlender04|Ragefueled Energy|Энергия ярости
+subButcherBlender05|Extra Cleaver Addon|Насадка-тесак
+subButcherBlender06|Obsidian Blades|Обсидиановые лезвия
+subButcherBlender07|Attachment Malfunction|Сбой механизма
+subButcherBlender08|It Will Blend|Всё перемелется
+subButcherBlender09|Blood Thirsting Killing Machine|Кровожадная машина убийства
+subButcherBlender10|Will it Blend?|Перемелется ли?
+subButcherBlender11|A.I. Empowered Nanoblenders|Нано-лезвия с ИИ
+subButcherBlender12|Blenderang|Мясоранг
+subButcherBlender13|Attachable Microblades|Сменные микролезвия
+subButcherBlender14|Blending Blood Pact|Кровавый пакт
+subDescButcherBlender01|Increases the damage dealt by blender.|Увеличивает урон «Мясорубки».
+subDescButcherBlender02|Increases the area of effect radius of blender.|Увеличивает радиус области действия «Мясорубки».
+subDescButcherBlender03|Increases attack rating when using blender.|Увеличивает рейтинг атаки при использовании «Мясорубки».
+subDescButcherBlender04|Increases the duration of blender.|Увеличивает длительность действия «Мясорубки».
+subDescButcherBlender05|Increases the amount of blades on blender.|Увеличивает количество лезвий «Мясорубки».
+subDescButcherBlender06|Increases the critical strike damage dealt by blender.|Увеличивает критический урон «Мясорубки».
+subDescButcherBlender07|Chance to send blades towards target on hit briefly returning back to you.|Дает шанс при попадании выпустить лезвия в цель; они быстро возвращаются к вам.
+subDescButcherBlender08|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescButcherBlender09|Chance to gain a stack of blood thirst on hit increasing your movement speed for a short duration.|Дает шанс при попадании получить заряд жажды крови, кратковременно увеличивающий скорость передвижения.
+subDescButcherBlender10|Knock monsters back dealing increased damage and slowing them.|Отбрасывает монстров, нанося увеличенный урон и замедляя их.
+subDescButcherBlender11|Summon multiple small blenders orbiting around you.|Призывает несколько малых мясорубок, вращающихся вокруг вас.
+subDescButcherBlender12|Throw a traveling blender towards target location returning back to you shortly. Blender cooldown is reduced.|Вы бросаете мясорубку в указанную точку, и она вскоре возвращается к вам. Время восстановления умения снижено.
+subDescButcherBlender13|Chance to conjure a small blender at target location on hit dealing additional damage for a short duration.|Дает шанс при попадании призвать в точке цели малую мясорубку, наносящую доп. урон в течение короткого времени.
+subDescButcherBlender14|Blender gains increased damage but killing monsters drains a portion of your maximum life. This effect is non-lethal and will de-activate blender if you cannot sacrifice your life anymore.|«Мясорубка» наносит увеличенный урон, но убийство монстров поглощает часть вашего макс. здоровья. Эффект прервется, если здоровья для жертвы будет недостаточно.

@@ -1,0 +1,173 @@
+subStormweaverChargedBolts01|Bigger Outlet|Мощный исток
+subStormweaverChargedBolts02|Electric Vains|Грозовые жилы
+subStormweaverChargedBolts03|Flash Bolt|Ослепительный разряд
+subStormweaverChargedBolts04|Halting Storm|Сдерживающая буря
+subStormweaverChargedBolts05|Weakening Charge|Ослабляющий заряд
+subStormweaverChargedBolts06|Efficient Wiring|Идеальная проводимость
+subStormweaverChargedBolts07|Non-conductive Boots|Сапоги заземления
+subStormweaverChargedBolts08|Static Buildup|Накопление статики
+subStormweaverChargedBolts09|Additive Voltage|Нарастающее напряжение
+subStormweaverChargedBolts10|Electrocharged Therapy|Шоковая терапия
+subStormweaverChargedBolts11|Electric Field|Грозовое поле
+subStormweaverChargedBolts12|World Ender|Погибель миров
+subStormweaverChargedBolts13|Loaded Thunder|Заряженный гром
+subStormweaverChargedBolts14|Railgun|Громобой
+subDescStormweaverChargedBolts01|Increases the amount of charged bolts.|Увеличивает количество «Заряженных разрядов».
+subDescStormweaverChargedBolts02|Increases the damage dealt by charged bolts.|Увеличивает урон «Заряженных разрядов».
+subDescStormweaverChargedBolts03|Increases the projectile speed of charged bolts.|Увеличивает скорость полета «Заряженных разрядов».
+subDescStormweaverChargedBolts04|Chance to deal increased damage slowing targets on hit.|Дает шанс нанести увеличенный урон и замедлить цели при попадании.
+subDescStormweaverChargedBolts05|Chance to inflict lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
+subDescStormweaverChargedBolts06|Decreases the mana cost of charged bolts.|Снижает затраты маны на «Заряженные разряды».
+subDescStormweaverChargedBolts07|Decreases movement diminish when using charged bolts.|Уменьшает штраф к скорости передвижения при использовании «Заряженных разрядов».
+subDescStormweaverChargedBolts08|Increases the size of charged bolts.|Увеличивает размер «Заряженных разрядов».
+subDescStormweaverChargedBolts09|Chance on cast to increase the amount of charged bolts.|Дает шанс при касте увеличить количество «Заряженных разрядов».
+subDescStormweaverChargedBolts10|Chance to inflict stasis on hit.|Дает шанс наложить стазис при попадании.
+subDescStormweaverChargedBolts11|Unleash charged bolts in a circle around you causing them to return after a short duration.|Выпускает разряды кольцом вокруг вас; через короткое время они возвращаются обратно.
+subDescStormweaverChargedBolts12|Conjure a single large charged bolt scaling from projectile amount and unleashing charged bolts into all directions after exploding.|Создает один огромный разряд, сила которого зависит от количества снарядов; при взрыве он выпускает малые разряды во все стороны.
+subDescStormweaverChargedBolts13|Chance to unleash a large pulsating thunder bolt on hit dealing increased damage.|Дает шанс при попадании выпустить мощную пульсирующую молнию, наносящую увеличенный урон.
+subDescStormweaverChargedBolts14|Unleash charged bolts as a barrage dealing increased damage. Charged bolts now has a cooldown.|Выпускает шквал «Заряженных разрядов», наносящих повышенный урон. Умение теперь имеет время восстановления.
+||
+subStormweaverLightningSurge01|Amplified Storm|Усиленный шторм
+subStormweaverLightningSurge02|Storm´s Prophet|Пророк бури
+subStormweaverLightningSurge03|Shocked to the Core|Пронзающий шок
+subStormweaverLightningSurge04|Heated Lightning|Раскаленная молния
+subStormweaverLightningSurge05|Piercing Bolt|Пронзающий разряд
+subStormweaverLightningSurge06|Restoring Surge|Восстанавливающий поток
+subStormweaverLightningSurge07|Voltaic Pressure|Грозовой натиск
+subStormweaverLightningSurge08|Storm Summoner|Призыватель бури
+subStormweaverLightningSurge09|Lightning Strikes Twice!|Молния бьет дважды!
+subStormweaverLightningSurge10|Grounding Surge|Заземляющий разряд
+subStormweaverLightningSurge11|Surging Comeback|Стремительный возврат
+subStormweaverLightningSurge12|Supercharged|Сверхзаряд
+subStormweaverLightningSurge13|Concurrent Current|Связующий ток
+subStormweaverLightningSurge14|Surging Tornado|Грозовой смерч
+subDescStormweaverLightningSurge01|Increases the damage dealt by lightning surge.|Увеличивает урон «Всплеска молнии».
+subDescStormweaverLightningSurge02|Decreases the mana cost of lightning surge.|Снижает затраты маны на «Всплеск молнии».
+subDescStormweaverLightningSurge03|Chance to lower target attack rating on hit.|Дает шанс при попадании снизить рейтинг атаки цели.
+subDescStormweaverLightningSurge04|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescStormweaverLightningSurge05|Chance to inflict lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
+subDescStormweaverLightningSurge06|Chance to restore portion of your maximum mana on hit.|Дает шанс восполнить часть макс. запаса маны при попадании.
+subDescStormweaverLightningSurge07|Increases cast rate when using lightning surge.|Увеличивает скорость каста при использовании «Всплеска молнии».
+subDescStormweaverLightningSurge08|Chance to summon a small storm cloud on hit.|Дает шанс призвать малое грозовое облако при попадании.
+subDescStormweaverLightningSurge09|Chance on cast to unleash an additional lightning surge.|Дает шанс при касте выпустить дополнительный «Всплеск молнии».
+subDescStormweaverLightningSurge10|Chance for lightning surge to explode into multiple smaller surges on hit.|При попадании «Всплеск молнии» может взорваться и разделиться на несколько малых волн.
+subDescStormweaverLightningSurge11|Lightning surge returns after a short duration dealing increased damage.|«Всплеск молнии» возвращается через короткое время, нанося увеличенный урон.
+subDescStormweaverLightningSurge12|Unleash multiple narrower surges in an arc dealing a portion of the damage.|Выпускает несколько узких волн по дуге, каждая из которых наносит часть основного урона.
+subDescStormweaverLightningSurge13|Lightning surge attaches a tether to multiple targets dealing damage over time.|«Всплеск молнии» связывает несколько целей электрической цепью, нанося периодический урон.
+subDescStormweaverLightningSurge14|Unleash a tornado of surging lightning dealing increased damage.|Призывает грозовой смерч, наносящий увеличенный урон.
+||
+subStormweaverStaticShock01|High Voltage Shock|Пиковое напряжение
+subStormweaverStaticShock02|Uprising Charge|Нарастающий заряд
+subStormweaverStaticShock03|Field of Shock|Шоковое поле
+subStormweaverStaticShock04|Initial Zap|Первичный разряд
+subStormweaverStaticShock05|Multishock|Множественный разряд
+subStormweaverStaticShock06|Storms Reach|Охват шторма
+subStormweaverStaticShock07|Storm Infused Vains|Грозовые жилы
+subStormweaverStaticShock08|Lingering Electricity|Остаточный заряд
+subStormweaverStaticShock09|Charged Shock|Усиленный шок
+subStormweaverStaticShock10|Weakening Strike|Ослабляющий удар
+subStormweaverStaticShock11|Self Ionization|Статический ореол
+subStormweaverStaticShock12|Leeching Shock|Поглощающий шок
+subStormweaverStaticShock13|Thunders Embrace|Объятия грома
+subStormweaverStaticShock14|Ultimate Static Current|Первозданная статика
+subDescStormweaverStaticShock01|Increases the damage dealt by static shock.|Увеличивает урон «Статического шока».
+subDescStormweaverStaticShock02|Decreases the cooldown of static shock.|Снижает время восстановления «Статического шока».
+subDescStormweaverStaticShock03|Increases the area of effect radius of static shock.|Увеличивает радиус действия «Статического шока».
+subDescStormweaverStaticShock04|Static shock shocks monsters with an initial hit dealing increased damage.|«Статический шок» наносит увеличенный урон при первом срабатывании.
+subDescStormweaverStaticShock05|Chance on cast to unleash an additional static shock.|Дает шанс при касте вызвать дополнительный «Статический шок».
+subDescStormweaverStaticShock06|Increases the maximum cast range of static shock.|Увеличивает дальность применения «Статического шока».
+subDescStormweaverStaticShock07|Increases the tick frequency of static shock.|Увеличивает частоту срабатывания «Статического шока».
+subDescStormweaverStaticShock08|Increases the duration of static shock.|Увеличивает длительность действия «Статического шока».
+subDescStormweaverStaticShock09|Chance on cast to increase the damage dealt by static shock.|Дает шанс при касте увеличить урон «Статического шока».
+subDescStormweaverStaticShock10|Inflicts lightning break on hit.|При попадании вызывает игнорирование сопр. молнии.
+subDescStormweaverStaticShock11|Static shock follows you with increased duration inflicting statick shock to nearby monsters.|«Статический шок» теперь следует за вами, его длительность увеличена, и он поражает ближайших монстров.
+subDescStormweaverStaticShock12|Chance on tick to restore a portion of your maximum mana dealing increased damage and stunning the target.|Каждое срабатывание может восполнить часть макс. маны, нанося при этом увеличенный урон и оглушая цель.
+subDescStormweaverStaticShock13|Increases the area of effect radius inflicting stasis on hit.|Увеличивает радиус действия и накладывает стазис при попадании.
+subDescStormweaverStaticShock14|Chance on tick to unleash a lightning surge towards the target.|Дает шанс при каждом срабатывании выпустить «Всплеск молнии» в сторону цели.
+||
+subStormweaverStormCloud01|Rapid and Intense Glaciation|Стремительное обледенение
+subStormweaverStormCloud02|Demolishing Discharge|Разрушительный разряд
+subStormweaverStormCloud03|Storm Conjurer|Заклинатель бури
+subStormweaverStormCloud04|Shocking Thunder|Оглушающий гром
+subStormweaverStormCloud05|Destructive Cloudburst|Гибельный ливень
+subStormweaverStormCloud06|Maelstorm|Грозовой вихрь
+subStormweaverStormCloud07|Supercell Storm|Сверхшторм
+subStormweaverStormCloud08|Heatcharged Lightning|Раскаленная молния
+subStormweaverStormCloud09|Thunder´s Roar|Раскат грома
+subStormweaverStormCloud10|Homing Tempest|Преследующая буря
+subStormweaverStormCloud11|Orbiting Tempest|Кружащий шторм
+subStormweaverStormCloud12|Storm Front|Грозовой фронт
+subStormweaverStormCloud13|Aftershock|Остаточный удар
+subStormweaverStormCloud14|Apocalyptic Event|Апокалипсис
+subDescStormweaverStormCloud01|Increases the tick frequency of storm cloud.|Увеличивает частоту срабатывания «Грозового облака».
+subDescStormweaverStormCloud02|Increases the damage dealt by storm cloud.|Увеличивает урон «Грозового облака».
+subDescStormweaverStormCloud03|Decreases the mana cost of storm cloud.|Снижает затраты маны на «Грозовое облако».
+subDescStormweaverStormCloud04|Chance to inflict stasis on hit.|Дает шанс наложить стазис при попадании.
+subDescStormweaverStormCloud05|Chance to unleash multiple charged bolts on hit.|Дает шанс выпустить несколько заряженных разрядов при попадании.
+subDescStormweaverStormCloud06|Increases the area of effect radius of storm cloud.|Увеличивает радиус области действия «Грозового облака».
+subDescStormweaverStormCloud07|Increases the duration of storm cloud.|Увеличивает длительность действия «Грозового облака».
+subDescStormweaverStormCloud08|Chance to leave the ground on flames on hit dealing damage over time.|Дает шанс поджечь землю при попадании, нанося периодический урон.
+subDescStormweaverStormCloud09|Chance on cast to unleash an additional storm cloud.|Дает шанс при касте призвать дополнительное «Грозовое облако».
+subDescStormweaverStormCloud10|Storm cloud now slowly moves towards the closest nearby monster.|«Грозовое облако» теперь медленно следует за ближайшим врагом.
+subDescStormweaverStormCloud11|Conjure multiple storm clouds orbitting around you.|Призывает несколько грозовых облаков, кружащих вокруг вас.
+subDescStormweaverStormCloud12|Unleash a large storm cloud with a chance of striking monsters with lightning bolts dealing heavy damage.|Вызывает огромное грозовое облако, которое поражает монстров молниями, нанося сильный урон.
+subDescStormweaverStormCloud13|Increases the area of effect radius of storm cloud leaving the ground below charged with electricity dealing damage over time and slowing monsters on hit.|Увеличивает радиус «Грозового облака»; земля под ним электризуется, нанося периодический урон и замедляя врагов.
+subDescStormweaverStormCloud14|Chance to unleash apocalyptic thunder on hit dealing additional damage executing targets with life below a threshold.|Дает шанс вызвать апокалиптический гром при попадании, нанося доп. урон и казня цели с низким уровнем здоровья.
+||
+subStormweaverStormBolt01|Bolts of Devastation|Разряды опустошения
+subStormweaverStormBolt02|Beaming Cast|Сверкающий бросок
+subStormweaverStormBolt03|Expanding Storm|Растущая буря
+subStormweaverStormBolt04|Static Explosion|Взрыв статики
+subStormweaverStormBolt05|Tiny Storms|Малые бури
+subStormweaverStormBolt06|Surging Colossus|Гроза титанов
+subStormweaverStormBolt07|Quantity of Power|Приумножение силы
+subStormweaverStormBolt08|Unleash Discharge|Высвобождение разряда
+subStormweaverStormBolt09|Storm Breeds Storm|Буря порождает бурю
+subStormweaverStormBolt10|Bouncing Bolts|Рикошетящие разряды
+subStormweaverStormBolt11|Pulsating Bolt|Пульсирующий разряд
+subStormweaverStormBolt12|Bouncing Charge|Цепной заряд
+subStormweaverStormBolt13|Storm Claw|Коготь бури
+subStormweaverStormBolt14|Magnetize|Магнетизм
+subDescStormweaverStormBolt01|Increases the damage dealt by storm bolt.|Увеличивает урон «Штормового разряда».
+subDescStormweaverStormBolt02|Increases the projectile speed of storm bolt.|Увеличивает скорость снарядов «Штормового разряда».
+subDescStormweaverStormBolt03|Increases the projectile size of storm bolt.|Увеличивает размер снарядов «Штормового разряда».
+subDescStormweaverStormBolt04|Increases the area of effect radius of storm bolt.|Увеличивает радиус области действия «Штормового разряда».
+subDescStormweaverStormBolt05|Chance on cast to unleash multiple smaller storm bolts in a barrage.|Дает шанс при касте выпустить шквал малых штормовых разрядов.
+subDescStormweaverStormBolt06|Increases damage dealt to bosses.|Увеличивает урон по боссам.
+subDescStormweaverStormBolt07|Chance on cast to fire an additional storm bolt.|Дает шанс при касте выпустить дополнительный «Штормовой разряд».
+subDescStormweaverStormBolt08|Chance to pull nearby monsters towards the target on hit dealing increased damage inflicting the target with lightning break.|Дает шанс притянуть ближайших монстров к цели, нанося увеличенный урон и вызывая игнорирование сопр. молнии.
+subDescStormweaverStormBolt09|Chance to summon a small storm cloud for a short duration at target location on hit.|Дает шанс при попадании на короткое время призвать малое грозовое облако в точке удара.
+subDescStormweaverStormBolt10|Storm bolts can bounce off of terrain multiple times refreshing its lifetime.|Разряды могут несколько раз отскакивать от препятствий, обновляя время своего существования.
+subDescStormweaverStormBolt11|Unleash a piercing and pulsating storm bolt with increased area of effect radius and damage.|Выпускает пронзающий и пульсирующий разряд с увеличенным уроном и радиусом действия.
+subDescStormweaverStormBolt12|Unleash a piercing storm bolt bouncing between nearby monsters on hit increasing the damage dealt with each bounce.|Выпускает пронзающий разряд, который отскакивает от монстра к монстру, увеличивая урон с каждым скачком.
+subDescStormweaverStormBolt13|Chance to unleash multiple surges of lightning in an arc towards target on hit.|Дает шанс при попадании выпустить несколько всплесков молнии по дуге в сторону цели.
+subDescStormweaverStormBolt14|Pull all nearby monsters towards the target on hit causing a large electromagnetic explosion slowing and dealing increased damage.|При попадании притягивает всех ближайших врагов к цели, вызывая мощный электромагнитный взрыв и замедление.
+||
+subStormweaverApocalypticThunder01|Voltage Amplification|Рост напряжения
+subStormweaverApocalypticThunder02|Center of the Storm|Око бури
+subStormweaverApocalypticThunder03|Immobilizing Thunderstrike|Сковывающий удар грома
+subStormweaverApocalypticThunder04|Speed of Sound|Скорость звука
+subStormweaverApocalypticThunder05|Spontanious Rupture|Внезапный пробой
+subStormweaverApocalypticThunder06|Conjurers Skill|Мастерство заклинателя
+subStormweaverApocalypticThunder07|Horizontal Travel|Дальность удара
+subStormweaverApocalypticThunder08|Shocking Lightningstrike|Шоковый удар молнии
+subStormweaverApocalypticThunder09|30000 Degrees|30 000 градусов
+subStormweaverApocalypticThunder10|Fracturing Thunder|Дробящий гром
+subStormweaverApocalypticThunder11|Lightning Rod|Громоотвод
+subStormweaverApocalypticThunder12|Symphony of the Storm|Симфония бури
+subStormweaverApocalypticThunder13|Lethal Voltage|Смертельное напряжение
+subStormweaverApocalypticThunder14|Superstorm|Сверхбуря
+subDescStormweaverApocalypticThunder01|Increases the damage dealt by apocalyptic thunder.|Увеличивает урон «Апокалиптического грома».
+subDescStormweaverApocalypticThunder02|Decreases the mana cost of apocalyptic thunder.|Снижает затраты маны на «Апокалиптический гром».
+subDescStormweaverApocalypticThunder03|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
+subDescStormweaverApocalypticThunder04|Increases the area of effect radius of apocalyptic thunder.|Увеличивает радиус области действия «Апокалиптического грома».
+subDescStormweaverApocalypticThunder05|Chance to unleash an additional apocalyptic thunder on hit.|Дает шанс вызвать дополнительный «Апокалиптический гром» при попадании.
+subDescStormweaverApocalypticThunder06|Decreases movement diminish when using apocalyptic thunder.|Уменьшает штраф к скорости передвижения при использовании «Апокалиптического грома».
+subDescStormweaverApocalypticThunder07|Increases the maximum cast range of apocalyptic thunder.|Увеличивает дальность применения «Апокалиптического грома».
+subDescStormweaverApocalypticThunder08|Chance to inflict lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
+subDescStormweaverApocalypticThunder09|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescStormweaverApocalypticThunder10|Increases damage dealt to stunned and burning targets.|Увеличивает урон по оглушенным и горящим целям.
+subDescStormweaverApocalypticThunder11|Chance on cast to unleash a chain of shrinking apocalyptic thunders on hit.|Дает шанс при касте вызвать цепочку уменьшающихся ударов «Апокалиптического грома».
+subDescStormweaverApocalypticThunder12|Apocalyptic thunder strikes multiple times dealing less damage with every strike. Apocalyptic thunder now has a cooldown.|«Апокалиптический гром» бьет несколько раз, теряя урон с каждым ударом. Умение теперь имеет время восстановления.
+subDescStormweaverApocalypticThunder13|Inflicts stasis and lightning break on hit.|При попадании накладывает стазис и вызывает игнорирование сопр. молнии.
+subDescStormweaverApocalypticThunder14|Unleash a nova of lightning knocking enemies back with increased damage.|Выпускает кольцо молний, которое отбрасывает врагов и наносит увеличенный урон.

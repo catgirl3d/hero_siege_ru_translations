@@ -1,0 +1,347 @@
+subShamanTectonicBoulder01|Bouncy Boulder|Упругий валун
+subShamanTectonicBoulder02|Stoned Mind|Каменный разум
+subShamanTectonicBoulder03|Boulder Momentum|Инерция валуна
+subShamanTectonicBoulder04|Stone Density|Плотность камня
+subShamanTectonicBoulder05|Fractured Balance|Нарушенное равновесие
+subShamanTectonicBoulder06|Crushing Boulder|Сокрушительный валун
+subShamanTectonicBoulder07|Chunky Stone|Массивный камень
+subShamanTectonicBoulder08|Frosted Pebble|Морозная галька
+subShamanTectonicBoulder09|Frostbiting Boulder|Леденящий валун
+subShamanTectonicBoulder10|Fragmentation|Фрагментация
+subShamanTectonicBoulder11|Tiny Stones|Малые камни
+subShamanTectonicBoulder12|Colossal Boulder|Колоссальный валун
+subShamanTectonicBoulder13|Molten Boulder|Раскаленный валун
+subShamanTectonicBoulder14|Stone Slinger|Метатель камней
+subDescShamanTectonicBoulder01|Increases the amount of bounces.|Увеличивает количество отскоков.
+subDescShamanTectonicBoulder02|Decreases the mana cost of tectonic boulder.|Снижает затраты маны на «Тектонический валун».
+subDescShamanTectonicBoulder03|Increases the projectile speed of tectonic boulder.|Увеличивает скорость полета «Тектонического валуна».
+subDescShamanTectonicBoulder04|Increases damage dealt by tectonic boulder.|Увеличивает урон «Тектонического валуна».
+subDescShamanTectonicBoulder05|Knock monsters back on hit dealing increased damage.|Отбрасывает монстров назад и наносит увеличенный урон при попадании.
+subDescShamanTectonicBoulder06|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescShamanTectonicBoulder07|Increases the size of tectonic boulder.|Увеличивает размер «Тектонического валуна».
+subDescShamanTectonicBoulder08|Chance on cast to unleash a frozen boulder inflicting freezing on hit.|Дает шанс при касте выпустить ледяной валун, замораживающий врагов при попадании.
+subDescShamanTectonicBoulder09|Increases damage dealt to frozen targets.|Увеличивает урон по замороженным целям.
+subDescShamanTectonicBoulder10|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescShamanTectonicBoulder11|Unleash multiple smaller boulders in an arc.|Выпускает несколько малых валунов по дуге.
+subDescShamanTectonicBoulder12|Unleash a boulder with increased size and damage stunning monsters on hit. Tectonic boulder now has a cooldown.|Выпускает валун увеличенного размера, который наносит повышенный урон и оглушает монстров. «Тектонический валун» теперь имеет время восстановления.
+subDescShamanTectonicBoulder13|Conjure a molten boulder leaving behind a trail of lava inflicting monsters with burning on hit.|Создает раскаленный валун, оставляющий за собой след из лавы, который накладывает горение на монстров.
+subDescShamanTectonicBoulder14|Throw boulders with increased projectile speed causing them to bounce off terrain.|Повышает скорость полета валунов и заставляет их отскакивать от препятствий.
+||
+subShamanTwisters01|Twisted Winds|Извилистые ветры
+subShamanTwisters02|Twistering Multitude|Множество смерчей
+subShamanTwisters03|Whispering Winds|Шепчущие ветры
+subShamanTwisters04|Sharp Gust|Резкий порыв
+subShamanTwisters05|Wind´s Trajectory|Траектория ветра
+subShamanTwisters06|Gust´s Bite|Укус порыва
+subShamanTwisters07|Windstruck|Удар ветра
+subShamanTwisters08|Windstep|Шаг ветра
+subShamanTwisters09|Upward Spiral|Восходящая спираль
+subShamanTwisters10|Piercing Winds|Пронзающие ветры
+subShamanTwisters11|Entangling Gust|Опутывающий порыв
+subShamanTwisters12|Explosive Gust|Взрывной порыв
+subShamanTwisters13|Splitting Twister|Разделяющийся смерч
+subShamanTwisters14|Ripping Gust|Разрывающий порыв
+subDescShamanTwisters01|Increases the projectile speed of twisters.|Увеличивает скорость полета смерчей.
+subDescShamanTwisters02|Increases the amount of twisters.|Увеличивает количество смерчей.
+subDescShamanTwisters03|Decreases the mana cost of twisters.|Снижает затраты маны на «Смерчи».
+subDescShamanTwisters04|Increases damage dealt by twisters.|Увеличивает урон смерчей.
+subDescShamanTwisters05|Chance to change trajectory towards nearest monster with increased damage on hit.|Дает шанс изменить траекторию в сторону ближайшего монстра; при попадании такой смерч наносит увеличенный урон.
+subDescShamanTwisters06|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescShamanTwisters07|Chance to strike monsters with lightning on hit dealing additional damage.|Дает шанс поразить монстров молнией при попадании, нанося доп. урон.
+subDescShamanTwisters08|Decreases movement diminish when using twisters.|Уменьшает штраф к скорости передвижения при использовании смерчей.
+subDescShamanTwisters09|Chance to send monsters airborne dealing increased damage on hit.|Дает шанс подбросить монстров в воздух, нанося увеличенный урон при попадании.
+subDescShamanTwisters10|Chance for twisters to become piercing.|Дает шанс смерчам стать пронзающими.
+subDescShamanTwisters11|Twisters pierce through targets with increased damage inflicting entangling roots on hit.|Смерчи пронзают цели, нанося увеличенный урон и накладывая опутывающие корни при попадании.
+subDescShamanTwisters12|Twisters explode with increased area of effect radius on hit inflicting arcane break.|При попадании смерчи взрываются в увеличенном радиусе, вызывая игнорирование сопр. тайной магии.
+subDescShamanTwisters13|Conjure a single twister with increased damage and size unleashing piercing twisters to all directions on hit.|Вызывает один огромный смерч с увеличенным уроном, который при попадании выпускает пронзающие смерчи во все стороны.
+subDescShamanTwisters14|Increases damage dealt inflicting bleeding on hit.|Увеличивает наносимый урон и вызывает кровотечение при попадании.
+||
+subShamanRockFragments01|Multistone Fragments|Множество осколков
+subShamanRockFragments02|Stonegrowth|Рост камней
+subShamanRockFragments03|Reinforced Stone|Укрепленный камень
+subShamanRockFragments04|Swift Fragments|Быстрые осколки
+subShamanRockFragments05|Arcanastone|Магический камень
+subShamanRockFragments06|Fragment Growth|Разрастание осколков
+subShamanRockFragments07|Disorienting Impact|Ошеломляющий удар
+subShamanRockFragments08|Feint Crush|Внезапное сокрушение
+subShamanRockFragments09|Impaired Stone|Треснувший камень
+subShamanRockFragments10|Heavystone Crash|Каменный обвал
+subShamanRockFragments11|Accumulating Density|Нарастающая плотность
+subShamanRockFragments12|Elemental Fragments|Стихийные осколки
+subShamanRockFragments13|Colossus Stone Fragment|Осколок камня колосса
+subShamanRockFragments14|Mad Rockslinger|Безумный камнеметатель
+subDescShamanRockFragments01|Increases the amount of rock fragments.|Увеличивает количество каменных осколков.
+subDescShamanRockFragments02|Increases the size of rock fragments.|Увеличивает размер каменных осколков.
+subDescShamanRockFragments03|Increases damage dealt by rock fragments.|Увеличивает урон каменных осколков.
+subDescShamanRockFragments04|Increases the projectile speed of rock fragments.|Увеличивает скорость полета каменных осколков.
+subDescShamanRockFragments05|Fragments have a chance of being imbued with arcana creating an arcane nova where they explode dealing damage over time.|Осколки могут наполниться тайной магией; при взрыве они создают кольцо тайной магии, наносящее периодический урон.
+subDescShamanRockFragments06|Chance to conjure fragments with increased damage and size.|Дает шанс создать осколки с увеличенным уроном и размером.
+subDescShamanRockFragments07|Chance on hit to stun an enemy.|Дает шанс оглушить врага при попадании.
+subDescShamanRockFragments08|Increases damage dealt to stunned enemies.|Увеличивает урон по оглушенным врагам.
+subDescShamanRockFragments09|Rock fragments have a chance to ricochet on hit dealing increased damage.|Каменные осколки могут срикошетить при попадании, нанося увеличенный урон.
+subDescShamanRockFragments10|Chance to deal a critical strike with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescShamanRockFragments11|Increases the projectile speed of rock fragments increasing damage dealt based on distance traveled.|Увеличивает скорость полета осколков; наносимый урон растет в зависимости от пройденного ими расстояния.
+subDescShamanRockFragments12|Arcanastone proc chance is doubled and additionally selects a random element between lightning, arcane, and fire. Lightning causes chain lightning, fire causes enemies to burn, and arcane leaves an arcane nova.|Шанс срабатывания «Магического камня» удвоен. Случайным образом выбирается стихия: молния вызывает цепную молнию, огонь — горение, а тайная магия — магическое кольцо.
+subDescShamanRockFragments13|Throw a giant rock onto the target location that explodes into multiple rock fragments that explode into smaller fragments.|Вы бросаете огромный камень в указанную точку; он разлетается на множество осколков, которые затем распадаются на еще более мелкие части.
+subDescShamanRockFragments14|Throw increased amount of rocks in random directions.|Вы выпускаете увеличенное количество камней в случайных направлениях.
+||
+subShamanEarthBind01|Lasting Roots|Цепкие корни
+subShamanEarthBind02|Sharp Oaks|Острые дубы
+subShamanEarthBind03|Nature's Intellect|Разум природы
+subShamanEarthBind04|Increased Pressure|Тяжесть земли
+subShamanEarthBind05|Rooting Wave|Волна корней
+subShamanEarthBind06|Expanding Roots|Растущие корни
+subShamanEarthBind07|Lingering Oak|Стойкий дуб
+subShamanEarthBind08|Poisonous Ivy|Ядовитый плющ
+subShamanEarthBind09|Strangling Thorns|Удушающие шипы
+subShamanEarthBind10|Paralyzing Leaves|Парализующая листва
+subShamanEarthBind11|Field of Roots|Поле корней
+subShamanEarthBind12|Wildfire Growth|Стихийный рост
+subShamanEarthBind13|Shattering Thorns|Разрушительные шипы
+subShamanEarthBind14|Quick Strangulation|Быстрое удушение
+subDescShamanEarthBind01|Increases the duration of earth bind.|Увеличивает длительность умения «Оковы земли».
+subDescShamanEarthBind02|Increases damage dealt by earth bind.|Увеличивает урон «Оков земли».
+subDescShamanEarthBind03|Decreases the cooldown of earth bind.|Снижает время восстановления «Оков земли».
+subDescShamanEarthBind04|Monsters killed by earth bind explode, dealing area of effect damage.|Монстры, убитые «Оковами земли», взрываются и наносят урон по области.
+subDescShamanEarthBind05|Chance to unleash additional earth binds on cast.|Дает шанс создать дополнительные «Оковы земли» при использовании.
+subDescShamanEarthBind06|Chance for earth bind to grow on hit.|Дает шанс на увеличение области «Оков земли» при попадании.
+subDescShamanEarthBind07|Increases the area of effect of earth bind.|Увеличивает область действия «Оков земли».
+subDescShamanEarthBind08|Increases poisoned damage of earth bind.|Увеличивает урон ядом «Оков земли».
+subDescShamanEarthBind09|Executes low-life monsters.|Казнит монстров с низким уровнем здоровья.
+subDescShamanEarthBind10|Increases damage dealt to poisoned targets.|Увеличивает урон по отравленным целям.
+subDescShamanEarthBind11|Area of effect and damage is greatly increased, but earth bind is now cast at your feet.|Область действия и урон значительно увеличены, но теперь «Оковы земли» создаются под вашими ногами.
+subDescShamanEarthBind12|Chance to send a trail of hellfire towards targets on hit.|Дает шанс выпустить след адского пламени в сторону врагов при попадании.
+subDescShamanEarthBind13|Increases damage dealt, inflicting elemental break on hit.|Увеличивает наносимый урон и вызывает игнорирование сопр. стихиям при попадании.
+subDescShamanEarthBind14|Increases the tick frequency of earth bind.|Увеличивает частоту нанесения урона «Оков земли».
+||
+subShamanMeteorStorm01|Meteor Strike|Удар метеора
+subShamanMeteorStorm02|Massive Stone|Массивный камень
+subShamanMeteorStorm03|Extended Meteorshower|Затяжной метеоритный дождь
+subShamanMeteorStorm04|Meteoric Fragmentation|Осколки метеора
+subShamanMeteorStorm05|Heat Seeking Storm|Наводящийся шторм
+subShamanMeteorStorm06|Concentrated Shattering|Сосредоточенное разрушение
+subShamanMeteorStorm07|Rolling Meteorite|Катящийся метеорит
+subShamanMeteorStorm08|Manaburning Meteorology|Магическая метеорология
+subShamanMeteorStorm09|Colossus Destroyer|Разрушитель колоссов
+subShamanMeteorStorm10|Hellflame Meteors|Метеоры адского пламени
+subShamanMeteorStorm11|Astroheated Shower|Раскаленный ливень
+subShamanMeteorStorm12|Storm of Comets|Шторм комет
+subShamanMeteorStorm13|Back Into Orbit|Возврат на орбиту
+subShamanMeteorStorm14|Rain From Hell|Ливень из преисподней
+subDescShamanMeteorStorm01|Increases the damage dealt by meteor storm.|Увеличивает урон «Метеоритного шторма».
+subDescShamanMeteorStorm02|Increases the area of effect radius of meteor storm.|Увеличивает радиус области действия «Метеоритного шторма».
+subDescShamanMeteorStorm03|Increases duration of meteor storm.|Увеличивает длительность «Метеоритного шторма».
+subDescShamanMeteorStorm04|Meteors have a chance of exploding into smaller fragments that deal additional damage.|Метеоры могут взорваться, разлетаясь на мелкие осколки, наносящие дополнительный урон.
+subDescShamanMeteorStorm05|Meteor storm slowly travels towards the closest enemy.|«Метеоритный шторм» медленно движется в сторону ближайшего врага.
+subDescShamanMeteorStorm06|Inflicts elemental break on hit with the cost of reduced area of effect radius.|При попадании вызывает игнорирование сопр. стихиям ценой уменьшенного радиуса области действия.
+subDescShamanMeteorStorm07|Chance for meteors to roll for a short duration when landing dealing additional damage.|При приземлении метеоры могут катиться в течение короткого времени, нанося дополнительный урон.
+subDescShamanMeteorStorm08|Increases damage according to your energy. Mana cost is increased.|Увеличивает урон в зависимости от вашей энергии, но повышает затраты маны.
+subDescShamanMeteorStorm09|Increases damage dealt to bosses by meteor storm.|Увеличивает урон «Метеоритного шторма» по боссам.
+subDescShamanMeteorStorm10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescShamanMeteorStorm11|Meteors constantly fall around you with a decreased frequency.|Метеоры постоянно падают вокруг вас, но с меньшей частотой.
+subDescShamanMeteorStorm12|Call down a rain of colossal meteors from the sky over a greater area dealing increased damage. Meteor storm now has a cooldown.|Вы обрушиваете град колоссальных метеоров на огромную область, нанося увеличенный урон. «Метеоритный шторм» теперь имеет время восстановления.
+subDescShamanMeteorStorm13|Summon multiple storms orbiting you. Meteor storm now has a cooldown.|Вы призываете несколько штормов, вращающихся вокруг вас. «Метеоритный шторм» теперь имеет время восстановления.
+subDescShamanMeteorStorm14|Increases the duration of meteor storm inflicting monsters with burning on hit.|Увеличивает длительность «Метеоритного шторма» и заставляет его накладывать горение при попадании.
+||
+subShamanTornado01|Wind´s Force|Сила ветра
+subShamanTornado02|Sudden Winds|Внезапные порывы
+subShamanTornado03|Cyclone Radius|Радиус циклона
+subShamanTornado04|Tempest Mind|Разум бури
+subShamanTornado05|Windstorm´s Wrath|Гнев урагана
+subShamanTornado06|Piercing Typhoon|Пронзающий тайфун
+subShamanTornado07|Flowing Spiral|Потоковая спираль
+subShamanTornado08|Punishing Tempest|Карающая буря
+subShamanTornado09|Tempeststep|Шаг бури
+subShamanTornado10|Afterflow|Остаточный поток
+subShamanTornado11|Orbital Winds|Орбитальные ветры
+subShamanTornado12|Storm Growth|Нарастающий шторм
+subShamanTornado13|Splitting Cyclone|Разделение циклона
+subShamanTornado14|Absolute Tempest|Абсолютная буря
+subDescShamanTornado01|Increases damage dealt by tornado.|Увеличивает урон «Торнадо».
+subDescShamanTornado02|Chance to increase the amount of tornados.|Дает шанс увеличить количество выпускаемых торнадо.
+subDescShamanTornado03|Increases the size of tornado.|Увеличивает размер «Торнадо».
+subDescShamanTornado04|Decreases the mana cost of tornado.|Снижает затраты маны на «Торнадо».
+subDescShamanTornado05|Chance to deal a critical strike with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescShamanTornado06|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescShamanTornado07|Chance to stun and knock targets up on hit.|Дает шанс оглушить и подбросить цель при попадании.
+subDescShamanTornado08|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescShamanTornado09|Decreases movement diminish when using tornado.|Уменьшает штраф к скорости передвижения при использовании «Торнадо».
+subDescShamanTornado10|Chance to unleash an additional tornado.|Дает шанс выпустить дополнительное торнадо.
+subDescShamanTornado11|Spawn multiple tornadoes spiraling outwards from you.|Вы призываете несколько торнадо, которые расходятся от вас по спирали.
+subDescShamanTornado12|Summon a static tornado growing in size and gaining increased damage over time eventually bursting into small tornados in all directions.|Вы призываете неподвижное торнадо, размер и урон которого постоянно растут; в конце оно взрывается, разлетаясь множеством малых смерчей.
+subDescShamanTornado13|Tornado halves on size and damage on hit.|При попадании торнадо разделяется, уменьшаясь в размере и теряя половину урона.
+subDescShamanTornado14|Conjure a tornado with increased size catching monsters in it till hitting terrain throwing any monsters caught in the air and causing them to deal area of effect damage upon landing.|Призывает огромное торнадо, затягивающее монстров; оно несет их до столкновения с препятствием, после чего подбрасывает в воздух. При падении монстры наносят урон по области.
+||
+subShamanFissures01|Trembling Earth|Дрожащая земля
+subShamanFissures02|Scorching Steam|Обжигающий пар
+subShamanFissures03|Debilitating Burst|Изнуряющий взрыв
+subShamanFissures04|Magnetic Field|Земное притяжение
+subShamanFissures05|Trembling Pull|Сотрясающее притяжение
+subShamanFissures06|Earth Crack|Раскол земли
+subShamanFissures07|Comet Fall|Падение кометы
+subShamanFissures08|Field of Landmass|Зона разломов
+subShamanFissures09|Rumbling Impact|Грохочущий удар
+subShamanFissures10|Frequent Shaking|Частые толчки
+subShamanFissures11|Enlargening Earthquake|Растущее землетрясение
+subShamanFissures12|Electrocharged Fissures|Заряженные разломы
+subShamanFissures13|Manual Quake|Направленный толчок
+subShamanFissures14|Natural Disaster|Стихийное бедствие
+subDescShamanFissures01|Increases duration of fissures.|Увеличивает длительность «Разломов».
+subDescShamanFissures02|Increases damage dealt by fissures.|Увеличивает урон «Разломов».
+subDescShamanFissures03|Chance on hit to stun enemies.|Дает шанс оглушить врагов при попадании.
+subDescShamanFissures04|Decreases cooldown of fissures.|Снижает время восстановления «Разломов».
+subDescShamanFissures05|Fissures have a chance to knock monsters towards the center on each hit.|Каждый удар «Разломов» может притянуть монстров к центру области действия.
+subDescShamanFissures06|Chance to crack the earth impaling monsters with a stone pillar on hit dealing additional damage.|При попадании может расколоть землю, пронзая монстров каменным столбом и нанося доп. урон.
+subDescShamanFissures07|Chance to drop a comet on hit dealing additional damage.|Дает шанс обрушить комету при попадании, нанося доп. урон.
+subDescShamanFissures08|Increases the area of effect of fissures.|Увеличивает область действия «Разломов».
+subDescShamanFissures09|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescShamanFissures10|Increases the tick frequency of fissures.|Увеличивает частоту ударов «Разломов».
+subDescShamanFissures11|Increases the duration of fissures. Increase the size but decrease the damage dealt.|Увеличивает длительность и размер «Разломов», но снижает наносимый ими урон.
+subDescShamanFissures12|Inflicts stasis and has a chance to strike monsters with bolts of lightning on hit.|Накладывает стазис и дает шанс поразить монстров разрядами молнии при попадании.
+subDescShamanFissures13|Fissures now unleashes only a single tremble dealing increased damage. Fissures no longer has a cooldown.|«Разломы» теперь вызывают лишь один мощный толчок с увеличенным уроном; время восстановления убрано.
+subDescShamanFissures14|Increases the proc chance of earth crack and comet fall inflicting arcane break on hit.|Повышает шанс срабатывания «Раскола земли» и «Падения кометы»; эти эффекты теперь вызывают игнорирование сопр. тайной магии при попадании.
+||
+subShamanEarthTotem01|Earth Master|Властитель земли
+subShamanEarthTotem02|Rapid Earth|Стремительная земля
+subShamanEarthTotem03|Fragmenting Totemstones|Дробящий камень
+subShamanEarthTotem04|Earth God|Бог земли
+subShamanEarthTotem05|Runic Earth|Руническая земля
+subShamanEarthTotem06|Dense Earth|Плотная порода
+subShamanEarthTotem07|Stunning Earth|Оглушающая твердь
+subShamanEarthTotem08|Ravaging Earth|Губительная земля
+subShamanEarthTotem09|Double Boulder|Двойной валун
+subShamanEarthTotem10|Earth Caller|Заклинатель земли
+subShamanEarthTotem11|Entangling Roots|Опутывающие корни
+subShamanEarthTotem12|Fragmented Volley|Осколочный залп
+subShamanEarthTotem13|The Rolling Stones|Катящиеся камни
+subShamanEarthTotem14|Wind Totem|Тотем ветра
+subDescShamanEarthTotem01|Increases the maximum amount of earth totems.|Увеличивает максимальное количество «Тотемов земли».
+subDescShamanEarthTotem02|Increases attack speed of earth totem.|Увеличивает скорость атаки «Тотема земли».
+subDescShamanEarthTotem03|Chance for rocks to unleash fragments upon landing dealing additional damage.|Приземляющиеся камни могут разлететься на осколки, наносящие доп. урон.
+subDescShamanEarthTotem04|Increases damage dealt by earth totem.|Увеличивает урон «Тотема земли».
+subDescShamanEarthTotem05|Increases the size of earth totem.|Увеличивает размер «Тотема земли».
+subDescShamanEarthTotem06|Chance for rocks to bounce off the ground unleashing additional explosions.|Камни могут отскакивать от земли, вызывая дополнительные взрывы.
+subDescShamanEarthTotem07|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
+subDescShamanEarthTotem08|Increases damage dealt to stunned enemies.|Увеличивает урон по оглушенным врагам.
+subDescShamanEarthTotem09|Chance for earth totem to deal double damage.|Дает «Тотему земли» шанс нанести двойной урон.
+subDescShamanEarthTotem10|Spawn an additional earth totem per cast.|Призывает дополнительный тотем при каждом использовании умения.
+subDescShamanEarthTotem11|Unleash a trail of earth roots traveling towards the target rooting monsters on hit and dealing increased damage.|Выпускает корни, которые движутся к цели, обездвиживают монстров и наносят увеличенный урон.
+subDescShamanEarthTotem12|Earth totem unleashes a volley of smaller rocks. Earth totem attack speed is decreased.|«Тотем земли» выпускает залп малых камней, но его скорость атаки снижена.
+subDescShamanEarthTotem13|Earth totem unleashes rolling boulders inflicting arcane break and knocking monsters back on hit.|«Тотем земли» выпускает катящиеся валуны, которые отбрасывают врагов и вызывают игнорирование сопр. тайной магии.
+subDescShamanEarthTotem14|Earth totem unleashes multiple piercing tornados.|«Тотем земли» выпускает несколько пронзающих торнадо.
+||
+subShamanSpiritWolves01|Sharpened Teeth|Острые клыки
+subShamanSpiritWolves02|Wolf Pack|Волчья стая
+subShamanSpiritWolves03|Astral Fur|Астральная шкура
+subShamanSpiritWolves04|Cleave Slash|Рассекающий взмах
+subShamanSpiritWolves05|Wolf´s Claw|Волчий коготь
+subShamanSpiritWolves06|Ravaging Strike|Лютый удар
+subShamanSpiritWolves07|Pack Leader|Вожак стаи
+subShamanSpiritWolves08|Pummeling Rage|Сокрушительная ярость
+subShamanSpiritWolves09|Rupturing Slice|Разрывающий порез
+subShamanSpiritWolves10|Wounding Trail|Кровавый след
+subShamanSpiritWolves11|Spiritual Rabies|Духовное бешенство
+subShamanSpiritWolves12|Alpha|Альфа-самец
+subShamanSpiritWolves13|Lightning Fangs|Грозовые клыки
+subShamanSpiritWolves14|Howling Pack|Воющая стая
+subDescShamanSpiritWolves01|Increases damage dealt by spirit wolves.|Увеличивает урон «Волков-духов».
+subDescShamanSpiritWolves02|Increases the maximum amount of spirit wolves.|Увеличивает максимальное количество «Волков-духов».
+subDescShamanSpiritWolves03|Increases the damage reduction of spirit wolves.|Повышает сопротивление урону у «Волков-духов».
+subDescShamanSpiritWolves04|Increases the area of effect radius and splash damage dealt to monsters around the target.|Увеличивает радиус поражения и урон по области вокруг цели.
+subDescShamanSpiritWolves05|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescShamanSpiritWolves06|Bleeding targets emit damage taken to nearby enemies.|Истекающие кровью цели передают часть полученного урона ближайшим врагам.
+subDescShamanSpiritWolves07|Increases the attack speed of spirit wolves.|Увеличивает скорость атаки «Волков-духов».
+subDescShamanSpiritWolves08|Chance to knock monsters back dealing increased damage on hit.|Дает шанс отбросить монстров, нанося увеличенный урон при попадании.
+subDescShamanSpiritWolves09|Chance to deal a critical strike on attack.|Дает шанс нанести критический удар при атаке.
+subDescShamanSpiritWolves10|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescShamanSpiritWolves11|Chance on attack to become enraged increasing movement speed and damage dealt for a short period.|Дает шанс впасть в ярость при атаке, на короткое время увеличивая скорость и урон.
+subDescShamanSpiritWolves12|Summon a single lone wolf scaling its damage and life according to the maximum amount of wolves.|Вы призываете одного вожака; его урон и здоровье зависят от вашего общего лимита «Волков-духов».
+subDescShamanSpiritWolves13|Chance to unleash surges of chain lightning on hit dealing increased damage.|Дает шанс выпустить цепную молнию при попадании, нанося увеличенный урон.
+subDescShamanSpiritWolves14|Increases spirit wolves movement speed and maximum summon amount.|Увеличивает скорость передвижения и максимальное количество «Волков-духов».
+||
+subShamanStormTotem01|Storm Master|Повелитель бури
+subShamanStormTotem02|Circuitbreaking|Короткое замыкание
+subShamanStormTotem03|Storm Current|Грозовой поток
+subShamanStormTotem04|Storm God|Бог бури
+subShamanStormTotem05|Static Duality|Статическая двойственность
+subShamanStormTotem06|Connected by Storm|Узы шторма
+subShamanStormTotem07|Static Electroshock|Статический разряд
+subShamanStormTotem08|Storming Bolt|Штормовой разряд
+subShamanStormTotem09|Struck by Thunder|Удар грома
+subShamanStormTotem10|Collapsing Thunder|Сокрушительный гром
+subShamanStormTotem11|Lightning Rods|Громоотводы
+subShamanStormTotem12|Surging Sentry|Неистовый страж
+subShamanStormTotem13|Stormclaw Totem|Тотем штормового когтя
+subShamanStormTotem14|Charged Totem|Заряженный тотем
+subDescShamanStormTotem01|Increases the maximum amount of storm totems.|Увеличивает максимальное количество «Тотемов бури».
+subDescShamanStormTotem02|Increases amount of chain lightning bounces.|Увеличивает количество отскоков цепной молнии.
+subDescShamanStormTotem03|Chance to inflict stasis on hit.|Дает шанс наложить стазис при попадании.
+subDescShamanStormTotem04|Increases damage dealt by storm totem.|Увеличивает урон «Тотема бури».
+subDescShamanStormTotem05|Chance to summon an additional storm totem on attack for a short period.|Дает шанс на короткое время призвать дополнительный «Тотем бури» при атаке.
+subDescShamanStormTotem06|Storm totems are now linked together with electric current dealing damage to monsters on hit.|Тотемы теперь связаны электрическими дугами, которые наносят урон монстрам.
+subDescShamanStormTotem07|Increases damage dealt to targets with stasis.|Увеличивает урон по целям под действием стазиса.
+subDescShamanStormTotem08|Chance to strike monsters with a bolt of lightning on hit dealing additional damage.|Дает шанс поразить монстров разрядом молнии при попадании, нанося доп. урон.
+subDescShamanStormTotem09|Storm totem has a chance to stun enemies on hit.|«Тотем бури» может оглушить врагов при попадании.
+subDescShamanStormTotem10|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescShamanStormTotem11|Storm totems call lightning bolts from the sky unleashing lightning pulses dealing increased damage. Storm totems no longer unleash chain lightning.|Тотемы призывают молнии с небес, создавая мощные электрические импульсы. Тотемы больше не выпускают цепные молнии.
+subDescShamanStormTotem12|Storm totem fires a surge of lightning unleashing lightning pulses on hit.|Тотем выпускает всплеск молнии, создающий электрические импульсы при попадании.
+subDescShamanStormTotem13|Increases the attack speed and damage dealt by storm totem unleashing an arc of lightning bolts on hit.|Увеличивает скорость атаки и урон тотема; при попадании выпускает веер молний.
+subDescShamanStormTotem14|Storm totem unleashes multiple charged bolts.|«Тотем бури» выпускает несколько заряженных разрядов.
+||
+subShamanFireTotem01|Fire Master|Мастер огня
+subShamanFireTotem02|Flame Scorching|Обжигающее пламя
+subShamanFireTotem03|Scattering Flames|Рассеянное пламя
+subShamanFireTotem04|Overheated Flames|Раскаленное пламя
+subShamanFireTotem05|Burning Radius|Радиус горения
+subShamanFireTotem06|Light the Soil|Опаленная земля
+subShamanFireTotem07|Arcfire|Дуговое пламя
+subShamanFireTotem08|Gas into the Flames|Масло в огонь
+subShamanFireTotem09|Totemscorch|Испепеление тотемом
+subShamanFireTotem10|Flamescarred Sentry|Опаленный страж
+subShamanFireTotem11|Firestorm Totems|Тотемы огненного шторма
+subShamanFireTotem12|Homing Flames|Самонаводящееся пламя
+subShamanFireTotem13|Multiplying Fire|Множащийся огонь
+subShamanFireTotem14|Paralyzing Napalm|Парализующий напалм
+subDescShamanFireTotem01|Increases the maximum amount of fire totems.|Увеличивает максимальное количество «Тотемов огня».
+subDescShamanFireTotem02|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescShamanFireTotem03|Chance to inflict fire break on hit.|Дает шанс вызвать игнорирование сопр. огню при попадании.
+subDescShamanFireTotem04|Increases damage dealt by fire totem.|Увеличивает урон «Тотема огня».
+subDescShamanFireTotem05|Increases the size of fire totem.|Увеличивает размер «Тотема огня».
+subDescShamanFireTotem06|Chance to leave ground burning beneath monsters on hit dealing additional damage.|Дает шанс поджечь землю под монстрами при попадании, нанося доп. урон.
+subDescShamanFireTotem07|Chance to unleash additional flames in an arc.|Дает шанс выпустить дополнительные потоки пламени по дуге.
+subDescShamanFireTotem08|Chance for flames to grow in size on hit.|Дает шанс пламени увеличиться в размере при попадании.
+subDescShamanFireTotem09|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescShamanFireTotem10|Fire totem now burns monsters around it for a portion of its damage.|«Тотем огня» теперь поджигает монстров вокруг себя, нанося им часть своего урона.
+subDescShamanFireTotem11|Fire totem unleashes swirling flames orbiting outwards with increased damage but decreased duration.|«Тотем огня» выпускает вихри пламени, разлетающиеся по спирали; урон увеличен, но время действия сокращено.
+subDescShamanFireTotem12|Flames become homing towards the nearest target dealing a portion of the damage.|Сгустки пламени теперь сами наводятся на ближайшую цель, нанося часть урона.
+subDescShamanFireTotem13|Chance on hit to summon an additional fire totem at the target's location for a short time.|Дает шанс при попадании призвать временный «Тотем огня» в точке нахождения цели.
+subDescShamanFireTotem14|Increases damage and size of flames inflicting slow on hit.|Увеличивает урон и размер пламени; удары замедляют врагов при попадании.
+||
+subShamanChaosTotem01|Soulburning Bolts|Опаляющие душу снаряды
+subShamanChaosTotem02|Hour of Chaos|Час хаоса
+subShamanChaosTotem03|Chaos Shattering|Раскол хаоса
+subShamanChaosTotem04|Doomsday Clock|Часы Судного дня
+subShamanChaosTotem05|Chaos Aura|Аура хаоса
+subShamanChaosTotem06|Chaos Arc|Веер хаоса
+subShamanChaosTotem07|Split Chaos|Разделение хаоса
+subShamanChaosTotem08|Uncontrollable Reaction|Неудержимая реакция
+subShamanChaosTotem09|Reach of Chaos|Охват хаоса
+subShamanChaosTotem10|Chaos Pulse|Импульс хаоса
+subShamanChaosTotem11|Manafunneled Chaos|Магическая воронка хаоса
+subShamanChaosTotem12|Chaos Embodied|Воплощение хаоса
+subShamanChaosTotem13|Arcing Destruction|Разрушительная дуга
+subShamanChaosTotem14|Colossal Chaos|Колоссальный хаос
+subDescShamanChaosTotem01|Increases damage of chaos totem.|Увеличивает урон «Тотема хаоса».
+subDescShamanChaosTotem02|Decreases the cooldown of chaos totem.|Снижает время восстановления «Тотема хаоса».
+subDescShamanChaosTotem03|Chance to inflict elemental break on hit.|Дает шанс вызвать игнорирование сопр. стихиям при попадании.
+subDescShamanChaosTotem04|Increases the duration of chaos totem.|Увеличивает длительность существования «Тотема хаоса».
+subDescShamanChaosTotem05|Monsters around the chaos totem have a chance for a chaos meteor to drop down from the sky dealing area of effect damage.|На врагов рядом с «Тотемом хаоса» может обрушиться метеор хаоса, наносящий урон по области.
+subDescShamanChaosTotem06|Chance on attack to fire multiple chaos bolts in an arc.|Дает шанс при атаке выпустить веер снарядов хаоса.
+subDescShamanChaosTotem07|Chance for chaos bolts to split into two bolts on hit.|Снаряды хаоса могут разделиться надвое при попадании.
+subDescShamanChaosTotem08|Chaos totem has a chance on hit to critically strike dealing increased damage.|«Тотем хаоса» может нанести критический удар с увеличенным уроном.
+subDescShamanChaosTotem09|Increases the range of chaos totem.|Увеличивает дальность атаки «Тотема хаоса».
+subDescShamanChaosTotem10|Chance to unleash a pulse of shadow on hit inflicting burning and dealing additional damage.|Дает шанс вызвать теневой импульс при попадании, накладывающий горение и наносящий доп. урон.
+subDescShamanChaosTotem11|Chaos totem deals increased damage based on your maximum mana for each second active but drains increasing amounts of mana per second. If you run out of mana the totem despawns.|Урон «Тотема хаоса» растет каждую секунду в зависимости от вашего макс. запаса маны, но потребление маны также постоянно растет. Если мана иссякнет, тотем исчезнет.
+subDescShamanChaosTotem12|You can summon multiple chaos totems but you can no longer summon any other totems. Chaos totem no longer has a cooldown.|Вы можете призывать несколько «Тотемов хаоса», но больше не можете использовать другие тотемы. Умение больше не имеет времени восстановления.
+subDescShamanChaosTotem13|Chaos totem fires multiple chaos bolts in an arc.|«Тотем хаоса» выпускает веер снарядов хаоса.
+subDescShamanChaosTotem14|Increases the size and damage of chaos bolts.|Увеличивает размер и урон снарядов хаоса.

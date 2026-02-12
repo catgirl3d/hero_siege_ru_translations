@@ -1,0 +1,231 @@
+subExoScorchingWhip01|Double Whip|Двойной хлёст
+subExoScorchingWhip02|Celestial Burn|Небесное опаление
+subExoScorchingWhip03|Overheating|Раскал
+subExoScorchingWhip04|Punishing Flames|Карающее пламя
+subExoScorchingWhip05|Sun Gods Chosen|Избранник Солнца
+subExoScorchingWhip06|Solar Arch|Солнечная дуга
+subExoScorchingWhip07|Critical Temperature|Яростный жар
+subExoScorchingWhip08|Fire Starter|Разжигатель
+subExoScorchingWhip09|Scorching Snap|Жгучий щелчок
+subExoScorchingWhip10|Celestial Aid|Глас небес
+subExoScorchingWhip11|Solar Harvester|Солнечный жнец
+subExoScorchingWhip12|Blasting Whiplash|Взрывной хлест
+subExoScorchingWhip13|Flaming Whip|Пылающий кнут
+subExoScorchingWhip14|Whirlwhipper|Вихрь хлыстов
+subDescExoScorchingWhip01|Chance on attack to unleash an additional scorching whip.|Дает шанс при атаке нанести дополнительный удар «Обжигающим кнутом».
+subDescExoScorchingWhip02|Increases the damage dealt by scorching whip.|Увеличивает урон «Обжигающего кнута».
+subDescExoScorchingWhip03|Decreases the mana cost of scorching whip.|Снижает затраты маны на «Обжигающий кнут».
+subDescExoScorchingWhip04|Chance to unleash burning fissures on hit dealing additional damage.|Дает шанс при попадании создать огненные разломы, наносящие доп. урон.
+subDescExoScorchingWhip05|Increases attack speed when using scorching whip with a sword, cane or staff.|Увеличивает скорость атаки при использовании «Обжигающего кнута» с мечом, тростью или посохом.
+subDescExoScorchingWhip06|Increases the area of effect radius of scorching whip.|Увеличивает радиус области действия «Обжигающего кнута».
+subDescExoScorchingWhip07|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescExoScorchingWhip08|Chance on attack to unleash multiple fire balls in an arc towards target location.|Дает шанс при атаке выпустить веер огненных шаров в сторону цели.
+subDescExoScorchingWhip09|Chance to knock monsters back on hit dealing increased damage.|Дает шанс отбросить монстров при попадании, нанося увеличенный урон.
+subDescExoScorchingWhip10|Chance to summon an additional whip at targets location on hit targeting a nearby monster.|Дает шанс при попадании призвать в точке удара призрачный кнут, который атакует ближайшего врага.
+subDescExoScorchingWhip11|Slash with multiple whips in an arc dealing a portion of the damage.|Вы наносите серию ударов кнутами по дуге, нанося часть урона.
+subDescExoScorchingWhip12|Unleash a fiery explosion on hit dealing area of effect damage.|При попадании вызывает огненный взрыв, наносящий урон по области.
+subDescExoScorchingWhip13|Chance to unleash flames at target location on hit dealing damage over time and slowing monsters.|Дает шанс при попадании поджечь землю под целью, нанося периодический урон и замедляя монстров.
+subDescExoScorchingWhip14|Perform a spinning attack with multiple whips.|Вы совершаете круговую атаку несколькими кнутами одновременно.
+||
+subExoSolarFlare01|Solar Fireworks|Солнечные огни
+subExoSolarFlare02|Blue Flame Fire|Синее пламя
+subExoSolarFlare03|Rapidfire Cannoneer|Беглый огонь
+subExoSolarFlare04|God Slayer|Убийца богов
+subExoSolarFlare05|Explosive Flares|Взрывные вспышки
+subExoSolarFlare06|Solar's Edge|Острие солнца
+subExoSolarFlare07|Everburning Fire|Вечный огонь
+subExoSolarFlare08|Flaming Hands|Пылающие руки
+subExoSolarFlare09|Celestial Step|Небесный шаг
+subExoSolarFlare10|Burst of Power|Всплеск мощи
+subExoSolarFlare11|Grand Flare|Великая вспышка
+subExoSolarFlare12|Sun´s Orbit|Орбита солнца
+subExoSolarFlare13|Searing Flares|Испепеляющие вспышки
+subExoSolarFlare14|Solar Orbs|Солнечные сферы
+subDescExoSolarFlare01|Increases the projectile amount of solar flare.|Увеличивает количество снарядов «Солнечной вспышки».
+subDescExoSolarFlare02|Increases the damage dealt by solar flare.|Увеличивает урон «Солнечной вспышки».
+subDescExoSolarFlare03|Increases cast rate when using solar flare.|Увеличивает скорость применения «Солнечной вспышки».
+subDescExoSolarFlare04|Increases damage dealt to bosses for solar flare.|Увеличивает урон «Солнечной вспышки» по боссам.
+subDescExoSolarFlare05|Chance to unleash fiery explosions on hit if target is burning.|Дает шанс вызвать огненный взрыв при попадании по горящей цели.
+subDescExoSolarFlare06|Monster kills grant you a stack of solar´s edge increasing the damage and projectile amount of solar flare.|Убийство монстров дает заряды «Острия солнца», увеличивающие урон и количество снарядов «Солнечной вспышки».
+subDescExoSolarFlare07|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescExoSolarFlare08|Decreases the mana cost of solare flare.|Снижает затраты маны на «Солнечную вспышку».
+subDescExoSolarFlare09|Decreases movement diminish when using solar flare.|Уменьшает штраф к скорости передвижения при использовании «Солнечной вспышки».
+subDescExoSolarFlare10|Chance on cast to increase damage dealt and unleash additional solar flares.|Дает шанс при использовании временно увеличить урон и выпустить дополнительные вспышки.
+subDescExoSolarFlare11|Unleash a grand flare frequently spawning smaller flares. Solar flare has a cooldown.|Выпускает великую вспышку, которая периодически порождает малые вспышки. Умение теперь имеет время восстановления.
+subDescExoSolarFlare12|Summon solar flares orbiting you for a short duration.|Призывает солнечные вспышки, которые вращаются вокруг вас в течение короткого времени.
+subDescExoSolarFlare13|Increases the amount of projectiles inflicting fire break on hit.|Увеличивает количество снарядов; при попадании они вызывают игнорирование сопр. огню.
+subDescExoSolarFlare14|Summon multiple small suns frequently unleashing solar flares. solar flare now has a cooldown.|Призывает несколько малых солнц, непрерывно выпускающих вспышки. Умение теперь имеет время восстановления.
+||
+subExoSolarDash01|Interstellar Traveller|Межзвездный странник
+subExoSolarDash02|Burn Burn BURN|Гори, гори, ГОРИ
+subExoSolarDash03|Solar Burst|Солнечная вспышка
+subExoSolarDash04|Restoring Flames|Восстанавливающее пламя
+subExoSolarDash05|Cooldown Lap|Остывание
+subExoSolarDash06|Plasma Dash|Плазменный рывок
+subExoSolarDash07|To Ashes|В пепел
+subExoSolarDash08|Protective Cover|Защитный покров
+subExoSolarDash09|Intense Flames|Неистовое пламя
+subExoSolarDash10|Shooting Star|Падающая звезда
+subExoSolarDash11|Bursting Flames|Взрывное пламя
+subExoSolarDash12|Solar Carnage|Солнечная резня
+subExoSolarDash13|The Sun Goddess|Богиня Солнца
+subExoSolarDash14|Photon Dash|Фотонный рывок
+subDescExoSolarDash01|Increases the speed of solar dash.|Увеличивает скорость «Солнечного рывка».
+subDescExoSolarDash02|Inflicts burning on hit.|При попадании накладывает горение.
+subDescExoSolarDash03|Unleash a fiery explosion at the end dealing increased damage and inflicting burning on hit.|В конце рывка происходит огненный взрыв, наносящий повышенный урон и накладывающий горение.
+subDescExoSolarDash04|Gain increased life and mana replenish on cast for a short duration when solar form is active.|Пока активен «Солнечный облик», использование умения временно ускоряет восстановление здоровья и маны.
+subDescExoSolarDash05|Decreases the speed of solar dash.|Снижает скорость «Солнечного рывка».
+subDescExoSolarDash06|Chance to stun targets on hit.|Дает шанс оглушить цель при попадании.
+subDescExoSolarDash07|Increases the damage dealt by solar dash.|Увеличивает урон «Солнечного рывка».
+subDescExoSolarDash08|Gain increased damage reduction for a short duration when using solar dash.|Дает снижение получаемого урона на короткое время при использовании «Солнечного рывка».
+subDescExoSolarDash09|Increases the tick frequency of solar dash flames.|Увеличивает частоту нанесения урона пламенем от рывка.
+subDescExoSolarDash10|Increases the speed of solar dash unleashing fireballs around you at the end dealing a portion of the damage.|Увеличивает скорость рывка; в конце пути вокруг вас разлетаются огненные шары, наносящие часть урона.
+subDescExoSolarDash11|Flames now have a chance to explode into multiple fire balls into all directions when expiring.|По истечении времени действия пламя может взорваться, выпустив огненные шары во все стороны.
+subDescExoSolarDash12|Rapidly unleash fire balls arcing on your sides while dashing.|Во время рывка вы быстро выпускаете огненные шары по дуге с обеих сторон.
+subDescExoSolarDash13|Summon multiple orbiting solar orbs dealing increased damage but decreasing your dashing speed.|Призывает несколько вращающихся солнечных сфер, наносящих увеличенный урон, но снижающих вашу скорость рывка.
+subDescExoSolarDash14|Dash with the speed of light unleashing burning flames below target on collision dealing increased damage over time.|Вы совершаете рывок со скоростью света; при столкновении под целью вспыхивает пламя, наносящее увеличенный периодический урон.
+||
+subExoSuperNova01|White Dwarf Star|Белый карлик
+subExoSuperNova02|Renewing Flare|Обновляющая вспышка
+subExoSuperNova03|Penetrating Blast|Пробивающий взрыв
+subExoSuperNova04|Chained Explosions|Цепные взрывы
+subExoSuperNova05|Fight the Gravity|Преодоление гравитации
+subExoSuperNova06|Weakening Nova|Ослабляющая сверхновая
+subExoSuperNova07|Chain Reactions|Цепная реакция
+subExoSuperNova08|Fiery Frenzy|Огненное неистовство
+subExoSuperNova09|Blast Right Trough|Сквозной прорыв
+subExoSuperNova10|Targeted Cosmic Event|Направленный катаклизм
+subExoSuperNova11|Particle Outflux|Поток частиц
+subExoSuperNova12|Solar Shockwave|Солнечная волна
+subExoSuperNova13|Connected by Sun|Солнечные узы
+subExoSuperNova14|Planetary Collision|Столкновение планет
+subDescExoSuperNova01|Increases the damage dealt by supernova.|Увеличивает урон «Сверхновой».
+subDescExoSuperNova02|Decreases the cooldown of supernova.|Снижает время восстановления «Сверхновой».
+subDescExoSuperNova03|Chance to inflict elemental break on hit.|Дает шанс вызвать игнорирование сопр. стихиям при попадании.
+subDescExoSuperNova04|Chance on cast to unleash an additional supernova.|Дает шанс при касте выпустить дополнительную «Сверхновую».
+subDescExoSuperNova05|Increases the area of effect radius of supernova.|Увеличивает радиус области действия «Сверхновой».
+subDescExoSuperNova06|Inflicts fire break on hit.|При попадании вызывает игнорирование сопр. огню.
+subDescExoSuperNova07|Chance to unleash a fiery blast on hit dealing a portion of the damage.|Дает шанс вызвать огненный взрыв при попадании, наносящий часть урона умения.
+subDescExoSuperNova08|Gain increased fire skill damage for a short duration when using supernova.|Использование «Сверхновой» на короткое время увеличивает ваш урон умениями огня.
+subDescExoSuperNova09|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescExoSuperNova10|Supernova can be casted on target location with increased cast range.|«Сверхновую» теперь можно применять в указанной области; дальность применения увеличена.
+subDescExoSuperNova11|Unleash multiple fire balls bouncing between targets on hit inflicting burning.|Выпускает несколько огненных шаров, которые рикошетят между целями и накладывают горение.
+subDescExoSuperNova12|Supernova knocks monsters back with force dealing increased damage and slowing them.|«Сверхновая» с силой отбрасывает монстров, нанося увеличенный урон и замедляя их.
+subDescExoSuperNova13|Unleash trails of flaming fire towards monsters on hit dealing a portion of the damage.|При попадании выпускает в сторону монстров огненные шлейфы, наносящие часть урона умения.
+subDescExoSuperNova14|Chance to rain scorching comets from the sky at monsters on hit dealing increased damage.|Дает шанс обрушить на врагов град раскаленных комет при попадании, нанося увеличенный урон.
+||
+subExoTsunami01|Heavy Water|Тяжелые воды
+subExoTsunami02|Arctic Aqua|Арктические воды
+subExoTsunami03|Water Walker|Хождение по воде
+subExoTsunami04|Ramping Waves|Вздымающиеся волны
+subExoTsunami05|Waterspout|Водяной смерч
+subExoTsunami06|Chaining Waves|Каскад волн
+subExoTsunami07|Salt Balance|Насыщение солью
+subExoTsunami08|Giant Waves|Исполинские волны
+subExoTsunami09|Asphyxiating Depths|Удушающие глубины
+subExoTsunami10|Beyond the Horizon|За горизонтом
+subExoTsunami11|Trembling Tidalwave|Сокрушительный прилив
+subExoTsunami12|Watery Turbulence|Бурлящий поток
+subExoTsunami13|Ocean Pullback|Отлив океана
+subExoTsunami14|The Last Water Bender|Покоритель воды
+subDescExoTsunami01|Increases the damage dealt by tsunami.|Увеличивает урон «Цунами».
+subDescExoTsunami02|Chance to inflict frostbite on hit.|Дает шанс вызвать обморожение при попадании.
+subDescExoTsunami03|Gain increased movement speed for a short duration when using tsunami.|Использование «Цунами» на короткое время повышает скорость передвижения.
+subDescExoTsunami04|Increases the damage dealt by tsunami over time.|Увеличивает периодический урон «Цунами».
+subDescExoTsunami05|Chance to unleash a burst of water on hit dealing a portion of the damage.|Дает шанс вызвать водяной всплеск при попадании, наносящий часть урона.
+subDescExoTsunami06|Increases cast rate and projectile speed when using tsunami.|Увеличивает скорость каста и движения волн «Цунами».
+subDescExoTsunami07|Increases damage dealt to frostbitten targets.|Увеличивает урон по обмороженным целям.
+subDescExoTsunami08|Increases the size of tsunami.|Увеличивает размер «Цунами».
+subDescExoTsunami09|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным уроном.
+subDescExoTsunami10|Increases the duration of tsunami decreasing its projectile speed.|Увеличивает длительность «Цунами», но снижает скорость движения волн.
+subDescExoTsunami11|Increases the width of tsunami knocking monsters up dealing increased damage.|Увеличивает ширину «Цунами»; волны подбрасывают монстров и наносят увеличенный урон.
+subDescExoTsunami12|Unleash multiple smaller tsunamis.|Выпускает несколько малых цунами.
+subDescExoTsunami13|Tsunami waves return back to you with increased damage and size.|Волны «Цунами» возвращаются к вам, увеличиваясь в размере и нанося больше урона.
+subDescExoTsunami14|Increases the projectile speed of tsunami inflicting cold break on hit.|Увеличивает скорость «Цунами» и вызывает игнорирование сопр. холоду при попадании.
+||
+subExoAsteroid01|Astral Crush|Астральное сокрушение
+subExoAsteroid02|Asteroid Aftershock|Остаточный удар
+subExoAsteroid03|Impact Speed|Скорость столкновения
+subExoAsteroid04|World Ending Impact|Удар судного дня
+subExoAsteroid05|A Gift From Space|Дар извне
+subExoAsteroid06|Clairvoyant Prophet|Провидец
+subExoAsteroid07|Sharp Asteroids|Острые осколки
+subExoAsteroid08|Frozen Core|Ледяное ядро
+subExoAsteroid09|Coldshatter Impact|Ледяной разлом
+subExoAsteroid10|Perseids|Звездный поток
+subExoAsteroid11|Wave of Asteroids|Волна астероидов
+subExoAsteroid12|Geomagnetic Reversal|Смещение полюсов
+subExoAsteroid13|Galactic Cataclysm|Галактический катаклизм
+subExoAsteroid14|Planetary Collapse|Планетарный коллапс
+subDescExoAsteroid01|Increases the damage dealt by asteroid.|Увеличивает урон «Астероида».
+subDescExoAsteroid02|Chance on cast to unleash an additional asteroid.|Дает шанс при касте обрушить дополнительный «Астероид».
+subDescExoAsteroid03|Increases the falling speed and maximum cast range of asteroid.|Увеличивает скорость падения и дальность применения «Астероида».
+subDescExoAsteroid04|Increases the area of effect radius of asteroid.|Увеличивает радиус области действия «Астероида».
+subDescExoAsteroid05|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescExoAsteroid06|Reduces the mana cost of asteroid.|Снижает затраты маны на «Астероид».
+subDescExoAsteroid07|Chance to inflict frostbite on hit.|Дает шанс вызвать обморожение при попадании.
+subDescExoAsteroid08|Chance to inflict cold break on hit.|Дает шанс вызвать игнорирование сопр. холоду при попадании.
+subDescExoAsteroid09|Increases damage dealt to frostbitten targets.|Увеличивает урон по целям с обморожением.
+subDescExoAsteroid10|Chance to drop smaller asteroids at target location on hit.|Дает шанс при попадании обрушить в ту же область малые астероиды.
+subDescExoAsteroid11|Unleash multiple asteroids in a shockwave from the point of impact.|Порождает ударную волну из множества астероидов в точке падения.
+subDescExoAsteroid12|Asteroid unleashes multiple tsunami waves in an arc towards target direction.|При падении астероид вызывает каскад волн цунами в сторону цели.
+subDescExoAsteroid13|Summon a continous rain of asteroids around you for a short period. Asteroid now has a cooldown.|Вызывает непрерывный метеоритный дождь вокруг вас на короткое время. «Астероид» теперь имеет время восстановления.
+subDescExoAsteroid14|Unleash a colossal asteroid causing a massive explosion unleashing a massive tsunami dealing increased damage with increased area of effect radius. Asteroid now has a cooldown.|Обрушивает колоссальный астероид; чудовищный взрыв вызывает гигантское цунами с увеличенным уроном и радиусом. «Астероид» теперь имеет время восстановления.
+||
+subExoLunarOrbit01|Tidal Collision|Столкновение приливов
+subExoLunarOrbit02|Full Moon|Полнолуние
+subExoLunarOrbit03|Extrasolar Moons|Экзолуны
+subExoLunarOrbit04|Magnetic Pull|Магнитный захват
+subExoLunarOrbit05|Loss of Orbit|Сход с орбиты
+subExoLunarOrbit06|Celestial Collapse|Крах небес
+subExoLunarOrbit07|Lunar Cycle|Лунный цикл
+subExoLunarOrbit08|Tidalwaves|Приливные волны
+subExoLunarOrbit09|Mass Meets Mass|Критическая масса
+subExoLunarOrbit10|Heavy Core|Тяжелое ядро
+subExoLunarOrbit11|Crescent Moon|Полумесяц
+subExoLunarOrbit12|Lunar Architect|Лунный зодчий
+subExoLunarOrbit13|Orbit Breakout|Разрыв орбиты
+subExoLunarOrbit14|Devastating Nebula|Гибельная туманность
+subDescExoLunarOrbit01|Increases the damage dealt by lunar orbit.|Увеличивает урон «Лунной орбиты».
+subDescExoLunarOrbit02|Increases the duration of lunar orbit.|Увеличивает длительность действия «Лунной орбиты».
+subDescExoLunarOrbit03|Increases the amount of moons in lunar orbit.|Увеличивает количество лун на орбите.
+subDescExoLunarOrbit04|Increases the orbital speed of lunar orbit.|Увеличивает скорость вращения «Лунной орбиты».
+subDescExoLunarOrbit05|Chance to ricochet towards another nearby monster on hit before returning back to orbit.|Дает шанс при попадании срикошетить в ближайшего монстра перед возвращением на орбиту.
+subDescExoLunarOrbit06|Chance for moons to explode into shrapnel when expiring dealing a portion of their damage.|При исчезновении луны могут взорваться осколками, нанося часть своего урона.
+subDescExoLunarOrbit07|Chance to inflict cold break on hit.|Дает шанс вызвать игнорирование сопр. холоду при попадании.
+subDescExoLunarOrbit08|Chance to unleash a tsunami towards target location on hit.|Дает шанс при попадании обрушить цунами в сторону цели.
+subDescExoLunarOrbit09|Increases damage dealt to bosses.|Увеличивает урон по боссам.
+subDescExoLunarOrbit10|Knock monsters back on hit dealing increased damage.|Отбрасывает монстров при ударе, нанося увеличенный урон.
+subDescExoLunarOrbit11|Lunar orbit is now a toggle that drains a portion of your mana to passively summon moons with increased damage while active. Recasting or running out of mana will deactivate lunar orbit.|«Лунная орбита» становится переключаемым умением: оно расходует ману для пассивного призыва усиленных лун. Повторное применение или нехватка маны отключает умение.
+subDescExoLunarOrbit12|Increases the amount of moons in lunar orbit summoning all moons at once.|Увеличивает количество лун и призывает их все одновременно.
+subDescExoLunarOrbit13|When moons expire they are sent outwards bouncing on walls and terrain.|При исчезновении луны разлетаются в стороны, отскакивая от стен и препятствий.
+subDescExoLunarOrbit14|Chance to conjure cosmic fog at target location on hit dealing a portion of the damage over time inflicting slow.|Дает шанс при попадании создать космический туман, который замедляет врагов и наносит периодический урон.
+||
+subExoBlackHole01|Event Horizon|Горизонт событий
+subExoBlackHole02|Super Massive|Сверхмасса
+subExoBlackHole03|Time != Space|Время ≠ Пространство
+subExoBlackHole04|Mass Density|Плотность материи
+subExoBlackHole05|Interstellar Radiation|Межзвездное излучение
+subExoBlackHole06|Watermelting Cold|Тающий лед
+subExoBlackHole07|Time Bender|Искажение времени
+subExoBlackHole08|Time Traveler|Странник во времени
+subExoBlackHole09|Subzero Frequency|Криогенная частота
+subExoBlackHole10|Singularity|Сингулярность
+subExoBlackHole11|Galaxy Devouring Growth|Пожиратель галактик
+subExoBlackHole12|Hidden in Plain Sight|Скрытая угроза
+subExoBlackHole13|Supermassive Black Hole|Сверхмассивная черная дыра
+subExoBlackHole14|Empowered Singularity|Усиленная сингулярность
+subDescExoBlackHole01|Increases the damage dealt by black hole.|Увеличивает урон «Черной дыры».
+subDescExoBlackHole02|Increases the area of effect radius of black hole.|Увеличивает радиус области действия «Черной дыры».
+subDescExoBlackHole03|Increases the tick frequency of black hole.|Увеличивает частоту нанесения урона «Черной дыры».
+subDescExoBlackHole04|Increases the duration of black hole.|Увеличивает длительность «Черной дыры».
+subDescExoBlackHole05|Chance to unleash cosmic flares from the center of the black hole towards targets on hit dealing a portion of its damage.|Дает шанс выпустить из центра дыры космические вспышки в сторону врагов, нанося часть от основного урона.
+subDescExoBlackHole06|Chance to inflict frostbite on hit.|Дает шанс вызвать обморожение при попадании.
+subDescExoBlackHole07|Reduces the cooldown of black hole.|Снижает время восстановления «Черной дыры».
+subDescExoBlackHole08|Gain increased movement speed and phasing for a short duration when inside the black hole.|Находясь внутри «Черной дыры», вы кратковременно ускоряетесь и можете проходить сквозь врагов.
+subDescExoBlackHole09|Increases damage dealt to frostbitten targets.|Увеличивает урон по обмороженным целям.
+subDescExoBlackHole10|Chance to rapidly pull monsters towards the singularity on hit dealing additional damage.|Дает шанс резко притянуть монстров к сингулярности при попадании, нанося доп. урон.
+subDescExoBlackHole11|Chance to frequently grow larger over time gaining increased damage. Black hole duration is decreased.|«Черная дыра» периодически увеличивается в размерах, повышая свой урон, но время её действия снижено.
+subDescExoBlackHole12|Summon multiple smaller orbiting black holes dealing a portion of the damage.|Призывает несколько малых орбитальных черных дыр, наносящих часть от основного урона.
+subDescExoBlackHole13|Summon a supermassive black hole dealing a portion of the damage frequently draining a portion of your maximum mana. Running out of mana causes the black hole to expire.|Призывает сверхмассивную черную дыру с частичным уроном. Она постоянно поглощает ману и исчезает, если мана закончится.
+subDescExoBlackHole14|Black hole rapidly pulls monsters towards its singularity on hit before expiring. Black hole no longer has a cooldown.|Перед исчезновением «Черная дыра» стремительно затягивает монстров в сингулярность. Умение больше не имеет времени восстановления.

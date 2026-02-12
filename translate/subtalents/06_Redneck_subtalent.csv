@@ -1,0 +1,231 @@
+subRedneckMoonshineMolotov01|Extra Gasoline|Дополнительный бензин
+subRedneckMoonshineMolotov02|Double Bourbon|Двойной бурбон
+subRedneckMoonshineMolotov03|Wider Flames|Широкое пламя
+subRedneckMoonshineMolotov04|Scorching Collision|Палящее столкновение
+subRedneckMoonshineMolotov05|Gas Leak|Утечка газа
+subRedneckMoonshineMolotov06|Oil Spilled Flask|Фляга с маслом
+subRedneckMoonshineMolotov07|Burn The Demons|Сжечь демонов
+subRedneckMoonshineMolotov08|Redeeming Flames|Искупительное пламя
+subRedneckMoonshineMolotov09|Bottle Flip|Кувырок бутылки
+subRedneckMoonshineMolotov10|Resilient Liquid|Стойкая жидкость
+subRedneckMoonshineMolotov11|Heated Melting Point|Точка плавления
+subRedneckMoonshineMolotov12|Set The World On Fire!|Мир в огне!
+subRedneckMoonshineMolotov13|Flaming Tar|Пылающая смола
+subRedneckMoonshineMolotov14|Blazing Trail of Flames|Пылающий след
+subDescRedneckMoonshineMolotov01|Increased damage.|Увеличивает урон.
+subDescRedneckMoonshineMolotov02|Chance to throw an additional molotov.|Дает шанс бросить дополнительный «Самогонный молотов».
+subDescRedneckMoonshineMolotov03|Increases flame radius.|Увеличивает радиус пламени.
+subDescRedneckMoonshineMolotov04|Direct hits with the molotov breaks monsters fire resistances.|Прямые попадания «Самогонного молотова» вызывают игнорирование сопр. огню.
+subDescRedneckMoonshineMolotov05|Molotovs leave a small trail of fire as they travel.|«Самогонные молотовы» оставляют за собой небольшой огненный след в полете.
+subDescRedneckMoonshineMolotov06|Chance for molotovs to spill oil around them.|«Самогонные молотовы» могут разлить масло вокруг себя.
+subDescRedneckMoonshineMolotov07|Inflicts burning on hit.|При попадании накладывает горение.
+subDescRedneckMoonshineMolotov08|Increases the amount of spills from moonshine molotov.|Увеличивает количество луж от «Самогонного молотова».
+subDescRedneckMoonshineMolotov09|Molotovs now bounce once when they hit the ground redirecting them towards the closest enemy.|«Самогонные молотовы» теперь один раз отскакивают от земли в сторону ближайшего врага.
+subDescRedneckMoonshineMolotov10|Increases the duration of flames.|Увеличивает длительность горения пламени.
+subDescRedneckMoonshineMolotov11|Moonshine molotovs now ignite into blue flames increasing its damage significantly.|«Самогонные молотовы» теперь горят синим пламенем, что значительно увеличивает урон.
+subDescRedneckMoonshineMolotov12|Throw multiple molotovs around you for a short period setting the world ablaze. Moonshine molotov now has a cooldown.|Вы бросаете множество «Самогонных молотовов» вокруг себя, поджигая всё вокруг. Умение теперь имеет время восстановления.
+subDescRedneckMoonshineMolotov13|Direct hits cause enemies to leave a trail of fire wherever they go damaging other nearby enemies dealing increased damage and inflicting burning.|При прямом попадании враги начинают оставлять огненный след, который наносит урон и накладывает горение на других монстров.
+subDescRedneckMoonshineMolotov14|Molotov now bounces additional times from the ground spilling small flames around.|«Самогонный молотов» теперь отскакивает от земли несколько раз, разбрасывая вокруг сгустки пламени.
+||
+subRedneckPipebombs01|Stacked Bag|Набитая сумка
+subRedneckPipebombs02|Lowered Weight|Облегченный вес
+subRedneckPipebombs03|TNT Mass|Масса тротила
+subRedneckPipebombs04|Bomberman|Бомбермен
+subRedneckPipebombs05|Splitting Explosive|Разрывной снаряд
+subRedneckPipebombs06|Wounding Blast|Ранящий взрыв
+subRedneckPipebombs07|Salt Covering|Солевая оболочка
+subRedneckPipebombs08|Blasting Powder|Взрывной порошок
+subRedneckPipebombs09|Anti Fatigue|Неутомимость
+subRedneckPipebombs10|Upwards Pressure|Давление вверх
+subRedneckPipebombs11|Fiery Infusion|Огненная начинка
+subRedneckPipebombs12|Disorienting Blast|Дезориентирующий взрыв
+subRedneckPipebombs13|Eat This!|Съешь это!
+subRedneckPipebombs14|Colossal Explosive|Колоссальный заряд
+subDescRedneckPipebombs01|Throw additional bombs.|Вы бросаете дополнительные бомбы.
+subDescRedneckPipebombs02|Increases the projectile speed of pipe bombs.|Увеличивает скорость полета «Самодельных бомб».
+subDescRedneckPipebombs03|Increases the size and explosion area of effect radius of pipe bombs.|Увеличивает размер и радиус взрыва «Самодельных бомб».
+subDescRedneckPipebombs04|Increases faster cast rate when using pipe bombs.|Увеличивает скорость каста при использовании «Самодельных бомб».
+subDescRedneckPipebombs05|Chance on hit to split into multiple pipe bombs.|При попадании бомба может разделиться на несколько «Самодельных бомб».
+subDescRedneckPipebombs06|Inflicts bleeding on hit.|При попадании вызывает кровотечение.
+subDescRedneckPipebombs07|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescRedneckPipebombs08|Increases the damage dealt by pipe bombs.|Увеличивает урон «Самодельных бомб».
+subDescRedneckPipebombs09|Decreases the mana cost of pipe bombs.|Снижает затраты маны на «Самодельные бомбы».
+subDescRedneckPipebombs10|Chance on hit to knock up monsters dealing additional damage.|Дает шанс подбросить монстров при попадании, нанося доп. урон.
+subDescRedneckPipebombs11|Pipe bombs now leave burning flames on the ground with increased damage and area of effect radius.|«Самодельные бомбы» теперь оставляют на земле пламя с увеличенным уроном и радиусом действия.
+subDescRedneckPipebombs12|Knock monsters back with massive power causing them to take additional damage and be stunned when hitting terrain.|С силой отбрасывает монстров, нанося доп. урон; при ударе о препятствие враги оглушаются.
+subDescRedneckPipebombs13|Throw a single pipe bomb with force unleashing multiple pipe bombs in a circle around the impact point.|Вы с силой бросаете одну бомбу, которая при ударе разбрасывает вокруг себя множество других бомб.
+subDescRedneckPipebombs14|Throw a giant pipe bomb that bounces multiple times dealing increased damage. Each bounce it shrinks in size and deals less damage until it vanishes.|Вы бросаете гигантскую бомбу, которая отскакивает несколько раз, нанося повышенный урон. С каждым отскоком она уменьшается и наносит меньше урона, пока не исчезнет.
+||
+subRedneckTireFire01|Tire Density|Плотность шины
+subRedneckTireFire02|Increased Stock|Увеличенный запас
+subRedneckTireFire03|Scaling Up|Увеличение масштаба
+subRedneckTireFire04|Hard Hitter|Сильный удар
+subRedneckTireFire05|Bouncy Tire|Прыгучая шина
+subRedneckTireFire06|Flaming Tire|Пылающая шина
+subRedneckTireFire07|Overheated|Перегрев
+subRedneckTireFire08|The Machinist|Механик
+subRedneckTireFire09|Oily Tire|Масляная шина
+subRedneckTireFire10|Impact Angle|Угол удара
+subRedneckTireFire11|Monster Truck Tire|Шина монстр-трака
+subRedneckTireFire12|Mini Tires|Мини-шины
+subRedneckTireFire13|Donuts|Пончики
+subRedneckTireFire14|Loose Tire|Свободная шина
+subDescRedneckTireFire01|Increases the damage dealt by tire fire.|Увеличивает урон «Горящей шины».
+subDescRedneckTireFire02|Increases the projectile speed of tire fire.|Увеличивает скорость полета «Горящей шины».
+subDescRedneckTireFire03|Increases the size of tires.|Увеличивает размер шин.
+subDescRedneckTireFire04|Knocks monsters back with increased damage.|Отбрасывает монстров назад, нанося увеличенный урон.
+subDescRedneckTireFire05|Tires now bounce over gaps and short terrain dealing a damaging area of effect pulse when landing.|Шины теперь перепрыгивают ямы и препятствия, нанося урон по области при приземлении.
+subDescRedneckTireFire06|Inflicts burning on hit.|При попадании накладывает горение.
+subDescRedneckTireFire07|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescRedneckTireFire08|Increases faster cast rate when casting tire fire.|Увеличивает скорость каста при использовании «Горящей шины».
+subDescRedneckTireFire09|Tire now leaves a trail of oil behind with increased radius.|Шина оставляет за собой масляный след с увеличенным радиусом.
+subDescRedneckTireFire10|Tires now bounce off of high terrain and environment increasing its damage per impact.|Шины теперь отскакивают от высоких препятствий, увеличивая урон с каждым ударом.
+subDescRedneckTireFire11|Now sends out a big monster truck tire stunning and knocking monsters up on hit dealing increased damage. Tire fire now has a cooldown.|Выпускает огромную шину монстр-трака, которая оглушает и подбрасывает монстров, нанося увеличенный урон. «Горящая шина» теперь имеет время восстановления.
+subDescRedneckTireFire12|Now send out multiple smaller tires in an arc.|Выпускает несколько малых шин по дуге.
+subDescRedneckTireFire13|Tires now spiral outwards inflicting fire break on hit.|Шины теперь разлетаются по спирали, вызывая игнорирование сопр. огню при попадании.
+subDescRedneckTireFire14|Send out a bouncing tire dealing increased area of effect damage every time it lands.|Выпускает прыгающую шину, наносящую увеличенный урон по области при каждом приземлении.
+||
+subRedneckPickupRaid01|Ignition|Зажигание
+subRedneckPickupRaid02|Oil Leak|Утечка масла
+subRedneckPickupRaid03|Billy & Little Bob|Билли и Маленький Боб
+subRedneckPickupRaid04|Shattering Shells|Разрывные патроны
+subRedneckPickupRaid05|V12 Engine|Двигатель V12
+subRedneckPickupRaid06|Moonshine Miles|Самогонные мили
+subRedneckPickupRaid07|Napalm Filling|Напалмовая начинка
+subRedneckPickupRaid08|Crackling Fire|Трескучий огонь
+subRedneckPickupRaid09|Speed Dial|Быстрый набор
+subRedneckPickupRaid10|Double Barrel|Двустволка
+subRedneckPickupRaid11|Suicide Squad|Отряд самоубийц
+subRedneckPickupRaid12|Freedom Convoy|Конвой свободы
+subRedneckPickupRaid13|Drunken Air Raid|Пьяный авианалет
+subRedneckPickupRaid14|Tarethiel MC|Таретиэль MC
+subDescRedneckPickupRaid01|Increases the damage dealt by pickup raid.|Увеличивает урон «Рейда на пикапах».
+subDescRedneckPickupRaid02|All raid participants leak oil on the ground.|Все участники рейда разливают масло на землю.
+subDescRedneckPickupRaid03|Adds a motorcycle rider to the pickup raid firing buckshots.|Добавляет в рейд мотоциклиста, стреляющего картечью.
+subDescRedneckPickupRaid04|Buckshots from the motorcycle rider now inflict fire break on hit.|Картечь мотоциклиста вызывает игнорирование сопр. огню при попадании.
+subDescRedneckPickupRaid05|Increases travel speed of all raid members.|Увеличивает скорость движения всех участников рейда.
+subDescRedneckPickupRaid06|Adds a wooden airplane to the pickup raid dropping bombs dealing area of effect damage.|Добавляет в рейд деревянный самолет, сбрасывающий бомбы с уроном по области.
+subDescRedneckPickupRaid07|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescRedneckPickupRaid08|Bombs dropped by the wooden airplane now inflict burning on hit.|Бомбы самолета теперь накладывают горение при попадании.
+subDescRedneckPickupRaid09|Decreases the cooldown of pickup raid.|Снижает время восстановления «Рейда на пикапах».
+subDescRedneckPickupRaid10|Pickup truck now fires additional projectiles.|Пикап теперь выпускает дополнительные снаряды.
+subDescRedneckPickupRaid11|The raid now moves towards target location exploding into multiple big explosions and truck tires rolling into all directions.|Рейд теперь движется в указанную точку, где происходит серия мощных взрывов, а во все стороны разлетаются шины.
+subDescRedneckPickupRaid12|Now send multiple pickup trucks.|Теперь высылает несколько пикапов.
+subDescRedneckPickupRaid13|Now only send a raid of planes that fire projectiles and drop bombs.|Теперь вызывает только налет самолетов, которые стреляют и сбрасывают бомбы.
+subDescRedneckPickupRaid14|Now only send motorcycle riders firing buckshot inflicting burning on hit.|Теперь вызывает только мотоциклистов, стреляющих картечью и накладывающих горение.
+||
+subRedneckChainSlash01|Wider Chain|Широкая цепь
+subRedneckChainSlash02|Accelerated Chain|Ускоренная цепь
+subRedneckChainSlash03|Double The Logging|Двойной спил
+subRedneckChainSlash04|Rupturing Slash|Рваная рана
+subRedneckChainSlash05|Chaining Uppercut|Цепной апперкот
+subRedneckChainSlash06|The Motor Goes BRRRRR!|Мотор делает БРРРР!
+subRedneckChainSlash07|Bigger Saw|Большая пила
+subRedneckChainSlash08|Strengthened Bloodlust|Усиленная жажда крови
+subRedneckChainSlash09|Malfunctioning Chainsaw|Сломанная бензопила
+subRedneckChainSlash10|Bloody Carnage|Кровавая резня
+subRedneckChainSlash11|Giant Slash|Гигантский распил
+subRedneckChainSlash12|Woodcutter´s Madness|Безумие лесоруба
+subRedneckChainSlash13|Gas To The Chainsaws|Бензин для пилы
+subRedneckChainSlash14|Sawing Momentum|Инерция пилы
+subDescRedneckChainSlash01|Increases the attack area of effect radius of chainslaw slash.|Увеличивает радиус области действия «Удара бензопилой».
+subDescRedneckChainSlash02|Increases the damage dealt by chainsaw slash.|Увеличивает урон «Удара бензопилой».
+subDescRedneckChainSlash03|Chance to attach an additional chainsaw on hit.|Дает шанс прикрепить дополнительную бензопилу при попадании.
+subDescRedneckChainSlash04|Chance on inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescRedneckChainSlash05|Chance on hit to send monsters airborne dealing increased area of effect damage when landing.|При попадании есть шанс подбросить монстров в воздух; при приземлении они получают увеличенный урон по области.
+subDescRedneckChainSlash06|Increases chainsaw slash attack speed while wielding a chainsaw.|Увеличивает скорость атаки «Удара бензопилой» при использовании бензопилы.
+subDescRedneckChainSlash07|Increases the area of effect radius and size of rotating chainsaws.|Увеличивает радиус действия и размер вращающихся бензопил.
+subDescRedneckChainSlash08|Increases rotating chainsaw damage and size based on your total strength.|Увеличивает урон и размер вращающихся бензопил в зависимости от вашей силы.
+subDescRedneckChainSlash09|Chainsaws explode after expiring dealing additional damage and stunning nearby enemies.|По истечении времени действия бензопилы взрываются, нанося доп. урон и оглушая врагов.
+subDescRedneckChainSlash10|Increases damage dealt to bleeding enemies.|Увеличивает урон по истекающим кровью врагам.
+subDescRedneckChainSlash11|Every 4th attack unleashes a giant slash dealing increased damage and inflicting armor break.|Каждая 4-я атака наносит гигантский удар с увеличенным уроном и вызывает пробивание брони.
+subDescRedneckChainSlash12|Every 3rd hit unleashes a spinning attack with increased radius and dealing increased damage.|Каждый 3-й удар запускает вращающуюся атаку с увеличенным радиусом и уроном.
+subDescRedneckChainSlash13|Each target can only have one chainsaw attached to them but striking them again causes it to reset its duration, growing in size and dealing additional damage up to 10 times.|К цели может быть прикреплена только одна бензопила, но повторные удары обновляют её длительность, увеличивают размер и урон (до 10 раз).
+subDescRedneckChainSlash14|Enemies killed while a chainsaw is attached to them release the chainsaws outwards. If they hit a new target, they attach themselves to them instead.|Враги, убитые с прикрепленной пилой, выпускают пилы наружу. Если пила попадает в новую цель, она прикрепляется к ней.
+||
+subRedneckChainsawMassacre01|Wielding The Saw|Владение пилой
+subRedneckChainsawMassacre02|Saw Through The Woods|Пропил сквозь лес
+subRedneckChainsawMassacre03|Sawing Execution|Распил-казнь
+subRedneckChainsawMassacre04|Final Stand|Последний рубеж
+subRedneckChainsawMassacre05|Optimal Working Hours|Оптимальные часы работы
+subRedneckChainsawMassacre06|Overtime|Сверхурочные
+subRedneckChainsawMassacre07|Critical Wounding|Критическое ранение
+subRedneckChainsawMassacre08|Resilient Sustain|Стойкая поддержка
+subRedneckChainsawMassacre09|Logging Machine|Лесозаготовительная машина
+subRedneckChainsawMassacre10|Calling in Sick|Ушел на больничный
+subRedneckChainsawMassacre11|Logger´s Lil Helpers|Маленькие помощники лесоруба
+subRedneckChainsawMassacre12|Raging Sawblades|Яростные пилы
+subRedneckChainsawMassacre13|Standstill Focus|Фокус на месте
+subRedneckChainsawMassacre14|Woodcutter´s Expertise|Мастерство лесоруба
+subDescRedneckChainsawMassacre01|Increases the damage dealt by chainsaw massacre while you are wielding a chainsaw.|Увеличивает урон «Резни бензопилой» при использовании бензопилы.
+subDescRedneckChainsawMassacre02|Increases the area of effect radius of chainsaw massacre.|Увеличивает радиус области действия «Резни бензопилой».
+subDescRedneckChainsawMassacre03|Chainsaw massacre now executes targets below a certain percentage of life.|«Резня бензопилой» теперь казнит цели, у которых уровень здоровья ниже определенного порога.
+subDescRedneckChainsawMassacre04|Increases damage dealt by chainsaw massacre's ending whirl.|Увеличивает урон завершающего вихря «Резни бензопилой».
+subDescRedneckChainsawMassacre05|Decreases duration but increases damage dealt each second spent spinning.|Уменьшает длительность, но увеличивает урон за каждую секунду вращения.
+subDescRedneckChainsawMassacre06|Increases the duration of chainsaw massacre.|Увеличивает длительность «Резни бензопилой».
+subDescRedneckChainsawMassacre07|Inflicts bleeding on hit.|При попадании вызывает кровотечение.
+subDescRedneckChainsawMassacre08|Increases your life steal and mana steal while spinning.|Увеличивает похищение здоровья и маны во время вращения.
+subDescRedneckChainsawMassacre09|Increases spinning speed of chainsaw massacre.|Увеличивает скорость вращения «Резни бензопилой».
+subDescRedneckChainsawMassacre10|Decreases the duration of chainsaw massacre.|Уменьшает длительность «Резни бензопилой».
+subDescRedneckChainsawMassacre11|Additionally summons multiple chainsaws that spin around you at different speeds while chainsaw massacre is active.|Дополнительно призывает несколько бензопил, вращающихся вокруг вас с разной скоростью, пока активна «Резня бензопилой».
+subDescRedneckChainsawMassacre12|Perform the ending whirl frequently while spinning.|Во время действия умения периодически срабатывает завершающий вихрь.
+subDescRedneckChainsawMassacre13|Spin in place dealing increased damage. Each kill increases the area of effect radius of chainsaw massacre.|Вы вращаетесь на месте, нанося увеличенный урон. Каждое убийство увеличивает радиус действия умения.
+subDescRedneckChainsawMassacre14|Gain absolute control of the spinning dealing increased damage and inflict bleeding on hit.|Вы получаете полный контроль над вращением, наносите увеличенный урон и вызываете кровотечение при попадании.
+||
+subRedneckRogueChainsaw01|Overheating Engine|Перегрев двигателя
+subRedneckRogueChainsaw02|Ripping Impact|Разрывающий удар
+subRedneckRogueChainsaw03|Handling Skills|Навыки обращения
+subRedneckRogueChainsaw04|Rough Chains|Грубые цепи
+subRedneckRogueChainsaw05|Engine Gone Wild|Бешеный двигатель
+subRedneckRogueChainsaw06|Chaining Chainsaws|Цепные пилы
+subRedneckRogueChainsaw07|Empty The Workbag|Опустошить сумку
+subRedneckRogueChainsaw08|Ruthless Chainsaws|Безжалостные пилы
+subRedneckRogueChainsaw09|Consumed Rupture|Поглощенный разрыв
+subRedneckRogueChainsaw10|Full Gas Tank|Полный бак
+subRedneckRogueChainsaw11|Slice Em Up!|Нарежь их!
+subRedneckRogueChainsaw12|Shredding Squad|Отряд уничтожения
+subRedneckRogueChainsaw13|Homing Chainsaws|Самонаводящиеся пилы
+subRedneckRogueChainsaw14|Circle of Cutting|Круг резни
+subDescRedneckRogueChainsaw01|Increases the spinning speed of rogue chainsaws.|Увеличивает скорость вращения «Бродячих бензопил».
+subDescRedneckRogueChainsaw02|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescRedneckRogueChainsaw03|Increases the cast rate of rogue chainsaw while wielding a chainsaw.|Увеличивает скорость каста «Бродячей бензопилы» при использовании бензопилы.
+subDescRedneckRogueChainsaw04|Increases the damage dealt by rogue chainsaw.|Увеличивает урон «Бродячей бензопилы».
+subDescRedneckRogueChainsaw05|When expiring, the chainsaws launch into the direction they are facing, dealing additional damage and bouncing off of terrain.|По истечении времени действия пилы улетают в направлении своего движения, нанося доп. урон и отскакивая от препятствий.
+subDescRedneckRogueChainsaw06|Launched chainsaws have a chance to chain when they first hit an enemy.|Запущенные пилы могут перескочить на следующую цель при первом попадании во врага.
+subDescRedneckRogueChainsaw07|Chance on cast to throw additional rogue chainsaw.|Дает шанс при касте бросить дополнительную «Бродячую бензопилу».
+subDescRedneckRogueChainsaw08|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescRedneckRogueChainsaw09|When hitting a bleeding monster, consume the bleeding debuff and unleash an explosion of blood scaling with the bleeding damage.|Удар по истекающему кровью монстру поглощает эффект кровотечения и вызывает кровавый взрыв, урон которого зависит от урона кровотечения.
+subDescRedneckRogueChainsaw10|Increases the duration of rogue chainsaws.|Увеличивает длительность действия «Бродячих бензопил».
+subDescRedneckRogueChainsaw11|Chainsaws now slowly travel forward with increased size and damage.|Бензопилы теперь медленно движутся вперед, имеют увеличенный размер и наносят повышенный урон.
+subDescRedneckRogueChainsaw12|Launch multiple rogue chainsaws in an arc instead of throwing them on the ground.|Запускает веер «Бродячих бензопил» по дуге вместо того, чтобы бросать их на землю.
+subDescRedneckRogueChainsaw13|Rogue chainsaws now home towards the closest monster.|«Бродячие бензопилы» теперь сами наводятся на ближайшего монстра.
+subDescRedneckRogueChainsaw14|Throw multiple rogue chainsaws in a circle around you, traveling back to you upon landing.|Вы бросаете несколько бензопил вокруг себя; при приземлении они возвращаются к вам.
+||
+subRedneckTreeTrunkTriumph01|Splinters|Острая щепа
+subRedneckTreeTrunkTriumph02|Treefall|Падение дерева
+subRedneckTreeTrunkTriumph03|Heavy Trunk|Увесистый ствол
+subRedneckTreeTrunkTriumph04|Sequoia|Секвойя
+subRedneckTreeTrunkTriumph05|Sticking Splinters|Впивающаяся щепа
+subRedneckTreeTrunkTriumph06|Skillfull Fall|Мастерский спил
+subRedneckTreeTrunkTriumph07|Sudden Treefall|Стихийный лесоповал
+subRedneckTreeTrunkTriumph08|Maiming Collision|Калечащий удар
+subRedneckTreeTrunkTriumph09|Heavy Fall|Сокрушительный обвал
+subRedneckTreeTrunkTriumph10|Clear The Way|Прорубка пути
+subRedneckTreeTrunkTriumph11|Stack of Trunks|Штабель стволов
+subRedneckTreeTrunkTriumph12|Giant Red Tree|Исполинская секвойя
+subRedneckTreeTrunkTriumph13|Splitting Fall|Раскалывающий обвал
+subRedneckTreeTrunkTriumph14|Falling Forest|Падающий лес
+subDescRedneckTreeTrunkTriumph01|Trunks have a chance to explode into multiple splinters inflicting monsters hit with bleeding for a portion of the damage.|Стволы могут разлететься на острую щепу, вызывая у врагов кровотечение, урон которого зависит от урона умения.
+subDescRedneckTreeTrunkTriumph02|Chance to stun on hit.|Дает шанс оглушить при попадании.
+subDescRedneckTreeTrunkTriumph03|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescRedneckTreeTrunkTriumph04|Increases the size of tree trunks.|Увеличивает размер стволов деревьев.
+subDescRedneckTreeTrunkTriumph05|Splinters stick to monsters on hit dealing damage over time.|Щепа впивается в монстров при попадании, нанося периодический урон.
+subDescRedneckTreeTrunkTriumph06|Increases the damage dealt by tree trunk triumph.|Увеличивает урон умения «Триумфальное бревно».
+subDescRedneckTreeTrunkTriumph07|Trunks have a chance to cut down another tree at a nearby enemy.|Упавший ствол может свалить еще одно дерево на ближайшего врага.
+subDescRedneckTreeTrunkTriumph08|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
+subDescRedneckTreeTrunkTriumph09|Chance on hit to unleash a shockwave in the falling direction, dealing additional damage.|Дает шанс при попадании вызвать ударную волну в направлении падения, нанося доп. урон.
+subDescRedneckTreeTrunkTriumph10|Decreases movement diminish when using tree trunk triumph.|Уменьшает штраф к скорости передвижения при использовании «Триумфального бревна».
+subDescRedneckTreeTrunkTriumph11|Cut down multiple trees in an arc.|Срубает несколько деревьев по дуге.
+subDescRedneckTreeTrunkTriumph12|Every third attack summons a gigantic trunk dealing increased damage and inflicting armor break on hit.|Каждая третья атака призывает гигантский ствол, наносящий увеличенный урон и вызывающий пробивание брони.
+subDescRedneckTreeTrunkTriumph13|Trunks split into multiple wooden discs upon falling that chain from monsters on hit.|При падении стволы раскалываются на деревянные диски, которые отскакивают от монстров по цепочке.
+subDescRedneckTreeTrunkTriumph14|Multiple trunks fall from the sky on target location, falling towards the nearest monster. Tree trunk triumph now has a cooldown.|С неба в указанную область падает множество стволов, которые валятся в сторону ближайшего монстра. Умение теперь имеет время восстановления.

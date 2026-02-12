@@ -1,0 +1,347 @@
+subMarksmanTrickshot01|Lung Capacity|Объем легких
+subMarksmanTrickshot02|Tenacity|Упорство
+subMarksmanTrickshot03|Lethal Aim|Смертельный прицел
+subMarksmanTrickshot04|Archery Skills|Навыки лучника
+subMarksmanTrickshot05|Looping Shot|Рикошетный выстрел
+subMarksmanTrickshot06|Deadly Accuracy|Смертельная точность
+subMarksmanTrickshot07|Steady Hands|Твердые руки
+subMarksmanTrickshot08|Agile Hunter|Проворный охотник
+subMarksmanTrickshot09|Killshot|Смертельный выстрел
+subMarksmanTrickshot10|Maiming Shot|Калечащий выстрел
+subMarksmanTrickshot11|Sniper's Touch|Прикосновение снайпера
+subMarksmanTrickshot12|Splitting Trickshot|Разделяющийся выстрел
+subMarksmanTrickshot13|Scorching Arrow|Обжигающая стрела
+subMarksmanTrickshot14|Powershot|Мощный выстрел
+subDescMarksmanTrickshot01|Increases attack rating when using trickshot.|Увеличивает рейтинг атаки при использовании «Выстрела с подвохом».
+subDescMarksmanTrickshot02|Reduces the mana cost of trickshot.|Снижает затраты маны на «Выстрел с подвохом».
+subDescMarksmanTrickshot03|Increases the damage dealt by trickshot.|Увеличивает урон «Выстрела с подвохом».
+subDescMarksmanTrickshot04|Increases the amount of bounces for trickshot.|Увеличивает количество отскоков «Выстрела с подвохом».
+subDescMarksmanTrickshot05|Trickshot can hit the same monster multiple times if there are no others nearby with reduced damage.|«Выстрел с подвохом» может несколько раз поразить одну и ту же цель, если рядом нет других врагов; урон при этом снижен.
+subDescMarksmanTrickshot06|Increases critical strike damage dealt by trickshot.|Увеличивает критический урон «Выстрела с подвохом».
+subDescMarksmanTrickshot07|Increases the critical strike chance when using trickshot.|Увеличивает шанс критического удара при использовании «Выстрела с подвохом».
+subDescMarksmanTrickshot08|Decreases the movement diminish when using trickshot.|Уменьшает штраф к скорости передвижения при использовании «Выстрела с подвохом».
+subDescMarksmanTrickshot09|Increases the range of trickshot.|Увеличивает дальность «Выстрела с подвохом».
+subDescMarksmanTrickshot10|Trickshot inflicts a portion of its damage as bleeding.|«Выстрел с подвохом» наносит часть своего урона в виде кровотечения.
+subDescMarksmanTrickshot11|Trickshot now only bounces to one additional target but multiplies its damage with the amount of bounces with increased damage and critical strike damage.|«Выстрел с подвохом» теперь отскакивает только к одной дополнительной цели, но его урон и критический урон умножаются за каждый совершенный отскок.
+subDescMarksmanTrickshot12|Each bounce fires additional piercing projectiles.|При каждом отскоке выпускаются дополнительные пронзающие снаряды.
+subDescMarksmanTrickshot13|Trickshot now inflicts burning to monsters for a portion of its damage.|«Выстрел с подвохом» теперь накладывает на монстров горение, урон которого зависит от урона умения.
+subDescMarksmanTrickshot14|The initial projectile now pierces with increased range and damage unleashing bouncing arrows to monsters on hit dealing decreased damage.|Начальный снаряд теперь пронзает врагов, имеет увеличенную дальность и урон, а при попадании выпускает в монстров отскакивающие стрелы с пониженным уроном.
+||
+subMarksmanVault01|Forest Parkour|Лесной паркур
+subMarksmanVault02|Vaultshot|Выстрел в прыжке
+subMarksmanVault03|Eagle Eye|Орлиный глаз
+subMarksmanVault04|Rapidshot|Беглый огонь
+subMarksmanVault05|High Leap|Высокий прыжок
+subMarksmanVault06|Landing Strike|Удар при приземлении
+subMarksmanVault07|Hunter's Aim|Прицел охотника
+subMarksmanVault08|Wounding Shot|Ранящий выстрел
+subMarksmanVault09|Trail of Blood|Кровавый след
+subMarksmanVault10|Explosive Trail|Взрывной след
+subMarksmanVault11|Multivault|Серия прыжков
+subMarksmanVault12|Leaping Cyclone|Прыгающий циклон
+subMarksmanVault13|Safespace|Безопасная зона
+subMarksmanVault14|iArrow|Облик стрелы
+subDescMarksmanVault01|Increases vault length.|Увеличивает дистанцию прыжка.
+subDescMarksmanVault02|Increases the damage dealt by vault.|Увеличивает урон прыжка.
+subDescMarksmanVault03|Increases attack rating when vaulting.|Увеличивает рейтинг атаки во время прыжка.
+subDescMarksmanVault04|Increases the amount of projectiles fired when vaulting.|Увеличивает количество снарядов, выпускаемых во время прыжка.
+subDescMarksmanVault05|Increases air time when vaulting. Vault can now go over hard terrain.|Увеличивает время нахождения в воздухе; теперь прыжок позволяет преодолевать препятствия.
+subDescMarksmanVault06|When landing fire projectiles in a circle around you.|При приземлении выпускает снаряды во все стороны.
+subDescMarksmanVault07|Projectiles from vault now pierce and bounce off of terrain with increased damage and speed.|Снаряды прыжка теперь пронзают врагов и отскакивают от препятствий, имея увеличенный урон и скорость.
+subDescMarksmanVault08|Vault projectiles inflict bleeding on hit.|Снаряды прыжка вызывают кровотечение при попадании.
+subDescMarksmanVault09|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescMarksmanVault10|Vault now leaves a trail of explosions with increased damage and area of effect.|Прыжок теперь оставляет за собой след из взрывов с увеличенным уроном и областью действия.
+subDescMarksmanVault11|Vault now fires multiple projectiles in an arc.|Во время прыжка теперь выпускается несколько снарядов по дуге.
+subDescMarksmanVault12|Vault fires orbiting projectiles that fly in all directions.|Во время прыжка выпускаются вращающиеся снаряды, разлетающиеся во все стороны.
+subDescMarksmanVault13|When landing from leap knock back all monsters around you and drop raining arrows on them.|При приземлении отбрасывает всех монстров вокруг и обрушивает на них град стрел.
+subDescMarksmanVault14|Turn into a big arrow dealing damage to monsters on your path. Upon landing cause a big explosion pulse dealing damage to monsters around you.|Превращает вас в огромную стрелу, наносящую урон всем врагам на пути; при приземлении происходит мощный взрывной импульс.
+||
+subMarksmanMultishot01|Bow & String|Лук и тетива
+subMarksmanMultishot02|Clear Mind|Ясный разум
+subMarksmanMultishot03|Steady Aim|Твердая рука
+subMarksmanMultishot04|Stacked Quiver|Полный колчан
+subMarksmanMultishot05|Agile Marksman|Ловкий стрелок
+subMarksmanMultishot06|Wounding Impact|Ранящий удар
+subMarksmanMultishot07|Wounded Target|Раненая цель
+subMarksmanMultishot08|Ambush|Засада
+subMarksmanMultishot09|Headshot|Выстрел в голову
+subMarksmanMultishot10|Longshot|Дальний выстрел
+subMarksmanMultishot11|Tornadoshot|Вихревой выстрел
+subMarksmanMultishot12|Arrow Nova|Кольцо стрел
+subMarksmanMultishot13|Concentration Volley|Сосредоточенный залп
+subMarksmanMultishot14|Raining Inferno|Пылающий ливень
+subDescMarksmanMultishot01|Increases the damage dealt by multishot.|Увеличивает урон «Мультивыстрела».
+subDescMarksmanMultishot02|Decreases the mana cost of multishot.|Снижает затраты маны на «Мультивыстрел».
+subDescMarksmanMultishot03|Increases attack rating when using multishot.|Увеличивает рейтинг атаки при использовании «Мультивыстрела».
+subDescMarksmanMultishot04|Increases the amount of multishot projectiles.|Увеличивает количество снарядов «Мультивыстрела».
+subDescMarksmanMultishot05|Decreases the movement diminish when using multishot.|Уменьшает штраф к скорости передвижения при использовании «Мультивыстрела».
+subDescMarksmanMultishot06|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescMarksmanMultishot07|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescMarksmanMultishot08|Increases the critical strike chance when using multishot.|Увеличивает шанс критического удара при использовании «Мультивыстрела».
+subDescMarksmanMultishot09|Increases critical strike damage dealt when using multishot.|Увеличивает критический урон при использовании «Мультивыстрела».
+subDescMarksmanMultishot10|Increases the attack range of multishot.|Увеличивает дальность атаки «Мультивыстрела».
+subDescMarksmanMultishot11|Multishot now unleashes a cycloning tornado of projectiles on hit that are launched in all directions.|При попадании «Мультивыстрел» создает вихрь из снарядов, разлетающихся во все стороны.
+subDescMarksmanMultishot12|Multishot now fires a decreased amount of projectiles which when landing or hitting a monster split into multiple projectiles flying in all directions.|«Мультивыстрел» теперь выпускает меньше снарядов, которые при приземлении или попадании разделяются на множество других, летящих во все стороны.
+subDescMarksmanMultishot13|Multishot now fires a decreased amount of shotgunning projectiles in a narrow cone with decreased damage.|«Мультивыстрел» теперь выпускает меньше снарядов в узком конусе с пониженным уроном (эффект дробовика).
+subDescMarksmanMultishot14|Multishot now fires burning arrows inflicting burning for a portion of the damage.|«Мультивыстрел» теперь выпускает горящие стрелы, наносящие часть урона в виде горения.
+||
+subMarksmanVolatileShot01|Hawk Eye|Ястребиный глаз
+subMarksmanVolatileShot02|Cannon Fodder|Пушечное мясо
+subMarksmanVolatileShot03|Far Sight|Дальнозоркость
+subMarksmanVolatileShot04|Armor Shatter|Разрушение брони
+subMarksmanVolatileShot05|Techies|Минеры
+subMarksmanVolatileShot06|Explosive Tactics|Взрывная тактика
+subMarksmanVolatileShot07|Armor Swap|Обмен брони
+subMarksmanVolatileShot08|Strafing|Обстрел
+subMarksmanVolatileShot09|Devastation|Опустошение
+subMarksmanVolatileShot10|Military Tactics|Военная тактика
+subMarksmanVolatileShot11|Colossal Arrow|Колоссальная стрела
+subMarksmanVolatileShot12|Volatile Multishot|Нестабильный мультивыстрел
+subMarksmanVolatileShot13|Fire in the Hole!|Ложись!
+subMarksmanVolatileShot14|Artillery|Артиллерия
+subDescMarksmanVolatileShot01|Increases attack rating when using volatile shot.|Увеличивает рейтинг атаки при использовании «Нестабильного выстрела».
+subDescMarksmanVolatileShot02|Increases the damage dealt by volatile shot.|Увеличивает урон «Нестабильного выстрела».
+subDescMarksmanVolatileShot03|Increases the attack range of volatile shot.|Увеличивает дальность атаки «Нестабильного выстрела».
+subDescMarksmanVolatileShot04|Inflicts armor break on hit.|При попадании вызывает пробивание брони.
+subDescMarksmanVolatileShot05|Now knocks monsters back with increased damage.|Теперь отбрасывает монстров, нанося увеличенный урон.
+subDescMarksmanVolatileShot06|Increases the explosion area of effect radius of volatile shot.|Увеличивает радиус взрыва «Нестабильного выстрела».
+subDescMarksmanVolatileShot07|Gain a portion of inflicted armor break as armor for a short duration.|Дает вам броню в размере части от нанесенного пробивания брони на короткое время.
+subDescMarksmanVolatileShot08|Decreases the movement diminish when using volatile shot.|Уменьшает штраф к скорости передвижения при использовании «Нестабильного выстрела».
+subDescMarksmanVolatileShot09|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
+subDescMarksmanVolatileShot10|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescMarksmanVolatileShot11|Fire a massive arrow with increased damage and increased armor break duration. Volatile shot now has a cooldown.|Выпускает огромную стрелу с увеличенным уроном и длительностью пробивания брони. «Нестабильный выстрел» теперь имеет время восстановления.
+subDescMarksmanVolatileShot12|Fire multiple smaller projectiles in a cone.|Выпускает несколько малых снарядов по дуге.
+subDescMarksmanVolatileShot13|On monster or terrain impact launch multiple piercing arrows in all directions.|При столкновении с целью или препятствием выпускает множество пронзающих стрел во все стороны.
+subDescMarksmanVolatileShot14|Fire multiple additional arrows raining from the sky covering a wide area. Volatile shot now has a short cooldown.|Обрушивает с неба град дополнительных стрел, накрывающий большую область. «Нестабильный выстрел» теперь имеет небольшое время восстановления.
+||
+subMarksmanArrowRain01|Spot On|В яблочко
+subMarksmanArrowRain02|Long Reach|Дальний охват
+subMarksmanArrowRain03|Rain Of Pain|Дождь боли
+subMarksmanArrowRain04|Coverage|Зона покрытия
+subMarksmanArrowRain05|Sharper Tips|Острые наконечники
+subMarksmanArrowRain06|Split Fall|Разделение при падении
+subMarksmanArrowRain07|My Territory|Моя территория
+subMarksmanArrowRain08|Cutting Arrows|Режущие стрелы
+subMarksmanArrowRain09|Wound Salt|Соль на рану
+subMarksmanArrowRain10|Maiming Arrow|Калечащая стрела
+subMarksmanArrowRain11|Scorching Volley|Обжигающий залп
+subMarksmanArrowRain12|Kill Command|Команда «Убить»
+subMarksmanArrowRain13|Contract Killer|Наемный убийца
+subMarksmanArrowRain14|Arrow Splinter|Осколки стрел
+subDescMarksmanArrowRain01|Increases attack rating when using arrow rain.|Увеличивает рейтинг атаки при использовании «Дождя стрел».
+subDescMarksmanArrowRain02|Increased the range of arrow rain.|Увеличивает дальность «Дождя стрел».
+subDescMarksmanArrowRain03|Increases the amount of arrow rain projectiles.|Увеличивает количество снарядов «Дождя стрел».
+subDescMarksmanArrowRain04|Increases the area of effect radius of arrow rain.|Увеличивает радиус области действия «Дождя стрел».
+subDescMarksmanArrowRain05|Increases the damage dealt by arrow rain.|Увеличивает урон «Дождя стрел».
+subDescMarksmanArrowRain06|Chance on hit for arrows to split into multiple projectiles flying in all directions.|При попадании стрелы могут разделиться на несколько снарядов, летящих во все стороны.
+subDescMarksmanArrowRain07|Decreases the movement diminish when using arrow rain.|Уменьшает штраф к скорости передвижения при использовании «Дождя стрел».
+subDescMarksmanArrowRain08|Chance to inflict bleed on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescMarksmanArrowRain09|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescMarksmanArrowRain10|Chance to stun target on hit.|Дает шанс оглушить цель при попадании.
+subDescMarksmanArrowRain11|Raining arrows are now on fire dealing fire damage instead and lowering monster fire resistances on hit.|Стрелы теперь охвачены пламенем, наносят урон огнем и вызывают игнорирование сопр. огню при попадании.
+subDescMarksmanArrowRain12|Unleash a long rain of arrows on a massive radius. Arrow rain now has a cooldown.|Вызывает затяжной дождь стрел в огромном радиусе. «Дождь стрел» теперь имеет время восстановления.
+subDescMarksmanArrowRain13|Decreases the radius of arrow rain significantly dealing increased damage.|Значительно уменьшает радиус «Дождя стрел», нанося повышенный урон.
+subDescMarksmanArrowRain14|When hitting the ground arrows split into multiple piercing arrows flying in all directions.|При ударе о землю стрелы разделяются на множество пронзающих снарядов, летящих во все стороны.
+||
+subMarksmanArrowRampage01|Arrow to the Knee|Стрела в колено
+subMarksmanArrowRampage02|Spinning Shrapnel|Вращающаяся шрапнель
+subMarksmanArrowRampage03|Shredding Hit|Раздирающий удар
+subMarksmanArrowRampage04|Bigger is Better|Больше — лучше
+subMarksmanArrowRampage05|Exploding Arrowhead|Взрывной наконечник
+subMarksmanArrowRampage06|Critical Hit|Критический удар
+subMarksmanArrowRampage07|Crucial Strike|Решающий удар
+subMarksmanArrowRampage08|Arcanum Arrow|Магическая стрела
+subMarksmanArrowRampage09|Arcanum Penetration|Проникновение магии
+subMarksmanArrowRampage10|Blast Wave|Взрывная волна
+subMarksmanArrowRampage11|Marked For Destruction|Цель уничтожена
+subMarksmanArrowRampage12|Tricky Tactics|Хитроумная тактика
+subMarksmanArrowRampage13|Arrow Mayhem|Стрелковый хаос
+subMarksmanArrowRampage14|Fiery Rain of Arrows|Огненный шквал стрел
+subDescMarksmanArrowRampage01|Increases the damage dealt by arrow rampage.|Увеличивает урон «Буйства стрел».
+subDescMarksmanArrowRampage02|Chance on hit to sling the arrow in the air spinning and dropping back dealing additional damage.|Дает шанс при попадании подбросить стрелу в воздух, где она закружится и упадет обратно, нанося доп. урон.
+subDescMarksmanArrowRampage03|Inflict armor break on hit.|При попадании вызывает пробивание брони.
+subDescMarksmanArrowRampage04|Chance to increase arrow size and area of effect of arrow rampage.|Дает шанс увеличить размер снарядов и область действия «Буйства стрел».
+subDescMarksmanArrowRampage05|Projectiles explode on hit.|Снаряды взрываются при попадании.
+subDescMarksmanArrowRampage06|Increases the critical strike chance when using arrow rampage.|Увеличивает шанс критического удара при использовании «Буйства стрел».
+subDescMarksmanArrowRampage07|Increased critical strike damage dealt by arrow rampage.|Увеличивает критический урон «Буйства стрел».
+subDescMarksmanArrowRampage08|Increases the arcane damage dealt by arrow rampage.|Увеличивает урон тайной магией при использовании «Буйства стрел».
+subDescMarksmanArrowRampage09|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
+subDescMarksmanArrowRampage10|Increases the explosion area of effect radius.|Увеличивает радиус взрыва.
+subDescMarksmanArrowRampage11|Arrow rampage now spawns from all directions flying towards target area for an extended period of time. Cooldown is increased.|Стрелы теперь слетаются со всех сторон в указанную область в течение длительного времени. Время восстановления увеличено.
+subDescMarksmanArrowRampage12|Arrow rampage projectiles have a chance to cast trickshot when hitting a monster.|Снаряды «Буйства стрел» могут вызвать «Выстрел с подвохом» при попадании в цель.
+subDescMarksmanArrowRampage13|Arrow rampage projectiles have a chance to shatter into a spread of arrows when hitting a target.|Снаряды «Буйства стрел» могут рассыпаться на веер стрел при попадании.
+subDescMarksmanArrowRampage14|Arrow rampage area becomes much wider and deals a portion of its damage as fire causing burning on monsters hit based on fire damage dealt.|Область действия умения становится шире; часть урона наносится огнем и вызывает горение.
+||
+subMarksmanFragGrenade01|Shrapnel|Шрапнель
+subMarksmanFragGrenade02|Fatal Range|Смертельный радиус
+subMarksmanFragGrenade03|Detonating|Детонация
+subMarksmanFragGrenade04|Fragging Penetration|Осколочное пробитие
+subMarksmanFragGrenade05|Incendiary Grenade|Зажигательная граната
+subMarksmanFragGrenade06|Increased Potency|Увеличенная мощность
+subMarksmanFragGrenade07|Flash Bang|Светошумовая граната
+subMarksmanFragGrenade08|Stunning Casualty|Оглушающие потери
+subMarksmanFragGrenade09|Blasting Wave|Взрывная волна
+subMarksmanFragGrenade10|Smell of Burning|Запах гари
+subMarksmanFragGrenade11|Cluster Bomb|Кассетная бомба
+subMarksmanFragGrenade12|Grenadier|Гренадер
+subMarksmanFragGrenade13|Flames and Explosions|Пламя и взрывы
+subMarksmanFragGrenade14|Giga Grenade|Гига-граната
+subDescMarksmanFragGrenade01|Increases the amount of shrapnel when using frag grenade.|Увеличивает количество осколков «Осколочной гранаты».
+subDescMarksmanFragGrenade02|Increases the explosion area of effect radius.|Увеличивает радиус взрыва.
+subDescMarksmanFragGrenade03|Increases the damage dealt by frag grenade.|Увеличивает урон «Осколочной гранаты».
+subDescMarksmanFragGrenade04|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
+subDescMarksmanFragGrenade05|Inflicts burning on hit.|При попадании накладывает горение.
+subDescMarksmanFragGrenade06|Increased the size of frag grenade and shrapnel.|Увеличивает размер гранат и осколков.
+subDescMarksmanFragGrenade07|Stun monsters on hit.|Оглушает монстров при попадании.
+subDescMarksmanFragGrenade08|Increased damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescMarksmanFragGrenade09|Knock monsters back on hit dealing additional damage and stunning when hitting terrain.|Отбрасывает монстров, нанося доп. урон; при столкновении с препятствием враги оглушаются.
+subDescMarksmanFragGrenade10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescMarksmanFragGrenade11|Throw a cluster bomb exploding into multiple frag grenades around the impact point.|Вы бросаете кассетную бомбу, которая при взрыве разлетается на несколько осколочных гранат.
+subDescMarksmanFragGrenade12|Throw frag grenades rapidly into all directions.|Вы быстро бросаете осколочные гранаты во все стороны.
+subDescMarksmanFragGrenade13|Incendiary grenades sets the area under monsters hit on fire dealing additional fire damage causing burning.|Зажигательные гранаты поджигают землю под врагами, нанося доп. урон огнем и накладывая горение.
+subDescMarksmanFragGrenade14|Throw a huge grenade with increased explosion radius and damage.|Вы бросаете огромную гранату с увеличенным радиусом взрыва и уроном.
+||
+subMarksmanArrowTurret01|Burstshot|Очередь выстрелов
+subMarksmanArrowTurret02|Deadshot|Меткий выстрел
+subMarksmanArrowTurret03|Arrow Turrets|Стрелковые турели
+subMarksmanArrowTurret04|Stuttershot|Прерывистый выстрел
+subMarksmanArrowTurret05|Freezing Shot|Замораживающий выстрел
+subMarksmanArrowTurret06|Multishot|Мультивыстрел
+subMarksmanArrowTurret07|High Velocity|Высокая скорость
+subMarksmanArrowTurret08|Explosive Technician|Специалист по взрывам
+subMarksmanArrowTurret09|Exploding Arrowhead|Взрывной наконечник
+subMarksmanArrowTurret10|Hypothermic Impact|Леденящий удар
+subMarksmanArrowTurret11|Colossalshot|Колоссальный выстрел
+subMarksmanArrowTurret12|Cyclone Turret|Циклонная турель
+subMarksmanArrowTurret13|Piercing Arrowheads|Пронзающие наконечники
+subMarksmanArrowTurret14|This is My Design|Это мой замысел
+subDescMarksmanArrowTurret01|Chance on attack for arrow turret to fire twice.|Дает шанс «Стрелковой турели» выстрелить дважды.
+subDescMarksmanArrowTurret02|Chance to critically hit with increased critical damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescMarksmanArrowTurret03|Increases the maximum amount of arrow turrets.|Увеличивает максимальное количество «Стрелковых турелей».
+subDescMarksmanArrowTurret04|Chance on hit to knock monsters back dealing increased damage.|Дает шанс отбросить монстров при попадании, нанося увеличенный урон.
+subDescMarksmanArrowTurret05|Chance to inflict freeze on hit dealing additional damage.|Дает шанс заморозить врагов при попадании, нанося доп. урон.
+subDescMarksmanArrowTurret06|Turrets fire additional projectiles in an arc.|Турели выпускают дополнительные снаряды по дуге.
+subDescMarksmanArrowTurret07|Increases the projectile speed of arrow turret.|Увеличивает скорость снарядов «Стрелковой турели».
+subDescMarksmanArrowTurret08|Increases the explosion area of effect radius.|Увеличивает радиус взрыва.
+subDescMarksmanArrowTurret09|Projectiles now stick an explosive to the target on hit that explodes dealing additional damage after a short delay.|Снаряды теперь прикрепляют к цели взрывчатку, которая детонирует через короткое время, нанося доп. урон.
+subDescMarksmanArrowTurret10|Increases damage dealt to freezing targets.|Увеличивает урон по замороженным целям.
+subDescMarksmanArrowTurret11|Arrow turret projectile is changed into a giant piercing arrow that deals increased damage based on the projectile amount scaling.|Снаряды турели заменяются на гигантскую пронзающую стрелу, урон которой зависит от количества снарядов.
+subDescMarksmanArrowTurret12|Arrow turret now moves forward spinning rapidly firing projectiles in all directions for a much shorter duration and eventually explodes dealing damage on a large radius.|Турель теперь несется вперед, вращаясь и ведя огонь во все стороны; время действия сокращено, в конце турель взрывается.
+subDescMarksmanArrowTurret13|Arrow turret now fires piercing projectiles knocking back monsters dealing increased damage.|Турель теперь выпускает пронзающие снаряды, отбрасывающие монстров и наносящие увеличенный урон.
+subDescMarksmanArrowTurret14|Now spawn a single arrow turret that fires towards all nearby monsters. Arrow turret now has a cooldown.|Теперь призывается только одна турель, которая ведет огонь по всем врагам вокруг. Время восстановления турели увеличено.
+||
+subMarksmanLandmine01|Blasting Radius|Радиус взрыва
+subMarksmanLandmine02|Stacked Compound|Усиленный заряд
+subMarksmanLandmine03|Dead Zone|Мертвая зона
+subMarksmanLandmine04|Shrapnel Wounds|Осколочные раны
+subMarksmanLandmine05|Rolling Mine|Катящаяся мина
+subMarksmanLandmine06|Panzer Mine|Бронебойная мина
+subMarksmanLandmine07|Debilitating Mine|Ослабляющая мина
+subMarksmanLandmine08|Crippling Impact|Калечащий удар
+subMarksmanLandmine09|Stealth Mine|Скрытая мина
+subMarksmanLandmine10|Napalm|Напалм
+subMarksmanLandmine11|Mine Field|Минное поле
+subMarksmanLandmine12|Homing Landmine|Самонаводящаяся мина
+subMarksmanLandmine13|Air Raid|Авианалет
+subMarksmanLandmine14|Incendiary Mine|Зажигательная мина
+subDescMarksmanLandmine01|Increases explosion area of effect radius of landmine.|Увеличивает радиус взрыва мины.
+subDescMarksmanLandmine02|Increases the damage dealt by landmine.|Увеличивает урон мины.
+subDescMarksmanLandmine03|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescMarksmanLandmine04|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
+subDescMarksmanLandmine05|Land mines now roll forward exploding shortly after hit.|Мины теперь катятся вперед и детонируют вскоре после столкновения.
+subDescMarksmanLandmine06|Chance to increase the size and explosion area of effect radius of land mine.|Дает шанс увеличить размер и радиус взрыва мины.
+subDescMarksmanLandmine07|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
+subDescMarksmanLandmine08|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescMarksmanLandmine09|Chance on hit to send target into the air dealing additional damage.|При попадании мина может подбросить цель в воздух, нанося доп. урон.
+subDescMarksmanLandmine10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescMarksmanLandmine11|Throw multiple smaller mines into a target location dealing damage and slowing monsters on hit.|Вы бросаете несколько малых мин в указанную область; они наносят урон и замедляют врагов.
+subDescMarksmanLandmine12|Land mines now home towards the first detected monster dealing increased damage in a large radius.|Мины теперь сами наводятся на первую обнаруженную цель, нанося увеличенный урон в большом радиусе.
+subDescMarksmanLandmine13|Land mine now marks monster location on hit for an air raid dropping multiple bombs. Land mine now has a cooldown.|Мина помечает местоположение монстра при детонации, вызывая авианалет; мина теперь имеет время восстановления.
+subDescMarksmanLandmine14|Land mine ignites monsters on fire on a large radius dealing damage and inflicting burning.|Мина поджигает монстров в большом радиусе, нанося урон и накладывая горение.
+||
+subMarksmanCannonTurret01|Cannoningfodder|Пушечное мясо
+subMarksmanCannonTurret02|Cannon Turrets|Пушечные турели
+subMarksmanCannonTurret03|Cannonballs|Пушечные ядра
+subMarksmanCannonTurret04|Stunning Blast|Оглушающий взрыв
+subMarksmanCannonTurret05|Doom Ball|Ядро рока
+subMarksmanCannonTurret06|Weakened Blast|Ослабляющий взрыв
+subMarksmanCannonTurret07|Landing Spot|Точка приземления
+subMarksmanCannonTurret08|Line of Sight|Зона видимости
+subMarksmanCannonTurret09|Multishred|Множественное разрывание
+subMarksmanCannonTurret10|Frostbitten Fodder|Обмороженное мясо
+subMarksmanCannonTurret11|Megacannon|Мегапушка
+subMarksmanCannonTurret12|Mid Air Crisis|Кризис в воздухе
+subMarksmanCannonTurret13|Burst Artillery|Артиллерийский залп
+subMarksmanCannonTurret14|Weakening Blast|Ослабляющий взрыв
+subDescMarksmanCannonTurret01|Increases the damage dealt by cannon turret.|Увеличивает урон «Пушечной турели».
+subDescMarksmanCannonTurret02|Increases the maximum amount of cannon turrets.|Увеличивает максимальное количество «Пушечных турелей».
+subDescMarksmanCannonTurret03|Chance when hitting the ground to unleash additional cannonballs on nearby targets.|При ударе о землю ядро может выпустить дополнительные снаряды в ближайшие цели.
+subDescMarksmanCannonTurret04|Chance on hit to stun the target.|Дает шанс оглушить цель при попадании.
+subDescMarksmanCannonTurret05|Chance for cannon turrets to fire a huge cannonball with increased damage and size.|Турель может выстрелить огромным ядром с увеличенным уроном и размером.
+subDescMarksmanCannonTurret06|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescMarksmanCannonTurret07|Increases explosion area of effect radius of cannon turret.|Увеличивает радиус взрыва «Пушечной турели».
+subDescMarksmanCannonTurret08|Increased attack range.|Увеличивает дальность атаки.
+subDescMarksmanCannonTurret09|Increases the amount of explosion shrapnel from cannon turret projectiles.|Увеличивает количество осколков при взрыве снарядов турели.
+subDescMarksmanCannonTurret10|Chance on hit to inflict deep freeze.|Дает шанс вызвать глубокую заморозку при попадании.
+subDescMarksmanCannonTurret11|Now launches a giant bomb that covers a larger area but cannon turret attack speed is reduced.|Теперь турель запускает гигантскую бомбу, накрывающую большую область, но скорость атаки турели снижена.
+subDescMarksmanCannonTurret12|The bomb explodes into shrapnel mid-air that hits monsters below causing them to bleed based on your attack damage.|Бомба взрывается в воздухе, обрушивая на врагов осколки, вызывающие кровотечение.
+subDescMarksmanCannonTurret13|Fires multiple cannonballs in a quick succession.|Выпускает несколько ядер в быстрой последовательности.
+subDescMarksmanCannonTurret14|Cannonballs cause monsters to take extra damage from all sources.|Ядра заставляют монстров получать дополнительный урон из всех источников.
+||
+subMarksmanGunnerDrones01|Multitude|Множество
+subMarksmanGunnerDrones02|Rapidfire|Скорострельность
+subMarksmanGunnerDrones03|Mecha Tinkering|Меха-наладка
+subMarksmanGunnerDrones04|Explosive Toolkit|Набор взрывотехника
+subMarksmanGunnerDrones05|Heat Unit|Термоблок
+subMarksmanGunnerDrones06|Detection|Обнаружение
+subMarksmanGunnerDrones07|Burning Shot|Горящий выстрел
+subMarksmanGunnerDrones08|Burst Engine|Форсаж
+subMarksmanGunnerDrones09|Immolating Impact|Всесожжение
+subMarksmanGunnerDrones10|Splitting Shot|Разделяющийся выстрел
+subMarksmanGunnerDrones11|Circuit Breaker|Перегрузка цепи
+subMarksmanGunnerDrones12|C.Y.C.L.O.P.S.|ЦИКЛОП
+subMarksmanGunnerDrones13|M.E.C.H.A.|МЕХА
+subMarksmanGunnerDrones14|Nanodrones|Нанодроны
+subDescMarksmanGunnerDrones01|Increases the amount of drones summoned.|Увеличивает количество призываемых дронов.
+subDescMarksmanGunnerDrones02|Increases the rate of fire for drones.|Увеличивает скорострельность дронов.
+subDescMarksmanGunnerDrones03|Increases the duration of drones.|Увеличивает время действия дронов.
+subDescMarksmanGunnerDrones04|Chance on hit for projectile to explode on impact dealing additional area of effect damage.|Дает шанс снаряду взорваться при попадании, нанося дополнительный урон по области.
+subDescMarksmanGunnerDrones05|Increases the damage dealt by drones.|Увеличивает урон дронов.
+subDescMarksmanGunnerDrones06|Increases attack range of gunner drones.|Увеличивает дальность атаки дронов-стрелков.
+subDescMarksmanGunnerDrones07|Chance on hit to inflict burning.|Дает шанс наложить горение при попадании.
+subDescMarksmanGunnerDrones08|Chance on attack to shoot additional projectiles in sequence.|Дает шанс при атаке выпустить очередь снарядов.
+subDescMarksmanGunnerDrones09|Unleash a small fire nova when hitting a burning target.|Вызывает малую огненную нову при попадании по горящей цели.
+subDescMarksmanGunnerDrones10|Gunner drones now fires multiple projectiles in an arc.|Дроны-стрелки теперь выпускают несколько снарядов по дуге.
+subDescMarksmanGunnerDrones11|Drones now fire chain lightning dealing their damage as lightning and inflicting lightning break.|Дроны теперь выпускают цепную молнию; их урон становится уроном молнией и вызывает игнорирование сопр. молнии.
+subDescMarksmanGunnerDrones12|Drones now fire a constant laser beam that sticks onto monsters dealing arcane damage four times a second until they die.|Дроны выпускают лазерный луч, который нацеливается на врага и наносит урон тайной магией 4 раза в секунду до самой смерти цели.
+subDescMarksmanGunnerDrones13|Now only spawn a single drone scaling its damage based on the amount of drones and shooting at an increased rate of fire.|Теперь призывается только один дрон, урон которого зависит от общего лимита дронов, а скорострельность увеличена.
+subDescMarksmanGunnerDrones14|Drone amount significantly increased. Your drones are super tiny and form two circles around you. Their attacks no longer chain but deal damage in a small area around the target.|Лимит дронов значительно увеличен; они становятся крошечными
+||
+subMarksmanRocketTurret01|Mini Sarmat|Мини-Сармат
+subMarksmanRocketTurret02|Blasting Power|Взрывная мощь
+subMarksmanRocketTurret03|Rocket Turrets|Ракетные турели
+subMarksmanRocketTurret04|Mininuke|Мини-заряд
+subMarksmanRocketTurret05|Multiblast|Мультивзрыв
+subMarksmanRocketTurret06|Fragmenting Blast|Осколочный взрыв
+subMarksmanRocketTurret07|Field Scanner|Полевой сканер
+subMarksmanRocketTurret08|Blastwave|Взрывная волна
+subMarksmanRocketTurret09|Quick Silo|Быстрая шахта
+subMarksmanRocketTurret10|Stun Blast|Оглушающий залп
+subMarksmanRocketTurret11|Locked On|Захват цели
+subMarksmanRocketTurret12|Barret Shot|Выстрел из «Баррета»
+subMarksmanRocketTurret13|Big Bertha|Большая Берта
+subMarksmanRocketTurret14|The Boom Box|Бумбокс
+subDescMarksmanRocketTurret01|Increases the amount of rockets fired by rocket turret.|Увеличивает количество ракет, выпускаемых «Ракетной турелью».
+subDescMarksmanRocketTurret02|Increases the damage dealt by rocket turret.|Увеличивает урон «Ракетной турели».
+subDescMarksmanRocketTurret03|Increases the maximum amount of rocket turrets.|Увеличивает максимальное количество ракетных турелей.
+subDescMarksmanRocketTurret04|Increases explosion area of effect of rocket turret projectiles.|Увеличивает радиус взрыва ракет.
+subDescMarksmanRocketTurret05|Chance on hit for rocket turret projectiles to explode additional times with increased damage.|Дает шанс ракетам сдетонировать повторно при попадании, нанося увеличенный урон.
+subDescMarksmanRocketTurret06|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
+subDescMarksmanRocketTurret07|Increases the range of rocket turret.|Увеличивает дальность атаки «Ракетной турели».
+subDescMarksmanRocketTurret08|Chance on hit to create a shockwave of additional explosions.|Дает шанс создать при попадании волну дополнительных взрывов.
+subDescMarksmanRocketTurret09|Increases the rate of fire for rocket turret.|Увеличивает скорострельность «Ракетной турели».
+subDescMarksmanRocketTurret10|Chance on hit to knockback and stun target dealing additional damage.|Дает шанс при попадании отбросить и оглушить цель, нанеся доп. урон.
+subDescMarksmanRocketTurret11|Fires a bigger barrage of missiles that target an area dealing massive damage over three seconds. Attack speed reduced.|Выпускает мощный залп ракет по области, наносящий огромный урон в течение 3 сек. Скорость атаки турели снижена.
+subDescMarksmanRocketTurret12|Instead fires a single .50 Cal sniper round that explodes on first monster hit dealing massive attack damage.|Вместо ракет турель теперь стреляет одиночной пулей 50-го калибра, которая взрывается при попадании.
+subDescMarksmanRocketTurret13|Increases the damage, projectile speed and explosion area of effect radius of the rockets.|Увеличивает урон, скорость полета и радиус взрыва ракет.
+subDescMarksmanRocketTurret14|Rocket turret turns into an exploding turret that repeatedly explodes in place dealing increased damage to monsters hit.|Турель превращается в стационарную мину, которая многократно взрывается на месте, нанося увеличенный урон врагам.

@@ -1,0 +1,230 @@
+DemonSlayersubDemonSlayerTriggerFinger01|Slick Fingers|Ловкие пальцы
+subDemonSlayerTriggerFinger02|Triggerheavy|Тяжелый спуск
+subDemonSlayerTriggerFinger03|Gunslinging Slayer|Стрелок-истребитель
+subDemonSlayerTriggerFinger04|Rapid Gunslinger|Быстрый стрелок
+subDemonSlayerTriggerFinger05|Burning Bullethole|Опаленная рана
+subDemonSlayerTriggerFinger06|Executing Gunshot|Казнящий выстрел
+subDemonSlayerTriggerFinger07|Bullet Fragmentation|Фрагментация пули
+subDemonSlayerTriggerFinger08|Brand New Cavity|Свежая рана
+subDemonSlayerTriggerFinger09|Supersonic Bullets|Сверхзвуковые пули
+subDemonSlayerTriggerFinger10|Gasoline Covered Ammunition|Пули в бензине
+subDemonSlayerTriggerFinger11|Piercing Mayhem|Пронзающий хаос
+subDemonSlayerTriggerFinger12|Fingertapped Killshot|Выверенный выстрел
+subDemonSlayerTriggerFinger13|It's Raining Bullets|Свинцовый дождь
+subDemonSlayerTriggerFinger14|Shredder Slugs|Пули-измельчители
+subDescDemonSlayerTriggerFinger01|Increases attack rating when using trigger finger.|Увеличивает рейтинг атаки при использовании умения «Быстрый курок».
+subDescDemonSlayerTriggerFinger02|Increases damage dealt by trigger finger.|Увеличивает урон умения «Быстрый курок».
+subDescDemonSlayerTriggerFinger03|Increases the amount of projectiles fired by trigger finger.|Увеличивает количество снарядов умения «Быстрый курок».
+subDescDemonSlayerTriggerFinger04|Increases projectile speed.|Увеличивает скорость снарядов.
+subDescDemonSlayerTriggerFinger05|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescDemonSlayerTriggerFinger06|Execute low life monsters.|Казнит монстров с низким уровнем здоровья.
+subDescDemonSlayerTriggerFinger07|Chance to fragment bullets on hit causing pieces to ricochet around the target.|Дает шанс фрагментации пуль при попадании, заставляя осколки рикошетить вокруг цели.
+subDescDemonSlayerTriggerFinger08|Chance to inflict armor break on hit.|Дает шанс вызвать пробивание брони при попадании.
+subDescDemonSlayerTriggerFinger09|Increases critical strike damage when using trigger finger.|Увеличивает критический урон умения «Быстрый курок».
+subDescDemonSlayerTriggerFinger10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescDemonSlayerTriggerFinger11|Projectiles now pierce and bounce off of terrain dealing increased damage.|Снаряды теперь пронзают врагов и отскакивают от препятствий, нанося увеличенный урон.
+subDescDemonSlayerTriggerFinger12|Fire a single projectile with significantly increased range and power dealing multiplied damage. Trigger Finger now has a small cooldown.|Выпускает один мощный дальнобойный снаряд, наносящий многократный урон. «Быстрый курок» теперь имеет небольшое время восстановления.
+subDescDemonSlayerTriggerFinger13|Fire a burst of projectiles traveling through air and landing on the target location dealing area of effect damage.|Выпускает очередь навесных снарядов, которые падают в указанную область и наносят урон по площади.
+subDescDemonSlayerTriggerFinger14|Fire small shredders dealing damage over time and inflicting bleeding. The shredders projectile speed slows down on impact.|Выпускает малые измельчители, наносящие периодический урон и вызывающие кровотечение. Скорость снарядов снижается при столкновении.
+||
+subDemonSlayerBulletHell01|Hellflame Bullets|Пули адского пламени
+subDemonSlayerBulletHell02|More Bullets!|Больше пуль!
+subDemonSlayerBulletHell03|Slipping Triggerfinger|Скользящий палец
+subDemonSlayerBulletHell04|Steady Gunhold|Твердая рука
+subDemonSlayerBulletHell05|Heavy Bullet Impact|Тяжелый удар
+subDemonSlayerBulletHell06|Barrel Maintenance|Уход за стволом
+subDemonSlayerBulletHell07|Higher Caliber|Крупный калибр
+subDemonSlayerBulletHell08|Blasting Gunshot|Взрывной выстрел
+subDemonSlayerBulletHell09|Swift Rounds|Скоростные патроны
+subDemonSlayerBulletHell10|Abusive Tactics|Жестокая тактика
+subDemonSlayerBulletHell11|Bullet Storm|Шторм пуль
+subDemonSlayerBulletHell12|Nowhere to Hide|Негде спрятаться
+subDemonSlayerBulletHell13|Demon´s Hurricane|Демонический ураган
+subDemonSlayerBulletHell14|Gunpowder|Порох
+subDescDemonSlayerBulletHell01|Increases damage dealt by bullet hell.|Увеличивает урон умения «Пулевой ад».
+subDescDemonSlayerBulletHell02|Increases the amount of projectiles fired by bullet hell.|Увеличивает количество снарядов умения «Пулевой ад».
+subDescDemonSlayerBulletHell03|Chance on attack to fire an additional wave of bullets.|Дает шанс выпустить дополнительную волну пуль при атаке.
+subDescDemonSlayerBulletHell04|Increases attack rating when using bullet hell.|Увеличивает рейтинг атаки при использовании умения «Пулевой ад».
+subDescDemonSlayerBulletHell05|Chance to knock monsters back on hit stunning them.|Дает шанс отбросить и оглушить монстров при попадании.
+subDescDemonSlayerBulletHell06|Increases projectile speed.|Увеличивает скорость снарядов.
+subDescDemonSlayerBulletHell07|Increases the size of bullet hell projectiles.|Увеличивает размер снарядов умения «Пулевой ад».
+subDescDemonSlayerBulletHell08|Increases critical strike damage when using bullet hell.|Увеличивает критический урон умения «Пулевой ад».
+subDescDemonSlayerBulletHell09|Decreased movement diminish when using bullet hell.|Уменьшает штраф к скорости передвижения при использовании умения «Пулевой ад».
+subDescDemonSlayerBulletHell10|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescDemonSlayerBulletHell11|Fire a circle of orbitting bullets traveling forward.|Выпускает кольцо вращающихся пуль, летящих вперед.
+subDescDemonSlayerBulletHell12|Fire additional projectiles in a wider radius.|Выпускает дополнительные снаряды в более широком радиусе.
+subDescDemonSlayerBulletHell13|Spin around firing trails of bullets into random directions.|Вы вращаетесь, выпуская очереди пуль в случайных направлениях.
+subDescDemonSlayerBulletHell14|Bullets knock monsters back with increased power dealing increased damage and stunning monsters when they collide with terrain.|Пули отбрасывают монстров с большей силой и наносят повышенный урон; при столкновении с препятствием враги оглушаются.
+||
+subDemonSlayerPossessedBullet01|Secondary Haunting|Вторичное преследование
+subDemonSlayerPossessedBullet02|Spirits Within Rounds|Духи в пулях
+subDemonSlayerPossessedBullet03|Exorcism|Экзорцизм
+subDemonSlayerPossessedBullet04|Hemorrhaging Possession|Кровавая одержимость
+subDemonSlayerPossessedBullet05|Blood Ripples|Кровавая рябь
+subDemonSlayerPossessedBullet06|Bloodlusted Bullet|Кровожадная пуля
+subDemonSlayerPossessedBullet07|Longlasting Barrel|Удлиненный ствол
+subDemonSlayerPossessedBullet08|The Demon Within|Демон внутри
+subDemonSlayerPossessedBullet09|Stop Resisting|Хватит сопротивляться
+subDemonSlayerPossessedBullet10|Leeching Demon|Демон-кровопийца
+subDemonSlayerPossessedBullet11|Ghostwhirl|Призрачный вихрь
+subDemonSlayerPossessedBullet12|Seeking Host|Поиск носителя
+subDemonSlayerPossessedBullet13|Haunting|Наваждение
+subDemonSlayerPossessedBullet14|Malignance|Злоба
+subDescDemonSlayerPossessedBullet01|Chance on attack to fire an additional bullet.|Дает шанс выпустить дополнительную пулю при атаке.
+subDescDemonSlayerPossessedBullet02|Increases the amount of projectiles released by the initial hit.|Увеличивает количество снарядов, выпускаемых при первом попадании.
+subDescDemonSlayerPossessedBullet03|Increases damage dealt by possessed bullet.|Увеличивает урон «Одержимой пули».
+subDescDemonSlayerPossessedBullet04|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescDemonSlayerPossessedBullet05|Chance to unleash blood ripples on hit dealing area of effect damage.|Дает шанс вызвать кровавую рябь при попадании, наносящую урон по области.
+subDescDemonSlayerPossessedBullet06|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescDemonSlayerPossessedBullet07|Increases projectile speed.|Увеличивает скорость снарядов.
+subDescDemonSlayerPossessedBullet08|Chance to unleash additional bullets after initial hit.|Дает шанс выпустить дополнительные пули после первого попадания.
+subDescDemonSlayerPossessedBullet09|Inflicts armor break on hit.|При попадании вызывает пробивание брони.
+subDescDemonSlayerPossessedBullet10|Blood ripples replenish a portion of your maximum life on hit.|Кровавая рябь восполняет часть вашего макс. здоровья при попадании.
+subDescDemonSlayerPossessedBullet11|Projectiles now swirl around the target on a small radius.|Снаряды теперь вращаются вокруг цели в небольшом радиусе.
+subDescDemonSlayerPossessedBullet12|Possessed bullets now return to the target after a short duration.|«Одержимые пули» теперь возвращаются к цели через короткое время.
+subDescDemonSlayerPossessedBullet13|Bullets now haunt monsters, slowing them and exploding after a short duration, dealing area of effect damage.|Пули теперь преследуют монстров, замедляя их; через короткое время они взрываются, нанося урон по области.
+subDescDemonSlayerPossessedBullet14|Send multiple homing ghosts towards the target dealing damage to monsters on their path.|Выпускает несколько самонаводящихся призраков, которые наносят урон всем монстрам на пути к цели.
+||
+subDemonSlayerShredderTrap01|Sharp Edged Shredders|Острые измельчители
+subDemonSlayerShredderTrap02|Blood Hungry Blades|Кровожадные клинки
+subDemonSlayerShredderTrap03|Bits and Pieces|Ошметки
+subDemonSlayerShredderTrap04|Ripping Shredderblade|Раздирающая пила
+subDemonSlayerShredderTrap05|Slayer´s Adrenaline|Адреналин истребителя
+subDemonSlayerShredderTrap06|Less is More|Меньше значит больше
+subDemonSlayerShredderTrap07|Forging Hands|Руки кузнеца
+subDemonSlayerShredderTrap08|Cutting Power|Режущая мощь
+subDemonSlayerShredderTrap09|Slay the Wounded|Добить раненых
+subDemonSlayerShredderTrap10|Bigger and Sharper Blades|Огромные лезвия
+subDemonSlayerShredderTrap11|Comeback with a Cut|Возвратный разрез
+subDemonSlayerShredderTrap12|Woodshop|Мастерская
+subDemonSlayerShredderTrap13|Circular Cutting|Круговая резка
+subDemonSlayerShredderTrap14|Gigashredder|Гигантский измельчитель
+subDescDemonSlayerShredderTrap01|Increases the damage dealt by shredder trap.|Увеличивает урон «Ловушки-измельчителя».
+subDescDemonSlayerShredderTrap02|Chance for shredder trap to grow larger on hit.|Дает шанс «Ловушке-измельчителю» увеличиться в размере при попадании.
+subDescDemonSlayerShredderTrap03|Chance to unleash smaller flying shredders on hit dealing additional damage.|При попадании дает шанс выпустить малые летящие измельчители, наносящие дополнительный урон.
+subDescDemonSlayerShredderTrap04|Inflicts bleeding on hit.|При попадании вызывает кровотечение.
+subDescDemonSlayerShredderTrap05|Decreases movement diminish when using shredder trap.|Уменьшает штраф к скорости передвижения при использовании «Ловушки-измельчителя».
+subDescDemonSlayerShredderTrap06|Decreases mana cost when using shredder trap.|Снижает затраты маны на «Ловушку-измельчитель».
+subDescDemonSlayerShredderTrap07|Gain increased critical strike chance and critical chance damage.|Увеличивает шанс критического удара и критический урон.
+subDescDemonSlayerShredderTrap08|Chance to inflict armor break on hit.|Дает шанс вызвать пробивание брони при попадании.
+subDescDemonSlayerShredderTrap09|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescDemonSlayerShredderTrap10|Increases the size of shredders.|Увеличивает размер измельчителей.
+subDescDemonSlayerShredderTrap11|Shredders now home back to you after a short period dealing damage on the way.|Измельчители теперь возвращаются к вам через короткое время, нанося урон врагам на пути.
+subDescDemonSlayerShredderTrap12|Throw multiple smaller shredders at once. Shredder trap now has a cooldown.|Вы бросаете сразу несколько малых измельчителей. «Ловушка-измельчитель» теперь имеет время восстановления.
+subDescDemonSlayerShredderTrap13|Unleash multiple orbiting shredders around you.|Призывает несколько измельчителей, вращающихся вокруг вас.
+subDescDemonSlayerShredderTrap14|Unleash a big shredder that slowly homes towards the closest monster on range. You can now only spawn one shredder.|Призывает огромный измельчитель, который медленно наводится на ближайшего врага. Вы можете призвать только один такой измельчитель.
+||
+subDemonSlayerAbsoluteMayhem01|Mayhem Up!|Больше хаоса!
+subDemonSlayerAbsoluteMayhem02|Absolute Carnage|Абсолютная резня
+subDemonSlayerAbsoluteMayhem03|Colossal Barrel|Колоссальный ствол
+subDemonSlayerAbsoluteMayhem04|Stocked Capacity|Увеличенный боезапас
+subDemonSlayerAbsoluteMayhem05|Hypothermic Rounds|Леденящие пули
+subDemonSlayerAbsoluteMayhem06|Bonehit|Костолом
+subDemonSlayerAbsoluteMayhem07|Explosive Empowered Rounds|Усиленные разрывные патроны
+subDemonSlayerAbsoluteMayhem08|Fear the Gun|Страх оружия
+subDemonSlayerAbsoluteMayhem09|Bicep Curls|Стальные бицепсы
+subDemonSlayerAbsoluteMayhem10|Frostbiting Bullets|Морозные пули
+subDemonSlayerAbsoluteMayhem11|Impact Shrapnel|Ударная шрапнель
+subDemonSlayerAbsoluteMayhem12|Line of Fire|Линия огня
+subDemonSlayerAbsoluteMayhem13|Explosion Vacuum|Вакуумный взрыв
+subDemonSlayerAbsoluteMayhem14|Maniac Mayhem|Безумный хаос
+subDescDemonSlayerAbsoluteMayhem01|Increases the amount of bullets fired with absolute mayhem.|Увеличивает количество пуль, выпускаемых умением «Абсолютный хаос».
+subDescDemonSlayerAbsoluteMayhem02|Increases damage dealt by absolute mayhem.|Увеличивает урон умения «Абсолютный хаос».
+subDescDemonSlayerAbsoluteMayhem03|Increases the projectile speed of absolute mayhem bullets.|Увеличивает скорость пуль умения «Абсолютный хаос».
+subDescDemonSlayerAbsoluteMayhem04|Decreases the cooldown of absolute mayhem.|Снижает время восстановления умения «Абсолютный хаос».
+subDescDemonSlayerAbsoluteMayhem05|Chance to inflict freeze on hit.|Дает шанс заморозить цель при попадании.
+subDescDemonSlayerAbsoluteMayhem06|Chance to knock monsters back dealing increased damage.|Дает шанс отбросить монстров, нанося при этом увеличенный урон.
+subDescDemonSlayerAbsoluteMayhem07|Chance for bullets to explode and fragment on hit unleashing shrapnel around the target.|Пули могут взорваться при попадании, разлетаясь осколками вокруг цели.
+subDescDemonSlayerAbsoluteMayhem08|Increases critical strike damage dealt by absolute mayhem.|Увеличивает критический урон умения «Абсолютный хаос».
+subDescDemonSlayerAbsoluteMayhem09|Decreases movement diminish when using absolute mayhem.|Уменьшает штраф к скорости передвижения при использовании умения «Абсолютный хаос».
+subDescDemonSlayerAbsoluteMayhem10|Increases damage to freezing targets.|Увеличивает урон по замороженным целям.
+subDescDemonSlayerAbsoluteMayhem11|Bullets now break into fragments traveling in an arc behind the target dealing area of effect damage.|Пули теперь разлетаются на осколки, летящие по дуге позади цели и наносящие урон по области.
+subDescDemonSlayerAbsoluteMayhem12|Fire additional trail of bullets in an arc.|Выпускает дополнительные очереди пуль по дуге.
+subDescDemonSlayerAbsoluteMayhem13|Fire a single bullet which vacuums all nearby monsters and unleashes a big explosion.|Выпускает одну пулю, которая стягивает всех ближайших монстров и вызывает мощный взрыв.
+subDescDemonSlayerAbsoluteMayhem14|The Demonslayer changes his weapon into a demonic minigun which uncontrollably fires bullets for a short duration before breaking.|Истребитель демонов превращает свое оружие в демонический миниган, который ведет бесконтрольный огонь, пока не сломается.
+||
+subDemonSlayerFastSlices01|Wide Slice|Широкий разрез
+subDemonSlayerFastSlices02|Slashing Strike|Режущий удар
+subDemonSlayerFastSlices03|Expert Slayer|Опытный истребитель
+subDemonSlayerFastSlices04|Demon's Heart|Сердце демона
+subDemonSlayerFastSlices05|Ferocious Slice|Свирепый разрез
+subDemonSlayerFastSlices06|Burning Blade|Пылающий клинок
+subDemonSlayerFastSlices07|Molten Steel|Раскаленная сталь
+subDemonSlayerFastSlices08|Slayer's Intellect|Интеллект истребителя
+subDemonSlayerFastSlices09|Swift Deadstrike|Стремительный смертельный удар
+subDemonSlayerFastSlices10|Demon Slaying|Истребление демонов
+subDemonSlayerFastSlices11|Flaming Blades|Огненные клинки
+subDemonSlayerFastSlices12|Detonation Slice|Взрывной разрез
+subDemonSlayerFastSlices13|Shadow Daggers|Теневые кинжалы
+subDemonSlayerFastSlices14|High Strike|Подбрасывающий удар
+subDescDemonSlayerFastSlices01|Increases the area of effect radius of fast slices.|Увеличивает радиус области действия «Быстрых разрезов».
+subDescDemonSlayerFastSlices02|Increases damage dealt by fast slices.|Увеличивает урон «Быстрых разрезов».
+subDescDemonSlayerFastSlices03|Increases attack rating when using fast slices.|Увеличивает рейтинг атаки при использовании «Быстрых разрезов».
+subDescDemonSlayerFastSlices04|Chance to heat target souls causing them to explode after a brief moment dealing area of effect damage.|Дает шанс раскалить души целей; спустя мгновение они взрываются, нанося урон по области.
+subDescDemonSlayerFastSlices05|Chance to knock monsters airborne causing them to deal area of effect damage upon landing on the third hit.|При каждом третьем ударе дает шанс подбросить монстров в воздух; при приземлении они наносят урон по области.
+subDescDemonSlayerFastSlices06|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescDemonSlayerFastSlices07|Increases damage to burning targets.|Увеличивает урон по горящим целям.
+subDescDemonSlayerFastSlices08|Decreases mana cost when using fast slices.|Снижает затраты маны на «Быстрые разрезы».
+subDescDemonSlayerFastSlices09|Increases critical strike damage when using fast slices.|Увеличивает критический урон «Быстрых разрезов».
+subDescDemonSlayerFastSlices10|Execute low life monsters.|Казнит монстров с низким уровнем здоровья.
+subDescDemonSlayerFastSlices11|Every slice additionally unleashes a wave of fire inflicting burning for a portion of the damage.|Каждый разрез дополнительно выпускает волну огня, накладывающую горение в размере части от нанесенного урона.
+subDescDemonSlayerFastSlices12|Your third attack now causes monsters to unleash an explosion dealing area of effect damage.|Ваша третья атака вызывает взрыв монстров, наносящий урон по области.
+subDescDemonSlayerFastSlices13|Throw multiple piercing daggers with each slash.|При каждом ударе вы метаете несколько пронзающих кинжалов.
+subDescDemonSlayerFastSlices14|Your third attack sends enemies high in the air causing them to deal area of effect damage upon landing.|Ваша третья атака высоко подбрасывает врагов; при приземлении они наносят урон по области.
+||
+subDemonSlayerDemonsCalling01|Pentagram Radius|Радиус пентаграммы
+subDemonSlayerDemonsCalling02|Demon's Embrace|Объятия демона
+subDemonSlayerDemonsCalling03|Hellflame Burst|Вспышка адского пламени
+subDemonSlayerDemonsCalling04|Dark Essence|Темная сущность
+subDemonSlayerDemonsCalling05|Dark Meteors|Темные метеоры
+subDemonSlayerDemonsCalling06|The Fiery Layer of Hell|Огненный круг Ада
+subDemonSlayerDemonsCalling07|Hellish Scorching|Адское испепеление
+subDemonSlayerDemonsCalling08|Demon's Mind|Разум демона
+subDemonSlayerDemonsCalling09|Devil in the Detail|Дьявол в деталях
+subDemonSlayerDemonsCalling10|Hell Infused Aftershock|Адский толчок
+subDemonSlayerDemonsCalling11|Unholy Aftershock|Нечестивый толчок
+subDemonSlayerDemonsCalling12|Shadow Flames|Теневое пламя
+subDemonSlayerDemonsCalling13|Appearing from Shadows|Явление из тени
+subDemonSlayerDemonsCalling14|Pentagram Shockwave|Ударная волна пентаграмм
+subDescDemonSlayerDemonsCalling01|Increases the area of effect radius of demon's calling.|Увеличивает радиус области действия «Зова демона».
+subDescDemonSlayerDemonsCalling02|Increases damage dealt by demon's calling.|Увеличивает урон «Зова демона».
+subDescDemonSlayerDemonsCalling03|Chance to send monsters airborne on hit causing them to deal area of effect damage when landing.|Дает шанс подбросить монстров при попадании; при приземлении они наносят урон по области.
+subDescDemonSlayerDemonsCalling04|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescDemonSlayerDemonsCalling05|Chance to drop chaos meteors on hit dealing increased damage.|Дает шанс обрушить метеоры хаоса при попадании, нанося повышенный урон.
+subDescDemonSlayerDemonsCalling06|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescDemonSlayerDemonsCalling07|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescDemonSlayerDemonsCalling08|Chance on cast to jump higher and smash the ground dealing increased damage with increased area of effect radius.|Дает шанс при касте подпрыгнуть выше и ударить по земле, нанося повышенный урон в увеличенном радиусе.
+subDescDemonSlayerDemonsCalling09|Decreases mana cost when using demon's calling.|Снижает затраты маны на «Зов демона».
+subDescDemonSlayerDemonsCalling10|Chance to shock the ground an additional time.|Дает шанс нанести повторный удар по земле.
+subDescDemonSlayerDemonsCalling11|Demon's Calling now echoes additional times increasing its size.|«Зов демона» теперь срабатывает эхом несколько раз, увеличивая свою область действия.
+subDescDemonSlayerDemonsCalling12|Dark meteors now unleash a trail of shadow flames outwards dealing additional damage.|Темные метеоры теперь выпускают шлейфы теневого пламени во все стороны, нанося доп. урон.
+subDescDemonSlayerDemonsCalling13|Blink towards target location before unleashing demons calling with increased damage.|Вы совершаете скачок к цели перед использованием «Зова демона»; урон умения увеличен.
+subDescDemonSlayerDemonsCalling14|Unleash a shockwave of pentagrams dealing additional damage.|Выпускает ударную волну из пентаграмм, наносящую дополнительный урон.
+||
+subDemonSlayerSliceOfShadows01|Floating Shadow|Парящая тень
+subDemonSlayerSliceOfShadows02|Strenghtened Veil|Укрепленная вуаль
+subDemonSlayerSliceOfShadows03|Shadow Duality|Двойственность тени
+subDemonSlayerSliceOfShadows04|Mist of Darkness|Мгла тьмы
+subDemonSlayerSliceOfShadows05|Stacking Shadow|Накопление теней
+subDemonSlayerSliceOfShadows06|Crushing Veil|Сокрушительная вуаль
+subDemonSlayerSliceOfShadows07|Cold Shadow|Холодная тень
+subDemonSlayerSliceOfShadows08|Frostbitten Mist|Леденящий туман
+subDemonSlayerSliceOfShadows09|Bitter Smoke|Едкий дым
+subDemonSlayerSliceOfShadows10|Looming Mist|Надвигающийся туман
+subDemonSlayerSliceOfShadows11|Shadow Extraction|Извлечение теней
+subDemonSlayerSliceOfShadows12|Shadow's Arc|Теневая дуга
+subDemonSlayerSliceOfShadows13|Lingering Shadows|Остаточные тени
+subDemonSlayerSliceOfShadows14|Scorching Shadow|Палящая тень
+subDescDemonSlayerSliceOfShadows01|Increases projectile speed.|Увеличивает скорость снарядов.
+subDescDemonSlayerSliceOfShadows02|Increases damage dealt by slice of shadows based on your strength.|Увеличивает урон «Теневого разреза» в зависимости от вашей силы.
+subDescDemonSlayerSliceOfShadows03|Chance to unleash an additional slice of shadows on attack.|Дает шанс выпустить дополнительный «Теневой разрез» при атаке.
+subDescDemonSlayerSliceOfShadows04|Increases attack rating when using slice of shadows.|Увеличивает рейтинг атаки при использовании «Теневого разреза».
+subDescDemonSlayerSliceOfShadows05|Gain a stacking damage buff for a short period on hit.|При попадании дает суммирующийся эффект усиления урона на короткое время.
+subDescDemonSlayerSliceOfShadows06|Chance to inflict armor break on hit.|Дает шанс вызвать пробивание брони при попадании.
+subDescDemonSlayerSliceOfShadows07|Chance on hit to freeze enemies.|Дает шанс заморозить врагов при попадании.
+subDescDemonSlayerSliceOfShadows08|Increases damage dealt to frozen targets.|Увеличивает урон по замороженным целям.
+subDescDemonSlayerSliceOfShadows09|Increases critical strike damage when using slice of shadows.|Увеличивает критический урон «Теневого разреза».
+subDescDemonSlayerSliceOfShadows10|Increases the size of slice of shadows.|Увеличивает размер «Теневого разреза».
+subDescDemonSlayerSliceOfShadows11|Perform an empowered attack unleashing small shadows from the target on hit. Slice of shadows now has a cooldown.|Вы проводите усиленную атаку, вырывающую малые тени из цели при попадании. «Теневой разрез» теперь имеет время восстановления.
+subDescDemonSlayerSliceOfShadows12|Unleash additional shadows in an arc.|Выпускает дополнительные тени по дуге.
+subDescDemonSlayerSliceOfShadows13|Gain stacks of lingering shadows on hit. At maximum stacks your next slice of shadows deals increased damage with increased size.|При попадании дает заряды «Остаточных теней». При максимуме зарядов ваш следующий «Теневой разрез» нанесет увеличенный урон и будет больше в размере.

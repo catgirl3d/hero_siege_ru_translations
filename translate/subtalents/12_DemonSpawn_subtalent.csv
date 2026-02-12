@@ -1,0 +1,202 @@
+subDemonSpawnBoneFragments01|Heterotopic Ossification|Гетеротопическое окостенение
+subDemonSpawnBoneFragments02|High Demon|Высший демон
+subDemonSpawnBoneFragments03|Bone Frenzy|Костяное бешенство
+subDemonSpawnBoneFragments04|Bone Cannonade|Костяная канонада
+subDemonSpawnBoneFragments05|Demon's Fury|Ярость демона
+subDemonSpawnBoneFragments06|Blood Dipped Fragments|Окровавленные осколки
+subDemonSpawnBoneFragments07|Exoskeletal|Экзоскелет
+subDemonSpawnBoneFragments08|Bloodshed|Кровопролитие
+subDemonSpawnBoneFragments09|Witchcraft Essentials|Основы колдовства
+subDemonSpawnBoneFragments10|Carved Fragments|Выточенные осколки
+subDemonSpawnBoneFragments11|Sharp Bonerangs|Острые костеранги
+subDemonSpawnBoneFragments12|Demon's Grip|Хватка демона
+subDemonSpawnBoneFragments13|Bone Altar|Костяной алтарь
+subDemonSpawnBoneFragments14|Smart Bone|Живая кость
+subDescDemonSpawnBoneFragments01|Increases the amount of fragments.|Увеличивает количество «Костяных осколков».
+subDescDemonSpawnBoneFragments02|Lowers the mana cost of bone fragments.|Снижает затраты маны на «Костяные осколки».
+subDescDemonSpawnBoneFragments03|Chance on cast to increase the amount of fragments.|Дает шанс при касте увеличить количество осколков.
+subDescDemonSpawnBoneFragments04|Chance on cast to unleash additional bone fragments.|Дает шанс при касте выпустить дополнительные осколки.
+subDescDemonSpawnBoneFragments05|Increases the projectile speed of fragments.|Увеличивает скорость полета осколков.
+subDescDemonSpawnBoneFragments06|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescDemonSpawnBoneFragments07|Chance to impale targets on hit sending them airborne dealing increased damage.|Дает шанс пронзить цель при попадании, подбрасывая её в воздух и нанося увеличенный урон.
+subDescDemonSpawnBoneFragments08|Unleash a nova of blood on hit if the target is bleeding.|При попадании вызывает кольцо крови, если цель истекает кровью.
+subDescDemonSpawnBoneFragments09|Increases the damage dealt by bone fragments.|Увеличивает урон «Костяных осколков».
+subDescDemonSpawnBoneFragments10|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescDemonSpawnBoneFragments11|Bone fragments now bounce additional times on hit.|«Костяные осколки» теперь совершают дополнительные рикошеты при попадании.
+subDescDemonSpawnBoneFragments12|Bone fragments orbit targets on hit for a short period of time dealing additional damage to nearby monsters.|При попадании осколки некоторое время вращаются вокруг цели, нанося урон ближайшим врагам.
+subDescDemonSpawnBoneFragments13|Summon a bone altar at target location casting bone fragments for a short period. Bone fragments now has a cooldown.|Призывает в указанной точке костяной алтарь, который некоторое время выпускает «Костяные осколки». Умение теперь имеет время восстановления.
+subDescDemonSpawnBoneFragments14|Fragments seek the nearest monster dealing increased damage.|Осколки сами наводятся на ближайшего монстра, нанося увеличенный урон.
+||
+subDemonSpawnImpale01|Demonic Effect|Демоническое воздействие
+subDemonSpawnImpale02|Warlock's Power|Сила чернокнижника
+subDemonSpawnImpale03|Sharpened Bones|Заточенные кости
+subDemonSpawnImpale04|Unseen Strike|Незримый удар
+subDemonSpawnImpale05|Hell's Ascension|Восхождение Ада
+subDemonSpawnImpale06|Blood Shedding Impale|Кровавое пронзание
+subDemonSpawnImpale07|Bonemagi|Костяная магия
+subDemonSpawnImpale08|Impaling Flames|Пронзающее пламя
+subDemonSpawnImpale09|Shattering Impale|Раскалывающее пронзание
+subDemonSpawnImpale10|Spiked Fields|Поля шипов
+subDemonSpawnImpale11|Hunger of the Demon|Голод демона
+subDemonSpawnImpale12|Elemental Bone Magister|Магистр костяных стихий
+subDemonSpawnImpale13|Via Dolorosa|Путь Скорби
+subDemonSpawnImpale14|Spear of Amaymon|Копье Амаймона
+subDescDemonSpawnImpale01|Increases impale area of effect radius.|Увеличивает радиус области действия «Пронзания».
+subDescDemonSpawnImpale02|Increases damage dealt by impale.|Увеличивает урон «Пронзания».
+subDescDemonSpawnImpale03|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescDemonSpawnImpale04|Chance to critically hit with increased critical damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescDemonSpawnImpale05|Chance to unleash an additional impale on hit.|Дает шанс вызвать дополнительное «Пронзание» при попадании.
+subDescDemonSpawnImpale06|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescDemonSpawnImpale07|Decreases the mana cost of impale.|Снижает затраты маны на «Пронзание».
+subDescDemonSpawnImpale08|Chance to light the ground on fire on hit.|Дает шанс поджечь землю при попадании.
+subDescDemonSpawnImpale09|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescDemonSpawnImpale10|Chance on cast to increase the area of effect radius of impale.|Дает шанс при касте увеличить радиус области действия «Пронзания».
+subDescDemonSpawnImpale11|Unleash multiple smaller impales in an arc.|Выпускает веер малых шипов по дуге.
+subDescDemonSpawnImpale12|Impale inflicts stasis, bleeding and burning on hit.|«Пронзание» накладывает стазис, кровотечение и горение при попадании.
+subDescDemonSpawnImpale13|Impale now travels forward in a pathway increasing in size and damage until reaching its end stunning monsters it hits.|«Пронзание» движется вперед, увеличиваясь в размере и уроне; в конце пути оно оглушает всех задетых монстров.
+subDescDemonSpawnImpale14|Impale becomes a piercing bone projectile you throw. Each enemy it catches is impaled and travels along with the projectile until it hits terrain stunning attached enemies.|«Пронзание» становится метательным костяным снарядом. Он пронзает врагов и тащит их за собой до столкновения с препятствием, после чего оглушает их.
+||
+subDemonSpawnBoneStorm01|Forming Storm|Зарождение шторма
+subDemonSpawnBoneStorm02|Razor Sharp|Бритвенная острота
+subDemonSpawnBoneStorm03|Demonic Winds|Демонические ветры
+subDemonSpawnBoneStorm04|Sacrificial Lambs|Жертвенные агнцы
+subDemonSpawnBoneStorm05|Demon´s Eye of Storm|Око демонической бури
+subDemonSpawnBoneStorm06|Infiltrate their Core|Проникновение в плоть
+subDemonSpawnBoneStorm07|Devils Favourite|Любимец дьявола
+subDemonSpawnBoneStorm08|Spontanious Dislocation|Внезапный разлом
+subDemonSpawnBoneStorm09|Storm Influx|Прилив шторма
+subDemonSpawnBoneStorm10|Devils Diversion|Дьявольская уловка
+subDemonSpawnBoneStorm11|Cycloning Bones|Вихрь костей
+subDemonSpawnBoneStorm12|Bone Tornado|Костяное торнадо
+subDemonSpawnBoneStorm13|Everlasting Storm|Вечный шторм
+subDemonSpawnBoneStorm14|Bone Devils|Костяные дьяволы
+subDescDemonSpawnBoneStorm01|Increases the amount of bone projectiles.|Увеличивает количество костяных снарядов.
+subDescDemonSpawnBoneStorm02|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescDemonSpawnBoneStorm03|Increases the speed of bone projectiles.|Увеличивает скорость костяных снарядов.
+subDescDemonSpawnBoneStorm04|Increases damage to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescDemonSpawnBoneStorm05|Increases damage dealt by bone storm.|Увеличивает урон «Костяного шторма».
+subDescDemonSpawnBoneStorm06|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescDemonSpawnBoneStorm07|Chance to knock monsters back on hit dealing increased damage.|Дает шанс отбросить монстров при попадании, нанося увеличенный урон.
+subDescDemonSpawnBoneStorm08|Bone Storm has a chance on hit to summon additional Bone Fragments in random directions.|«Костяной шторм» при попадании может выпустить дополнительные костяные осколки в случайных направлениях.
+subDescDemonSpawnBoneStorm09|Decreases the cooldown of bone storm.|Снижает время восстановления «Костяного шторма».
+subDescDemonSpawnBoneStorm10|Gain increased chance to dodge attacks for a short period when casting bone storm.|При использовании «Костяного шторма» шанс уклонения кратковременно увеличивается.
+subDescDemonSpawnBoneStorm11|Chance to summon a small cyclone of bones on hit.|Дает шанс вызвать малый костяной циклон при попадании.
+subDescDemonSpawnBoneStorm12|Unleash a bone tornado towards target location with increased damage.|Выпускает костяное торнадо в указанную точку, наносящее увеличенный урон.
+subDescDemonSpawnBoneStorm13|Bone storm no longer expires but it only deals a portion of its damage.|«Костяной шторм» теперь действует бесконечно, но наносит лишь часть своего урона.
+subDescDemonSpawnBoneStorm14|Summons small bone devils at target location.|Призывает малых костяных дьяволов в указанной точке.
+||
+subDemonSpawnSpinalTap01|Inevitable Carnage|Неизбежная бойня
+subDemonSpawnSpinalTap02|Hell's Reach|Адский охват
+subDemonSpawnSpinalTap03|Vampiric Tendencies|Вампиризм
+subDemonSpawnSpinalTap04|Bringer of Pain|Несущий боль
+subDemonSpawnSpinalTap05|Increase in Suffering|Приумножение страданий
+subDemonSpawnSpinalTap06|Restoring Agony|Целительная агония
+subDemonSpawnSpinalTap07|Additive Curse|Накопительное проклятие
+subDemonSpawnSpinalTap08|Demonic Grip|Демоническая хватка
+subDemonSpawnSpinalTap09|Spinal Explosion|Взрыв хребта
+subDemonSpawnSpinalTap10|Violent Rip|Жестокий рывок
+subDemonSpawnSpinalTap11|Blood and Gore|Кровь и кишки
+subDemonSpawnSpinalTap12|Internal Bleeding|Внутреннее кровотечение
+subDemonSpawnSpinalTap13|Eternal Suffering|Вечные муки
+subDemonSpawnSpinalTap14|Healing Torture|Исцеляющая пытка
+subDescDemonSpawnSpinalTap01|Increases spinal tap's area of effect radius.|Увеличивает радиус области действия «Разрыва хребта».
+subDescDemonSpawnSpinalTap02|Increases the maximum cast range of spinal tap.|Увеличивает максимальную дальность применения «Разрыва хребта».
+subDescDemonSpawnSpinalTap03|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescDemonSpawnSpinalTap04|Chance to unleash an additional spinal tap.|Дает шанс применить дополнительный «Разрыв хребта».
+subDescDemonSpawnSpinalTap05|Increases damage dealt by spinal tap.|Увеличивает урон «Разрыва хребта».
+subDescDemonSpawnSpinalTap06|Chance to replenish a portion of your maximum mana on hit.|Дает шанс восполнить часть макс. запаса маны при попадании.
+subDescDemonSpawnSpinalTap07|Increases the maximum stacks of cartilage build up.|Увеличивает максимальное количество зарядов хрящевых наростов.
+subDescDemonSpawnSpinalTap08|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescDemonSpawnSpinalTap09|Spines ripped from monsters have a chance to explode dealing additional damage.|Вырванные из монстров хребты могут взорваться, нанося дополнительный урон.
+subDescDemonSpawnSpinalTap10|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescDemonSpawnSpinalTap11|Spinal tap executes enemies below a threshold of life causing them to explode with increased area of effect radius dealing increased damage.|«Разрыв хребта» казнит врагов с низким уровнем здоровья; при смерти они взрываются, нанося увеличенный урон в большом радиусе.
+subDescDemonSpawnSpinalTap12|Spinal tap inflicts increased bleeding on hit. If the target is already bleeding, increase the tick frequency of existing bleed until it consumes the bleeding dealing increased damage.|«Разрыв хребта» вызывает сильное кровотечение. Если цель уже истекает кровью, частота тактов увеличивается вплоть до поглощения эффекта с нанесением огромного урона.
+subDescDemonSpawnSpinalTap13|Conjure piercing bone spikes flying towards targets on hit dealing additional damage.|При попадании призывает пронзающие костяные шипы, летящие во врагов и наносящие доп. урон.
+subDescDemonSpawnSpinalTap14|Increases the area of effect radius of spinal tap healing you for a portion of your maximum life per hit.|Увеличивает радиус области действия умения; каждое попадание восстанавливает вам часть от вашего макс. здоровья.
+||
+subDemonSpawnBoneBarrage01|Bonemarrow|Костный мозг
+subDemonSpawnBoneBarrage02|Skeletal Stock|Запас костей
+subDemonSpawnBoneBarrage03|Bone Growth|Нарост костей
+subDemonSpawnBoneBarrage04|Swift Bone|Стремительная кость
+subDemonSpawnBoneBarrage05|Hard as Steel|Тверже стали
+subDemonSpawnBoneBarrage06|Rib Crack|Хруст ребер
+subDemonSpawnBoneBarrage07|Explosive Density|Взрывная плотность
+subDemonSpawnBoneBarrage08|Flexible Bonestructure|Гибкий скелет
+subDemonSpawnBoneBarrage09|Bone Pong|Костяной рикошет
+subDemonSpawnBoneBarrage10|Skeletal Impact|Костяной удар
+subDemonSpawnBoneBarrage11|Nova of Bones|Костяное кольцо
+subDemonSpawnBoneBarrage12|Master of Boneology|Повелитель костей
+subDemonSpawnBoneBarrage13|Hell on Earth|Ад на земле
+subDemonSpawnBoneBarrage14|Barraging Boneswirl|Костяной вихрь
+subDescDemonSpawnBoneBarrage01|Decreases the cooldown of bone barrage.|Снижает время восстановления «Костяного обстрела».
+subDescDemonSpawnBoneBarrage02|Increases the amount of bone spikes.|Увеличивает количество костяных шипов.
+subDescDemonSpawnBoneBarrage03|Increases the size of bone spikes.|Увеличивает размер костяных шипов.
+subDescDemonSpawnBoneBarrage04|Increases the projectile speed of bone spikes.|Увеличивает скорость полета костяных шипов.
+subDescDemonSpawnBoneBarrage05|Increases the damage dealt by bone spikes.|Увеличивает урон костяных шипов.
+subDescDemonSpawnBoneBarrage06|Chance to inflict stun on hit.|Дает шанс оглушить при попадании.
+subDescDemonSpawnBoneBarrage07|Chance on hit to unleash a bloody explosion dealing additional damage.|Дает шанс при попадании вызвать кровавый взрыв, наносящий доп. урон.
+subDescDemonSpawnBoneBarrage08|Bone spikes bounce from terrain dealing increased damage.|Костяные шипы отскакивают от препятствий, нанося увеличенный урон.
+subDescDemonSpawnBoneBarrage09|Chance to chain between multiple monsters on hit dealing increased damage.|Дает шанс при попадании поразить несколько целей по цепочке, нанося увеличенный урон.
+subDescDemonSpawnBoneBarrage10|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescDemonSpawnBoneBarrage11|Unleash all the projectiles around you in a circle. Bone barrage no longer has a cooldown.|Выпускает все снаряды кольцом вокруг вас. «Костяной обстрел» больше не имеет времени восстановления.
+subDescDemonSpawnBoneBarrage12|Bone spikes start homing towards nearest monsters briefly after casting dealing increased damage.|Костяные шипы вскоре после каста наводятся на ближайших монстров, нанося увеличенный урон.
+subDescDemonSpawnBoneBarrage13|Bone spikes now rain from the sky on enemies around you causing the spikes to fragment when hitting the ground launching small fragments around the point of impact.|На врагов вокруг обрушивается ливень из костяных шипов; при ударе о землю они разлетаются на осколки, поражая цели поблизости.
+subDescDemonSpawnBoneBarrage14|Bone spikes now spiral outwards from you with increased speed.|Костяные шипы теперь разлетаются от вас по спирали с увеличенной скоростью.
+||
+subDemonSpawnBloodBolts01|Adrenaline Secretion|Прилив адреналина
+subDemonSpawnBloodBolts02|Volume Increase|Кровавый избыток
+subDemonSpawnBloodBolts03|Hemophilia|Гемофилия
+subDemonSpawnBloodBolts04|Demonic Formula|Формула демона
+subDemonSpawnBloodBolts05|Leukocytes|Белые тельца
+subDemonSpawnBloodBolts06|Advanced Metabolism|Ускоренный метаболизм
+subDemonSpawnBloodBolts07|Demon Master|Повелитель демонов
+subDemonSpawnBloodBolts08|High Hemoglobin|Насыщение крови
+subDemonSpawnBloodBolts09|Arterial Blood|Артериальная кровь
+subDemonSpawnBloodBolts10|Thrombus|Тромб
+subDemonSpawnBloodBolts11|Demon Sentry|Демон-страж
+subDemonSpawnBloodBolts12|Bloodshed|Кровопролитие
+subDemonSpawnBloodBolts13|Mark of the Demon|Печать демона
+subDemonSpawnBloodBolts14|Wave of Blood|Волна крови
+subDescDemonSpawnBloodBolts01|Increases the projectile speed of blood bolts.|Увеличивает скорость полета «Кровавых стрел».
+subDescDemonSpawnBloodBolts02|Increases the size of blood bolts.|Увеличивает размер «Кровавых стрел».
+subDescDemonSpawnBloodBolts03|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescDemonSpawnBloodBolts04|Chance for blood bolts to become piercing and to continue traveling forward after hitting a monster.|Дает шанс «Кровавым стрелам» стать пронзающими и лететь сквозь монстров.
+subDescDemonSpawnBloodBolts05|Increases damage dealt by blood bolts.|Увеличивает урон «Кровавых стрел».
+subDescDemonSpawnBloodBolts06|Blood bolts start homing towards the nearest target briefly after being casted.|«Кровавые стрелы» начинают наводиться на ближайшую цель вскоре после выпуска.
+subDescDemonSpawnBloodBolts07|Increases the damage of blood demons spawned by blood bolts.|Увеличивает урон кровавых демонов, призванных «Кровавыми стрелами».
+subDescDemonSpawnBloodBolts08|Increases the amount of blood bolts.|Увеличивает количество «Кровавых стрел».
+subDescDemonSpawnBloodBolts09|Decreases the mana cost of blood bolts.|Снижает затраты маны на «Кровавые стрелы».
+subDescDemonSpawnBloodBolts10|Chance on hit to knock enemies back with force dealing increased damage.|Дает шанс при попадании с силой отбросить врагов, нанося увеличенный урон.
+subDescDemonSpawnBloodBolts11|Summon a following blood demon unleashing blood bolts to nearby monsters with increased blood bolt amount and attack speed.|Призывает кровавого демона-спутника, который выпускает «Кровавые стрелы» в ближайших врагов с повышенной скоростью и в большем количестве.
+subDescDemonSpawnBloodBolts12|Unleash a blood bolt towards each nearby monster draining your life for each target dealing increased damage.|Выпускает по кровавой стреле в каждого врага поблизости; наносит увеличенный урон, но расходует ваше здоровье за каждую цель.
+subDescDemonSpawnBloodBolts13|Conjure a pool of blood on target location. Unleash blood bolts towards monsters in the blood pool.|Создает лужу крови в указанной точке, из которой во врагов летят кровавые стрелы.
+subDescDemonSpawnBloodBolts14|Unleash a wave of blood leaving a trail of blood behind it. Any player touching the trail gains increased movement speed, faster cast rate and increased arcane skill damage.|Выпускает волну крови, оставляющую кровавый след. Игроки, коснувшиеся следа, получают прибавку к скорости передвижения, каста и урону тайной магии.
+||
+subDemonSpawnBloodSurge01|Corrosive Blood|Разъедающая кровь
+subDemonSpawnBloodSurge02|Wide Veins|Широкие сосуды
+subDemonSpawnBloodSurge03|White Blood Cells|Чистая кровь
+subDemonSpawnBloodSurge04|Increased Plasma|Приток плазмы
+subDemonSpawnBloodSurge05|Blood Fervor|Кровавый пыл
+subDemonSpawnBloodSurge06|Immune Deficiency|Слом сопротивления
+subDemonSpawnBloodSurge07|Asphyxiating Vessels|Удушающие сосуды
+subDemonSpawnBloodSurge08|Demon Wings|Крылья демона
+subDemonSpawnBloodSurge09|Vein Pressure|Давление крови
+subDemonSpawnBloodSurge10|Rays of Blood|Лучи крови
+subDemonSpawnBloodSurge11|Hematopoiesis|Кровавое пополнение
+subDemonSpawnBloodSurge12|Channeling Surge|Потоковый прилив
+subDemonSpawnBloodSurge13|Blood Line|Кровные узы
+subDemonSpawnBloodSurge14|Unlimited Power|Безграничная мощь
+subDescDemonSpawnBloodSurge01|Increases the damage dealt by blood surge.|Увеличивает урон «Прилива крови».
+subDescDemonSpawnBloodSurge02|Increases the area of effect radius of blood surge.|Увеличивает радиус области действия «Прилива крови».
+subDescDemonSpawnBloodSurge03|Increases the duration of blood surge.|Увеличивает длительность «Прилива крови».
+subDescDemonSpawnBloodSurge04|Decreases the mana cost of blood surge.|Снижает затраты маны на «Прилив крови».
+subDescDemonSpawnBloodSurge05|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescDemonSpawnBloodSurge06|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescDemonSpawnBloodSurge07|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescDemonSpawnBloodSurge08|Decreases movement diminish when using blood surge.|Уменьшает штраф к скорости передвижения при использовании «Прилива крови».
+subDescDemonSpawnBloodSurge09|Chance to unleash a critical strike with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescDemonSpawnBloodSurge10|Chance on hit to unleash additional surges of blood to directions around the target on hit.|Дает шанс при попадании выпустить дополнительные потоки крови во все стороны от цели.
+subDescDemonSpawnBloodSurge11|Increases the tick frequency of blood surge.|Увеличивает частоту нанесения урона «Прилива крови».
+subDescDemonSpawnBloodSurge12|Blood surge deals increased damage and no longer expires until you run out of mana or cast blood surge again.|«Прилив крови» наносит увеличенный урон и действует непрерывно, пока не закончится мана или умение не будет активировано снова.
+subDescDemonSpawnBloodSurge13|Unleash two surges of blood curving to your sides before expiring.|Выпускает два потока крови, расходящихся по сторонам по дуге.
+subDescDemonSpawnBloodSurge14|Conjure an orb of blood unleashing surges of blood towards targets on hit. Blood surge now has a cooldown.|Призывает сферу крови, которая выпускает потоки в сторону целей при попадании. «Прилив крови» теперь имеет время восстановления.

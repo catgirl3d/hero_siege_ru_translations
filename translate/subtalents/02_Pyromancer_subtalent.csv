@@ -1,0 +1,318 @@
+subPyromancerBlazingTrail01|Timed Fire|Выверенное пламя
+subPyromancerBlazingTrail02|Scorch|Ожог
+subPyromancerBlazingTrail03|Expanded Flames|Растущее пламя
+subPyromancerBlazingTrail04|Flaming Steps|Пламенные шаги
+subPyromancerBlazingTrail05|Agonizing Heat|Мучительный жар
+subPyromancerBlazingTrail06|Combusting Flames|Воспламеняющееся пламя
+subPyromancerBlazingTrail07|Burning Veins|Пылающие жилы
+subPyromancerBlazingTrail08|Paralyzing Fire|Парализующий огонь
+subPyromancerBlazingTrail09|Crackling Heat|Потрескивающий жар
+subPyromancerBlazingTrail10|Fueled Flames|Раздутое пламя
+subPyromancerBlazingTrail11|Forking Flames|Разветвленное пламя
+subPyromancerBlazingTrail12|Circle of Fire|Кольцо огня
+subPyromancerBlazingTrail13|Trail of Comets|След комет
+subPyromancerBlazingTrail14|Detonation Field|Поле детонации
+subDescPyromancerBlazingTrail01|Increases the duration of blazing trail.|Увеличивает длительность «Пылающего следа».
+subDescPyromancerBlazingTrail02|Increased the damage dealt by blazing trail.|Увеличивает урон «Пылающего следа».
+subDescPyromancerBlazingTrail03|Increases the area of effect radius of blazing trail.|Увеличивает радиус области действия «Пылающего следа».
+subDescPyromancerBlazingTrail04|Increases your movement speed while blazing trail is active.|Увеличивает скорость передвижения, пока активен «Пылающий след».
+subDescPyromancerBlazingTrail05|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPyromancerBlazingTrail06|Trails inflict burning on hit.|Следы накладывают горение при попадании.
+subDescPyromancerBlazingTrail07|Trails inflict fire break on hit.|Следы вызывают игнорирование сопр. огню при попадании.
+subDescPyromancerBlazingTrail08|Trails inflict slow on hit.|Следы замедляют врагов при попадании.
+subDescPyromancerBlazingTrail09|Chance of trails to pulsate every second.|Дает шанс следам пульсировать каждую секунду.
+subDescPyromancerBlazingTrail10|Increases the tick rate of blazing trail.|Увеличивает частоту нанесения урона «Пылающего следа».
+subDescPyromancerBlazingTrail11|Trails have a chance to fork.|Следы могут разветвляться.
+subDescPyromancerBlazingTrail12|You now send trails of fire outwards to all directions.|Теперь вы выпускаете огненные следы во всех направлениях.
+subDescPyromancerBlazingTrail13|Now drops comets that explode into flames.|Теперь призывает кометы, которые взрываются и оставляют пламя.
+subDescPyromancerBlazingTrail14|Instead of flames now leaves behind fiery mines exploding into flaming fissures.|Вместо пламени теперь остаются огненные мины, взрывающиеся пылающими трещинами.
+||
+subPyromancerPhoenixFlight01|Flaming Pecker|Пламенный клюв
+subPyromancerPhoenixFlight02|Swift Flight|Стремительный полет
+subPyromancerPhoenixFlight03|Scorching Fury|Палящая ярость
+subPyromancerPhoenixFlight04|Infused Flames|Напитанное пламя
+subPyromancerPhoenixFlight05|Searing Touch|Обжигающее прикосновение
+subPyromancerPhoenixFlight06|Burning Screech|Пылающий вскрик
+subPyromancerPhoenixFlight07|Collateral Burning|Попутное сожжение
+subPyromancerPhoenixFlight08|Afterburn|Дожигание
+subPyromancerPhoenixFlight09|Molten Feathers|Раскаленные перья
+subPyromancerPhoenixFlight10|Mental Heat|Ментальный жар
+subPyromancerPhoenixFlight11|Rise from the Ashes|Восставший из пепла
+subPyromancerPhoenixFlight12|Seed of Fulmination|Семя детонации
+subPyromancerPhoenixFlight13|Wings of the Phoenix|Крылья феникса
+subPyromancerPhoenixFlight14|Burning Wings|Пылающие крылья
+subDescPyromancerPhoenixFlight01|Increases the damage dealt by phoenix flight.|Увеличивает урон «Полета феникса».
+subDescPyromancerPhoenixFlight02|Increases flight speed of phoenix flight.|Увеличивает скорость «Полета феникса».
+subDescPyromancerPhoenixFlight03|Unleash fireballs in a circle around you when landing.|При приземлении выпускает огненные шары во все стороны.
+subDescPyromancerPhoenixFlight04|Gain increased fire skill damage for a short period when crashing into monsters.|Урон умений огня увеличивается на короткое время при столкновении с монстрами.
+subDescPyromancerPhoenixFlight05|Chance to unleash searing chains when flying through monsters.|Дает шанс выпустить обжигающие цепи при пролете сквозь монстров.
+subDescPyromancerPhoenixFlight06|Increases landing nova area of effect.|Увеличивает область действия кольца огня при приземлении.
+subDescPyromancerPhoenixFlight07|Deal additional fire damage to nearby monsters while phoenix flight is active.|Наносит дополнительный урон огнем ближайшим монстрам, пока активен «Полет феникса».
+subDescPyromancerPhoenixFlight08|Chance on landing to unleash an additional nova.|Дает шанс при приземлении выпустить дополнительное кольцо огня.
+subDescPyromancerPhoenixFlight09|Increases damage reduction while phoenix flight is active.|Увеличивает снижение урона во время «Полета феникса».
+subDescPyromancerPhoenixFlight10|Taunt enemies you fly through.|Провоцирует врагов, через которых вы пролетаете.
+subDescPyromancerPhoenixFlight11|At the end of your flight you launch into the air unleashing multiple fire novas beneath you and then land and smash the ground stunning and dealing additional damage to nearby monsters.|В конце полета вы взмываете ввысь, выпуская под собой несколько огненных колец, а затем обрушиваетесь на землю, оглушая врагов и нанося дополнительный урон.
+subDescPyromancerPhoenixFlight12|Plant a seed of fulmination on monsters you fly through that explodes after a short delay.|Помещает семя детонации в монстров, через которых вы пролетаете; оно взрывается после короткой задержки.
+subDescPyromancerPhoenixFlight13|When flying you rapidly shoot searing bolts behind you in a cone.|Во время полета вы быстро выпускаете обжигающие снаряды позади себя в конусе.
+subDescPyromancerPhoenixFlight14|Flight distance is now short. Upon landing you knock back all monsters around scorching the land below them dealing fire damage and stunning them.|Дистанция полета сокращена. При приземлении вы отбрасываете всех монстров вокруг, выжигая землю под ними, нанося урон огнем и оглушая их.
+||
+subPyromancerInfernoSlash01|Infernal Reach|Адский размах
+subPyromancerInfernoSlash02|Scattering Flame|Рассеянное пламя
+subPyromancerInfernoSlash03|Molten Ground|Раскаленная земля
+subPyromancerInfernoSlash04|Piercing Flame|Пронзающее пламя
+subPyromancerInfernoSlash05|Stacked Burn|Суммирующийся ожог
+subPyromancerInfernoSlash06|Scorching Slash|Обжигающий разрез
+subPyromancerInfernoSlash07|Nerve Damage|Поражение нервов
+subPyromancerInfernoSlash08|Accelerated Fumes|Ускоренные испарения
+subPyromancerInfernoSlash09|Igniting Wind|Воспламеняющий ветер
+subPyromancerInfernoSlash10|Third Degree Burns|Ожоги третьей степени
+subPyromancerInfernoSlash11|Infernal Cleave|Адский раскол
+subPyromancerInfernoSlash12|Searing Fork|Обжигающее разветвление
+subPyromancerInfernoSlash13|Fearful Flames|Ужасающее пламя
+subPyromancerInfernoSlash14|Flies of Agony|Мухи агонии
+subDescPyromancerInfernoSlash01|Increases the attack range of inferno slash.|Увеличивает дальность атаки «Разреза Инферно».
+subDescPyromancerInfernoSlash02|Increases attack rating when using inferno slash.|Увеличивает рейтинг атаки при использовании «Разреза Инферно».
+subDescPyromancerInfernoSlash03|Chance on striking to set the ground on fire.|Дает шанс поджечь землю при ударе.
+subDescPyromancerInfernoSlash04|Inflicts fire break on hit.|При попадании вызывает игнорирование сопр. огню.
+subDescPyromancerInfernoSlash05|Chance on hit to gain a stacking fire skill damage buff.|Дает шанс при попадании получить суммирующийся бафф к урону умений огня.
+subDescPyromancerInfernoSlash06|Increases the damage dealt by inferno slash.|Увеличивает урон «Разреза Инферно».
+subDescPyromancerInfernoSlash07|Chance to stun on hit.|Дает шанс оглушить при попадании.
+subDescPyromancerInfernoSlash08|Chance on attack to gain increased attack speed.|Дает шанс увеличить скорость атаки при нападении.
+subDescPyromancerInfernoSlash09|Chance on attack to perform an additional attack.|Дает шанс провести дополнительную атаку при нападении.
+subDescPyromancerInfernoSlash10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPyromancerInfernoSlash11|Inferno slash is now a 360 degree area of effect attack.|«Разрез Инферно» теперь наносит урон в радиусе 360 градусов.
+subDescPyromancerInfernoSlash12|Inferno slash sends multiple smaller waves that split on the first hit.|«Разрез Инферно» выпускает несколько малых волн, которые разделяются при первом попадании.
+subDescPyromancerInfernoSlash13|Inferno slash now knocks back monsters inflicting Burning and dealing increased Damage.|«Разрез Инферно» теперь отбрасывает монстров, накладывая горение и нанося увеличенный урон.
+subDescPyromancerInfernoSlash14|Inferno slash now sends burning fireflies towards monsters on hit.|При попадании «Разрез Инферно» выпускает в сторону монстров горящих светлячков.
+||
+subPyromancerBreathOfFire01|Expanding Heat|Растущий жар
+subPyromancerBreathOfFire02|Burning Haze|Пылающая дымка
+subPyromancerBreathOfFire03|Heat Combustion|Термическое сгорание
+subPyromancerBreathOfFire04|Double Breeze|Двойное дуновение
+subPyromancerBreathOfFire05|Scorching Exhale|Обжигающий выдох
+subPyromancerBreathOfFire06|Burning Lungs|Опаленные легкие
+subPyromancerBreathOfFire07|Collateral Ignition|Попутное воспламенение
+subPyromancerBreathOfFire08|Burst of Heat|Вспышка жара
+subPyromancerBreathOfFire09|Breaking Point|Точка излома
+subPyromancerBreathOfFire10|Reverse Hypthermia|Гипертермия
+subPyromancerBreathOfFire11|Hydra´s Breeze|Дуновение гидры
+subPyromancerBreathOfFire12|Chain of Fire|Цепь огня
+subPyromancerBreathOfFire13|Scorching Hellflame|Палящее адское пламя
+subPyromancerBreathOfFire14|Molten Orb|Раскаленная сфера
+subDescPyromancerBreathOfFire01|Increases the size of breath of fire.|Увеличивает размер «Дыхания огня».
+subDescPyromancerBreathOfFire02|Increases the damage dealt by breath of fire.|Увеличивает урон «Дыхания огня».
+subDescPyromancerBreathOfFire03|Chance on hit to unleash burning fragments from the target dealing damage to other nearby targets.|Дает шанс при попадании выпустить из цели горящие осколки, наносящие урон ближайшим врагам.
+subDescPyromancerBreathOfFire04|Chance on cast to unleash an additional breath of fire.|Дает шанс при касте выпустить дополнительное «Дыхание огня».
+subDescPyromancerBreathOfFire05|Increased the length of breath of fire.|Увеличивает дальность «Дыхания огня».
+subDescPyromancerBreathOfFire06|Inflicts burning on hit.|При попадании накладывает горение.
+subDescPyromancerBreathOfFire07|Chance on hit to spread burning to monsters around the target.|Дает шанс при попадании распространить горение на монстров вокруг цели.
+subDescPyromancerBreathOfFire08|Chance on hit to unleash a small fire nova if target is burning.|Дает шанс при попадании выпустить малую огненную нову, если цель горит.
+subDescPyromancerBreathOfFire09|Chance to inflict fire break on burning targets.|Дает шанс вызвать игнорирование сопр. огню у горящих целей.
+subDescPyromancerBreathOfFire10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPyromancerBreathOfFire11|Unleash additional breaths in an arc.|Выпускает дополнительные потоки пламени по дуге.
+subDescPyromancerBreathOfFire12|Breath of fire now chains multiple times.|«Дыхание огня» теперь поражает несколько целей по цепочке.
+subDescPyromancerBreathOfFire13|Breath of fire now applies stacks of Hellflame which will unleash a fiery pulse of area of effect damage when reaching max stacks.|«Дыхание огня» теперь накладывает заряды «Адского пламени», вызывающие огненный импульс по области при достижении максимума.
+subDescPyromancerBreathOfFire14|Breath of fire now summons a molten orb traveling forwards breathing fire towards the closest target.|«Дыхание огня» теперь призывает раскаленную сферу, которая летит вперед и изрыгает пламя в ближайшую цель.
+||
+subPyromancerFireball01|Multicast|Мультикаст
+subPyromancerFireball02|Ignition Radius|Радиус воспламенения
+subPyromancerFireball03|Inferno Ball|Шар инферно
+subPyromancerFireball04|Gas Fumes|Газовые испарения
+subPyromancerFireball05|Searing Speed|Обжигающая скорость
+subPyromancerFireball06|Paralyzing Impact|Парализующий удар
+subPyromancerFireball07|Soulburn|Ожог души
+subPyromancerFireball08|Critical Burn|Критический ожог
+subPyromancerFireball09|Mark of Doom|Метка рока
+subPyromancerFireball10|Burn baby burn!|Гори, гори ясно!
+subPyromancerFireball11|Splitfire|Расщепленный огонь
+subPyromancerFireball12|Path of Destruction|Путь разрушения
+subPyromancerFireball13|Orbital Fire|Орбитальный огонь
+subPyromancerFireball14|Fireflies!|Светлячки!
+subDescPyromancerFireball01|Chance on cast to unleash an additional fireball.|Дает шанс при касте выпустить дополнительный «Огненный шар».
+subDescPyromancerFireball02|Increases the area of effect radius of fireball.|Увеличивает радиус области действия «Огненного шара».
+subDescPyromancerFireball03|Increases the damage dealt by fireball.|Увеличивает урон «Огненного шара».
+subDescPyromancerFireball04|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescPyromancerFireball05|Increases the projectile speed and cast rate of fireball.|Увеличивает скорость снаряда и скорость каста «Огненного шара».
+subDescPyromancerFireball06|Chance on hit to knockback monsters dealing increased damage.|Дает шанс при попадании отбросить монстров, нанося увеличенный урон.
+subDescPyromancerFireball07|Inflicts fire break on hit.|При попадании вызывает игнорирование сопр. огню.
+subDescPyromancerFireball08|Chance on hit to deal double damage.|Дает шанс нанести двойной урон при попадании.
+subDescPyromancerFireball09|Chance on hit to rain down flaming meteors from the sky.|Дает шанс обрушить с неба пылающие метеоры при попадании.
+subDescPyromancerFireball10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPyromancerFireball11|Fireball now splits to multiple smaller fireballs on hit.|При попадании «Огненный шар» разделяется на несколько малых шаров.
+subDescPyromancerFireball12|Fireball now has piercing and leaves a trail of fire on its’ path.|«Огненный шар» теперь пронзает врагов и оставляет за собой огненный след.
+subDescPyromancerFireball13|Fireball casts now orbit around you for a short period.|Выпущенные «Огненные шары» вращаются вокруг вас в течение короткого времени.
+subDescPyromancerFireball14|Chance on spellhit to spawn a firefly around you that seek out nearby targets exploding into a fireball.|Дает шанс при попадании заклинанием призвать светлячка, который ищет цель и взрывается «Огненным шаром».
+||
+subPyromancerHydra01|Lasting Fire|Неугасимый огонь
+subPyromancerHydra02|Fiery Snakebite|Огненный укус
+subPyromancerHydra03|Flaming Reach|Пламенный охват
+subPyromancerHydra04|Scorching Blast|Обжигающий взрыв
+subPyromancerHydra05|More Heads More Fire!|Больше голов — больше огня!
+subPyromancerHydra06|Flaming Reflexes|Пламенные рефлексы
+subPyromancerHydra07|Cloning Combustion|Клонирующее воспламенение
+subPyromancerHydra08|Burstfire|Огненная очередь
+subPyromancerHydra09|Burning Essence|Пылающая эссенция
+subPyromancerHydra10|Slitherin Army|Змеиная армия
+subPyromancerHydra11|Chaotic Calamity|Хаотическое бедствие
+subPyromancerHydra12|Hydra Herder|Погонщик гидр
+subPyromancerHydra13|Scorching Kraken|Обжигающий кракен
+subPyromancerHydra14|Searing Snakes|Жгучие змеи
+subDescPyromancerHydra01|Increases the duration of hydra.|Увеличивает длительность действия «Гидры».
+subDescPyromancerHydra02|Increases the damage dealt by hydra.|Увеличивает урон «Гидры».
+subDescPyromancerHydra03|Increases the range of hydra attacks.|Увеличивает дальность атак «Гидры».
+subDescPyromancerHydra04|Hydras have a chance to cast a small fire nova at the target on hit.|«Гидры» могут выпустить малую огненную нову в цель при попадании.
+subDescPyromancerHydra05|Increases the amount of hydras you can spawn.|Увеличивает максимальное количество «Гидр».
+subDescPyromancerHydra06|Increases the attack speed of summoned hydra.|Увеличивает скорость атаки призванных «Гидр».
+subDescPyromancerHydra07|Chance on attack for hydra to create a temporary clone of itself for a short period of time.|При атаке «Гидра» может создать свою временную копию на короткий срок.
+subDescPyromancerHydra08|Hydras have a chance on attack to fire an additional projectile.|При атаке «Гидры» могут выпустить дополнительный снаряд.
+subDescPyromancerHydra09|Hydras deal damage in a small radius around them.|«Гидры» наносят урон в небольшом радиусе вокруг себя.
+subDescPyromancerHydra10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPyromancerHydra11|Hydras now unleash small comets with every attack.|«Гидры» теперь выпускают малые кометы при каждой атаке.
+subDescPyromancerHydra12|Hydras now follow the player but the amount of hydras are capped.|«Гидры» теперь следуют за игроком, но их количество ограничено.
+subDescPyromancerHydra13|Now summon one massive hydra that breathes fire to nearby monsters with increased damage and range. Additionally scales the damage based on maximum amount of hydras.|Призывает одну огромную «Гидру», которая изрыгает пламя в ближайших врагов с увеличенным уроном и дальностью. Урон зависит от макс. количества «Гидр».
+subDescPyromancerHydra14|Now summon all hydras with one cast dealing increased damage and inflicting burning on hit.|Призывает всех доступных «Гидр» одним заклинанием, увеличивая их урон и накладывая горение при попадании.
+||
+subPyromancerScorchingAura01|Scorched Lands|Выжженные земли
+subPyromancerScorchingAura02|Sixt Degree Burns|Ожоги шестой степени
+subPyromancerScorchingAura03|Burning Necrosis|Огненный некроз
+subPyromancerScorchingAura04|Flaming Fissure|Пылающая трещина
+subPyromancerScorchingAura05|Rapid Burning|Ускоренное горение
+subPyromancerScorchingAura06|Burnt Feet|Опаленные стопы
+subPyromancerScorchingAura07|IGNITE THE FLAMES!|ЗАЖГИ ПЛАМЯ!
+subPyromancerScorchingAura08|Ground Blaze|Пожар под ногами
+subPyromancerScorchingAura09|Scorching Agony|Обжигающая агония
+subPyromancerScorchingAura10|Burn Them All!|Сжечь их всех!
+subPyromancerScorchingAura11|Searing Burst|Жгучий взрыв
+subPyromancerScorchingAura12|Burning Soul|Пылающая душа
+subPyromancerScorchingAura13|Scorching Harvester|Обжигающий жнец
+subPyromancerScorchingAura14|RELEASE THE CHAOS!|ВЫПУСТИТЕ ХАОС!
+subDescPyromancerScorchingAura01|Increases the area of effect radius of scorching aura.|Увеличивает радиус «Обжигающей ауры».
+subDescPyromancerScorchingAura02|Increases the damage dealt by scorching aura.|Увеличивает урон «Обжигающей ауры».
+subDescPyromancerScorchingAura03|Inflicts fire break on hit.|При попадании вызывает игнорирование сопр. огню.
+subDescPyromancerScorchingAura04|Chance on hit to release a flaming fissure beneath monsters knocking them into the air dealing additional damage.|Дает шанс при попадании создать пылающую трещину под монстрами, подбрасывая их и нанося доп. урон.
+subDescPyromancerScorchingAura05|Increases the tick rate of scorching aura.|Увеличивает частоту нанесения урона «Обжигающей ауры».
+subDescPyromancerScorchingAura06|Increases your movement speed while scorching aura is active.|Увеличивает скорость передвижения, пока активна «Обжигающая аура».
+subDescPyromancerScorchingAura07|Damaging monsters now builds up flaming ignition stacks unleashing a fiery pulse at max stacks.|Нанесение урона копит заряды воспламенения; при максимуме зарядов происходит огненный импульс.
+subDescPyromancerScorchingAura08|Chance on hit to slow monsters and light a blaze at their feet.|Дает шанс при попадании замедлить монстров и поджечь землю под ними.
+subDescPyromancerScorchingAura09|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPyromancerScorchingAura10|Inflicts burning for a portion of scorching auras damage on hit.|При попадании накладывает горение, урон которого зависит от урона «Обжигающей ауры».
+subDescPyromancerScorchingAura11|Frequently unleash small bursts of fire dealing additional damage stunning monsters on hit.|Периодически выпускает малые вспышки огня, нанося доп. урон и оглушая монстров при попадании.
+subDescPyromancerScorchingAura12|Increases the damage of scorching aura based on your maximum life.|Увеличивает урон «Обжигающей ауры» в зависимости от вашего макс. здоровья.
+subDescPyromancerScorchingAura13|Frequently send out fiery souls dealing damage replenishing a portion of your maximum life.|Периодически выпускает огненные души, которые наносят урон и восполняют часть вашего макс. здоровья.
+subDescPyromancerScorchingAura14|Ignite the flames now additionally unleashes piercing fireballs spiraling outwards dealing additional damage.|«Зажги пламя» теперь дополнительно выпускает пронзающие «Огненные шары», разлетающиеся по спирали и наносящие доп. урон.
+||
+subPyromancerVolcano01|Eruption|Извержение
+subPyromancerVolcano02|Extended Lava|Разлив лавы
+subPyromancerVolcano03|Danger Zone|Опасная зона
+subPyromancerVolcano04|Searing Mountain|Обжигающая гора
+subPyromancerVolcano05|Colossal Fragment|Колоссальный осколок
+subPyromancerVolcano06|Crackling Earth|Потрескивающая земля
+subPyromancerVolcano07|Scorching Lava|Раскаленная лава
+subPyromancerVolcano08|Crushing Fragment|Сокрушительный осколок
+subPyromancerVolcano09|Too Hot to Touch|Не прикасаться!
+subPyromancerVolcano10|Lava Dipping|Лавовое погружение
+subPyromancerVolcano11|Yellowstone|Йеллоустон
+subPyromancerVolcano12|Lava Trail|Лавовый след
+subPyromancerVolcano13|I Am The Volcano Now!|Я — «Вулкан»!
+subPyromancerVolcano14|Trail of Volcanoes|Цепь «Вулканов»
+subDescPyromancerVolcano01|Increases the amount of volcano fragments.|Увеличивает количество осколков «Вулкана».
+subDescPyromancerVolcano02|Increases the duration of volcano.|Увеличивает длительность существования «Вулкана».
+subDescPyromancerVolcano03|Increases the range of volcano.|Увеличивает дальность действия «Вулкана».
+subDescPyromancerVolcano04|Increases the size of volcano.|Увеличивает размер «Вулкана».
+subDescPyromancerVolcano05|Chance to shoot out a colossal fragment instead knocking monsters into the air and inflicting burning on hit.|Дает шанс выпустить колоссальный осколок, который подбрасывает монстров и накладывает горение.
+subDescPyromancerVolcano06|Release flaming fissures around the volcano.|Создает пылающие трещины вокруг «Вулкана».
+subDescPyromancerVolcano07|Increases the damage dealt by volcano.|Увеличивает урон «Вулкана».
+subDescPyromancerVolcano08|Fragments have a chance to bounce and deal area of effect damage when hitting the ground.|Осколки могут срикошетить от земли и нанести урон по области.
+subDescPyromancerVolcano09|Monsters touching the volcano get knocked back and stunned taking additional damage.|Монстры, коснувшиеся «Вулкана», отбрасываются, оглушаются и получают доп. урон.
+subDescPyromancerVolcano10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPyromancerVolcano11|Now spawns a massive volcano shooting out fragments that spawn smaller volcanoes around it.|Теперь призывает массивный «Вулкан», осколки которого порождают малые вулканы при падении.
+subDescPyromancerVolcano12|Volcano now sends out trails of molten lava inflicting a portion of its damage as burning.|«Вулкан» теперь испускает потоки лавы, наносящие часть своего урона в виде горения.
+subDescPyromancerVolcano13|The volcano is now stuck on you with increased damage.|«Вулкан» теперь следует за вами, нанося увеличенный урон.
+subDescPyromancerVolcano14|Spawn multiple volcanoes trailing into a random direction.|Призывает несколько «Вулканов», появляющихся один за другим в случайном направлении.
+||
+subPyromancerFireNova01|Extended Flames|Растущее пламя
+subPyromancerFireNova02|Boiling Point|Точка кипения
+subPyromancerFireNova03|Heat Haze|Марево
+subPyromancerFireNova04|Burning Agony|Пылающая агония
+subPyromancerFireNova05|Crushing Flames|Сокрушительное пламя
+subPyromancerFireNova06|Rapid Flames|Стремительное пламя
+subPyromancerFireNova07|Mirror Flames|Зеркальное пламя
+subPyromancerFireNova08|Armageddon Bolts|Снаряды Армагеддона
+subPyromancerFireNova09|Agonizing Flames|Мучительное пламя
+subPyromancerFireNova10|Molten Trail|Раскаленный след
+subPyromancerFireNova11|Scorching Bolts|Обжигающие снаряды
+subPyromancerFireNova12|Searing Tornado|Жгучий торнадо
+subPyromancerFireNova13|Traveling Flames|Блуждающее пламя
+subPyromancerFireNova14|Vacuum Flames|Вакуумное пламя
+subDescPyromancerFireNova01|Increases the area of effect radius of fire nova.|Увеличивает радиус области действия «Огненной новы».
+subDescPyromancerFireNova02|Inflicts burning on hit.|При попадании накладывает горение.
+subDescPyromancerFireNova03|Increases the damage dealt by fire nova.|Увеличивает урон «Огненной новы».
+subDescPyromancerFireNova04|Inflicts fire break on hit.|При попадании вызывает игнорирование сопр. огню.
+subDescPyromancerFireNova05|Fire nova knocks monsters back dealing increased damage.|«Огненная нова» отбрасывает монстров, нанося увеличенный урон.
+subDescPyromancerFireNova06|Increases your cast rate when casting fire nova.|Увеличивает скорость каста при использовании «Огненной новы».
+subDescPyromancerFireNova07|Chance on cast to unleash an additional fire nova.|Дает шанс при касте выпустить дополнительную «Огненную нову».
+subDescPyromancerFireNova08|Chance on hit to drop armageddon bolts down from the sky.|Дает шанс обрушить с неба снаряды Армагеддона при попадании.
+subDescPyromancerFireNova09|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPyromancerFireNova10|Chance on cast to send a trail of molten lava forward.|Дает шанс при касте пустить вперед след из раскаленной лавы.
+subDescPyromancerFireNova11|Now unleash piercing fireballs in all directions instead of a nova.|Вместо новы теперь выпускает пронзающие «Огненные шары» во все стороны.
+subDescPyromancerFireNova12|Summon piercing fireballs orbiting you.|Призывает пронзающие «Огненные шары», вращающиеся вокруг вас.
+subDescPyromancerFireNova13|Send a traveling nova forward unleashing additional novas with increased damage and area of effect radius.|Выпускает движущуюся нову, которая порождает дополнительные новы с увеличенным уроном и радиусом.
+subDescPyromancerFireNova14|Fire nova now vacuums monsters inside stunning and dealing additional damage.|«Огненная нова» теперь затягивает монстров внутрь, оглушая их и нанося доп. урон.
+||
+subPyromancerComet01|Blast Radius|Радиус взрыва
+subPyromancerComet02|Molten Rock|Раскаленная порода
+subPyromancerComet03|Skycaller|Призыватель небес
+subPyromancerComet04|Comet Fragments|Осколки кометы
+subPyromancerComet05|Molten Aftershock|Раскаленный афтершок
+subPyromancerComet06|Shattering Impact|Разрушительный удар
+subPyromancerComet07|Stunning Hit|Оглушающее попадание
+subPyromancerComet08|Cracked Terrain|Расколотая земля
+subPyromancerComet09|Searing Shrapnel|Жгучая шрапнель
+subPyromancerComet10|Flaming Terrain|Пылающая почва
+subPyromancerComet11|Fiery Shower|Огненный ливень
+subPyromancerComet12|Molten Starfall|Раскаленный звездопад
+subPyromancerComet13|Bouncing Comets|Прыгающие кометы
+subPyromancerComet14|Crushing Comet|Сокрушительная комета
+subDescPyromancerComet01|Increases the area of effect radius of comet.|Увеличивает радиус области действия «Кометы».
+subDescPyromancerComet02|Increases the damage dealt by comet.|Увеличивает урон «Кометы».
+subDescPyromancerComet03|Increases your cast rate when using comet.|Увеличивает скорость каста при использовании «Кометы».
+subDescPyromancerComet04|Chance when comet hits the ground to rain down smaller comets.|При ударе о землю «Комета» может вызвать дождь из малых комет.
+subDescPyromancerComet05|Chance when hitting the ground to unleash a fiery pulse dealing additional damage knocking monsters back.|При ударе о землю есть шанс вызвать огненный импульс, наносящий доп. урон и отбрасывающий монстров.
+subDescPyromancerComet06|Inflicts fire break on hit.|При попадании вызывает игнорирование сопр. огню.
+subDescPyromancerComet07|Chance on hit to stun monsters.|Дает шанс оглушить монстров при попадании.
+subDescPyromancerComet08|Increased damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescPyromancerComet09|Comet shrapnel flies farther dealing a portion of comets damage.|Шрапнель от «Кометы» летит дальше, нанося урон в размере части от основного урона умения.
+subDescPyromancerComet10|Chance when hitting the ground to create flames dealing a portion of comets damage over time.|При ударе о землю может возникнуть пламя, наносящее периодический урон в размере части от урона «Кометы».
+subDescPyromancerComet11|Drop additional comets dealing increased damage.|Обрушивает дополнительные «Кометы», наносящие увеличенный урон.
+subDescPyromancerComet12|Drop multiple comets simultaneously. Comet now has a cooldown.|Обрушивает несколько «Комет» одновременно. «Комета» теперь имеет время восстановления.
+subDescPyromancerComet13|Drop multiple small comets bouncing forwards when landing.|Призывает несколько малых комет, которые скачут вперед при приземлении.
+subDescPyromancerComet14|Comet now smashes the ground with force sending monsters airborne with increased damage.|«Комета» теперь с силой бьет по земле, подбрасывая монстров и нанося увеличенный урон.
+||
+subPyromancerArmageddon01|Falling Wrath|Нисходящий гнев
+subPyromancerArmageddon02|Storm of Fire|Шторм огня
+subPyromancerArmageddon03|Colossal Chunks|Огромные обломки
+subPyromancerArmageddon04|Searing Meteor|Обжигающий метеор
+subPyromancerArmageddon05|Pyrokinetic Madness|Пирокинетическое безумие
+subPyromancerArmageddon06|Doomsday Clock|Часы Судного дня
+subPyromancerArmageddon07|Blisters|Волдыри
+subPyromancerArmageddon08|Ball of Fire|Огненная сфера
+subPyromancerArmageddon09|Doom Fire|Огонь рока
+subPyromancerArmageddon10|Blazing Pulse|Пылающий импульс
+subPyromancerArmageddon11|Searing Concentration|Концентрированный жар
+subPyromancerArmageddon12|Warm Shower|Огненный душ
+subPyromancerArmageddon13|Blistering Bolt|Испепеляющий снаряд
+subPyromancerArmageddon14|Warped Doom|Искаженная гибель
+subDescPyromancerArmageddon01|Increases the amount of armageddon projectiles.|Увеличивает количество снарядов «Армагеддона».
+subDescPyromancerArmageddon02|Increases the area of effect radius of armageddon.|Увеличивает радиус области действия «Армагеддона».
+subDescPyromancerArmageddon03|Increases projectile size and explosion radius.|Увеличивает размер снарядов и радиус их взрыва.
+subDescPyromancerArmageddon04|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescPyromancerArmageddon05|Chance on cast to unleash an additional armageddon.|Дает шанс при касте вызвать дополнительный «Армагеддон».
+subDescPyromancerArmageddon06|Decreases the cooldown of armageddon.|Снижает время восстановления «Армагеддона».
+subDescPyromancerArmageddon07|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescPyromancerArmageddon08|Chance for a meteor to turn into a ball of fire with increased size and damage.|Дает шанс метеору превратиться в огненную сферу увеличенного размера с повышенным уроном.
+subDescPyromancerArmageddon09|Increased the damage dealt by armageddon.|Увеличивает урон «Армагеддона».
+subDescPyromancerArmageddon10|Chance on hit to unleash a fiery pulse dealing additional damage.|Дает шанс вызвать огненный импульс при попадании, нанося доп. урон.
+subDescPyromancerArmageddon11|Armageddon area of effect is now drastically smaller for more concentrated damage output.|Область действия «Армагеддона» значительно уменьшена ради концентрации урона.
+subDescPyromancerArmageddon12|Armageddon now follows the player dealing increased damage.|«Армагеддон» теперь следует за игроком, нанося повышенный урон.
+subDescPyromancerArmageddon13|Armageddon now drops a meteor on every monster around you on a large radius. Armageddon no longer has a cooldown.|«Армагеддон» теперь обрушивает метеор на каждого врага в большом радиусе. Время восстановления убрано.
+subDescPyromancerArmageddon14|Armageddon projectiles now fly horizontally through terrain exploding on hit.|Снаряды «Армагеддона» теперь летят горизонтально сквозь препятствия и взрываются при попадании.

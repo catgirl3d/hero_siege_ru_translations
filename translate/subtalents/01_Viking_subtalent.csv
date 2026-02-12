@@ -1,0 +1,260 @@
+subVikingCharge01|Power Charge|Рывок мощи
+subVikingCharge02|Hyperfocus|Гиперфокус
+subVikingCharge03|Bodyslam|Таран
+subVikingCharge04|Resilience|Стойкость
+subVikingCharge05|Overconfidence|Самоуверенность
+subVikingCharge06|Spirit Breaker|Сокрушитель духа
+subVikingCharge07|Violent Momentum|Неистовый порыв
+subVikingCharge08|Berserking Ram|Берсерк-таран
+subVikingCharge09|Crushing Impact|Сокрушительный удар
+subVikingCharge10|Frenzied Mind|Бешеный разум
+subVikingCharge11|Forceful Grab|Силовой захват
+subVikingCharge12|Crashquake|Дрожь земли
+subVikingCharge13|Whirling Charge|Вихревой рывок
+subVikingCharge14|Mountain Fall|Горный обвал
+subDescVikingCharge01|Increases the damage dealt by charge.|Увеличивает урон «Рывка».
+subDescVikingCharge02|Increases the duration of charge.|Увеличивает длительность «Рывка».
+subDescVikingCharge03|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescVikingCharge04|Take reduced damage while charging and shortly after.|Получаемый урон снижен во время «Рывка» и в течение короткого времени после него.
+subDescVikingCharge05|Increases the area of effect radius of charge.|Увеличивает радиус области действия «Рывка».
+subDescVikingCharge06|Inflicts arcane break on hit.|При попадании вызывает игнорирование тайной магии.
+subDescVikingCharge07|Increases the impact damage dealt by charge for each second spent charging.|Увеличивает урон от удара «Рывком» за каждую секунду движения.
+subDescVikingCharge08|Increases the speed of your charge.|Увеличивает скорость «Рывка».
+subDescVikingCharge09|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescVikingCharge10|Stack a buff increasing your arcane skill damage when hitting monsters with charge.|Суммирует эффект, увеличивающий ваш урон тайной магией при попадании по монстрам «Рывком».
+subDescVikingCharge11|Grab monsters on your path dealing damage and stunning them when you crash into terrain.|Захватывает монстров на пути, нанося им урон и оглушая их при столкновении с препятствием.
+subDescVikingCharge12|Unleash powerful shockwaves when crashing into monsters or terrain.|Вызывает мощные ударные волны при столкновении с монстрами или препятствиями.
+subDescVikingCharge13|Charge forward in a straight line unleashing a massive whirlwind around you.|Вы совершаете рывок вперед по прямой, создавая вокруг себя огромный вихрь.
+subDescVikingCharge14|The mountain breaks and huge boulders fall down on monsters around you when crashing into monsters or terrain.|При столкновении с монстрами или препятствием гора рушится, и на врагов вокруг падают огромные валуны.
+||
+subVikingOdinsFury01|Crippling Shout|Калечащий крик
+subVikingOdinsFury02|Howling Cry|Воющий крик
+subVikingOdinsFury03|Mind Tactics|Тактика разума
+subVikingOdinsFury04|Flaming Fury|Пылающая ярость
+subVikingOdinsFury05|Echoing Roar|Резонирующий рык
+subVikingOdinsFury06|Tormenting Shout|Мучительный крик
+subVikingOdinsFury07|Emotional Damage|Моральный урон
+subVikingOdinsFury08|Echo of Duality|Эхо двойственности
+subVikingOdinsFury09|Shout of the Hunt|Клич охоты
+subVikingOdinsFury10|Dominating Howl|Подавляющий вой
+subVikingOdinsFury11|Warcry|Боевой клич
+subVikingOdinsFury12|Pulsing Echo|Пульсирующее эхо
+subVikingOdinsFury13|Trembling Roar|Дрожащий рык
+subVikingOdinsFury14|Roaring Carnage|Ревущая резня
+subDescVikingOdinsFury01|Increases the damage dealt by odin´s fury.|Увеличивает урон «Ярости Одина».
+subDescVikingOdinsFury02|Increases the stun duration of odin's fury.|Увеличивает длительность оглушения «Ярости Одина».
+subDescVikingOdinsFury03|Decreases the mana cost of odin´s fury.|Снижает затраты маны на «Ярость Одина».
+subDescVikingOdinsFury04|Inflicts burning on hit.|При попадании накладывает горение.
+subDescVikingOdinsFury05|Increases the area of effect radius of odin´s fury.|Увеличивает радиус области действия «Ярости Одина».
+subDescVikingOdinsFury06|Increases the damage of odin's fury based on your maximum life.|Увеличивает урон «Ярости Одина» в зависимости от вашего максимального запаса здоровья.
+subDescVikingOdinsFury07|Inflicts bleeding on hit.|При попадании вызывает кровотечение.
+subDescVikingOdinsFury08|Chance on cast to unleash an additional shout.|Дает шанс при касте издать дополнительный крик.
+subDescVikingOdinsFury09|Increases your movement speed for a short period of time after using odin's fury.|Увеличивает вашу скорость передвижения на короткое время после использования «Ярости Одина».
+subDescVikingOdinsFury10|Inflicts arcane break on hit.|При попадании вызывает игнорирование тайной магии.
+subDescVikingOdinsFury11|Odin’s fury now knocks back monsters and if they hit a wall or an object they take extra damage, get stunned and are pulled back to the player.|«Ярость Одина» теперь отбрасывает монстров; если они ударяются о стену или объект, то получают дополнительный урон, оглушаются и притягиваются обратно к игроку.
+subDescVikingOdinsFury12|Now performs an echoing shout pulsating multiple times dealing increased damage with each pulse.|Теперь издает эхо-крик, который пульсирует несколько раз, нанося увеличенный урон с каждым импульсом.
+subDescVikingOdinsFury13|Gain a buff dealing extra damage to burning and bleeding monsters.|Дает бафф, наносящий дополнительный урон горящим и истекающим кровью монстрам.
+subDescVikingOdinsFury14|Knock up monsters causing them to take damage when they land.|Подбрасывает монстров в воздух, заставляя их получать урон при приземлении.
+||
+subVikingSeismicSlam01|Colossal Smash|Колоссальный разлом
+subVikingSeismicSlam02|Seismic Energy|Сейсмическая энергия
+subVikingSeismicSlam03|Lethal Crush|Смертельное сокрушение
+subVikingSeismicSlam04|Cheap Slam|Беспощадный удар
+subVikingSeismicSlam05|Seismic Aftershock|Сейсмический афтершок
+subVikingSeismicSlam06|Power Slam|Мощный удар
+subVikingSeismicSlam07|Earth Root|Корни земли
+subVikingSeismicSlam08|Slamming Flurry|Шквал ударов
+subVikingSeismicSlam09|Defiling Carcass|Осквернение останков
+subVikingSeismicSlam10|Shattered Earth|Расколотая земля
+subVikingSeismicSlam11|Polar Shift|Сдвиг полюсов
+subVikingSeismicSlam12|Echoing Slam|Резонирующий удар
+subVikingSeismicSlam13|Seismic Crack|Сейсмическая трещина
+subVikingSeismicSlam14|Younger Dryas|Дриасова стужа
+subDescVikingSeismicSlam01|Increases the area of effect radius of seismic slam.|Увеличивает радиус области действия «Сейсмического удара».
+subDescVikingSeismicSlam02|Increases the damage dealt by seismic slam.|Увеличивает урон «Сейсмического удара».
+subDescVikingSeismicSlam03|Increases critical strike damage dealt by seismic slam.|Увеличивает критический урон «Сейсмического удара».
+subDescVikingSeismicSlam04|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescVikingSeismicSlam05|Targets have a chance to slam the ground on death dealing area of effect damage.|Враги при смерти могут удариться о землю, нанося урон по области.
+subDescVikingSeismicSlam06|Knocks targets back dealing increased damage.|Отбрасывает цели, нанося увеличенный урон.
+subDescVikingSeismicSlam07|Chance to root targets in place on hit dealing additional damage over time.|Дает шанс обездвижить цель при попадании, нанося дополнительный периодический урон.
+subDescVikingSeismicSlam08|Chance on hit to increase your attack speed for a short duration.|Дает шанс при попадании увеличить скорость атаки на короткое время.
+subDescVikingSeismicSlam09|Hitting a corpse with seismic slam causes it to explode dealing increased area of effect damage to nearby targets.|Попадание «Сейсмическим ударом» по трупу вызывает его взрыв, наносящий увеличенный урон по области ближайшим целям.
+subDescVikingSeismicSlam10|Chance to strike target with an earth pillar on hit knocking them airborne dealing additional damage.|Дает шанс поразить цель столпом земли, подбрасывая её в воздух и нанося дополнительный урон.
+subDescVikingSeismicSlam11|Leap a short distance to smash the ground with massive force dealing increased damage with huge aoe.|Вы совершаете прыжок на небольшое расстояние и с огромной силой бьете по земле, нанося увеличенный урон в большой области.
+subDescVikingSeismicSlam12|Slam multiple waves on a short distance increasing damage with each wave.|Создает несколько ударных волн на короткой дистанции, урон которых растет с каждой волной.
+subDescVikingSeismicSlam13|Now smash in front of you in a long narrow line knocking monsters in air causing them to unleash an aoe pulse upon landing.|Вы наносите удар перед собой по длинной узкой линии, подбрасывая монстров в воздух; при приземлении они испускают импульс урона по области.
+subDescVikingSeismicSlam14|Smashing the ground now drops a massive asteroid from the sky sending a huge tsunami dealing increased damage. Seismic Slam now has a cooldown.|Удар по земле обрушивает с небес массивный астероид, вызывающий огромное цунами и наносящий увеличенный урон. «Сейсмический удар» теперь имеет время восстановления.
+||
+subVikingThrow01|Home Run|На вылет
+subVikingThrow02|Raging Power|Неистовая мощь
+subVikingThrow03|Power Throw|Силовой бросок
+subVikingThrow04|Colossal Liftoff|Колоссальный взлет
+subVikingThrow05|Flipper|Рикошет от стен
+subVikingThrow06|Power Fall|Сокрушительное падение
+subVikingThrow07|Breaking Fall|Ослабляющее падение
+subVikingThrow08|Bouncing Around|Рикошет
+subVikingThrow09|Bulls Eye|В яблочко
+subVikingThrow10|Dive Bomb|Пикирующая бомба
+subVikingThrow11|Ragesling|Яростный бросок
+subVikingThrow12|Vacuum Pitch|Вакуумный бросок
+subVikingThrow13|Dimensional Pitch|Пространственный бросок
+subVikingThrow14|Echoing Throw|Резонирующий бросок
+subDescVikingThrow01|Increases the range of throw.|Увеличивает дальность «Броска».
+subDescVikingThrow02|Increases the damage dealt by throw.|Увеличивает урон «Броска».
+subDescVikingThrow03|Increases the projectile speed of throw.|Увеличивает скорость снаряда «Броска».
+subDescVikingThrow04|Increases throw's damage by a portion of your maximum life.|Увеличивает урон «Броска» на часть вашего максимального запаса здоровья.
+subDescVikingThrow05|Thrown monsters bounce off of walls increasing damage dealt with every bounce.|Брошенные монстры отскакивают от стен, нанося всё больше урона с каждым отскоком.
+subDescVikingThrow06|Thrown monsters smash into the ground with force causing ground fragments to fly around dealing damage.|Брошенные монстры с силой врезаются в землю, разбрасывая осколки, которые наносят урон вокруг.
+subDescVikingThrow07|Thrown monsters inflict arcane break on hit.|Брошенные монстры вызывают игнорирование тайной магии при попадании.
+subDescVikingThrow08|Thrown monster bounce off the ground dealing increased damage with every bounce.|Брошенный монстр отскакивает от земли, нанося увеличенный урон с каждым отскоком.
+subDescVikingThrow09|When directly hitting another monster, cause the monster to be knocked up dealing area of effect damage when landing.|При прямом попадании в другого монстра цель подбрасывается в воздух и наносит урон по области при приземлении.
+subDescVikingThrow10|Increases landing area of effect radius of throw.|Увеличивает радиус урона по области при приземлении «Броска».
+subDescVikingThrow11|Throws the monster faster, dealing massively increased damage to it and causing it to explode into meat chunks that deal damage to nearby monsters if it dies from the throw.|Вы бросаете монстра быстрее, нанося ему огромный урон; если цель погибает от броска, она разлетается на куски, нанося урон ближайшим врагам.
+subDescVikingThrow12|When thrown monster lands it pulls nearby monsters towards it.|При приземлении брошенный монстр притягивает к себе ближайших врагов.
+subDescVikingThrow13|Additionally throw shadow copies of the monster with increased damage.|Дополнительно бросает теневые копии монстра, наносящие увеличенный урон.
+subDescVikingThrow14|When thrown monster lands it shocks the ground multiple times with increased damage.|При приземлении брошенный монстр несколько раз сотрясает землю, нанося увеличенный урон.
+||
+subVikingZeal01|Rapid Striking|Быстрые удары
+subVikingZeal02|Fatal Blows|Смертоносные удары
+subVikingZeal03|Weapon Marksman|Мастер метания
+subVikingZeal04|Brutal Slashes|Жестокие порезы
+subVikingZeal05|Axes, More Axes!|Топоров! Еще топоров!
+subVikingZeal06|Slicing Perfection|Искусство нарезки
+subVikingZeal07|Hemorrhaging Blows|Кровавые раны
+subVikingZeal08|Bleeding Out|Обильная кровопотеря
+subVikingZeal09|Finish Them!|Прикончи их!
+subVikingZeal10|Cleaving Zeal|Рассекающее рвение
+subVikingZeal11|Throwing Fury|Ярость метания
+subVikingZeal12|Blood Ripple|Кровавая рябь
+subVikingZeal13|Sundering Strikes|Разрывающие удары
+subVikingZeal14|Zealing Blow|Удар рвения
+subDescVikingZeal01|Increases the amount of attacks done by zeal.|Увеличивает количество атак «Рвения».
+subDescVikingZeal02|Increases the damage dealt by zeal.|Увеличивает урон «Рвения».
+subDescVikingZeal03|Zeal now works with throwing weapons gaining increased attack range and damage.|«Рвение» теперь работает с метательным оружием, увеличивая дальность атаки и урон.
+subDescVikingZeal04|Increases critical strike damage dealt by zeal.|Увеличивает критический урон «Рвения».
+subDescVikingZeal05|Chance to summon an orbiting axe around the target on hit.|Дает шанс призвать вращающийся топор вокруг цели при попадании.
+subDescVikingZeal06|Increases attack rating when using zeal.|Увеличивает рейтинг атаки при использовании «Рвения».
+subDescVikingZeal07|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescVikingZeal08|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescVikingZeal09|Zeal now executes targets below a certain percentage of life.|«Рвение» теперь казнит цели, чей уровень здоровья ниже определенного порога.
+subDescVikingZeal10|Zeal now always hits multiple targets with increased attack area of effect.|«Рвение» теперь всегда поражает несколько целей с увеличенной областью атаки.
+subDescVikingZeal11|Zeal now throws multiple projectiles with increased damage when using throwing weapons.|При использовании метательного оружия «Рвение» теперь выпускает несколько снарядов с увеличенным уроном.
+subDescVikingZeal12|Each strike has a chance to unleash a ripple of blood dealing area of effect damage.|Каждый удар может вызвать волну крови, наносящую урон по области.
+subDescVikingZeal13|Zeal inflicts stacking armor break on the target increasing with each strike.|«Рвение» накладывает на цель суммирующееся пробивание брони, которое усиливается с каждым ударом.
+subDescVikingZeal14|Your last zeal strike deals increased damage stunning the target taunting nearby monsters.|Последний удар «Рвения» наносит увеличенный урон, оглушает цель и провоцирует ближайших монстров.
+||
+ubVikingYmirsChampion01|Viking´s Carnage|Жатва викинга
+subVikingYmirsChampion02|Raging Sustain|Яростная закалка
+subVikingYmirsChampion03|Slashing Cleavers|Рассекающие тесаки
+subVikingYmirsChampion04|Rimeforged Hatchet|Хладокованный топор
+subVikingYmirsChampion05|Ymir´s Focus|Концентрация Имира
+subVikingYmirsChampion06|Expanding Territory|Расширение границ
+subVikingYmirsChampion07|Rapid Spinning|Быстрое вращение
+subVikingYmirsChampion08|Frosted Blow|Ледяной удар
+subVikingYmirsChampion09|Rending Hatchet|Разрывающий топор
+subVikingYmirsChampion10|Power of Multitude|Сила множества
+subVikingYmirsChampion11|Collateral Damage|Сопутствующий ущерб
+subVikingYmirsChampion12|Chainslicing Tomahawk|Цепной томагавк
+subVikingYmirsChampion13|Scattering Battlegear|Разбросанное снаряжение
+subVikingYmirsChampion14|Shattering Axes|Раскалывающиеся топоры
+subDescVikingYmirsChampion01|Increases the damage dealt by ymir's champion.|Увеличивает урон «Чемпиона Имира».
+subDescVikingYmirsChampion02|Increases the duration of axes.|Увеличивает время действия топоров.
+subDescVikingYmirsChampion03|Increases the size of axes.|Увеличивает размер топоров.
+subDescVikingYmirsChampion04|Increases damage dealt to frozen targets.|Увеличивает урон по замороженным целям.
+subDescVikingYmirsChampion05|Increases attack rating when using ymir's champion.|Увеличивает рейтинг атаки при использовании «Чемпиона Имира».
+subDescVikingYmirsChampion06|Increases the orbit radius of axes.|Увеличивает радиус вращения топоров.
+subDescVikingYmirsChampion07|Increases the projectile speed of axes.|Увеличивает скорость полета топоров.
+subDescVikingYmirsChampion08|Chance to unleash an ice nova on hit.|Дает шанс вызвать кольцо холода при попадании.
+subDescVikingYmirsChampion09|Increases critical strike damage dealt by ymir's champion.|Увеличивает критический урон «Чемпиона Имира».
+subDescVikingYmirsChampion10|Increases axes amount but damage dealt is split between axes summoned.|Увеличивает количество топоров, но наносимый урон разделяется между ними.
+subDescVikingYmirsChampion11|Whenever the axes hit a target they send another piercing axe outwards in a straight line towards the target.|При попадании топоры выпускают еще один пронзающий топор, летящий сквозь цель.
+subDescVikingYmirsChampion12|Axes now chain through monsters and then return back to you dealing damage to monsters in its path.|Топоры теперь поражают монстров по цепочке и возвращаются к вам, нанося урон всем на пути.
+subDescVikingYmirsChampion13|Axes now fly into a random spot in a cone in front of you and start spinning on the ground dealing increased damage.|Топоры теперь летят в случайную область перед вами и вращаются на земле, нанося увеличенный урон.
+subDescVikingYmirsChampion14|At the end of their duration the axes shatter into weapon shards dealing additional damage.|По истечении времени действия топоры разлетаются на осколки, наносящие дополнительный урон.
+||
+subVikingWhirlwind01|Sharp Winds|Режущие ветры
+subVikingWhirlwind02|Wounding Spin|Ранящее вращение
+subVikingWhirlwind03|Deadly Blow|Смертельный удар
+subVikingWhirlwind04|Typhoon|Тайфун
+subVikingWhirlwind05|Airborne Debris|Летящие осколки
+subVikingWhirlwind06|Cycloning Step|Шаг циклона
+subVikingWhirlwind07|Second Wind|Второе дыхание
+subVikingWhirlwind08|Burning Air|Раскаленный воздух
+subVikingWhirlwind09|Trail of Fire|Огненный след
+subVikingWhirlwind10|Scorching Heat|Испепеляющий зной
+subVikingWhirlwind11|Sharpened Blades|Заточенные лезвия
+subVikingWhirlwind12|Detonation|Детонация
+subVikingWhirlwind13|Negative Pressure|Зона разрежения
+subVikingWhirlwind14|Airborne|Подбрасывание
+subDescVikingWhirlwind01|Increases attack rating when using whirlwind.|Увеличивает рейтинг атаки при использовании «Вихря».
+subDescVikingWhirlwind02|Increases the damage dealt by whirlwind.|Увеличивает урон «Вихря».
+subDescVikingWhirlwind03|Increases critical strike damage when using whirlwind.|Увеличивает критический урон при использовании «Вихря».
+subDescVikingWhirlwind04|Increases the area of effect radius of whirlwind.|Увеличивает радиус области действия «Вихря».
+subDescVikingWhirlwind05|Increases the critical strike chance when using whirlwind.|Увеличивает шанс критического удара при использовании «Вихря».
+subDescVikingWhirlwind06|Increases your movement speed while using whirlwind.|Увеличивает скорость передвижения во время использования «Вихря».
+subDescVikingWhirlwind07|Chance on hit to unleash a twister.|Дает шанс призвать смерч при попадании.
+subDescVikingWhirlwind08|Chance on hit to inflict burning dealing damage based on your total attack speed.|Дает шанс наложить горение при попадании; урон зависит от вашей общей скорости атаки.
+subDescVikingWhirlwind09|Leave a trail of fire behind you inflicting monsters with burning.|Вы оставляете за собой огненный след, поджигающий монстров.
+subDescVikingWhirlwind10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
+subDescVikingWhirlwind11|Greatly increases area of effect radius dealing increased damage at the outer edge.|Значительно увеличивает радиус области действия; на внешнем краю наносится повышенный урон.
+subDescVikingWhirlwind12|Store damage dealt to monsters unleashing it when whirlwind ends dealing damage on a large radius around you.|Накапливает урон, нанесенный монстрам, и высвобождает его по окончании «Вихря», нанося урон в большом радиусе вокруг вас.
+subDescVikingWhirlwind13|monsters at the edge of the whirlwind radius are sucked within the whirlwind.|Затягивает монстров с края области действия «Вихря» в центр.
+subDescVikingWhirlwind14|Knock monsters high into air causing them to take increased damage upon landing.|Высоко подбрасывает монстров в воздух, заставляя их получать увеличенный урон при приземлении.
+||
+subVikingShockwave01|Richter Scale|Шкала Рихтера
+subVikingShockwave02|Earth Shaker|Сотрясатель земли
+subVikingShockwave03|Ground Fissure|Трещина в земле
+subVikingShockwave04|Shocking Crust|Сотрясающая кора
+subVikingShockwave05|Multi Trail|Множественный след
+subVikingShockwave06|Cracked Earth|Расколотая твердь
+subVikingShockwave07|Meteorology|Вестник метеоров
+subVikingShockwave08|Duck and Cover|В укрытие!
+subVikingShockwave09|Afterquake|Повторный толчок
+subVikingShockwave10|Land Mass|Земной массив
+subVikingShockwave11|Trembling Trail|Дрожащий след
+subVikingShockwave12|Cataclysmic Smash|Катаклизм
+subVikingShockwave13|Forking Crust|Разветвленная кора
+subVikingShockwave14|Earthen Maelstrom|Земляной водоворот
+subDescVikingShockwave01|Increases shockwave travel distance.|Увеличивает дальность прохождения «Ударной волны».
+subDescVikingShockwave02|Increases the damage dealt by shockwave.|Увеличивает урон «Ударной волны».
+subDescVikingShockwave03|Chance on hit to knockup monsters dealing additional damage.|Дает шанс при попадании подбросить монстров в воздух, нанося дополнительный урон.
+subDescVikingShockwave04|Increases critical strike damage dealt by shockwave.|Увеличивает критический урон «Ударной волны».
+subDescVikingShockwave05|Adds an additional trail but decreases damage dealt by each shockwave.|Добавляет дополнительный след, но снижает урон каждой отдельной волны.
+subDescVikingShockwave06|Chance to inflict armor break on hit.|Дает шанс вызвать пробивание брони при попадании.
+subDescVikingShockwave07|Chance on hit to drop a meteor on the target dealing additional damage.|Дает шанс обрушить метеор на цель при попадании, нанося дополнительный урон.
+subDescVikingShockwave08|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescVikingShockwave09|Chance on cast to unleash an additional shockwave.|Дает шанс при касте выпустить дополнительную «Ударную волну».
+subDescVikingShockwave10|Increases the area of effect radius of shockwave.|Увеличивает радиус области действия «Ударной волны».
+subDescVikingShockwave11|Smash the ground in front of you creating a shockwave that travels a short distance and then splits into all directions.|Удар по земле перед собой создает ударную волну, которая проходит небольшое расстояние и расходится во всех направлениях.
+subDescVikingShockwave12|Smashing the ground now creates shockwaves in every direction. Shockwave now has a cooldown.|Удар по земле теперь создает ударные волны во всех направлениях. «Ударная волна» теперь имеет время восстановления.
+subDescVikingShockwave13|Each wave has a chance to fork into a new trail.|Каждая волна может разделиться на несколько новых путей.
+subDescVikingShockwave14|Shockwaves twirl outwards around you dealing increased damage.|Ударные волны расходятся вокруг вас по спирали, нанося увеличенный урон.
+||
+subVikingBerserk01|Insanity|Безумие
+subVikingBerserk02|Restless Feet|Неутомимые ноги
+subVikingBerserk03|Dual Swing|Двойной замах
+subVikingBerserk04|Fearless Focus|Бесстрашная концентрация
+subVikingBerserk05|Brutalize|Зверство
+subVikingBerserk06|Axe Throw|Метание топора
+subVikingBerserk07|Bursting Madness|Взрывное безумие
+subVikingBerserk08|Berserker´s Reach|Размах берсерка
+subVikingBerserk09|Heavy Hitter|Тяжелый удар
+subVikingBerserk10|Bring Me Another One!|Подай следующего!
+subVikingBerserk11|Berserker´s Insanity|Бешенство берсерка
+subVikingBerserk12|Deadly Advantage|Смертельное преимущество
+subVikingBerserk13|GRAAAAAGH!|ГРАААААГХ!
+subVikingBerserk14|Giant´s Grasp|Хватка великана
+subDescVikingBerserk01|Increases the damage dealt by berserk.|Увеличивает урон «Берсерка».
+subDescVikingBerserk02|Increases the movement speed bonus from berserk.|Увеличивает бонус к скорости передвижения от «Берсерка».
+subDescVikingBerserk03|Chance on attack to perform an additional attack.|Дает шанс провести дополнительную атаку при нападении.
+subDescVikingBerserk04|Increases attack rating when using berserk.|Увеличивает рейтинг атаки при использовании «Берсерка».
+subDescVikingBerserk05|Chance to strike the monster with force causing pieces of it to scatter around and damage nearby targets.|Дает шанс ударить монстра с такой силой, что его части разлетятся во все стороны и нанесут урон ближайшим целям.
+subDescVikingBerserk06|Chance on hit to throw a piercing axe towards your target inflicting armor break to all monsters hit.|Дает шанс при попадании метнуть пронзающий топор, который вызывает пробивание брони у всех задетых целей.
+subDescVikingBerserk07|Every strike now stacks to an additional buff unleashing a powerful area of effect pulse when reaching max stacks.|Каждый удар теперь дает дополнительный эффект; при достижении максимума зарядов происходит мощный импульс урона по области.
+subDescVikingBerserk08|Chance on berserk attack to increase its area of effect.|Дает шанс увеличить область действия атаки «Берсерка».
+subDescVikingBerserk09|Increases critical strike damage dealt when using berserk.|Увеличивает критический урон при использовании «Берсерка».
+subDescVikingBerserk10|Pull nearby monsters to the targets corpse on kill.|При убийстве притягивает ближайших монстров к трупу цели.
+subDescVikingBerserk11|Increases berserk stat bonuses and max stacks.|Увеличивает бонусы к характеристикам от «Берсерка» и максимальное количество зарядов.
+subDescVikingBerserk12|Berserk no longer requires a melee weapon dealing increased damage.|Для «Берсерка» больше не требуется оружие ближнего боя; наносимый урон увеличен.
+subDescVikingBerserk13|Every time you reach full stacks unleash a trembling pulse dealing increased damage scaling with full stat scaling consuming all stacks.|При достижении максимума зарядов вы испускаете дрожащий импульс, наносящий увеличенный урон (зависит от характеристик) и поглощающий все заряды.
+subDescVikingBerserk14|Increases the power of attack damage from berserk stacks lowering attack speed scaling.|Увеличивает силу урона за каждый заряд «Берсерка», но снижает масштабирование скорости атаки.

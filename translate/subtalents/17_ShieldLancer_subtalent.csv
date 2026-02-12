@@ -1,0 +1,231 @@
+subShieldLancerGloriousStrike01|Radiant Glory|Сияющая слава
+subShieldLancerGloriousStrike02|Lance Training|Мастерство копья
+subShieldLancerGloriousStrike03|Jousting Master|Турнирный мастер
+subShieldLancerGloriousStrike04|Piercing Thrust|Пронзающий выпад
+subShieldLancerGloriousStrike05|Brutal Knight|Свирепый рыцарь
+subShieldLancerGloriousStrike06|Blood Satiable|Кровавое насыщение
+subShieldLancerGloriousStrike07|Heroic Onslaught|Героический натиск
+subShieldLancerGloriousStrike08|Leave no Survivors|Пленных не брать
+subShieldLancerGloriousStrike09|Sparring Haste|Боевой азарт
+subShieldLancerGloriousStrike10|High Reach|Дальний выпад
+subShieldLancerGloriousStrike11|Punisher|Каратель
+subShieldLancerGloriousStrike12|Unstoppable Piker|Неудержимый пикинер
+subShieldLancerGloriousStrike13|Javelin Harbinger|Вестник дротика
+subShieldLancerGloriousStrike14|Valiant Combo|Доблестная серия
+subDescShieldLancerGloriousStrike01|Increases the damage dealt by glorious strike.|Увеличивает урон «Славного удара».
+subDescShieldLancerGloriousStrike02|Increases attack rating when using glorious strike.|Увеличивает рейтинг атаки при использовании «Славного удара».
+subDescShieldLancerGloriousStrike03|Increases attack area of effect radius of glorious strike.|Увеличивает радиус области атаки «Славного удара».
+subDescShieldLancerGloriousStrike04|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescShieldLancerGloriousStrike05|Increases the critical strike damage of glorious strike.|Увеличивает критический урон «Славного удара».
+subDescShieldLancerGloriousStrike06|Recover a portion of your maximum life when killing monsters.|Восполняет часть вашего макс. здоровья при убийстве монстров.
+subDescShieldLancerGloriousStrike07|Gain a stack of heroic onslaught after killing monsters increasing your damage and armor.|Убийство монстров дает заряды «Героического натиска», увеличивающие ваш урон и броню.
+subDescShieldLancerGloriousStrike08|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescShieldLancerGloriousStrike09|Increases attack speed when using glorious strike.|Увеличивает скорость атаки при использовании «Славного удара».
+subDescShieldLancerGloriousStrike10|Increases glorious strike attack range when using polearms.|Увеличивает дальность «Славного удара» при использовании древкового оружия.
+subDescShieldLancerGloriousStrike11|Chance on attack to gain increased area of effect radius. Impale targets on hit dealing damage over time.|Дает шанс при атаке увеличить радиус поражения. Пронзает цели при попадании, нанося периодический урон.
+subDescShieldLancerGloriousStrike12|Strike with a long narrow hitbox pushing monsters towards the tip on hit. Monsters hit by the tip take increased damage.|Наносит удар по узкой линии, толкая врагов к острию копья. Враги, пораженные острием, получают повышенный урон.
+subDescShieldLancerGloriousStrike13|Increases the range of glorious strike significantly. Chance on attack to throw a piercing javelin inflicting bleeding on hit.|Значительно увеличивает дальность «Славного удара». Дает шанс при атаке метнуть пронзающий дротик, вызывающий кровотечение.
+subDescShieldLancerGloriousStrike14|Glorious strike performs a burst of three attacks. The last strike sends a slashing wave knocking monsters back dealing increased damage.|«Славный удар» наносит серию из трех атак. Последний удар выпускает режущую волну, которая отбрасывает монстров и наносит повышенный урон.
+||
+subShieldLancerBattleCharge01|Battle Charged|Боевой запал
+subShieldLancerBattleCharge02|Arena Glider|Скольжение по арене
+subShieldLancerBattleCharge03|Concrete Wall|Нерушимая стена
+subShieldLancerBattleCharge04|Rampaging Assault|Неистовый штурм
+subShieldLancerBattleCharge05|Turtle Armor|Черепаший панцирь
+subShieldLancerBattleCharge06|Rocket Boots|Взрывное ускорение
+subShieldLancerBattleCharge07|Shoulder Slam|Удар плечом
+subShieldLancerBattleCharge08|Spear Dasher|Копейный рывок
+subShieldLancerBattleCharge09|Bluntforce Trauma|Тяжелая контузия
+subShieldLancerBattleCharge10|Provoking Arrival|Провоцирующее появление
+subShieldLancerBattleCharge11|Bulldozer|Таран
+subShieldLancerBattleCharge12|Hyper Assault|Сверхштурм
+subShieldLancerBattleCharge13|Ground Slammer|Сотрясатель земли
+subShieldLancerBattleCharge14|Call of the Fallen Heroes|Зов павших героев
+subDescShieldLancerBattleCharge01|Increases the damage dealt by battle charge.|Увеличивает урон «Боевого рывка».
+subDescShieldLancerBattleCharge02|Increases the range of battle charge.|Увеличивает дальность «Боевого рывка».
+subDescShieldLancerBattleCharge03|Increases the damage dealt by battle charge according to your armor.|Увеличивает урон «Боевого рывка» в зависимости от вашей брони.
+subDescShieldLancerBattleCharge04|Chance to knock monsters up dealing increased damage on hit.|Дает шанс подбросить монстров, нанося увеличенный урон при попадании.
+subDescShieldLancerBattleCharge05|Increases damage reduction for a short duration when using battle charge.|Увеличивает снижение урона на короткое время при использовании «Боевого рывка».
+subDescShieldLancerBattleCharge06|Increases the speed of battle charge.|Увеличивает скорость «Боевого рывка».
+subDescShieldLancerBattleCharge07|Chance to stun targets on hit.|Дает шанс оглушить цель при попадании.
+subDescShieldLancerBattleCharge08|Throw lances around you as you charge.|Вы разбрасываете копья вокруг себя во время рывка.
+subDescShieldLancerBattleCharge09|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescShieldLancerBattleCharge10|Taunt nearby monsters at the end of your charge.|Провоцирует ближайших монстров в конце рывка.
+subDescShieldLancerBattleCharge11|Pull monsters infront of you on hit while charging impaling them when hitting terrain.|Во время рывка тащит монстров перед собой и пригвождает их к препятствиям при ударе.
+subDescShieldLancerBattleCharge12|Charge multiple times in high speed at the target area, dealing area of effect damage damage before falling from the sky smashing the ground, knocking monsters up with increased damage.|Вы совершаете серию стремительных рывков в указанную область, нанося урон, после чего обрушиваетесь с небес, сотрясая землю, подбрасывая монстров и нанося увеличенный урон.
+subDescShieldLancerBattleCharge13|As you charge through monsters, leave the ground quaking for a small duration inflicting elemental break.|Прорываясь сквозь монстров, вы заставляете землю содрогаться, вызывая игнорирование сопр. стихиям.
+subDescShieldLancerBattleCharge14|Call upon fallen heroes to charge by your side, dealing increased damage on a larger radius.|Призывает павших героев для совместного рывка, наносящего увеличенный урон в большом радиусе.
+||
+subShieldLancerCrushingLance01|Sharp Point|Заостренный наконечник
+subShieldLancerCrushingLance02|Devastating Impact|Разрушительный удар
+subShieldLancerCrushingLance03|Precision Blow|Точный удар
+subShieldLancerCrushingLance04|Dormant Javelin|Дремлющий дротик
+subShieldLancerCrushingLance05|Finishing Stagger|Добивающее ошеломление
+subShieldLancerCrushingLance06|Two for One|Двое за одного
+subShieldLancerCrushingLance07|Rapidcast Artillery|Шквальный обстрел
+subShieldLancerCrushingLance08|Landspike|Земляной шип
+subShieldLancerCrushingLance09|Pulverizing Shock|Дробящий удар
+subShieldLancerCrushingLance10|Scorching Quake|Обжигающее сотрясение
+subShieldLancerCrushingLance11|Annihilating Salvo|Уничтожающий залп
+subShieldLancerCrushingLance12|Magnetized Glaive|Магнитная глефа
+subShieldLancerCrushingLance13|Seismic Perforation|Сейсмический разлом
+subShieldLancerCrushingLance14|Marked for Javelinstrike|Метка дротика
+subDescShieldLancerCrushingLance01|Increases the damage dealt by crushing lance.|Увеличивает урон «Сокрушительного копья».
+subDescShieldLancerCrushingLance02|Increases the area of effect radius of crushing lance.|Увеличивает радиус области действия «Сокрушительного копья».
+subDescShieldLancerCrushingLance03|Increases attack rating when using crushing lance.|Увеличивает рейтинг атаки при использовании «Сокрушительного копья».
+subDescShieldLancerCrushingLance04|Every third attack with crushing lance is empowered increasing area of effect radius and damage.|Каждая третья атака «Сокрушительным копьем» усиливается, увеличивая урон и радиус действия.
+subDescShieldLancerCrushingLance05|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescShieldLancerCrushingLance06|Chance to unleash an additional crushing lance from the target to a nearby monster on hit.|Дает шанс выпустить дополнительное «Сокрушительное копье» от цели к ближайшему монстру.
+subDescShieldLancerCrushingLance07|Increases attack speed when using crushing lance.|Увеличивает скорость атаки при использовании «Сокрушительного копья».
+subDescShieldLancerCrushingLance08|Increases the critical strike damage dealt by crushing lance.|Увеличивает критический урон «Сокрушительного копья».
+subDescShieldLancerCrushingLance09|Chance to inflict armor break on hit.|Дает шанс вызвать пробивание брони при попадании.
+subDescShieldLancerCrushingLance10|Chance on cast to empower crushing lance causing it to echo an additional time inflicting burning on hit.|Дает шанс усилить «Сокрушительное копье», заставляя его сработать повторно и наложить горение.
+subDescShieldLancerCrushingLance11|Unleash a shockwave of crushing lances towards target location.|Выпускает ударную волну из сокрушительных копий в указанном направлении.
+subDescShieldLancerCrushingLance12|The lance remains on the ground for a short duration frequently pulsating and pulling monsters towards it on hit.|Копье остается в земле на короткое время, часто пульсируя и притягивая монстров.
+subDescShieldLancerCrushingLance13|Crushing lance hits the ground with force unleashing shockwaves into all directions.|«Сокрушительное копье» с силой бьет по земле, вызывая ударные волны во всех направлениях.
+subDescShieldLancerCrushingLance14|Throw piercing javelins at monsters hit by crushing lance for a portion of the damage.|Вы мечете пронзающие дротики в монстров, пораженных «Сокрушительным копьем»; урон дротиков составляет часть от урона умения.
+||
+subShieldLancerLanceThrust01|Battle Experienced|Закаленный в боях
+subShieldLancerLanceThrust02|Pole Reach|Длина древка
+subShieldLancerLanceThrust03|Heroic Arrival|Героическое явление
+subShieldLancerLanceThrust04|Punctured Organs|Пробитые органы
+subShieldLancerLanceThrust05|Tactical Distancing|Тактический отход
+subShieldLancerLanceThrust06|Swift Striking|Стремительные удары
+subShieldLancerLanceThrust07|Polearm Expertise|Мастерство древкового оружия
+subShieldLancerLanceThrust08|Blood Harvester|Жнец крови
+subShieldLancerLanceThrust09|Stab Sequence|Серия уколов
+subShieldLancerLanceThrust10|Volatile Irontip|Нестабильное острие
+subShieldLancerLanceThrust11|Head Collector|Собиратель голов
+subShieldLancerLanceThrust12|Legion Exterminator|Истребитель легионов
+subShieldLancerLanceThrust13|Trust in the Thrust|Верный выпад
+subShieldLancerLanceThrust14|Commend to Onslaught|Приказ к натиску
+subDescShieldLancerLanceThrust01|Increases the damage dealt by lance thrust.|Увеличивает урон «Укола копьем».
+subDescShieldLancerLanceThrust02|Increases the range of lance thrust.|Увеличивает дальность «Укола копьем».
+subDescShieldLancerLanceThrust03|Increases stun duration and damage when colliding with commending banner.|Увеличивает длительность оглушения и урон при столкновении с «Воодушевляющим знаменем».
+subDescShieldLancerLanceThrust04|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescShieldLancerLanceThrust05|Knock monsters back on hit dealing increased damage.|Отбрасывает монстров назад, нанося увеличенный урон при попадании.
+subDescShieldLancerLanceThrust06|Chance to gain a stack of swift strikes on hit increasing your attack speed and attack rating.|Дает шанс получить заряд «Стремительных ударов» при попадании, повышая скорость и рейтинг атаки.
+subDescShieldLancerLanceThrust07|Increases the critical strike damage dealt by lance thrust when using polearms.|Увеличивает критический урон «Укола копьем» при использовании древкового оружия.
+subDescShieldLancerLanceThrust08|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescShieldLancerLanceThrust09|Every third attack with lance thrust is empowered increasing range and damage slowing monsters on hit.|Каждая третья атака «Уколом копьем» усиливается, увеличивая дальность и урон, а также замедляя врагов.
+subDescShieldLancerLanceThrust10|Collision with commending banner causes it to explode dealing area of effect damage.|При столкновении с «Воодушевляющим знаменем» оно взрывается, нанося урон по области.
+subDescShieldLancerLanceThrust11|Lance thrust pulls monsters towards you and stuns them on hit.|«Укол копьем» притягивает и оглушает монстров при попадании.
+subDescShieldLancerLanceThrust12|Unleash a whirl attack with increased area of effect radius. Lance thrust no longer collides with commending banner.|Вы совершаете круговую атаку с увеличенным радиусом. «Укол копьем» больше не взаимодействует с «Воодушевляющим знаменем».
+subDescShieldLancerLanceThrust13|Unleash a circle of lances thrusting the first target on hit from all directions.|Выпускает кольцо копий, которые пронзают первую цель со всех сторон.
+subDescShieldLancerLanceThrust14|Unleash additional lance thrusts towards nearby monsters from commending banner on banner impact.|При ударе по «Воодушевляющему знамени» оно выпускает дополнительные «Уколы копьем» в ближайших врагов.
+||
+subShieldLancerShieldSlam01|Obsidian Shield|Обсидиановый щит
+subShieldLancerShieldSlam02|Gradient Strikes|Нарастающие удары
+subShieldLancerShieldSlam03|Concussive Bash|Контузящий удар
+subShieldLancerShieldSlam04|Skull Fracture|Перелом черепа
+subShieldLancerShieldSlam05|Offensive Safeguard|Атакующая защита
+subShieldLancerShieldSlam06|Field Coverage|Зона покрытия
+subShieldLancerShieldSlam07|Violent Bash|Жестокий удар
+subShieldLancerShieldSlam08|Hardening Stance|Стойка твердости
+subShieldLancerShieldSlam09|Vanguard|Авангард
+subShieldLancerShieldSlam10|Rogue Shield|Блуждающий щит
+subShieldLancerShieldSlam11|Groundquake Bulwark|Оплот землетрясения
+subShieldLancerShieldSlam12|Knight´s Templar|Рыцарь-тамплиер
+subShieldLancerShieldSlam13|Thorned Aegis|Шипастая эгида
+subShieldLancerShieldSlam14|Captain Tarethiel|Капитан Таретиэль
+subDescShieldLancerShieldSlam01|Increases the damage dealt by shield slam.|Увеличивает урон «Удара щитом».
+subDescShieldLancerShieldSlam02|Increases the attack rating of shield slam.|Увеличивает рейтинг атаки «Удара щитом».
+subDescShieldLancerShieldSlam03|Chance to stun enemies on hit.|Дает шанс оглушить врагов при попадании.
+subDescShieldLancerShieldSlam04|Increases damage dealt to stunned enemies.|Увеличивает урон по оглушенным врагам.
+subDescShieldLancerShieldSlam05|Deal increased damage based on the block rating of your shield.|Наносит увеличенный урон в зависимости от показателя блока щита.
+subDescShieldLancerShieldSlam06|Increases the area of effect of shield slam.|Увеличивает область действия «Удара щитом».
+subDescShieldLancerShieldSlam07|Chance on attack to increase the damage and area of effect radius of shield slam.|Дает шанс при атаке увеличить урон и радиус «Удара щитом».
+subDescShieldLancerShieldSlam08|Chance to increase your damage return on hit for a short duration.|Дает шанс на короткое время увеличить показатель возврата урона при попадании.
+subDescShieldLancerShieldSlam09|Gain a stack of vanguard on hit increasing your damage reduction for a short duration.|При попадании дает заряд «Авангарда», кратковременно увеличивающий снижение урона.
+subDescShieldLancerShieldSlam10|Chance to summon an orbiting shield on hit for a short duration.|Дает шанс при попадании призвать вращающийся вокруг вас щит на короткое время.
+subDescShieldLancerShieldSlam11|Smash your shield into the ground unleashing an earthquake pulling monsters towards you on hit. Earthquake damage and area of effect radius are increased based on your armor. Shield slam now has a cooldown. |Вы бьете щитом о землю, вызывая землетрясение, которое притягивает монстров. Урон и радиус зависят от вашей брони. «Удар щитом» теперь имеет время восстановления.
+subDescShieldLancerShieldSlam12|Throw your shield with force causing it to bounce from the ground and terrain.|Вы с силой бросаете щит, заставляя его отскакивать от земли и препятствий.
+subDescShieldLancerShieldSlam13|Chance to gain a stack of thorned aegis on hit. Throw shields at monsters when taking damage while thorned aegis is active.|Дает шанс получить заряд «Шипастой эгиды» при попадании. Пока эффект активен, вы автоматически мечете щиты во врагов при получении урона.
+subDescShieldLancerShieldSlam14|Throw your shield with increased size and damage. The shield returns to you after a short duration dealing additional damage. Shield slam now has a cooldown.|Вы бросаете огромный щит с повышенным уроном. Через короткое время он возвращается к вам, нанося дополнительный урон. «Удар щитом» теперь имеет время восстановления.
+||
+subShieldLancerHonedDefenses01|Fortified Bastion|Укрепленный бастион
+subShieldLancerHonedDefenses02|Lucky Defense|Удачная защита
+subShieldLancerHonedDefenses03|Engulfing Wave|Поглощающая волна
+subShieldLancerHonedDefenses04|Thorn Surge|Всплеск шипов
+subShieldLancerHonedDefenses05|Deadly Resistance|Смертоносное сопротивление
+subShieldLancerHonedDefenses06|Hold!|Держать строй!
+subShieldLancerHonedDefenses07|Optimized Safeguard|Выверенная защита
+subShieldLancerHonedDefenses08|Weakening Counter|Ослабляющая контратака
+subShieldLancerHonedDefenses09|Oppresive Countermeasure|Подавляющий отпор
+subShieldLancerHonedDefenses10|Deflective Fortification|Отражающий заслон
+subShieldLancerHonedDefenses11|Sky Bulwark|Небесный оплот
+subShieldLancerHonedDefenses12|Hauling Surge|Стягивающий всплеск
+subShieldLancerHonedDefenses13|Risen Guards|Восставшие стражи
+subShieldLancerHonedDefenses14|Unstoppable Goliath|Неудержимый Голиаф
+subDescShieldLancerHonedDefenses01|Increases the damage dealt by honed defenses.|Увеличивает урон «Отточенной защиты».
+subDescShieldLancerHonedDefenses02|Chance to increase the amount of stacks gained when struck.|Дает шанс получить больше зарядов при получении удара.
+subDescShieldLancerHonedDefenses03|Increases the area of effect radius of honed defenses.|Увеличивает радиус области действия «Отточенной защиты».
+subDescShieldLancerHonedDefenses04|Increases damage return per stack of honed defenses.|Увеличивает возврат урона за каждый заряд «Отточенной защиты».
+subDescShieldLancerHonedDefenses05|Increases the damage dealt by honed defenses based on your armor.|Увеличивает урон «Отточенной защиты» в зависимости от вашей брони.
+subDescShieldLancerHonedDefenses06|Increases the duration of honed defenses.|Увеличивает длительность действия «Отточенной защиты».
+subDescShieldLancerHonedDefenses07|Increases the maximum amount of stacks for honed defenses.|Увеличивает максимальное количество зарядов «Отточенной защиты».
+subDescShieldLancerHonedDefenses08|Chance to inflict armor break when struck.|Дает шанс вызвать пробивание брони при получении удара.
+subDescShieldLancerHonedDefenses09|Chance to unleash a ground slam on the attacker when struck dealing damage based on honed defenses stacks.|Дает шанс ответить атакующему ударом по земле; урон зависит от количества зарядов «Отточенной защиты».
+subDescShieldLancerHonedDefenses10|Gain increased damage return per stack of honed defenses decreasing its damage dealt.|Увеличивает возврат урона за каждый заряд «Отточенной защиты», но снижает наносимый ею прямой урон.
+subDescShieldLancerHonedDefenses11|Giant bulwarks fall down from the sky on hit dealing increased area of effect damage inflicting elemental break.|При попадании с неба падают гигантские оплоты, наносящие урон по области и вызывающие игнорирование сопр. стихиям.
+subDescShieldLancerHonedDefenses12|Pull monsters towards you dealing increased damage and stunning them when reaching maximum stacks of honed defenses.|При достижении максимума зарядов «Отточенной защиты» притягивает, оглушает и наносит монстрам увеличенный урон.
+subDescShieldLancerHonedDefenses13|Increases the amount of maximum stacks. At maximum stacks honed defenses calls forth a legion of skeleton warriors fighting on your side for a short duration dealing 10% of the damage of honed defenses.|Увеличивает лимит зарядов. При максимуме зарядов призывает легион скелетов-воинов, сражающихся на вашей стороне и наносящих 10% от урона умения.
+subDescShieldLancerHonedDefenses14|Honed defenses no longer causes ground slam at maximum stacks increasing your maximum life, damage return and life replenish for each stack.|При максимуме зарядов «Отточенная защита» больше не бьет по земле; каждый заряд увеличивает ваше макс. здоровье, возврат урона и регенерацию.
+||
+subShieldLancerCounter01|Sharp Vengeance|Острое возмездие
+subShieldLancerCounter02|Vengeful Hit|Мстительный удар
+subShieldLancerCounter03|Double Edge|Обоюдоострый клинок
+subShieldLancerCounter04|Rupturing Lance|Раздирающее копье
+subShieldLancerCounter05|Spell Reflection|Отражение чар
+subShieldLancerCounter06|Battle Magus|Боевой маг
+subShieldLancerCounter07|Lusting Blood|Жажда крови
+subShieldLancerCounter08|Stunning Lance|Оглушающее копье
+subShieldLancerCounter09|Cheap Counter|Коварный выпад
+subShieldLancerCounter10|Bursting Lances|Разрывные копья
+subShieldLancerCounter11|Insatiable Challenger|Ненасытный дуэлянт
+subShieldLancerCounter12|Volley Build-up|Подготовка залпа
+subShieldLancerCounter13|Give No Quarter|Пощады не будет
+subShieldLancerCounter14|Versus the World|Один против всех
+subDescShieldLancerCounter01|Increases the damage dealt by counter.|Увеличивает урон «Контратаки».
+subDescShieldLancerCounter02|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescShieldLancerCounter03|Chance to throw additional lances when struck.|Дает шанс метнуть дополнительные копья при получении удара.
+subDescShieldLancerCounter04|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescShieldLancerCounter05|Counter also reflects non-physical projectiles and attacks dealing a portion of the damage.|«Контратака» также отражает нефизические атаки и снаряды, возвращая врагу часть урона.
+subDescShieldLancerCounter06|Increases the duration of counter.|Увеличивает длительность «Контратаки».
+subDescShieldLancerCounter07|Chance to replenish a portion of your maximum life on hit.|Дает шанс восполнить часть макс. здоровья при попадании.
+subDescShieldLancerCounter08|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
+subDescShieldLancerCounter09|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescShieldLancerCounter10|Chance to throw multiple piercing lances around you when struck.|Дает шанс при получении удара выпустить веер пронзающих копий.
+subDescShieldLancerCounter11|Casting counter taunts all nearby monsters inflicting armor break.|Использование «Контратаки» провоцирует всех ближайших монстров и вызывает пробивание брони.
+subDescShieldLancerCounter12|During its duration counter stores all damage taken. When expiring throw javelins at nearby monsters unleashing the stored damage taken.|Во время действия «Контратака» накапливает полученный урон. По истечении времени вы мечете дротики, высвобождая накопленный урон.
+subDescShieldLancerCounter13|Counter no longer has a duration but instead frequently drains your life and mana. Counter can be activated and deactivated and no longer has a cooldown.|«Контратака» больше не ограничена по времени, но периодически расходует здоровье и ману. Умение становится переключаемым и не имеет перезарядки.
+subDescShieldLancerCounter14|Counter no longer throws lances at monsters but gives you a chance to block incoming damage reflecting it back to the attacker with intense power. |«Контратака» больше не мечет копья, но дает шанс заблокировать урон и с огромной силой отразить его обратно в атакующего.
+||
+subShieldLancerShieldWall01|Spiked Shields|Шипастые щиты
+subShieldLancerShieldWall02|Durable Wall|Прочная стена
+subShieldLancerShieldWall03|More Shields!|Больше щитов!
+subShieldLancerShieldWall04|Split Reflection|Расколотое отражение
+subShieldLancerShieldWall05|Defensive Radius|Оборонительный радиус
+subShieldLancerShieldWall06|Shield Growth|Растущие щиты
+subShieldLancerShieldWall07|Critical Thorn|Критический шип
+subShieldLancerShieldWall08|Noxious Shields|Ядовитые щиты
+subShieldLancerShieldWall09|Breaking Spikes|Сокрушительные шипы
+subShieldLancerShieldWall10|Dissolving Corrosion|Разъедающая коррозия
+subShieldLancerShieldWall11|Gravitational Aegis|Гравитационная эгида
+subShieldLancerShieldWall12|Porkupine Carapace|Панцирь дикобраза
+subShieldLancerShieldWall13|Shield Vortex|Вихрь щитов
+subShieldLancerShieldWall14|Insatiable Bulwark|Ненасытный оплот
+subDescShieldLancerShieldWall01|Increases the damage dealt by shield wall.|Увеличивает урон «Стены щитов».
+subDescShieldLancerShieldWall02|Increases the durability and duration of shield wall.|Увеличивает прочность и длительность «Стены щитов».
+subDescShieldLancerShieldWall03|Increases the amount of shields in shield wall.|Увеличивает количество щитов в «Стене щитов».
+subDescShieldLancerShieldWall04|Chance to unleash spikes dealing damage towards the attacker when blocking a projectile.|Дает шанс при блокировании снаряда выпустить шипы, наносящие урон атакующему.
+subDescShieldLancerShieldWall05|Increases the orbiting radius of shield wall.|Увеличивает радиус вращения «Стены щитов».
+subDescShieldLancerShieldWall06|Increases the size of shield wall.|Увеличивает размер «Стены щитов».
+subDescShieldLancerShieldWall07|Chance to critically hit dealing increased critical strike damage with shield wall.|Дает шанс нанести критический удар «Стеной щитов» с увеличенным критическим уроном.
+subDescShieldLancerShieldWall08|Chance to inflict poisoned when struck.|Дает шанс наложить отравление при получении удара.
+subDescShieldLancerShieldWall09|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescShieldLancerShieldWall10|Increases damage dealt to poisoned targets.|Увеличивает урон по отравленным целям.
+subDescShieldLancerShieldWall11|Shield wall orbits in an orbit around you with increased projectile speed and increased amount of shields.|«Стена щитов» вращается вокруг вас по орбите; скорость и количество щитов увеличены.
+subDescShieldLancerShieldWall12|Chance to inflict bleeding on hit with increased bleeding frequency.|Дает шанс вызвать кровотечение при попадании; частота срабатывания эффекта увеличена.
+subDescShieldLancerShieldWall13|Unleash a tornado of shields towards target location pulling nearby monsters towards it.|Выпускает вихрь щитов в указанную область, притягивая ближайших монстров.
+subDescShieldLancerShieldWall14|Blocking projectiles and attacks buff the shields increasing damage and size.|Блокирование атак и снарядов усиливает щиты, увеличивая их размер и урон.

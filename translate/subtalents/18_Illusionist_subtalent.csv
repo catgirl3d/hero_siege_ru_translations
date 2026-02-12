@@ -1,0 +1,144 @@
+subIllusionistSandGuardian01|Hardened Sandstone|Закаленный песчаник
+subIllusionistSandGuardian02|Durable Sand|Прочный песок
+subIllusionistSandGuardian03|Deserts Gladiators|Гладиаторы пустыни
+subIllusionistSandGuardian04|Sand Frenzy|Песчаное безумие
+subIllusionistSandGuardian05|Battle IQ|Боевое чутье
+subIllusionistSandGuardian06|Reserve Army|Резервные войска
+subIllusionistSandGuardian07|Lunge Attack|Выпад
+subIllusionistSandGuardian08|Dashing Sandstrike|Стремительный удар
+subIllusionistSandGuardian09|Sand´s Edge|Песчаное острие
+subIllusionistSandGuardian10|Deadly Guardians|Смертоносные стражи
+subIllusionistSandGuardian11|Guardian Nevermore|Вечный страж
+subIllusionistSandGuardian12|Sand Mages|Песчаные маги
+subIllusionistSandGuardian13|Sacrifice for the Throne|Жертва во имя трона
+subIllusionistSandGuardian14|Guardians of the Orbital Sand|Стражи орбитальных песков
+subDescIllusionistSandGuardian01|Increases the damage dealt by sand guardians.|Увеличивает урон «Песчаных стражей».
+subDescIllusionistSandGuardian02|Increases the duration of sand guardians.|Увеличивает длительность существования «Песчаных стражей».
+subDescIllusionistSandGuardian03|Chance to unleash an additional attack.|Дает шанс провести дополнительную атаку.
+subDescIllusionistSandGuardian04|Increases the attack speed of sand guardians.|Увеличивает скорость атаки «Песчаных стражей».
+subDescIllusionistSandGuardian05|Sand guardians periodically dash a short distance towards the closest monster if not in combat.|Вне боя «Песчаные стражи» периодически совершают рывок к ближайшему врагу.
+subDescIllusionistSandGuardian06|Chance to summon an additional sand guardian on cast.|Дает шанс призвать дополнительного стража при использовании умения.
+subDescIllusionistSandGuardian07|Increases the attack range of sand guardians.|Увеличивает дальность атаки «Песчаных стражей».
+subDescIllusionistSandGuardian08|Chance on attack to dash through the target monster dealing area of effect damage.|Дает шанс совершить рывок сквозь цель при атаке, нанося урон по области.
+subDescIllusionistSandGuardian09|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным уроном.
+subDescIllusionistSandGuardian10|Increases the size and damage dealt by sand guardians, decreasing the duration.|Увеличивает размер и урон «Песчаных стражей», но сокращает время их жизни.
+subDescIllusionistSandGuardian11|Sand guardians now move around with you dealing increased damage.|«Песчаные стражи» теперь следуют за вами и наносят увеличенный урон.
+subDescIllusionistSandGuardian12|Summon sand mages zapping monsters from afar with arcane surges.|Вы призываете песчаных магов, поражающих врагов издалека магическими разрядами.
+subDescIllusionistSandGuardian13|Sand guardians immediately seek the nearest monster, charging towards it, exploding, and dealing increased damage, inflicting arcane break on hit.|«Песчаные стражи» сразу бросаются к ближайшему врагу и взрываются, нанося увеличенный урон и вызывая игнорирование сопр. тайной магии.
+subDescIllusionistSandGuardian14|Sand guardians now orbit around you, striking nearby monsters. Sand guardians now have a cooldown.|«Песчаные стражи» теперь вращаются вокруг вас, атакуя ближайших врагов. Умение теперь имеет время восстановления.
+||
+subIllusionistCircleOfGuardians01|Rapid Deployment|Быстрое развертывание
+subIllusionistCircleOfGuardians02|Peer Pressure|Единый порыв
+subIllusionistCircleOfGuardians03|Battalion of Guardians|Батальон стражей
+subIllusionistCircleOfGuardians04|Devastating Lunge|Сокрушительный выпад
+subIllusionistCircleOfGuardians05|Lasting Sand Kingdom|Вечное песчаное царство
+subIllusionistCircleOfGuardians06|Well Trained Troops|Закаленные бойцы
+subIllusionistCircleOfGuardians07|Magic Infused Blade|Зачарованный клинок
+subIllusionistCircleOfGuardians08|Far Reaching Spears|Длинные копья
+subIllusionistCircleOfGuardians09|Everflowing Sands|Текучие пески
+subIllusionistCircleOfGuardians10|Manipulation|Манипуляция
+subIllusionistCircleOfGuardians11|Desert´s Army|Армия пустыни
+subIllusionistCircleOfGuardians12|Ancient Sand Goliath|Древний песчаный голиаф
+subIllusionistCircleOfGuardians13|Arcanic Sand Tether|Магические путы
+subIllusionistCircleOfGuardians14|Seven Nation Army|Армия семи народов
+subDescIllusionistCircleOfGuardians01|Decreases the cooldown of circle of guardians.|Снижает время восстановления «Круга стражей».
+subDescIllusionistCircleOfGuardians02|Increases the damage dealt by circle of guardians.|Увеличивает урон «Круга стражей».
+subDescIllusionistCircleOfGuardians03|Increases the amount of sand guardians summoned.|Увеличивает количество стражей в круге.
+subDescIllusionistCircleOfGuardians04|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
+subDescIllusionistCircleOfGuardians05|Increases the duration of circle of guardians.|Увеличивает длительность существования «Круга стражей».
+subDescIllusionistCircleOfGuardians06|Increases the attack speed of circle of guardians.|Увеличивает скорость атаки стражей «Круга».
+subDescIllusionistCircleOfGuardians07|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescIllusionistCircleOfGuardians08|Increases the attack range of circle of guardians.|Увеличивает дальность атаки «Круга стражей».
+subDescIllusionistCircleOfGuardians09|Sand guardians gain increased duration based on your energy.|Длительность существования стражей увеличена в зависимости от вашего показателя энергии.
+subDescIllusionistCircleOfGuardians10|Increases the damage dealt by circle of guardians but each active guardian frequently drains your mana.|Увеличивает урон «Круга стражей», но каждый активный страж периодически поглощает вашу ману.
+subDescIllusionistCircleOfGuardians11|Summon a wall of guardians marching forward dealing increased damage, knocking monsters back on hit.|Призывает стену стражей, которые маршируют вперед, нанося увеличенный урон и отбрасывая врагов.
+subDescIllusionistCircleOfGuardians12|Summon an ancient sand goliath with increased size and damage based on summon amount for a short duration.|На короткое время призывает огромного голиафа; его размер и урон зависят от вашего лимита призыва.
+subDescIllusionistCircleOfGuardians13|Create an arcanic sand tether between you and the circle of guardians dealing damage over time to monsters on hit.|Создает магическую связь между вами и стражами; узы наносят периодический урон всем задетым врагам.
+subDescIllusionistCircleOfGuardians14|Increases the amount and damage of circle of guardians.|Увеличивает количество и урон стражей в «Круге».
+||
+subIllusionistAgeProliferation01|Ancient Magic|Древняя магия
+subIllusionistAgeProliferation02|Eons Ago|Минувшие эпохи
+subIllusionistAgeProliferation03|Bridge Between Reality|Мост миров
+subIllusionistAgeProliferation04|Restoring Proliferation|Исцеляющий поток
+subIllusionistAgeProliferation05|Breaking The Cycle|Разорванный цикл
+subIllusionistAgeProliferation06|Effortless Path|Легкий путь
+subIllusionistAgeProliferation07|Additional Faith|Непоколебимая вера
+subIllusionistAgeProliferation08|Rapid Aging|Стремительное увядание
+subIllusionistAgeProliferation09|Burning Aging|Опаляющее старение
+subIllusionistAgeProliferation10|Centuries Within Seconds|Века за мгновения
+subIllusionistAgeProliferation11|Growing Old|Бремя лет
+subIllusionistAgeProliferation12|Age Multiliferation|Массовое старение
+subIllusionistAgeProliferation13|Arcane Echo|Магическое эхо
+subIllusionistAgeProliferation14|Scorching Magic|Обжигающая магия
+subDescIllusionistAgeProliferation01|Increases the damage dealt by age proliferation.|Увеличивает урон «Ускоренного старения».
+subDescIllusionistAgeProliferation02|Increases the duration of age proliferation.|Увеличивает длительность «Ускоренного старения».
+subDescIllusionistAgeProliferation03|Increases the range of age proliferation.|Увеличивает дальность «Ускоренного старения».
+subDescIllusionistAgeProliferation04|Chance to restore a portion of your maximum mana on hit.|Дает шанс восполнить часть макс. запаса маны при попадании.
+subDescIllusionistAgeProliferation05|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescIllusionistAgeProliferation06|Decreases movement diminish with age proliferation.|Уменьшает штраф к скорости передвижения при использовании «Ускоренного старения».
+subDescIllusionistAgeProliferation07|Chance on cast to unleash an additional beam on a nearby monster.|Дает шанс при использовании выпустить дополнительный луч в ближайшего монстра.
+subDescIllusionistAgeProliferation08|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescIllusionistAgeProliferation09|Chance to inflict shadow burning on hit.|Дает шанс наложить теневое горение при попадании.
+subDescIllusionistAgeProliferation10|Increases the tick frequency of age proliferation.|Увеличивает частоту нанесения урона «Ускоренного старения».
+subDescIllusionistAgeProliferation11|Age proliferation grows in size and deals increased damage with every pulse.|«Ускоренное старение» увеличивается в размере и наносит больше урона с каждым импульсом.
+subDescIllusionistAgeProliferation12|Unleash age proliferation at multiple nearby monsters splitting the damage between beams.|Применяет «Ускоренное старение» сразу к нескольким врагам; урон распределяется между лучами.
+subDescIllusionistAgeProliferation13|Summon an arcane echo of your self casting age proliferation at nearby targets. Age proliferation now has a cooldown.|Призывает магическое эхо, которое использует «Ускоренное старение» на врагов. Умение теперь имеет время восстановления.
+subDescIllusionistAgeProliferation14|Age proliferation now unleashes scorching fire balls towards monsters on hit inflicting burning and slowing them.|При попадании «Ускоренное старение» выпускает в монстров обжигающие шары, которые накладывают горение и замедление.
+||
+subIllusionistGravitationalSlam01|Earth´s Pull|Земное притяжение
+subIllusionistGravitationalSlam02|Astral Chaos|Астральный хаос
+subIllusionistGravitationalSlam03|Shaken With Magic|Магический резонанс
+subIllusionistGravitationalSlam04|Gravity at Will|Покорная гравитация
+subIllusionistGravitationalSlam05|Floating Range|Летучий охват
+subIllusionistGravitationalSlam06|Self-help|Возносящий удар
+subIllusionistGravitationalSlam07|Stunned by Force|Силовое оглушение
+subIllusionistGravitationalSlam08|Gravitational Radius|Поле тяготения
+subIllusionistGravitationalSlam09|Deep Slam|Глубокий удар
+subIllusionistGravitationalSlam10|Force of Gravity|Сила притяжения
+subIllusionistGravitationalSlam11|Void Slam|Удар пустоты
+subIllusionistGravitationalSlam12|Gravitation Wave|Гравитационная волна
+subIllusionistGravitationalSlam13|Dimensional Slam|Пространственный удар
+subIllusionistGravitationalSlam14|Antigravity Slam|Антигравитационный удар
+subDescIllusionistGravitationalSlam01|Increases the damage dealt by gravitation slam.|Увеличивает урон «Гравитационного удара».
+subDescIllusionistGravitationalSlam02|Gravitation slam executes monsters below a threshold.|«Гравитационный удар» казнит монстров, чей уровень здоровья ниже определенного порога.
+subDescIllusionistGravitationalSlam03|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescIllusionistGravitationalSlam04|Increases cast rate when using gravitation slam.|Увеличивает скорость каста при использовании «Гравитационного удара».
+subDescIllusionistGravitationalSlam05|Increases the area of effect radius of gravitation slam.|Увеличивает радиус области действия «Гравитационного удара».
+subDescIllusionistGravitationalSlam06|Chance to knock monsters into air on hit dealing increased damage.|Дает шанс подбросить монстров в воздух при попадании, нанося увеличенный урон.
+subDescIllusionistGravitationalSlam07|Chance to stun targets on hit.|Дает шанс оглушить цель при попадании.
+subDescIllusionistGravitationalSlam08|Increases the maximum cast range of gravitation slam.|Увеличивает максимальную дальность применения «Гравитационного удара».
+subDescIllusionistGravitationalSlam09|Chance to critically hit dealing increased damage equal to your arcane skill damage.|Дает шанс нанести критический удар; урон при этом увеличивается на величину вашего урона умений тайной магии.
+subDescIllusionistGravitationalSlam10|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescIllusionistGravitationalSlam11|Increases the area of effect radius pulling monsters towards the center of mass on hit inflicting shadow burning. Gravitation slam now has a cooldown.|Увеличивает радиус области действия; при попадании притягивает монстров к центру и накладывает теневое горение. «Гравитационный удар» теперь имеет время восстановления.
+subDescIllusionistGravitationalSlam12|Unleash a shockwave of gravitation slams towards target direction with increased radius.|Выпускает ударную волну из гравитационных ударов в указанном направлении; радиус увеличен.
+subDescIllusionistGravitationalSlam13|Smash monsters into a black hole causing them to re-appear from an additional white hole knocked up dealing increased area of effect damage when landing.|Затягивает монстров в черную дыру, после чего они выбрасываются из белой дыры, подлетают вверх и получают увеличенный урон по области при приземлении.
+subDescIllusionistGravitationalSlam14|Knock monsters back from the center of impact with force unleashing homing void souls seeking nearby monsters.|С силой отбрасывает монстров от центра удара, выпуская самонаводящиеся души пустоты, которые ищут ближайших врагов.
+||
+subIllusionistTemporalHeroes01|Mirror Image|Зеркальное отражение
+subIllusionistTemporalHeroes02|Summon Carnage|Зов бойни
+subIllusionistTemporalHeroes03|Larger Than Life|Исполинская мощь
+subIllusionistTemporalHeroes04|Quantum Immortality|Квантовое бессмертие
+subIllusionistTemporalHeroes05|More Aid|Скорая подмога
+subIllusionistTemporalHeroes06|Accurate Clone|Истинное подобие
+subIllusionistTemporalHeroes07|Tough Bones|Крепкий костяк
+subIllusionistTemporalHeroes08|Heroes of the Ether|Герои эфира
+subIllusionistTemporalHeroes09|Fractured Reality|Расколотая реальность
+subIllusionistTemporalHeroes10|Evasive Strategy|Тактика ускользания
+subIllusionistTemporalHeroes11|Augmented Heroics|Славные подвиги
+subIllusionistTemporalHeroes12|The Four Horsemen|Четыре всадника
+subIllusionistTemporalHeroes13|The Singularity|Сингулярность
+subIllusionistTemporalHeroes14|Summon Support|Призыв соратников
+subDescIllusionistTemporalHeroes01|Increases the damage dealt by temporal heroes.|Увеличивает урон «Временных героев».
+subDescIllusionistTemporalHeroes02|Increases the attack speed of temporal heroes.|Увеличивает скорость атаки «Временных героев».
+subDescIllusionistTemporalHeroes03|Increases the life of temporal heroes.|Увеличивает здоровье «Временных героев».
+subDescIllusionistTemporalHeroes04|Increases the duration of temporal heroes.|Увеличивает длительность существования «Временных героев».
+subDescIllusionistTemporalHeroes05|Decreases the cooldown of temporal heroes.|Снижает время восстановления «Временных героев».
+subDescIllusionistTemporalHeroes06|Increases the skill levels of temporal heroes.|Повышает уровень навыков «Временных героев».
+subDescIllusionistTemporalHeroes07|Increases all resistances for temporal heroes.|Увеличивает все сопротивления «Временных героев».
+subDescIllusionistTemporalHeroes08|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescIllusionistTemporalHeroes09|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
+subDescIllusionistTemporalHeroes10|Increases the dodge chance of temporal heroes.|Увеличивает шанс уклонения «Временных героев».
+subDescIllusionistTemporalHeroes11|Temporal heroes gain augmented skills and increased damage.|«Временные герои» получают усиленные навыки и наносят больше урона.
+subDescIllusionistTemporalHeroes12|Gain an additional temporal hero increasing the damage, life and movement speed of all temporal heroes.|Вы призываете дополнительного героя; урон, здоровье и скорость передвижения всех «Временных героев» увеличены.
+subDescIllusionistTemporalHeroes13|Summon a temporal demonspawn with increased stats.|Призывает временное отродье демона с повышенными характеристиками.
+subDescIllusionistTemporalHeroes14|Temporal heroes cast buffs when summoned. Viking casts combat orders, pyromancer casts fire shield and marksman casts agility.|При появлении «Временные герои» используют усиления: викинг — «Боевые приказы», пиромант — «Огненный щит», а стрелок — «Ловкость».

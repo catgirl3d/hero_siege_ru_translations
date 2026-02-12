@@ -1,0 +1,318 @@
+subNecromancerBoneShred01|Endochondral Ossification|Окостенение плоти
+subNecromancerBoneShred02|LRP5 Gene|Костяное наследие
+subNecromancerBoneShred03|Remodelling|Перековка скелета
+subNecromancerBoneShred04|Bone Disruption|Разрушение костей
+subNecromancerBoneShred05|Osteochondroma|Трупный нарост
+subNecromancerBoneShred06|Quick Growth|Бурный рост
+subNecromancerBoneShred07|Bonerang|Костеранг
+subNecromancerBoneShred08|Exposed Fracture|Открытый перелом
+subNecromancerBoneShred09|Infected Wound|Зараженная рана
+subNecromancerBoneShred10|Bone Spurs|Костяные шпоры
+subNecromancerBoneShred11|Bomb of Bones|Костяная бомба
+subNecromancerBoneShred12|Shattering Carcass|Разрушенная туша
+subNecromancerBoneShred13|Orbiting Remains|Вращающиеся останки
+subNecromancerBoneShred14|Skeletal Split|Расщепление скелета
+subDescNecromancerBoneShred01|Increases the amount of bone shreds.|Увеличивает количество «Костяных осколков».
+subDescNecromancerBoneShred02|Increases the damage dealt by bone shred.|Увеличивает урон «Костяных осколков».
+subDescNecromancerBoneShred03|Decreases mana cost when using bone shred.|Снижает затраты маны на «Костяные осколки».
+subDescNecromancerBoneShred04|Increases projectile speed of the bone shreds.|Увеличивает скорость полета «Костяных осколков».
+subDescNecromancerBoneShred05|Chance on cast to increase the damage and size of bones.|Дает шанс при касте увеличить урон и размер костей.
+subDescNecromancerBoneShred06|Increases cast rate when using bone shred.|Увеличивает скорость каста при использовании «Костяных осколков».
+subDescNecromancerBoneShred07|Bone shreds now return to the necromancer dealing increased damage.|«Костяные осколки» теперь возвращаются к некроманту, нанося увеличенный урон.
+subDescNecromancerBoneShred08|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
+subDescNecromancerBoneShred09|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
+subDescNecromancerBoneShred10|Chance on cast to unleash additional bone shreds.|Дает шанс при касте выпустить дополнительные «Костяные осколки».
+subDescNecromancerBoneShred11|Throw a bonebomb that explodes into an increased amount of piercing bone shred into all directions.|Вы бросаете костяную бомбу, которая взрывается, разбрасывая во все стороны огромное количество пронзающих «Костяных осколков».
+subDescNecromancerBoneShred12|Bone shreds now explode into piercing bone shards on hit.|«Костяные осколки» при попадании взрываются, превращаясь в пронзающие осколки.
+subDescNecromancerBoneShred13|Bone shred now orbits the necromancer with increased damage and are sent outwards after a short period if they do not hit a target.|«Костяные осколки» вращаются вокруг некроманта, нанося повышенный урон, и вылетают наружу через короткое время, если не находят цель.
+subDescNecromancerBoneShred14|Bone shreds split into multiple piercing shreds on hit.|При попадании «Костяные осколки» распадаются на множество пронзающих осколков.
+||
+subNecromancerMeatBomb01|High Protein|Насыщенная плоть
+subNecromancerMeatBomb02|Far Reaching Meat|Разлет плоти
+subNecromancerMeatBomb03|Metabolic Lump|Гнилостный сгусток
+subNecromancerMeatBomb04|Cadavery|Трупная жатва
+subNecromancerMeatBomb05|Elastic Meat|Прыгучая плоть
+subNecromancerMeatBomb06|High Blood Pressure|Кровавый напор
+subNecromancerMeatBomb07|Tossing The Meat|Мясной снаряд
+subNecromancerMeatBomb08|Double The Meat|Двойная порция
+subNecromancerMeatBomb09|Heavy Lump of Meat|Тяжелый ком
+subNecromancerMeatBomb10|Fleshy Leftovers|Мясные ошметки
+subNecromancerMeatBomb11|Strong Bones|Крепкие кости
+subNecromancerMeatBomb12|Rotten Corpses|Гнилые трупы
+subNecromancerMeatBomb13|Multi Lumps|Россыпь сгустков
+subNecromancerMeatBomb14|Colossal Carcass|Колоссальная туша
+subDescNecromancerMeatBomb01|Increases the damage dealt by meat bomb.|Увеличивает урон «Мясной бомбы».
+subDescNecromancerMeatBomb02|Increases the cast range of meat bomb.|Увеличивает дальность применения «Мясной бомбы».
+subDescNecromancerMeatBomb03|Recover a portion of your maximum life on hit.|Восполняет часть вашего макс. запаса здоровья при попадании.
+subDescNecromancerMeatBomb04|Increases the amount of corpses created by meat bomb.|Увеличивает количество трупов, создаваемых «Мясной бомбой».
+subDescNecromancerMeatBomb05|Meatbomb bounces off the ground dealing area of effect damage with each bounce.|«Мясная бомба» отскакивает от земли, нанося урон по области при каждом касании.
+subDescNecromancerMeatBomb06|Increases meat bombs explosion area of effect radius.|Увеличивает радиус взрыва «Мясной бомбы».
+subDescNecromancerMeatBomb07|Increases meat bombs traveling speed.|Увеличивает скорость полета «Мясной бомбы».
+subDescNecromancerMeatBomb08|Chance on cast to unleash an additional meat bomb.|Дает шанс при касте выпустить дополнительную «Мясную бомбу».
+subDescNecromancerMeatBomb09|Chance on hit to stun.|Дает шанс оглушить при попадании.
+subDescNecromancerMeatBomb10|Chance for smaller chunks of meat to explode and spawn an additional corpse.|Малые куски мяса могут взорваться и создать дополнительный труп.
+subDescNecromancerMeatBomb11|Pull nearby monsters into the explosion location.|Стягивает ближайших монстров в эпицентр взрыва.
+subDescNecromancerMeatBomb12|Converts meat bombs damage to poison inflicting poisoned. Consumed corpses unleash a poison nova.|Преобразует урон «Мясной бомбы» в яд, накладывая отравление. Поглощенные трупы вызывают ядовитую нову.
+subDescNecromancerMeatBomb13|Throw multiple meat bombs in an arc inflicting arcane break on hit.|Вы бросаете несколько «Мясных бомб» по дуге; при попадании они вызывают игнорирование сопр. тайной магии.
+subDescNecromancerMeatBomb14|Throw a massive chunk of meat with increased size and damage sending monsters airborne dealing area of effect damage when landing.|Вы бросаете массивный кусок мяса увеличенного размера, который подбрасывает монстров в воздух и наносит урон по области при приземлении.
+||
+subNecromancerPoisonBreath01|Neurotoxin|Трупный яд
+subNecromancerPoisonBreath02|Aerial Fumes|Ядовитые пары
+subNecromancerPoisonBreath03|Venomous Essence|Ядовитая эссенция
+subNecromancerPoisonBreath04|Contamination|Заражение
+subNecromancerPoisonBreath05|Acid Components|Едкая смесь
+subNecromancerPoisonBreath06|Poisonous Gas|Удушливые миазмы
+subNecromancerPoisonBreath07|Vile Bacteria|Скверная гниль
+subNecromancerPoisonBreath08|Toxic Lungs|Ядовитое нутро
+subNecromancerPoisonBreath09|Necrotic Intellect|Некротический интеллект
+subNecromancerPoisonBreath10|Necrotic Ward|Некротический оберег
+subNecromancerPoisonBreath11|Acid Spit|Кислотный плевок
+subNecromancerPoisonBreath12|Bio Hazard|Очаг заражения
+subNecromancerPoisonBreath13|Necrotic Tongue|Некротический язык
+subNecromancerPoisonBreath14|Plague Breath|Чумное дыхание
+subDescNecromancerPoisonBreath01|Increases cast rate when using poison breath.|Увеличивает скорость каста при использовании «Ядовитого дыхания».
+subDescNecromancerPoisonBreath02|Increases the size of poison breath.|Увеличивает область действия «Ядовитого дыхания».
+subDescNecromancerPoisonBreath03|Inflicts poisoned on hit.|Накладывает отравление при попадании.
+subDescNecromancerPoisonBreath04|Chance on hit to chain an additional breath from the target to its closest monster.|Дает шанс при попадании перекинуть дополнительное дыхание на ближайшего монстра.
+subDescNecromancerPoisonBreath05|Dissolve low life monsters into pools of acid dealing additional damage and slowing on hit.|Растворяет монстров с низким уровнем здоровья в лужах кислоты, наносящих доп. урон и замедляющих врагов.
+subDescNecromancerPoisonBreath06|Increases damage dealt to poisoned targets.|Увеличивает урон по отравленным целям.
+subDescNecromancerPoisonBreath07|Chance on hit to inflict poison break.|Дает шанс вызвать игнорирование сопр. яду при попадании.
+subDescNecromancerPoisonBreath08|Increases the damage dealt by poison breath.|Увеличивает урон «Ядовитого дыхания».
+subDescNecromancerPoisonBreath09|Decreases the mana cost of poison breath.|Снижает затраты маны на «Ядовитое дыхание».
+subDescNecromancerPoisonBreath10|Chance to spawn a necrotic ward on hit unleashing poison breath towards the nearest monster for a short period.|Дает шанс при попадании призвать некротический оберег, который недолго выпускает ядовитое дыхание в ближайшего врага.
+subDescNecromancerPoisonBreath11|Spew out multiple poison projectiles exploding into acid novas inflicting increased poisoned damage.|Выпускает множество ядовитых снарядов, взрывающихся кислотными кольцами с повышенным уроном от яда.
+subDescNecromancerPoisonBreath12|Increases the size of poison breath on hit.|Увеличивает область действия «Ядовитого дыхания» при попадании.
+subDescNecromancerPoisonBreath13|Increases the length of poison breath inflicting poison break and dealing increased damage.|Увеличивает дальность «Ядовитого дыхания», нанося повышенный урон и вызывая игнорирование сопр. яду.
+subDescNecromancerPoisonBreath14|Unleash multiple breaths in an arc dealing increased damage.|Выпускает несколько потоков дыхания по дуге, нанося повышенный урон.
+||
+subNecromancerBoneSpear01|Bone Density|Крепость кости
+subNecromancerBoneSpear02|Mana Dweller|Сродство с маной
+subNecromancerBoneSpear03|Raising Spirits|Пробуждение духов
+subNecromancerBoneSpear04|Bone Sling|Костяной бросок
+subNecromancerBoneSpear05|Disease Ridden Bone|Морная кость
+subNecromancerBoneSpear06|Autoimmune Disease|Костный некроз
+subNecromancerBoneSpear07|Sharp Edged Bone|Зазубренная кость
+subNecromancerBoneSpear08|Bone Conjuring|Призыв кости
+subNecromancerBoneSpear09|Fervoring Fever|Пылающая лихорадка
+subNecromancerBoneSpear10|Spiritual Tradeoff|Духовная жертва
+subNecromancerBoneSpear11|Impaling Spine|Пронзающий хребет
+subNecromancerBoneSpear12|Bone Nova|Костяная нова
+subNecromancerBoneSpear13|Plenty of Bone|Груда костей
+subNecromancerBoneSpear14|Bone Splinters|Осколки костей
+subDescNecromancerBoneSpear01|Increases the damage dealt by bone spear.|Увеличивает урон «Костяного копья».
+subDescNecromancerBoneSpear02|Decreases the mana cost of bone spear.|Снижает затраты маны на «Костяное копье».
+subDescNecromancerBoneSpear03|Chance on hit to summon a bone spirit.|Дает шанс призвать костяного духа при попадании.
+subDescNecromancerBoneSpear04|Increases the projectile speed of bone spear.|Увеличивает скорость полета «Костяного копья».
+subDescNecromancerBoneSpear05|Chance to inflict poisoned on hit.|Дает шанс наложить отравление при попадании.
+subDescNecromancerBoneSpear06|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
+subDescNecromancerBoneSpear07|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescNecromancerBoneSpear08|Decreases movement diminish when using bone spear.|Уменьшает штраф к скорости передвижения при использовании «Костяного копья».
+subDescNecromancerBoneSpear09|Increases damage dealt to poisoned targets.|Увеличивает урон по отравленным целям.
+subDescNecromancerBoneSpear10|Increases damage based on your energy increasing the mana cost by a portion of your maximum mana.|Увеличивает урон в зависимости от вашей энергии, но стоимость умения возрастает на часть от вашего макс. запаса маны.
+subDescNecromancerBoneSpear11|Throw a colossal bone spear dealing increased damage and knocking up monsters on hit.|Вы мечете колоссальное костяное копье, которое наносит увеличенный урон и подбрасывает монстров в воздух при попадании.
+subDescNecromancerBoneSpear12|Bone spear now explodes into a bone nova on hit dealing increased damage and stunning on hit.|«Костяное копье» теперь взрывается при попадании, создавая костяную нову; урон увеличен, враги оглушаются.
+subDescNecromancerBoneSpear13|Throw multiple smaller bone spears in an arc.|Вы выпускаете несколько малых костяных копий веером.
+subDescNecromancerBoneSpear14|Bone spears split into multiple smaller bone spears on hit.|«Костяные копья» при попадании разделяются на несколько осколков.
+||
+subNecromancerCorpseExplosion01|Volatile Magic|Нестабильная магия
+subNecromancerCorpseExplosion02|Violent Burst|Неистовый взрыв
+subNecromancerCorpseExplosion03|Channeling Necromancy|Узы некромантии
+subNecromancerCorpseExplosion04|Reaching Conduit|Проводник смерти
+subNecromancerCorpseExplosion05|Homunculus|Гомункул
+subNecromancerCorpseExplosion06|Reaper Within|Внутренний жнец
+subNecromancerCorpseExplosion07|Rush from the Harvest|Порыв жатвы
+subNecromancerCorpseExplosion08|Unfair Advantage|Гнусное преимущество
+subNecromancerCorpseExplosion09|Presence of the Lich|Присутствие лича
+subNecromancerCorpseExplosion10|Assured Passing|Неминуемая смерть
+subNecromancerCorpseExplosion11|Convergence|Слияние сил
+subNecromancerCorpseExplosion12|Dissolvant Solution|Едкий состав
+subNecromancerCorpseExplosion13|Devouring Aura|Пожирающая аура
+subNecromancerCorpseExplosion14|Lich's Command|Приказ лича
+subDescNecromancerCorpseExplosion01|Increases the explosion area of effect radius of corpse explosion.|Увеличивает радиус взрыва «Взрыва трупа».
+subDescNecromancerCorpseExplosion02|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescNecromancerCorpseExplosion03|Increases maximum cast range of corpse explosion.|Увеличивает максимальную дальность применения «Взрыва трупа».
+subDescNecromancerCorpseExplosion04|Increases the area of effect radius of corpse explosion.|Увеличивает радиус области действия «Взрыва трупа».
+subDescNecromancerCorpseExplosion05|Corpses spawned from meat bomb causes corpse explosions to deal additional damage.|Трупы, оставшиеся от «Мясной бомбы», заставляют «Взрыв трупа» наносить дополнительный урон.
+subDescNecromancerCorpseExplosion06|Increases the damage dealt by corpse explosion.|Увеличивает урон «Взрыва трупа».
+subDescNecromancerCorpseExplosion07|Exploding a corpse gives you a burst of movement speed.|Взрыв трупа дает вам кратковременный бонус к скорости передвижения.
+subDescNecromancerCorpseExplosion08|Increases damage dealt to stunned enemies.|Увеличивает урон по оглушенным врагам.
+subDescNecromancerCorpseExplosion09|Chance to stun on hit.|Дает шанс оглушить цель при попадании.
+subDescNecromancerCorpseExplosion10|Corpses have a chance to explode twice.|Трупы могут взорваться дважды.
+subDescNecromancerCorpseExplosion11|Corpse explosion now inflicts poisoned and poison break on hit.|«Взрыв трупа» теперь накладывает отравление и вызывает игнорирование сопр. яду при попадании.
+subDescNecromancerCorpseExplosion12|Corpse explosion deals poison damage inflicting poison break and dissolves low life monsters into gas clouds. |«Взрыв трупа» наносит урон ядом, вызывая игнорирование сопр. яду; слабые монстры при смерти превращаются в облака ядовитого газа.
+subDescNecromancerCorpseExplosion13|Activate an aura around you consuming nearby corpses per second casting corpse explosion for a short period. Corpse explosion now has a cooldown.|Окружает вас аурой, которая ежесекундно поглощает трупы, вызывая их взрыв. «Взрыв трупа» теперь имеет время восстановления.
+subDescNecromancerCorpseExplosion14|Corpses are now lit on fire with increased size, dealing increased damage and inflicting burning on hit.|Взрывающиеся трупы теперь охвачены пламенем и имеют увеличенный размер; они наносят повышенный урон и накладывают горение.
+||
+subNecromancerBoneSpirit01|Divide Soul|Раскол души
+subNecromancerBoneSpirit02|Purifying Essence|Очищающая эссенция
+subNecromancerBoneSpirit03|Life Infusion|Насыщение жизнью
+subNecromancerBoneSpirit04|Ancient Possession|Древняя одержимость
+subNecromancerBoneSpirit05|Cycle of Life|Круговорот жизни
+subNecromancerBoneSpirit06|Touch of Arcana|Прикосновение тайной магии
+subNecromancerBoneSpirit07|Mark Target|Метка смерти
+subNecromancerBoneSpirit08|Follow the Leader|Призрачный след
+subNecromancerBoneSpirit09|Spirits Unleashed|Высвобождение духов
+subNecromancerBoneSpirit10|Soul infusion|Насыщение душой
+subNecromancerBoneSpirit11|Ghouls of Agony|Упыри агонии
+subNecromancerBoneSpirit12|Furnace of Souls|Горнило душ
+subNecromancerBoneSpirit13|Soul Sacrifice|Жертвоприношение души
+subNecromancerBoneSpirit14|Spirit Festival|Пиршество духов
+subDescNecromancerBoneSpirit01|Bone spirit unleashes additional souls on hit.|«Костяной дух» при попадании выпускает дополнительные души.
+subDescNecromancerBoneSpirit02|Increases the damage dealt by bone spirit.|Увеличивает урон «Костяного духа».
+subDescNecromancerBoneSpirit03|Increases the explosion area of effect radius of bone spirit.|Увеличивает радиус взрыва «Костяного духа».
+subDescNecromancerBoneSpirit04|Bone spirits grow larger and deal more damage over time while traveling.|По мере полета костяные духи увеличиваются в размерах и наносят больше урона.
+subDescNecromancerBoneSpirit05|Gain chance to critically hit with increased critical damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
+subDescNecromancerBoneSpirit06|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
+subDescNecromancerBoneSpirit07|Increases the damage dealt to bosses.|Увеличивает урон по боссам.
+subDescNecromancerBoneSpirit08|Increases the damage dealt by bone spirits explosion.|Увеличивает урон от взрыва «Костяного духа».
+subDescNecromancerBoneSpirit09|Increases bone spirit size and damage scaling with your explosion area of effect stat.|Размер и урон костяного духа растут в зависимости от вашего показателя области взрыва.
+subDescNecromancerBoneSpirit10|When passing through one of the necromancers summons or allies bone spirits heals them for a portion of their maximum life.|Пролетая сквозь ваших прислужников или союзников, костяные духи восполняют им часть макс. здоровья.
+subDescNecromancerBoneSpirit11|No longer explodes on hit but travels forwards slowly dealing damage over time.|Дух больше не взрывается при попадании, а медленно летит вперед, нанося периодический урон.
+subDescNecromancerBoneSpirit12|Summon increased amount of souls inflicting burning on hit.|Призывает больше душ, которые накладывают горение при попадании.
+subDescNecromancerBoneSpirit13|Now consumes a portion of your mana on hit converting it into additional damage.|При попадании расходует часть вашей маны, преобразуя её в дополнительный урон.
+subDescNecromancerBoneSpirit14|Consume multiple corpses in a radius around you summoning a bone spirit from each. Cooldown is now increased.|Вы поглощаете все трупы в радиусе вокруг вас, призывая из каждого по костяному духу. Время восстановления увеличено.
+||
+subNecromancerPoisonNova01|Hollow Fangs|Полые клыки
+subNecromancerPoisonNova02|Potent Venom|Концентрированный яд
+subNecromancerPoisonNova03|Embrace the Venom|Принятие яда
+subNecromancerPoisonNova04|Conjurer's Might|Мощь заклинателя
+subNecromancerPoisonNova05|Venom's Reach|Охват яда
+subNecromancerPoisonNova06|Weakening Infection|Ослабляющая инфекция
+subNecromancerPoisonNova07|Down with the Sickness|Смертоносная хворь
+subNecromancerPoisonNova08|Amplifying Mark|Усиливающая метка
+subNecromancerPoisonNova09|Overwhelming Presence|Подавляющее присутствие
+subNecromancerPoisonNova10|Toxic Twist|Ядовитый круговорот
+subNecromancerPoisonNova11|Poison Cloud|Ядовитое облако
+subNecromancerPoisonNova12|Virulent Blink|Чумной скачок
+subNecromancerPoisonNova13|Center of Epidemy|Эпицентр эпидемии
+subNecromancerPoisonNova14|Puppet Master|Повелитель марионеток
+subDescNecromancerPoisonNova01|Increases the amount of poison projectiles.|Увеличивает количество ядовитых снарядов.
+subDescNecromancerPoisonNova02|Increases the damage dealt by poison nova.|Увеличивает урон «Ядовитой новы».
+subDescNecromancerPoisonNova03|Increases the poisoned amount when dealing damage with poison nova.|Увеличивает силу отравления при нанесении урона «Ядовитой новой».
+subDescNecromancerPoisonNova04|Increases the projectile speed of poison nova.|Увеличивает скорость снарядов «Ядовитой новы».
+subDescNecromancerPoisonNova05|Chance to spread poison to nearby monsters on hit.|Дает шанс распространить яд на ближайших монстров при попадании.
+subDescNecromancerPoisonNova06|Chance to reduce targets damage dealt on hit.|Дает шанс снизить урон, наносимый целью, при попадании.
+subDescNecromancerPoisonNova07|Chance to slow and inflict poison break on hit.|Дает шанс при попадании замедлить цель и вызвать игнорирование сопр. яду.
+subDescNecromancerPoisonNova08|Increases damage dealt to poisoned targets.|Увеличивает урон по отравленным целям.
+subDescNecromancerPoisonNova09|Increases the size of poison projectiles.|Увеличивает размер ядовитых снарядов.
+subDescNecromancerPoisonNova10|Poison nova projectiles now orbit outwards with increased duration.|Снаряды «Ядовитой новы» теперь разлетаются по спирали; время действия увеличено.
+subDescNecromancerPoisonNova11|Instead of releasing projectiles poison nova instead causes an explosion centered around the necromancer dealing increased damage based on projectile amount.|Вместо выпуска снарядов «Ядовитая нова» вызывает взрыв вокруг некроманта; урон зависит от количества снарядов.
+subDescNecromancerPoisonNova12|Teleport to cast location hexing enemies on hit.|Вы телепортируетесь в указанную точку, накладывая проклятие на врагов при появлении.
+subDescNecromancerPoisonNova13|Poison nova projectiles have a chance to return to the necromancer dealing damage and increasing the necromancers poison damage on return.|Снаряды «Ядовитой новы» могут вернуться к некроманту; при возвращении они наносят урон врагам и увеличивают ваш урон ядом.
+subDescNecromancerPoisonNova14|Cast a poison nova from all nearby poisoned enemies with increased damage based on poisoned. Poison nova now has a cooldown.|Вызывает «Ядовитую нову» от всех ближайших отравленных врагов; урон зависит от силы отравления. Умение теперь имеет время восстановления.
+||
+subNecromancerRaiseSkeleton01|Undead Army|Армия мертвых
+subNecromancerRaiseSkeleton02|Unholy Strike|Нечестивый удар
+subNecromancerRaiseSkeleton03|Command for Haste|Повеление скорости
+subNecromancerRaiseSkeleton04|Absorb Vitality|Поглощение жизни
+subNecromancerRaiseSkeleton05|Undead Berserker|Скелет-берсерк
+subNecromancerRaiseSkeleton06|Between the Ribs|Меж костей
+subNecromancerRaiseSkeleton07|Unholy Lifeforce|Нечестивая мощь
+subNecromancerRaiseSkeleton08|Toes Attached|Подвижность костей
+subNecromancerRaiseSkeleton09|Undying Rage|Неутолимая ярость
+subNecromancerRaiseSkeleton10|Last Stand|Последний бой
+subNecromancerRaiseSkeleton11|Zombies!|Зомби!
+subNecromancerRaiseSkeleton12|Winds of the Dead|Ветры мертвецов
+subNecromancerRaiseSkeleton13|Horde of Undead|Орда нежити
+subNecromancerRaiseSkeleton14|Weapons Beyond Grave|Загробное оружие
+subDescNecromancerRaiseSkeleton01|Increases the maximum amount of skeleton warriors.|Увеличивает максимальное количество скелетов-воинов.
+subDescNecromancerRaiseSkeleton02|Increases damage dealt by skeleton warriors.|Увеличивает урон скелетов-воинов.
+subDescNecromancerRaiseSkeleton03|Increases the attack speed of skeleton warriors.|Увеличивает скорость атаки скелетов-воинов.
+subDescNecromancerRaiseSkeleton04|Skeleton warriors heal them selves for a portion of their missing life on hit.|Скелеты-воины при попадании восполняют часть своего недостающего здоровья.
+subDescNecromancerRaiseSkeleton05|Skeleton warriors now deal a portion of their damage as area of effect damage.|Скелеты-воины теперь наносят часть своего урона по области.
+subDescNecromancerRaiseSkeleton06|Skeleton warriors now have a chance to dodge incoming damage.|Скелеты-воины могут уклониться от входящего урона.
+subDescNecromancerRaiseSkeleton07|Increases the life of skeleton warriors.|Увеличивает здоровье скелетов-воинов.
+subDescNecromancerRaiseSkeleton08|Increases skeleton warrior movement speed.|Увеличивает скорость передвижения скелетов-воинов.
+subDescNecromancerRaiseSkeleton09|Increases skeleton warrior damage based on their missing life percentage.|Увеличивает урон скелетов-воинов в зависимости от процента их недостающего здоровья.
+subDescNecromancerRaiseSkeleton10|Skeleton warrior life is reduced and they explode upon death unleashing bone shrapnel around them.|Здоровье скелетов-воинов снижено; при смерти они взрываются, разбрасывая вокруг костяную шрапнель.
+subDescNecromancerRaiseSkeleton11|Skeleton warriors are spawned as zombies rapidly draining their life and exploding into pieces inflicting poisoned.|Скелеты-воины призываются в виде зомби, которые быстро теряют здоровье и взрываются, накладывая отравление.
+subDescNecromancerRaiseSkeleton12|Skeleton warriors have a chance to perform an area of effect attack with increased radius and damage.|Скелеты-воины могут провести атаку по области с увеличенным радиусом и уроном.
+subDescNecromancerRaiseSkeleton13|Increases the maximum summon amount of skeleton warriors. Skeleton warriors damage and life is reduced.|Увеличивает лимит скелетов-воинов, но снижает их урон и здоровье.
+subDescNecromancerRaiseSkeleton14|Skeleton warriors have a chance on attack to deal critical damage equal to your critical strike damage.|Скелеты-воины могут нанести критический удар, урон которого равен вашему показателю критического урона.
+||
+subNecromancerRaiseSkeletonMage01|Undead Coven|Ковен нежити
+subNecromancerRaiseSkeletonMage02|Unholy Force|Нечестивая сила
+subNecromancerRaiseSkeletonMage03|Reflection|Зеркальное эхо
+subNecromancerRaiseSkeletonMage04|Unholy Spellsling|Нечестивое колдовство
+subNecromancerRaiseSkeletonMage05|Unholy Necrosis|Нечестивый некроз
+subNecromancerRaiseSkeletonMage06|Dark Bolts|Темные стрелы
+subNecromancerRaiseSkeletonMage07|Necrotic Mirage|Некротический мираж
+subNecromancerRaiseSkeletonMage08|Festering Scorch|Гнойный ожог
+subNecromancerRaiseSkeletonMage09|Gluttony|Чревоугодие
+subNecromancerRaiseSkeletonMage10|Unholy Grasp|Нечестивая хватка
+subNecromancerRaiseSkeletonMage11|Cursed Blast|Проклятый разряд
+subNecromancerRaiseSkeletonMage12|Chaining Scorn|Цепное презрение
+subNecromancerRaiseSkeletonMage13|Summon Archmage|Призыв архимага
+subNecromancerRaiseSkeletonMage14|Unholy Lightning|Нечестивая молния
+subDescNecromancerRaiseSkeletonMage01|Increases the maximum amount of skeleton mages.|Увеличивает максимальное количество скелетов-магов.
+subDescNecromancerRaiseSkeletonMage02|Increases damage dealt by skeleton mages.|Увеличивает урон скелетов-магов.
+subDescNecromancerRaiseSkeletonMage03|Chance for skeleton mages to fire an additional projectile on attack.|Дает скелетам-магам шанс выпустить дополнительный снаряд при атаке.
+subDescNecromancerRaiseSkeletonMage04|Chance for skeleton mages to critically hit.|Дает скелетам-магам шанс нанести критический удар.
+subDescNecromancerRaiseSkeletonMage05|Increases critical strike damage dealt by skeleton mages.|Увеличивает критический урон скелетов-магов.
+subDescNecromancerRaiseSkeletonMage06|Skeleton mage now fires multiple projectiles in an arc.|Скелеты-маги теперь выпускают несколько снарядов по дуге.
+subDescNecromancerRaiseSkeletonMage07|Chance on attack to create an illusion for a short period of time.|Дает шанс создать иллюзию на короткое время при атаке.
+subDescNecromancerRaiseSkeletonMage08|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
+subDescNecromancerRaiseSkeletonMage09|Increases the life of skeleton mages.|Увеличивает здоровье скелетов-магов.
+subDescNecromancerRaiseSkeletonMage10|Increases attack speed for skeleton mages.|Увеличивает скорость атаки скелетов-магов.
+subDescNecromancerRaiseSkeletonMage11|Unleash an arcane nova on hit dealing a portion of the damage.|При попадании высвобождает кольцо тайной магии, наносящее часть урона.
+subDescNecromancerRaiseSkeletonMage12|Attacks now chain on hit dealing increased damage.|Атаки теперь поражают цели по цепочке, нанося увеличенный урон.
+subDescNecromancerRaiseSkeletonMage13|You can now only summon one skeleton mage but it scales according to the maximum amount of skeleton mages.|Теперь вы можете призвать только одного скелета-мага, но его сила зависит от вашего лимита скелетов-магов.
+subDescNecromancerRaiseSkeletonMage14|Skeleton mages now shoot a surge of dark lightning with increased range and damage.|Скелеты-маги теперь выпускают разряды темной молнии с увеличенной дальностью и уроном.
+||
+subNecromancerSummonDamnedLegion01|Unhallowed Authority|Нечестивая власть
+subNecromancerSummonDamnedLegion02|Undead Leadership|Предводитель нежити
+subNecromancerSummonDamnedLegion03|Unholy Reverberation|Нечестивое эхо
+subNecromancerSummonDamnedLegion04|Colossus Smash|Удар колосса
+subNecromancerSummonDamnedLegion05|Vile Shock|Скверный шок
+subNecromancerSummonDamnedLegion06|Mass Legion|Легион теней
+subNecromancerSummonDamnedLegion07|Infused with Blood|Напитанный кровью
+subNecromancerSummonDamnedLegion08|Profane Zeal|Скверное рвение
+subNecromancerSummonDamnedLegion09|Legionnaire Agility|Ловкость легионера
+subNecromancerSummonDamnedLegion10|Crimson Aura|Багровая аура
+subNecromancerSummonDamnedLegion11|Abombination|Мерзость
+subNecromancerSummonDamnedLegion12|Thorned Revenant|Шипастый призрак
+subNecromancerSummonDamnedLegion13|Damned Sharpshooter|Проклятый стрелок
+subNecromancerSummonDamnedLegion14|Catastrophic Legion|Гибельный легион
+subDescNecromancerSummonDamnedLegion01|Increases the damage dealt by damned legion.|Увеличивает урон «Проклятого легиона».
+subDescNecromancerSummonDamnedLegion02|Chance on hit to inspire nearby allies increasing their attack speed and damage for a short period.|При попадании может вдохновить союзников, временно увеличив их скорость атаки и урон.
+subDescNecromancerSummonDamnedLegion03|Chance on attack for damned legion to stun nearby monsters.|Атаки «Проклятого легиона» могут оглушить ближайших монстров.
+subDescNecromancerSummonDamnedLegion04|Attacks deal a portion of their damage to enemies around the target.|Атаки наносят часть урона врагам вокруг цели.
+subDescNecromancerSummonDamnedLegion05|Chance on attack to cast shockwave dealing area of effect damage and stunning monsters in a line.|При атаке может возникнуть ударная волна, наносящая урон по области и оглушающая врагов перед собой.
+subDescNecromancerSummonDamnedLegion06|Increases the maximum amount of damned legions.|Увеличивает максимальное количество «Проклятых легионов».
+subDescNecromancerSummonDamnedLegion07|Increases the life of damned legion based on your maximum life.|Увеличивает здоровье «Проклятого легиона» в зависимости от вашего макс. здоровья.
+subDescNecromancerSummonDamnedLegion08|Chance to perform an additional attack.|Дает шанс провести дополнительную атаку.
+subDescNecromancerSummonDamnedLegion09|Increases the attack speed of damned legion.|Увеличивает скорость атаки «Проклятого легиона».
+subDescNecromancerSummonDamnedLegion10|Damned legion has an aura around them that pulses every second dealing a portion of their life as damage to nearby monsters.|«Проклятый легион» окружен аурой, которая ежесекундно наносит ближайшим врагам урон в размере части от здоровья легиона.
+subDescNecromancerSummonDamnedLegion11|Summon an frenzied Abomination instead that deals increased Damage for a short period of time before exploding dealing massively increased damage to nearby monsters.|Вместо этого призывает яростную Мерзость; она наносит повышенный урон, а через некоторое время взрывается, нанося огромный урон по области.
+subDescNecromancerSummonDamnedLegion12|Damned legion gains damage return based on your total damage return.|«Проклятый легион» возвращает урон в зависимости от вашего показателя возврата урона.
+subDescNecromancerSummonDamnedLegion13|Instead summon a legion marksman firing explosive bolts with a giant ballista.|Вместо этого призывает стрелка-легионера, стреляющего разрывными снарядами из огромной баллисты.
+subDescNecromancerSummonDamnedLegion14|Summon a single damned legion with increased damage and life. Additionally grows the size of damned legion scaling from the legion's maximum life.|Призывает один «Проклятый легион» с увеличенным здоровьем и уроном. Размер легиона растет в зависимости от его макс. здоровья.
+||
+subNecromancerVengefulSpirit01|Hostile Intelligence|Враждебный умысел
+subNecromancerVengefulSpirit02|Nimble Spirit|Проворный дух
+subNecromancerVengefulSpirit03|Swift Bolts|Быстрые разряды
+subNecromancerVengefulSpirit04|Eternal Vengeance|Вечная месть
+subNecromancerVengefulSpirit05|Forking Bolts|Разветвленные разряды
+subNecromancerVengefulSpirit06|Critical Wrath|Критический гнев
+subNecromancerVengefulSpirit07|Stacking Pain|Накопление боли
+subNecromancerVengefulSpirit08|Vacuuming Apparation|Поглощающий призрак
+subNecromancerVengefulSpirit09|Extended Lightning|Протяженная молния
+subNecromancerVengefulSpirit10|Retaliatory Transfusion|Ответное исцеление
+subNecromancerVengefulSpirit11|Contaminated Spirit|Оскверненный дух
+subNecromancerVengefulSpirit12|Hatred Reinforcements|Прилив ненависти
+subNecromancerVengefulSpirit13|Sacrificial Offering|Жертвоприношение
+subNecromancerVengefulSpirit14|Vengeful Poltergeist|Мстительный полтергейст
+subDescNecromancerVengefulSpirit01|Increases vengeful spirits damage based on your intelligence.|Увеличивает урон «Мстительного духа» в зависимости от вашего интеллекта.
+subDescNecromancerVengefulSpirit02|Increases the movement speed of vengeful spirit.|Увеличивает скорость передвижения «Мстительного духа».
+subDescNecromancerVengefulSpirit03|Increases the attack speed of vengeful spirit.|Увеличивает скорость атаки «Мстительного духа».
+subDescNecromancerVengefulSpirit04|Increases vengeful spirits life.|Увеличивает здоровье «Мстительного духа».
+subDescNecromancerVengefulSpirit05|Attacks by vengeful spirit have a chance to fork creating multiple chain lightnings.|Атаки «Мстительного духа» могут разделиться, создавая несколько цепных молний.
+subDescNecromancerVengefulSpirit06|Attacks always critically strike targets at max health dealing increased damage stunning them.|Атаки по целям с полным здоровьем всегда наносят критический урон, оглушая врагов.
+subDescNecromancerVengefulSpirit07|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
+subDescNecromancerVengefulSpirit08|Chance on attack to summon a ghastly whirlpool that pulls nearby targets into it.|При атаке может возникнуть призрачный водоворот, затягивающий ближайшие цели.
+subDescNecromancerVengefulSpirit09|Chain lightning from vengeful spirit chains to additional targets.|Цепная молния «Мстительного духа» поражает дополнительные цели.
+subDescNecromancerVengefulSpirit10|Vengeful spirit gains an aura dealing damage and draining a portion of it to heal it self.|«Мстительный дух» получает ауру, которая наносит урон и восстанавливает ему здоровье в размере части от этого урона.
+subDescNecromancerVengefulSpirit11|Vengeful spirit now deals poison damage inflicting poisoned for a portion of its damage. Additionally gains a chance to unleash a poison nova on hit.|«Мстительный дух» теперь наносит урон ядом, накладывая отравление (урон зависит от урона умения); также дает шанс вызвать ядовитую нову при попадании.
+subDescNecromancerVengefulSpirit12|You can now summon additional vengeful spirits.|Вы можете призывать дополнительных мстительных духов.
+subDescNecromancerVengefulSpirit13|Sacrifice all existing necromancer summons increasing the stats of vengeful spirit per summon sacrificed. You can no longer summon any minion while vengeful spirit is active.|Вы жертвуете всеми текущими прислужниками, чтобы усилить «Мстительного духа»; пока он активен, вы не можете призывать других существ.
+subDescNecromancerVengefulSpirit14|Vengeful spirit now summons bone spirits and tornados in addition to its normal attack.|«Мстительный дух» теперь призывает костяных духов и торнадо в дополнение к обычным атакам.
