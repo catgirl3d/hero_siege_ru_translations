@@ -142,6 +142,7 @@ subDescNomadSandVortex11|Summon multiple small sand vortexes around target locat
 subDescNomadSandVortex12|Sand vortex size and tick rate increases rapidly but lasts for a shorter duration.|Размер «Песчаного вихря» и частота его ударов быстро растут, но время действия сокращено.
 subDescNomadSandVortex13|Sand vortex now spawns cycling tornados from its center.|«Песчаный вихрь» теперь порождает кружащие торнадо из своего центра.
 subDescNomadSandVortex14|Sand vortex now doesn’t pull monsters but slows them and inflicts burning for a portion of the damage on hit.|«Песчаный вихрь» больше не притягивает монстров, но замедляет их и накладывает горение в размере части от урона умения.
+||
 subNomadBladeStrike01|Ferocious Swipe|Свирепый замах
 subNomadBladeStrike02|Blade´s Edge|Острие клинка
 subNomadBladeStrike03|Lethal Swing|Смертоносный взмах
@@ -228,6 +229,7 @@ subDescNomadFlyingScimitar11|Throw multiple smaller scimitars with decreased dam
 subDescNomadFlyingScimitar12|Scimitars now attach to the first target for a short period dealing damage over time and returning back to the nomad.|Ятаганы теперь на короткое время впиваются в первую цель, нанося периодический урон, после чего возвращаются к кочевнику.
 subDescNomadFlyingScimitar13|Scimitars now return to their spawning location. Successfully catching the returning scimitars increases your damage for a short period.|Ятаганы теперь возвращаются в точку призыва; если их поймать, ваш урон на короткое время увеличится.
 subDescNomadFlyingScimitar14|Scimitars are now spawned in a circle around the nomad with increased projectile speed and pulled back dealing increased damage. Scimitar Throw now has a cooldown.|Ятаганы теперь появляются по кругу, летят быстрее и притягиваются обратно, нанося увеличенный урон. «Летающий ятаган» теперь имеет время восстановления.
+||
 subNomadChainSlice01|Slice and Dice|Шинковка
 subNomadChainSlice02|Slicing Accuracy|Точность разрезов
 subNomadChainSlice03|Penetrating Flesh|Пронзание плоти
