@@ -143,29 +143,29 @@ subDescPiratePowderTrail12|The barrel stops into terrain or on monster hit relea
 subDescPiratePowderTrail13|Send forward a slowly rolling barrel that knocks monsters back dealing increased damage and stunning them.|Выпускает медленно катящуюся бочку, которая отбрасывает, оглушает и наносит увеличенный урон.
 subDescPiratePowderTrail14|Send forward multiple barrels. Explosions now sets the ground on fire slowing and dealing damage.|Выпускает несколько бочек; взрывы поджигают землю, замедляя врагов и нанося им периодический урон.
 ||
-ubPirateBombBarrage01|Bombardation|Бомбардировка
-subPirateBombBarrage02|Barrage Blasting Radius|Радиус взрыва обстрела
-subPirateBombBarrage03|Bombination|Гул бомб
-subPirateBombBarrage04|Explosive Barrage|Взрывной обстрел
-subPirateBombBarrage05|Piercing Blastwave|Пронзающая взрывная волна
-subPirateBombBarrage06|Scaled Blastradius|Масштабируемый радиус
-subPirateBombBarrage07|Molten Heat Bombs|Раскаленные бомбы
-subPirateBombBarrage08|Sharp Scatter|Острые осколки
-subPirateBombBarrage09|Quick Barrage|Беглый обстрел
+subPirateBombBarrage01|Bombardation|Бомбардировка
+subPirateBombBarrage02|Barrage Blasting Radius|Радиус разрыва
+subPirateBombBarrage03|Bombination|Гул канонады
+subPirateBombBarrage04|Explosive Barrage|Взрывной шквал
+subPirateBombBarrage05|Piercing Blastwave|Пронзающая волна
+subPirateBombBarrage06|Scaled Blastradius|Зона поражения
+subPirateBombBarrage07|Molten Heat Bombs|Раскаленные ядра
+subPirateBombBarrage08|Sharp Scatter|Шрапнель
+subPirateBombBarrage09|Quick Barrage|Беглый огонь
 subPirateBombBarrage10|Critical Explosion|Критический взрыв
-subPirateBombBarrage11|Crossed Spot|Перекрестье
-subPirateBombBarrage12|Bomb Shower|Бомбовый ливень
-subPirateBombBarrage13|Rapid Barrage|Скоростной обстрел
-subPirateBombBarrage14|Rain of Bombs|Град бомб
+subPirateBombBarrage11|Crossed Spot|Перекрестный огонь
+subPirateBombBarrage12|Bomb Shower|Ливень из ядер
+subPirateBombBarrage13|Rapid Barrage|Шквальный обстрел
+subPirateBombBarrage14|Rain of Bombs|Град ядер
 subDescPirateBombBarrage01|Increases the amount of bombs thrown.|Увеличивает количество бросаемых бомб.
-subDescPirateBombBarrage02|Increases explosion area of effect of bomb barrage.|Увеличивает радиус взрыва «Бомбового обстрела».
+subDescPirateBombBarrage02|Increases explosion area of effect of bomb barrage.|Увеличивает радиус взрыва бомб «Канонады».
 subDescPirateBombBarrage03|Increases the frequency of bombs.|Увеличивает частоту падения бомб.
-subDescPirateBombBarrage04|Increases the damage dealt by bomb barrage.|Увеличивает урон «Бомбового обстрела».
+subDescPirateBombBarrage04|Increases the damage dealt by bomb barrage.|Увеличивает урон «Канонады».
 subDescPirateBombBarrage05|Inflicts fire break on hit.|При попадании вызывает игнорирование сопр. огню.
 subDescPirateBombBarrage06|Increases damage dealt based on your explosion area of effect stat.|Увеличивает урон в зависимости от вашего показателя области взрыва.
 subDescPirateBombBarrage07|Bombs have a chance to scorch the ground dealing additional damage.|Бомбы могут поджечь землю, нанося дополнительный урон.
 subDescPirateBombBarrage08|Chance for bombs to shatter into fragments inflicting bleeding when exploding.|Бомбы могут разлетаться на осколки при взрыве, вызывая кровотечение.
-subDescPirateBombBarrage09|Increases the projectile speed of bomb barrage.|Увеличивает скорость снарядов «Бомбового обстрела».
+subDescPirateBombBarrage09|Increases the projectile speed of bomb barrage.|Увеличивает скорость снарядов «Канонады».
 subDescPirateBombBarrage10|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
 subDescPirateBombBarrage11|Mark a location where to fire all bombs.|Вы выбираете точку, в которую будут сброшены все бомбы.
 subDescPirateBombBarrage12|Fire multiple bombs in all directions from you.|Выпускает несколько бомб во всех направлениях от вас.

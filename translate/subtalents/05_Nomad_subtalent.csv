@@ -13,18 +13,18 @@ subNomadSandCarver12|Parasitical Sand|Паразитический песок
 subNomadSandCarver13|Piercing Sands|Пронзающие пески
 subNomadSandCarver14|Desert´s Blade|Клинок пустыни
 subDescNomadSandCarver01|Increases the amount of sand thrown.|Увеличивает количество бросаемого песка.
-subDescNomadSandCarver02|Increases the damage dealt by sand carver.|Увеличивает урон «Резчика по песку».
+subDescNomadSandCarver02|Increases the damage dealt by sand carver.|Увеличивает урон «Резчика песка».
 subDescNomadSandCarver03|Thrown sand has a chance to inflict bleeding on hit.|Брошенный песок может вызвать кровотечение при попадании.
-subDescNomadSandCarver04|Increases the damage dealt to bosses by sand carver.|Увеличивает урон «Резчика по песку» по боссам.
-subDescNomadSandCarver05|Chance on kill to spawn a small sand vortex.|Дает шанс создать малый песчаный вихрь при убийстве.
+subDescNomadSandCarver04|Increases the damage dealt to bosses by sand carver.|Увеличивает урон «Резчика песка» по боссам.
+subDescNomadSandCarver05|Chance on kill to spawn a small sand vortex.|Дает шанс создать малый «Песчаный вихрь» при убийстве.
 subDescNomadSandCarver06|Chance on hit to gain increased dodge chance for a short period.|Дает шанс временно повысить уклонение при попадании.
-subDescNomadSandCarver07|Increases attack speed when using sand carver.|Увеличивает скорость атаки при использовании «Резчика по песку».
-subDescNomadSandCarver08|Increases attack damage dealt by sand carver.|Увеличивает урон атак «Резчика по песку».
+subDescNomadSandCarver07|Increases attack speed when using sand carver.|Увеличивает скорость атаки при использовании «Резчика песка».
+subDescNomadSandCarver08|Increases attack damage dealt by sand carver.|Увеличивает урон атак «Резчика песка».
 subDescNomadSandCarver09|Increases the projectile speed of sand thrown.|Увеличивает скорость полета бросаемого песка.
 subDescNomadSandCarver10|Chance to inflict armor break and arcane break on hit.|Дает шанс вызвать пробивание брони и игнорирование сопр. тайной магии при попадании.
 subDescNomadSandCarver11|Critical strikes cause the nomad to throw sand in a circle around him stunning and dealing additional damage.|При критических ударах кочевник бросает песок кольцом вокруг себя, оглушая врагов и нанося доп. урон.
 subDescNomadSandCarver12|Thrown sand now sticks to the targets dealing damage over time for a short period.|Брошенный песок теперь прилипает к целям, нанося периодический урон в течение короткого времени.
-subDescNomadSandCarver13|Thrown sand is now piercing and has a chance to fork on hit.|Бросаемый песок теперь пронзает врагов и может разветвиться при попадании.
+subDescNomadSandCarver13|Thrown sand is now piercing and has a chance to fork on hit.|Бросаемый песок теперь пронзает врагов и может разделиться при попадании.
 subDescNomadSandCarver14|Chance on attack to summon a big tornado pulling in and dealing additional damage to nearby monsters.|Дает шанс при атаке призвать огромный торнадо, который притягивает монстров и наносит доп. урон.
 ||
 subNomadCloudOfSand01|Breeze|Бриз
@@ -52,7 +52,7 @@ subDescNomadCloudOfSand08|Increases the damage dealt by cloud of sand.|Увел�
 subDescNomadCloudOfSand09|Increases the size of cloud of sand.|Увеличивает размер «Облака песка».
 subDescNomadCloudOfSand10|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
 subDescNomadCloudOfSand11|The cloud is now under your control gaining increased size and damage.|Теперь вы управляете движением облака; его размер и урон увеличены.
-subDescNomadCloudOfSand12|Teleporting to the cloud now summons multiple small sand vortexes around it.|При телепортации в облако вокруг него теперь возникает несколько малых песчаных вихрей.
+subDescNomadCloudOfSand12|Teleporting to the cloud now summons multiple small sand vortexes around it.|При телепортации в облако вокруг него теперь возникает несколько малых «Песчаных вихрей».
 subDescNomadCloudOfSand13|Summon multiple clouds dealing increased damage. You are no longer able to teleport into the cloud.|Вы призываете несколько облаков, наносящих увеличенный урон, но больше не можете телепортироваться в них.
 subDescNomadCloudOfSand14|Teleporting to the cloud now renders you immortal for a short period. Cloud of sand now has a cooldown.|При телепортации в облако вы на короткое время становитесь неуязвимы. «Облако песка» теперь имеет время восстановления.
 ||
@@ -106,12 +106,12 @@ subDescNomadSandGush04|Increases damage dealt to stunned targets.|Увеличи
 subDescNomadSandGush05|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
 subDescNomadSandGush06|Increases the speed of sand tornados.|Увеличивает скорость песчаных торнадо.
 subDescNomadSandGush07|Increases the amount of sand tornados.|Увеличивает количество песчаных торнадо.
-subDescNomadSandGush08|Tornados have a chance on hit to inflict bleeding for a portion of the damage.|При попадании торнадо могут вызвать кровотечение, урон которого зависит от урона умения.
+subDescNomadSandGush08|Tornados have a chance on hit to inflict bleeding for a portion of the damage.|При попадании торнадо могут вызвать кровотечение в размере части от урона умения.
 subDescNomadSandGush09|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
 subDescNomadSandGush10|Tornados now spin outwards following the nomad.|Теперь торнадо вращаются по спирали, следуя за кочевником.
 subDescNomadSandGush11|Tornados spawn multiple small cyclones on hit.|При попадании торнадо порождают несколько малых циклонов.
 subDescNomadSandGush12|Cast continuous gushes around you for a short period with increased radius and damage. Sand Gush now has a cooldown.|Вы непрерывно выпускаете потоки вокруг себя в течение короткого времени; радиус и урон увеличены. «Песчаный поток» теперь имеет время восстановления.
-subDescNomadSandGush13|Send out a sand tornado casting sand gush continuously.|Выпускает песчаный торнадо, который непрерывно извергает потоки песка.
+subDescNomadSandGush13|Send out a sand tornado casting sand gush continuously.|Выпускает песчаный торнадо, который непрерывно применяет «Песчаный поток».
 subDescNomadSandGush14|Unleash small dust devils bouncing off of walls and unleashing a pulse of sand on hit.|Выпускает малых пыльных демонов, которые отскакивают от стен и создают песчаный импульс при попадании.
 ||
 subNomadSandVortex01|Desert Mass|Толща пустыни
@@ -138,11 +138,10 @@ subDescNomadSandVortex07|Increases the duration of sand vortex.|Увеличив
 subDescNomadSandVortex08|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
 subDescNomadSandVortex09|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
 subDescNomadSandVortex10|Sand vortex now executes targets below a certain percentage of life.|«Песчаный вихрь» теперь казнит цели, чей уровень здоровья ниже определенного порога.
-subDescNomadSandVortex11|Summon multiple small sand vortexes around target location with increased damage.|Призывает несколько малых песчаных вихрей в указанной области с увеличенным уроном.
+subDescNomadSandVortex11|Summon multiple small sand vortexes around target location with increased damage.|Призывает несколько малых «Песчаных вихрей» в указанной области с увеличенным уроном.
 subDescNomadSandVortex12|Sand vortex size and tick rate increases rapidly but lasts for a shorter duration.|Размер «Песчаного вихря» и частота его ударов быстро растут, но время действия сокращено.
 subDescNomadSandVortex13|Sand vortex now spawns cycling tornados from its center.|«Песчаный вихрь» теперь порождает кружащие торнадо из своего центра.
-subDescNomadSandVortex14|Sand vortex now doesn’t pull monsters but slows them and inflicts burning for a portion of the damage on hit.|«Песчаный вихрь» больше не притягивает монстров, но замедляет их и накладывает горение, урон которого зависит от урона умения.
-||
+subDescNomadSandVortex14|Sand vortex now doesn’t pull monsters but slows them and inflicts burning for a portion of the damage on hit.|«Песчаный вихрь» больше не притягивает монстров, но замедляет их и накладывает горение в размере части от урона умения.
 subNomadBladeStrike01|Ferocious Swipe|Свирепый замах
 subNomadBladeStrike02|Blade´s Edge|Острие клинка
 subNomadBladeStrike03|Lethal Swing|Смертоносный взмах
@@ -189,7 +188,7 @@ subNomadEyeOfRa14|Lightbringer|Светоносный
 subDescNomadEyeOfRa01|Increases the maximum targets per hit being affected by eye of ra.|Увеличивает максимальное количество целей, поражаемых «Оком Ра» за один раз.
 subDescNomadEyeOfRa02|Increases damage dealt by sun rays based on your energy.|Увеличивает урон солнечных лучей в зависимости от вашего показателя энергии.
 subDescNomadEyeOfRa03|Increases the range of the sun rays.|Увеличивает дальность действия солнечных лучей.
-subDescNomadEyeOfRa04|Chance on hit to inflict burning for a portion of the damage dealt by eye of ra.|Дает шанс наложить горение при попадании, урон которого зависит от урона «Ока Ра».
+subDescNomadEyeOfRa04|Chance on hit to inflict burning for a portion of the damage dealt by eye of ra.|Дает шанс наложить горение при попадании в размере части от урона «Ока Ра».
 subDescNomadEyeOfRa05|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
 subDescNomadEyeOfRa06|Increases the amount of sun rays additionally inflicting slow on hit.|Увеличивает количество лучей и заставляет их замедлять врагов при попадании.
 subDescNomadEyeOfRa07|Inflicts elemental break on hit.|При попадании вызывает игнорирование сопр. стихиям.
@@ -216,20 +215,19 @@ subNomadFlyingScimitar12|Sticking Blade|Впивающееся лезвие
 subNomadFlyingScimitar13|League of Nomad|Лига кочевников
 subNomadFlyingScimitar14|Orbital Blade Strike|Орбитальный удар
 subDescNomadFlyingScimitar01|Chance on attack to cast another scimitar.|Дает шанс при атаке выпустить еще один ятаган.
-subDescNomadFlyingScimitar02|Increases the damage dealt by flying scimitar.|Увеличивает урон «Летящего ятагана».
-subDescNomadFlyingScimitar03|Increases the projectile speed of flying scimitar.|Увеличивает скорость полета «Летящего ятагана».
+subDescNomadFlyingScimitar02|Increases the damage dealt by flying scimitar.|Увеличивает урон «Летающего ятагана».
+subDescNomadFlyingScimitar03|Increases the projectile speed of flying scimitar.|Увеличивает скорость полета «Летающего ятагана».
 subDescNomadFlyingScimitar04|Increases the size of the scimitars.|Увеличивает размер ятаганов.
 subDescNomadFlyingScimitar05|Returning scimitars pull enemies towards you with a chance to slow them.|Возвращающиеся ятаганы притягивают к вам врагов и могут замедлить их.
-subDescNomadFlyingScimitar06|Chance on attack for flying scimitar to inflict bleeding on hit.|Дает шанс «Летящему ятагану» вызвать кровотечение при попадании.
-subDescNomadFlyingScimitar07|Increases critical strike chance when using flying scimitar.|Увеличивает шанс критического удара при использовании «Летящего ятагана».
-subDescNomadFlyingScimitar08|Increases critical strike damage dealt by flying scimitar.|Увеличивает критический урон «Летящего ятагана».
-subDescNomadFlyingScimitar09|Flying scimitar now executes targets below a certain percentage of life.|«Летящий ятаган» теперь казнит цели, чей уровень здоровья ниже определенного порога.
+subDescNomadFlyingScimitar06|Chance on attack for flying scimitar to inflict bleeding on hit.|Дает шанс «Летающему ятагану» вызвать кровотечение при попадании.
+subDescNomadFlyingScimitar07|Increases critical strike chance when using flying scimitar.|Увеличивает шанс критического удара при использовании «Летающего ятагана».
+subDescNomadFlyingScimitar08|Increases critical strike damage dealt by flying scimitar.|Увеличивает критический урон «Летающего ятагана».
+subDescNomadFlyingScimitar09|Flying scimitar now executes targets below a certain percentage of life.|«Летающий ятаган» теперь казнит цели, чей уровень здоровья ниже определенного порога.
 subDescNomadFlyingScimitar10|Increases damage to bleeding targets.|Увеличивает урон по истекающим кровью целям.
 subDescNomadFlyingScimitar11|Throw multiple smaller scimitars with decreased damage.|Выпускает несколько малых ятаганов с пониженным уроном.
 subDescNomadFlyingScimitar12|Scimitars now attach to the first target for a short period dealing damage over time and returning back to the nomad.|Ятаганы теперь на короткое время впиваются в первую цель, нанося периодический урон, после чего возвращаются к кочевнику.
 subDescNomadFlyingScimitar13|Scimitars now return to their spawning location. Successfully catching the returning scimitars increases your damage for a short period.|Ятаганы теперь возвращаются в точку призыва; если их поймать, ваш урон на короткое время увеличится.
-subDescNomadFlyingScimitar14|Scimitars are now spawned in a circle around the nomad with increased projectile speed and pulled back dealing increased damage. Scimitar Throw now has a cooldown.|Ятаганы теперь появляются по кругу, летят быстрее и притягиваются обратно, нанося увеличенный урон. «Бросок ятагана» теперь имеет время восстановления.
-||
+subDescNomadFlyingScimitar14|Scimitars are now spawned in a circle around the nomad with increased projectile speed and pulled back dealing increased damage. Scimitar Throw now has a cooldown.|Ятаганы теперь появляются по кругу, летят быстрее и притягиваются обратно, нанося увеличенный урон. «Летающий ятаган» теперь имеет время восстановления.
 subNomadChainSlice01|Slice and Dice|Шинковка
 subNomadChainSlice02|Slicing Accuracy|Точность разрезов
 subNomadChainSlice03|Penetrating Flesh|Пронзание плоти
@@ -286,7 +284,7 @@ subDescNomadScimitarCharge10|Increases damage dealt to stunned targets.|Увел
 subDescNomadScimitarCharge11|Throw multiple scimitars in a circle around you on hit.|При попадании выпускает несколько ятаганов по кругу вокруг вас.
 subDescNomadScimitarCharge12|Deal a portion of your damage as bleeding with increased effectiveness.|Наносит часть урона в виде кровотечения с повышенной эффективностью.
 subDescNomadScimitarCharge13|Scimitar charge now slows enemies on hit leaving behind a pulsating whirl for a short period.|«Рывок с ятаганом» теперь замедляет врагов, оставляя за собой пульсирующий вихрь на короткое время.
-subDescNomadScimitarCharge14|Mark the point of impact sending phantom nomads from random directions towards the mark casting scimitar charge for a short period.|Помечает точку удара; призрачные кочевники слетаются к ней со всех сторон, совершая рывки.
+subDescNomadScimitarCharge14|Mark the point of impact sending phantom nomads from random directions towards the mark casting scimitar charge for a short period.|Помечает точку удара; призрачные кочевники слетаются к ней со всех сторон, применяя «Рывок с ятаганом».
 ||
 subNomadPhantomBlade01|Paranormal Activity|Паранормальная активность
 subNomadPhantomBlade02|Phantom Agility|Фантомная ловкость
@@ -315,4 +313,4 @@ subDescNomadPhantomBlade10|Inflicts bleeding on hit.|Вызывает крово
 subDescNomadPhantomBlade11|Phantom blades now orbit you and attack the closest monsters.|«Фантомные клинки» теперь кружат вокруг вас и атакуют ближайших монстров.
 subDescNomadPhantomBlade12|When a phantom blade strikes a bleeding target the bleeding is consumed unleashing a vorpal pulse dealing increased damage based on the bleeding value.|Если клинок поражает истекающую кровью цель, эффект поглощается, вызывая смертоносный импульс с уроном, зависящим от силы кровотечения.
 subDescNomadPhantomBlade13|Phantom blades deal increased damage based on your energy.|Урон «Фантомных клинков» увеличен в зависимости от вашего показателя энергии.
-subDescNomadPhantomBlade14|Phantom blades no longer attack but throw flying scimitars with increased damage.|«Фантомные клинки» больше не бьют вблизи, а бросают летящие ятаганы с увеличенным уроном.
+subDescNomadPhantomBlade14|Phantom blades no longer attack but throw flying scimitars with increased damage.|«Фантомные клинки» больше не бьют вблизи, а бросают «Летающие ятаганы» с увеличенным уроном.

@@ -12,16 +12,16 @@ subPaladinVengeance11|Charge Release|Высвобождение заряда
 subPaladinVengeance12|Thunderbolt|Удар грома
 subPaladinVengeance13|Electric Pillars|Электрические столбы
 subPaladinVengeance14|Self Shock|Электрический контур
-subDescPaladinVengeance01|Increases attack speed when using vengeance.|Увеличивает скорость атаки при использовании «Мести».
-subDescPaladinVengeance02|Increases the amount of lightning bolts from vengeance.|Увеличивает количество молний, выпускаемых «Местью».
-subDescPaladinVengeance03|Increases the lightning damage dealt by vengeance.|Увеличивает урон молнией «Мести».
-subDescPaladinVengeance04|Increases the attack damage dealt by vengeance according to your strength.|Увеличивает физический урон «Мести» в зависимости от вашей силы.
-subDescPaladinVengeance05|Vengeance restores a portion of damage dealt as mana on hit.|«Месть» восполняет ману в размере части от нанесенного урона при попадании.
-subDescPaladinVengeance06|Vengeance has increased attack range. No longer requires hitting a target.|Увеличивает дальность атаки «Мести»; теперь умение можно использовать, даже не попадая по врагу.
+subDescPaladinVengeance01|Increases attack speed when using vengeance.|Увеличивает скорость атаки при использовании «Возмездия».
+subDescPaladinVengeance02|Increases the amount of lightning bolts from vengeance.|Увеличивает количество молний, выпускаемых «Возмездием».
+subDescPaladinVengeance03|Increases the lightning damage dealt by vengeance.|Увеличивает урон молнией «Возмездия».
+subDescPaladinVengeance04|Increases the attack damage dealt by vengeance according to your strength.|Увеличивает физический урон «Возмездия» в зависимости от вашей силы.
+subDescPaladinVengeance05|Vengeance restores a portion of damage dealt as mana on hit.|«Возмездие» восполняет ману в размере части от нанесенного урона при попадании.
+subDescPaladinVengeance06|Vengeance has increased attack range. No longer requires hitting a target.|Увеличивает дальность атаки «Возмездия»; теперь умение можно использовать, даже не попадая по врагу.
 subDescPaladinVengeance07|Chance to critically spell hit with increased critical strike damage.|Дает шанс нанести критический удар заклинанием с увеличенным критическим уроном.
 subDescPaladinVengeance08|Increases the length of lightning bolts.|Увеличивает длину разрядов молнии.
-subDescPaladinVengeance09|Vengeance's lightning bolts have a chance to inflict lightning break on hit.|Молнии «Мести» могут вызвать игнорирование сопр. молнии при попадании.
-subDescPaladinVengeance10|Vengeance's lightning bolts have a chance to zap monsters on hit dealing additional damage.|Молнии «Мести» могут поразить монстров током при попадании, нанося дополнительный урон.
+subDescPaladinVengeance09|Vengeance's lightning bolts have a chance to inflict lightning break on hit.|Молнии «Возмездия» могут вызвать игнорирование сопр. молнии при попадании.
+subDescPaladinVengeance10|Vengeance's lightning bolts have a chance to zap monsters on hit dealing additional damage.|Молнии «Возмездия» могут поразить монстров током при попадании, нанося дополнительный урон.
 subDescPaladinVengeance11|Lightning now releases pulses of lightning on hit dealing area of effect damage.|Разряды молнии теперь испускают импульсы при попадании, нанося урон по области.
 subDescPaladinVengeance12|Strike monsters with additional bolts of thunder on hit.|Дополнительно поражает монстров раскатами грома при попадании.
 subDescPaladinVengeance13|Summon pillars of electricity to nearby monsters on hit.|При попадании призывает электрические столбы рядом с ближайшими врагами.
@@ -38,7 +38,7 @@ subPaladinDivineStorm08|Overwhelming Power|Подавляющая мощь
 subPaladinDivineStorm09|Precision of the Storm|Точность шторма
 subPaladinDivineStorm10|Dashing Flow|Стремительный поток
 subPaladinDivineStorm11|Chaining Storm|Цепной шторм
-subPaladinDivineStorm12|Eye of the Storm|Глаз бури
+subPaladinDivineStorm12|Eye of the Storm|Око бури
 subPaladinDivineStorm13|Bad Omens|Дурные предзнаменования
 subPaladinDivineStorm14|Charged Hurricane|Грозовой ураган
 subDescPaladinDivineStorm01|Increases the area of effect radius of divine storm.|Увеличивает радиус области действия «Божественной бури».
@@ -71,17 +71,17 @@ subPaladinHolyShockAura12|Lightning Tether|Молниеносные узы
 subPaladinHolyShockAura13|Chain Thunder|Цепной гром
 subPaladinHolyShockAura14|Gathering Storm|Надвигающаяся буря
 subDescPaladinHolyShockAura01|Chance to trigger a lightning explosion dealing additional damage on hit.|Дает шанс при попадании вызвать взрыв молнии, наносящий доп. урон.
-subDescPaladinHolyShockAura02|Increases the area of effect radius of holy shock aura.|Увеличивает радиус области действия «Ауры священного шока».
-subDescPaladinHolyShockAura03|Increases the hit frequency of holy shock aura.|Увеличивает частоту ударов «Ауры священного шока».
-subDescPaladinHolyShockAura04|Increases damage dealt by holy shock aura.|Увеличивает урон «Ауры священного шока».
+subDescPaladinHolyShockAura02|Increases the area of effect radius of holy shock aura.|Увеличивает радиус области действия «Ауры священной молнии».
+subDescPaladinHolyShockAura03|Increases the hit frequency of holy shock aura.|Увеличивает частоту ударов «Ауры священной молнии».
+subDescPaladinHolyShockAura04|Increases damage dealt by holy shock aura.|Увеличивает урон «Ауры священной молнии».
 subDescPaladinHolyShockAura05|Chance to inflict lightning break on hit.|Дает шанс вызвать игнорирование сопр. молнии при попадании.
-subDescPaladinHolyShockAura06|Holy shock aura now deals increased damage in a cone in front of you instead.|«Аура священного шока» теперь наносит увеличенный урон в конусе перед вами.
+subDescPaladinHolyShockAura06|Holy shock aura now deals increased damage in a cone in front of you instead.|«Аура священной молнии» теперь наносит увеличенный урон в конусе перед вами.
 subDescPaladinHolyShockAura07|Chance to inflict stasis on hit.|Дает шанс наложить стазис при попадании.
 subDescPaladinHolyShockAura08|Increases damage dealt to bosses.|Увеличивает урон по боссам.
 subDescPaladinHolyShockAura09|Gain a stacking buff increasing lightning damage on hit.|При попадании дает суммирующийся бафф, увеличивающий урон молнией.
 subDescPaladinHolyShockAura10|Chance to increase your defense and lightning resistance on hit.|Дает шанс увеличить вашу защиту и сопротивление молнии при попадании.
-subDescPaladinHolyShockAura11|Increases the hit frequency and damage dealt by holy shock aura.|Увеличивает частоту ударов и урон «Ауры священного шока».
-subDescPaladinHolyShockAura12|Holy shock aura no longer deals periodical damage. Instead creates a tether of lightning between you and all monsters inside its radius dealing constant damage.|«Аура священного шока» больше не наносит периодический урон. Вместо этого она связывает вас молниеносными узами со всеми монстрами в радиусе, нанося им постоянный урон.
+subDescPaladinHolyShockAura11|Increases the hit frequency and damage dealt by holy shock aura.|Увеличивает частоту ударов и урон «Ауры священной молнии».
+subDescPaladinHolyShockAura12|Holy shock aura no longer deals periodical damage. Instead creates a tether of lightning between you and all monsters inside its radius dealing constant damage.|«Аура священной молнии» больше не наносит периодический урон. Вместо этого она связывает вас молниеносными узами со всеми монстрами в радиусе, нанося им постоянный урон.
 subDescPaladinHolyShockAura13|Unleash chain lightning on hit dealing increased damage.|При попадании выпускает цепную молнию, наносящую увеличенный урон.
 subDescPaladinHolyShockAura14|Stack up static energy from monsters inside the aura radius and release a massive storm of lightning novas dealing damage on an increased radius.|Накапливает статическую энергию от монстров в радиусе ауры и выпускает мощный шторм из колец молний в увеличенном радиусе.
 ||
@@ -168,7 +168,7 @@ subDescPaladinHolyBolt08|Chance on kill to drop increased amount of gold.|Уве
 subDescPaladinHolyBolt09|Chance on hit to summon a pillar of light inflicting arcane break and dealing area of effect damage.|Дает шанс при попадании призвать столп света, наносящий урон по области и вызывающий игнорирование сопр. тайной магии.
 subDescPaladinHolyBolt10|Mark targets as sinners on hit. Damaging a sinner unleashes holy smite dealing additional arcane damage.|Помечает цели как грешников; урон по таким врагам вызывает «Святую кару», наносящую доп. урон тайной магией.
 subDescPaladinHolyBolt11|Holy bolt travels slower but grows larger over time ticking faster and dealing increased damage based on it´s size.|«Святая стрела» летит медленнее, но растет в размерах, чаще наносит урон и бьет сильнее по мере роста.
-subDescPaladinHolyBolt12|Unleash a holy nova on allied impact healing allies and damaging foes.|При попадании в союзника вызывает «Святую нову», которая лечит соратников и наносит урон врагам.
+subDescPaladinHolyBolt12|Unleash a holy nova on allied impact healing allies and damaging foes.|При попадании в союзника вызывает «Кольцо света», которое лечит соратников и наносит урон врагам.
 subDescPaladinHolyBolt13|Unleash a barrage of holy bolts dealing increased damage. Holy bolt now has a cooldown.|Выпускает шквал «Святых стрел» с увеличенным уроном. Умение теперь имеет время восстановления.
 subDescPaladinHolyBolt14|Unleash righteous fists instead attaching on to monsters on hit dealing damage over time and exploding dealing area of effect damage.|Вместо стрел выпускает «Кулаки правосудия»; они прикрепляются к монстрам, наносят периодический урон и взрываются, задевая врагов по области.
 ||
@@ -186,19 +186,19 @@ subPaladinHolyNova11|Righteous Transaction|Праведный обмен
 subPaladinHolyNova12|Mark of Judgement|Метка правосудия
 subPaladinHolyNova13|Remote Prayer|Молитва на расстоянии
 subPaladinHolyNova14|Faith's Winds|Ветры веры
-subDescPaladinHolyNova01|Allies healed by holy nova take reduced damage for a short period.|Союзники, исцеленные «Святой новой», получают меньше урона в течение короткого времени.
+subDescPaladinHolyNova01|Allies healed by holy nova take reduced damage for a short period.|Союзники, исцеленные «Кольцом света», получают меньше урона в течение короткого времени.
 subDescPaladinHolyNova02|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
-subDescPaladinHolyNova03|Increases area of effect radius of holy nova.|Увеличивает радиус области действия «Святой новы».
-subDescPaladinHolyNova04|Increases the damage dealt by holy nova.|Увеличивает урон «Святой новы».
-subDescPaladinHolyNova05|Holy nova no longer heals you or your allies but recovers a portion of your maximum mana instead.|«Святая нова» больше не лечит, а восстанавливает часть вашего макс. запаса маны.
-subDescPaladinHolyNova06|Holy nova heals you for a portion of your missing life.|«Святая нова» восполняет здоровье в зависимости от вашего потерянного запаса.
+subDescPaladinHolyNova03|Increases area of effect radius of holy nova.|Увеличивает радиус области действия «Кольца света».
+subDescPaladinHolyNova04|Increases the damage dealt by holy nova.|Увеличивает урон «Кольца света».
+subDescPaladinHolyNova05|Holy nova no longer heals you or your allies but recovers a portion of your maximum mana instead.|«Кольцо света» больше не лечит, а восстанавливает часть вашего макс. запаса маны.
+subDescPaladinHolyNova06|Holy nova heals you for a portion of your missing life.|«Кольцо света» восполняет здоровье в зависимости от вашего потерянного запаса.
 subDescPaladinHolyNova07|Chance on cast to increase your and allied arcane damage and magic find for a short period.|При касте дает шанс на короткое время увеличить урон тайной магией (ваш и союзников) и поиск магических предметов.
-subDescPaladinHolyNova08|Increases damage dealt by holy nova scaling with your vitality.|Увеличивает урон «Святой новы» в зависимости от вашей живучести.
-subDescPaladinHolyNova09|Increases damage dealt by holy nova and gives a chance to instantly execute non-boss targets affected by mark of judgement.|Увеличивает урон «Святой новы» и дает шанс мгновенно казнить рядовых врагов под действием «Метки правосудия».
-subDescPaladinHolyNova10|Chance on cast to unleash an additional holy nova.|Дает шанс при касте выпустить дополнительную «Святую нову».
+subDescPaladinHolyNova08|Increases damage dealt by holy nova scaling with your vitality.|Увеличивает урон «Кольца света» в зависимости от вашей живучести.
+subDescPaladinHolyNova09|Increases damage dealt by holy nova and gives a chance to instantly execute non-boss targets affected by mark of judgement.|Увеличивает урон «Кольца света» и дает шанс мгновенно казнить рядовых врагов под действием «Метки правосудия».
+subDescPaladinHolyNova10|Chance on cast to unleash an additional holy nova.|Дает шанс при касте выпустить дополнительное «Кольцо света».
 subDescPaladinHolyNova11|Steal a portion of target life on hit over time.|При попадании постепенно похищает часть здоровья цели.
 subDescPaladinHolyNova12|Mark target monsters with judgement on hit causing them to take increased damage on hit consuming the mark.|Помечает монстров «Правосудием»; при получении урона метка поглощается, нанося увеличенный урон.
-subDescPaladinHolyNova13|Holy nova now heals all allies within the same area with increased power.|«Святая нова» теперь лечит всех союзников в зоне действия с увеличенной силой.
+subDescPaladinHolyNova13|Holy nova now heals all allies within the same area with increased power.|«Кольцо света» теперь лечит всех союзников в зоне действия с увеличенной силой.
 subDescPaladinHolyNova14|Unleash multiple smaller orbiting novas around you.|Выпускает несколько малых нов, которые вращаются вокруг вас.
 ||
 subPaladinHolyHammer01|Anvil Smash|Мощь наковальни
@@ -245,16 +245,16 @@ subPaladinFistOfTheHeavens12|Forceful Salvation|Грозное спасение
 subPaladinFistOfTheHeavens13|Immaculate Warrior|Непорочный воин
 subPaladinFistOfTheHeavens14|Tiring Combat|Изнуряющая битва
 subDescPaladinFistOfTheHeavens01|Increases the amount of projectiles.|Увеличивает количество снарядов.
-subDescPaladinFistOfTheHeavens02|Increases damage dealt by fist of the heavens.|Увеличивает урон «Кулака небес».
+subDescPaladinFistOfTheHeavens02|Increases damage dealt by fist of the heavens.|Увеличивает урон «Длани небес».
 subDescPaladinFistOfTheHeavens03|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
-subDescPaladinFistOfTheHeavens04|Decreases fist of the heavens mana cost.|Снижает затраты маны на «Кулак небес».
+subDescPaladinFistOfTheHeavens04|Decreases fist of the heavens mana cost.|Снижает затраты маны на «Длань небес».
 subDescPaladinFistOfTheHeavens05|Holy bolts now return back to the point of impact dealing increased damage.|Святые стрелы теперь возвращаются в точку удара, нанося увеличенный урон.
 subDescPaladinFistOfTheHeavens06|Chance to stun target on hit.|Дает шанс оглушить цель при попадании.
-subDescPaladinFistOfTheHeavens07|Increases cast rate when using fist of the heavens.|Увеличивает скорость каста при использовании «Кулака небес».
-subDescPaladinFistOfTheHeavens08|Chance on cast to summon an additional fist.|Дает шанс при касте призвать дополнительный «Кулак небес».
+subDescPaladinFistOfTheHeavens07|Increases cast rate when using fist of the heavens.|Увеличивает скорость каста при использовании «Длани небес».
+subDescPaladinFistOfTheHeavens08|Chance on cast to summon an additional fist.|Дает шанс при касте призвать дополнительную «Длань небес».
 subDescPaladinFistOfTheHeavens09|Inflicts slow on hit.|При попадании накладывает замедление.
-subDescPaladinFistOfTheHeavens10|Fist of the heavens no longer fires holy bolts. Instead unleash a holy nova scaling its damage based on projectile amount.|«Кулак небес» больше не выпускает святые стрелы, а вызывает кольцо света; урон зависит от количества снарядов.
-subDescPaladinFistOfTheHeavens11|Fist of heavens grows in size according to the amount of projectiles shocking the ground dealing damage in an increased area of effect radius.|Размер «Кулака небес» растет в зависимости от количества снарядов; удары по земле наносят урон в увеличенном радиусе.
+subDescPaladinFistOfTheHeavens10|Fist of the heavens no longer fires holy bolts. Instead unleash a holy nova scaling its damage based on projectile amount.|«Длань небес» больше не выпускает святые стрелы, а вызывает «Кольцо света»; урон зависит от количества снарядов.
+subDescPaladinFistOfTheHeavens11|Fist of heavens grows in size according to the amount of projectiles shocking the ground dealing damage in an increased area of effect radius.|Размер «Длани небес» растет в зависимости от количества снарядов; удары по земле наносят урон в увеличенном радиусе.
 subDescPaladinFistOfTheHeavens12|Unleash the fist towards target location pulsating holy bolts as it travels and then returns back to you.|Вы выпускаете кулак в указанную точку; в полете он испускает пульсирующие святые стрелы, после чего возвращается к вам.
 subDescPaladinFistOfTheHeavens13|Smash with the fist dealing increased damage based on projectile amount inflicting arcane break and knocking back targets.|Мощный удар кулаком, урон которого зависит от количества снарядов; вызывает игнорирование сопр. тайной магии и отбрасывает цели.
-subDescPaladinFistOfTheHeavens14|Summon multiple smaller fist of the heavens orbiting you and unleashing holy bolts on hit.|Призывает несколько малых «Кулаков небес», которые вращаются вокруг вас и выпускают святые стрелы при попадании.
+subDescPaladinFistOfTheHeavens14|Summon multiple smaller fist of the heavens orbiting you and unleashing holy bolts on hit.|Призывает несколько малых «Дланей небес», которые вращаются вокруг вас и выпускают святые стрелы при попадании.

@@ -17,11 +17,11 @@ subDescVikingCharge02|Increases the duration of charge.|Увеличивает �
 subDescVikingCharge03|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
 subDescVikingCharge04|Take reduced damage while charging and shortly after.|Получаемый урон снижен во время «Рывка» и в течение короткого времени после него.
 subDescVikingCharge05|Increases the area of effect radius of charge.|Увеличивает радиус области действия «Рывка».
-subDescVikingCharge06|Inflicts arcane break on hit.|При попадании вызывает игнорирование тайной магии.
+subDescVikingCharge06|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
 subDescVikingCharge07|Increases the impact damage dealt by charge for each second spent charging.|Увеличивает урон от удара «Рывком» за каждую секунду движения.
 subDescVikingCharge08|Increases the speed of your charge.|Увеличивает скорость «Рывка».
 subDescVikingCharge09|Chance to critically hit with increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
-subDescVikingCharge10|Stack a buff increasing your arcane skill damage when hitting monsters with charge.|Суммирует эффект, увеличивающий ваш урон тайной магией при попадании по монстрам «Рывком».
+subDescVikingCharge10|Stack a buff increasing your arcane skill damage when hitting monsters with charge.|Суммирует эффект, увеличивающий ваш урон от умений тайной магии при попадании по монстрам «Рывком».
 subDescVikingCharge11|Grab monsters on your path dealing damage and stunning them when you crash into terrain.|Захватывает монстров на пути, нанося им урон и оглушая их при столкновении с препятствием.
 subDescVikingCharge12|Unleash powerful shockwaves when crashing into monsters or terrain.|Вызывает мощные ударные волны при столкновении с монстрами или препятствиями.
 subDescVikingCharge13|Charge forward in a straight line unleashing a massive whirlwind around you.|Вы совершаете рывок вперед по прямой, создавая вокруг себя огромный вихрь.
@@ -50,7 +50,7 @@ subDescVikingOdinsFury06|Increases the damage of odin's fury based on your maxim
 subDescVikingOdinsFury07|Inflicts bleeding on hit.|При попадании вызывает кровотечение.
 subDescVikingOdinsFury08|Chance on cast to unleash an additional shout.|Дает шанс при касте издать дополнительный крик.
 subDescVikingOdinsFury09|Increases your movement speed for a short period of time after using odin's fury.|Увеличивает вашу скорость передвижения на короткое время после использования «Ярости Одина».
-subDescVikingOdinsFury10|Inflicts arcane break on hit.|При попадании вызывает игнорирование тайной магии.
+subDescVikingOdinsFury10|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
 subDescVikingOdinsFury11|Odin’s fury now knocks back monsters and if they hit a wall or an object they take extra damage, get stunned and are pulled back to the player.|«Ярость Одина» теперь отбрасывает монстров; если они ударяются о стену или объект, то получают дополнительный урон, оглушаются и притягиваются обратно к игроку.
 subDescVikingOdinsFury12|Now performs an echoing shout pulsating multiple times dealing increased damage with each pulse.|Теперь издает эхо-крик, который пульсирует несколько раз, нанося увеличенный урон с каждым импульсом.
 subDescVikingOdinsFury13|Gain a buff dealing extra damage to burning and bleeding monsters.|Дает бафф, наносящий дополнительный урон горящим и истекающим кровью монстрам.
@@ -105,7 +105,7 @@ subDescVikingThrow03|Increases the projectile speed of throw.|Увеличива
 subDescVikingThrow04|Increases throw's damage by a portion of your maximum life.|Увеличивает урон «Броска» на часть вашего максимального запаса здоровья.
 subDescVikingThrow05|Thrown monsters bounce off of walls increasing damage dealt with every bounce.|Брошенные монстры отскакивают от стен, нанося всё больше урона с каждым отскоком.
 subDescVikingThrow06|Thrown monsters smash into the ground with force causing ground fragments to fly around dealing damage.|Брошенные монстры с силой врезаются в землю, разбрасывая осколки, которые наносят урон вокруг.
-subDescVikingThrow07|Thrown monsters inflict arcane break on hit.|Брошенные монстры вызывают игнорирование тайной магии при попадании.
+subDescVikingThrow07|Thrown monsters inflict arcane break on hit.|Брошенные монстры вызывают игнорирование сопр. тайной магии при попадании.
 subDescVikingThrow08|Thrown monster bounce off the ground dealing increased damage with every bounce.|Брошенный монстр отскакивает от земли, нанося увеличенный урон с каждым отскоком.
 subDescVikingThrow09|When directly hitting another monster, cause the monster to be knocked up dealing area of effect damage when landing.|При прямом попадании в другого монстра цель подбрасывается в воздух и наносит урон по области при приземлении.
 subDescVikingThrow10|Increases landing area of effect radius of throw.|Увеличивает радиус урона по области при приземлении «Броска».
@@ -143,7 +143,7 @@ subDescVikingZeal12|Each strike has a chance to unleash a ripple of blood dealin
 subDescVikingZeal13|Zeal inflicts stacking armor break on the target increasing with each strike.|«Рвение» накладывает на цель суммирующееся пробивание брони, которое усиливается с каждым ударом.
 subDescVikingZeal14|Your last zeal strike deals increased damage stunning the target taunting nearby monsters.|Последний удар «Рвения» наносит увеличенный урон, оглушает цель и провоцирует ближайших монстров.
 ||
-ubVikingYmirsChampion01|Viking´s Carnage|Жатва викинга
+subVikingYmirsChampion01|Viking´s Carnage|Жатва викинга
 subVikingYmirsChampion02|Raging Sustain|Яростная закалка
 subVikingYmirsChampion03|Slashing Cleavers|Рассекающие тесаки
 subVikingYmirsChampion04|Rimeforged Hatchet|Хладокованный топор

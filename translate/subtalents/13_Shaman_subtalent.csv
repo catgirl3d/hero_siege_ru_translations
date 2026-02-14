@@ -128,20 +128,20 @@ subShamanMeteorStorm11|Astroheated Shower|Раскаленный ливень
 subShamanMeteorStorm12|Storm of Comets|Шторм комет
 subShamanMeteorStorm13|Back Into Orbit|Возврат на орбиту
 subShamanMeteorStorm14|Rain From Hell|Ливень из преисподней
-subDescShamanMeteorStorm01|Increases the damage dealt by meteor storm.|Увеличивает урон «Метеоритного шторма».
-subDescShamanMeteorStorm02|Increases the area of effect radius of meteor storm.|Увеличивает радиус области действия «Метеоритного шторма».
-subDescShamanMeteorStorm03|Increases duration of meteor storm.|Увеличивает длительность «Метеоритного шторма».
+subDescShamanMeteorStorm01|Increases the damage dealt by meteor storm.|Увеличивает урон «Метеоритного дождя».
+subDescShamanMeteorStorm02|Increases the area of effect radius of meteor storm.|Увеличивает радиус области действия «Метеоритного дождя».
+subDescShamanMeteorStorm03|Increases duration of meteor storm.|Увеличивает длительность «Метеоритного дождя».
 subDescShamanMeteorStorm04|Meteors have a chance of exploding into smaller fragments that deal additional damage.|Метеоры могут взорваться, разлетаясь на мелкие осколки, наносящие дополнительный урон.
-subDescShamanMeteorStorm05|Meteor storm slowly travels towards the closest enemy.|«Метеоритный шторм» медленно движется в сторону ближайшего врага.
+subDescShamanMeteorStorm05|Meteor storm slowly travels towards the closest enemy.|«Метеоритный дождь» медленно движется в сторону ближайшего врага.
 subDescShamanMeteorStorm06|Inflicts elemental break on hit with the cost of reduced area of effect radius.|При попадании вызывает игнорирование сопр. стихиям ценой уменьшенного радиуса области действия.
 subDescShamanMeteorStorm07|Chance for meteors to roll for a short duration when landing dealing additional damage.|При приземлении метеоры могут катиться в течение короткого времени, нанося дополнительный урон.
 subDescShamanMeteorStorm08|Increases damage according to your energy. Mana cost is increased.|Увеличивает урон в зависимости от вашей энергии, но повышает затраты маны.
-subDescShamanMeteorStorm09|Increases damage dealt to bosses by meteor storm.|Увеличивает урон «Метеоритного шторма» по боссам.
+subDescShamanMeteorStorm09|Increases damage dealt to bosses by meteor storm.|Увеличивает урон «Метеоритного дождя» по боссам.
 subDescShamanMeteorStorm10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
 subDescShamanMeteorStorm11|Meteors constantly fall around you with a decreased frequency.|Метеоры постоянно падают вокруг вас, но с меньшей частотой.
-subDescShamanMeteorStorm12|Call down a rain of colossal meteors from the sky over a greater area dealing increased damage. Meteor storm now has a cooldown.|Вы обрушиваете град колоссальных метеоров на огромную область, нанося увеличенный урон. «Метеоритный шторм» теперь имеет время восстановления.
-subDescShamanMeteorStorm13|Summon multiple storms orbiting you. Meteor storm now has a cooldown.|Вы призываете несколько штормов, вращающихся вокруг вас. «Метеоритный шторм» теперь имеет время восстановления.
-subDescShamanMeteorStorm14|Increases the duration of meteor storm inflicting monsters with burning on hit.|Увеличивает длительность «Метеоритного шторма» и заставляет его накладывать горение при попадании.
+subDescShamanMeteorStorm12|Call down a rain of colossal meteors from the sky over a greater area dealing increased damage. Meteor storm now has a cooldown.|Вы обрушиваете град колоссальных метеоров на огромную область, нанося увеличенный урон. «Метеоритный дождь» теперь имеет время восстановления.
+subDescShamanMeteorStorm13|Summon multiple storms orbiting you. Meteor storm now has a cooldown.|Вы призываете несколько штормов, вращающихся вокруг вас. «Метеоритный дождь» теперь имеет время восстановления.
+subDescShamanMeteorStorm14|Increases the duration of meteor storm inflicting monsters with burning on hit.|Увеличивает длительность «Метеоритного дождя» и заставляет его накладывать горение при попадании.
 ||
 subShamanTornado01|Wind´s Force|Сила ветра
 subShamanTornado02|Sudden Winds|Внезапные порывы
@@ -244,20 +244,20 @@ subShamanSpiritWolves11|Spiritual Rabies|Духовное бешенство
 subShamanSpiritWolves12|Alpha|Альфа-самец
 subShamanSpiritWolves13|Lightning Fangs|Грозовые клыки
 subShamanSpiritWolves14|Howling Pack|Воющая стая
-subDescShamanSpiritWolves01|Increases damage dealt by spirit wolves.|Увеличивает урон «Волков-духов».
-subDescShamanSpiritWolves02|Increases the maximum amount of spirit wolves.|Увеличивает максимальное количество «Волков-духов».
-subDescShamanSpiritWolves03|Increases the damage reduction of spirit wolves.|Повышает сопротивление урону у «Волков-духов».
+subDescShamanSpiritWolves01|Increases damage dealt by spirit wolves.|Увеличивает урон «Призрачных волков».
+subDescShamanSpiritWolves02|Increases the maximum amount of spirit wolves.|Увеличивает максимальное количество «Призрачных волков».
+subDescShamanSpiritWolves03|Increases the damage reduction of spirit wolves.|Повышает сопротивление урону у «Призрачных волков».
 subDescShamanSpiritWolves04|Increases the area of effect radius and splash damage dealt to monsters around the target.|Увеличивает радиус поражения и урон по области вокруг цели.
 subDescShamanSpiritWolves05|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
 subDescShamanSpiritWolves06|Bleeding targets emit damage taken to nearby enemies.|Истекающие кровью цели передают часть полученного урона ближайшим врагам.
-subDescShamanSpiritWolves07|Increases the attack speed of spirit wolves.|Увеличивает скорость атаки «Волков-духов».
+subDescShamanSpiritWolves07|Increases the attack speed of spirit wolves.|Увеличивает скорость атаки «Призрачных волков».
 subDescShamanSpiritWolves08|Chance to knock monsters back dealing increased damage on hit.|Дает шанс отбросить монстров, нанося увеличенный урон при попадании.
 subDescShamanSpiritWolves09|Chance to deal a critical strike on attack.|Дает шанс нанести критический удар при атаке.
 subDescShamanSpiritWolves10|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
 subDescShamanSpiritWolves11|Chance on attack to become enraged increasing movement speed and damage dealt for a short period.|Дает шанс впасть в ярость при атаке, на короткое время увеличивая скорость и урон.
-subDescShamanSpiritWolves12|Summon a single lone wolf scaling its damage and life according to the maximum amount of wolves.|Вы призываете одного вожака; его урон и здоровье зависят от вашего общего лимита «Волков-духов».
+subDescShamanSpiritWolves12|Summon a single lone wolf scaling its damage and life according to the maximum amount of wolves.|Вы призываете одного вожака; его урон и здоровье зависят от вашего общего лимита «Призрачных волков».
 subDescShamanSpiritWolves13|Chance to unleash surges of chain lightning on hit dealing increased damage.|Дает шанс выпустить цепную молнию при попадании, нанося увеличенный урон.
-subDescShamanSpiritWolves14|Increases spirit wolves movement speed and maximum summon amount.|Увеличивает скорость передвижения и максимальное количество «Волков-духов».
+subDescShamanSpiritWolves14|Increases spirit wolves movement speed and maximum summon amount.|Увеличивает скорость передвижения и максимальное количество «Призрачных волков».
 ||
 subShamanStormTotem01|Storm Master|Повелитель бури
 subShamanStormTotem02|Circuitbreaking|Короткое замыкание
@@ -273,20 +273,20 @@ subShamanStormTotem11|Lightning Rods|Громоотводы
 subShamanStormTotem12|Surging Sentry|Неистовый страж
 subShamanStormTotem13|Stormclaw Totem|Тотем штормового когтя
 subShamanStormTotem14|Charged Totem|Заряженный тотем
-subDescShamanStormTotem01|Increases the maximum amount of storm totems.|Увеличивает максимальное количество «Тотемов бури».
+subDescShamanStormTotem01|Increases the maximum amount of storm totems.|Увеличивает максимальное количество «Тотемов шторма».
 subDescShamanStormTotem02|Increases amount of chain lightning bounces.|Увеличивает количество отскоков цепной молнии.
 subDescShamanStormTotem03|Chance to inflict stasis on hit.|Дает шанс наложить стазис при попадании.
-subDescShamanStormTotem04|Increases damage dealt by storm totem.|Увеличивает урон «Тотема бури».
-subDescShamanStormTotem05|Chance to summon an additional storm totem on attack for a short period.|Дает шанс на короткое время призвать дополнительный «Тотем бури» при атаке.
+subDescShamanStormTotem04|Increases damage dealt by storm totem.|Увеличивает урон «Тотема шторма».
+subDescShamanStormTotem05|Chance to summon an additional storm totem on attack for a short period.|Дает шанс на короткое время призвать дополнительный «Тотем шторма» при атаке.
 subDescShamanStormTotem06|Storm totems are now linked together with electric current dealing damage to monsters on hit.|Тотемы теперь связаны электрическими дугами, которые наносят урон монстрам.
 subDescShamanStormTotem07|Increases damage dealt to targets with stasis.|Увеличивает урон по целям под действием стазиса.
 subDescShamanStormTotem08|Chance to strike monsters with a bolt of lightning on hit dealing additional damage.|Дает шанс поразить монстров разрядом молнии при попадании, нанося доп. урон.
-subDescShamanStormTotem09|Storm totem has a chance to stun enemies on hit.|«Тотем бури» может оглушить врагов при попадании.
+subDescShamanStormTotem09|Storm totem has a chance to stun enemies on hit.|«Тотем шторма» может оглушить врагов при попадании.
 subDescShamanStormTotem10|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
 subDescShamanStormTotem11|Storm totems call lightning bolts from the sky unleashing lightning pulses dealing increased damage. Storm totems no longer unleash chain lightning.|Тотемы призывают молнии с небес, создавая мощные электрические импульсы. Тотемы больше не выпускают цепные молнии.
 subDescShamanStormTotem12|Storm totem fires a surge of lightning unleashing lightning pulses on hit.|Тотем выпускает всплеск молнии, создающий электрические импульсы при попадании.
 subDescShamanStormTotem13|Increases the attack speed and damage dealt by storm totem unleashing an arc of lightning bolts on hit.|Увеличивает скорость атаки и урон тотема; при попадании выпускает веер молний.
-subDescShamanStormTotem14|Storm totem unleashes multiple charged bolts.|«Тотем бури» выпускает несколько заряженных разрядов.
+subDescShamanStormTotem14|Storm totem unleashes multiple charged bolts.|«Тотем шторма» выпускает несколько заряженных разрядов.
 ||
 subShamanFireTotem01|Fire Master|Мастер огня
 subShamanFireTotem02|Flame Scorching|Обжигающее пламя

@@ -12,12 +12,12 @@ subExoScorchingWhip11|Solar Harvester|Солнечный жнец
 subExoScorchingWhip12|Blasting Whiplash|Взрывной хлест
 subExoScorchingWhip13|Flaming Whip|Пылающий кнут
 subExoScorchingWhip14|Whirlwhipper|Вихрь хлыстов
-subDescExoScorchingWhip01|Chance on attack to unleash an additional scorching whip.|Дает шанс при атаке нанести дополнительный удар «Обжигающим кнутом».
-subDescExoScorchingWhip02|Increases the damage dealt by scorching whip.|Увеличивает урон «Обжигающего кнута».
-subDescExoScorchingWhip03|Decreases the mana cost of scorching whip.|Снижает затраты маны на «Обжигающий кнут».
+subDescExoScorchingWhip01|Chance on attack to unleash an additional scorching whip.|Дает шанс при атаке нанести дополнительный удар «Обжигающим бичом».
+subDescExoScorchingWhip02|Increases the damage dealt by scorching whip.|Увеличивает урон «Обжигающего бича».
+subDescExoScorchingWhip03|Decreases the mana cost of scorching whip.|Снижает затраты маны на «Обжигающий бич».
 subDescExoScorchingWhip04|Chance to unleash burning fissures on hit dealing additional damage.|Дает шанс при попадании создать огненные разломы, наносящие доп. урон.
-subDescExoScorchingWhip05|Increases attack speed when using scorching whip with a sword, cane or staff.|Увеличивает скорость атаки при использовании «Обжигающего кнута» с мечом, тростью или посохом.
-subDescExoScorchingWhip06|Increases the area of effect radius of scorching whip.|Увеличивает радиус области действия «Обжигающего кнута».
+subDescExoScorchingWhip05|Increases attack speed when using scorching whip with a sword, cane or staff.|Увеличивает скорость атаки при использовании «Обжигающего бича» с мечом, тростью или посохом.
+subDescExoScorchingWhip06|Increases the area of effect radius of scorching whip.|Увеличивает радиус области действия «Обжигающего бича».
 subDescExoScorchingWhip07|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
 subDescExoScorchingWhip08|Chance on attack to unleash multiple fire balls in an arc towards target location.|Дает шанс при атаке выпустить веер огненных шаров в сторону цели.
 subDescExoScorchingWhip09|Chance to knock monsters back on hit dealing increased damage.|Дает шанс отбросить монстров при попадании, нанося увеличенный урон.
@@ -58,7 +58,7 @@ subDescExoSolarFlare14|Summon multiple small suns frequently unleashing solar fl
 ||
 subExoSolarDash01|Interstellar Traveller|Межзвездный странник
 subExoSolarDash02|Burn Burn BURN|Гори, гори, ГОРИ
-subExoSolarDash03|Solar Burst|Солнечная вспышка
+subExoSolarDash03|Solar Burst|Солнечный взрыв
 subExoSolarDash04|Restoring Flames|Восстанавливающее пламя
 subExoSolarDash05|Cooldown Lap|Остывание
 subExoSolarDash06|Plasma Dash|Плазменный рывок

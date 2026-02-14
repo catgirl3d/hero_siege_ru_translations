@@ -42,19 +42,19 @@ subWhiteMageSoulSpurn12|Purgatory|Чистилище
 subWhiteMageSoulSpurn13|Lifeline Tether|Узы жизни
 subWhiteMageSoulSpurn14|Harvest the Damned|Жатва проклятых
 subDescWhiteMageSoulSpurn01|Ripped souls deal a portion of the damage.|Вырванные души наносят часть урона.
-subDescWhiteMageSoulSpurn02|Increases the damage dealt by soul spurn.|Увеличивает урон «Отвержения души».
+subDescWhiteMageSoulSpurn02|Increases the damage dealt by soul spurn.|Увеличивает урон «Отторжения души».
 subDescWhiteMageSoulSpurn03|Chance on cast to deal increased damage.|Дает шанс нанести увеличенный урон при использовании.
-subDescWhiteMageSoulSpurn04|Chance on cast to unleash an additional soul spurn.|Дает шанс при касте вызвать дополнительное «Отвержение души».
+subDescWhiteMageSoulSpurn04|Chance on cast to unleash an additional soul spurn.|Дает шанс при касте вызвать дополнительное «Отторжение души».
 subDescWhiteMageSoulSpurn05|Increases the speed of ripped souls.|Увеличивает скорость вырванных душ.
-subDescWhiteMageSoulSpurn06|Soul spurn recovers a portion of your maximum mana on hit.|«Отвержение души» восполняет ману в размере части от вашего макс. запаса при попадании.
-subDescWhiteMageSoulSpurn07|Soul spurn recovers a portion of your maximum life on hit.|«Отвержение души» восполняет здоровье в размере части от вашего макс. запаса при попадании.
-subDescWhiteMageSoulSpurn08|Reduces movement diminish when using soul spurn.|Уменьшает штраф к скорости передвижения при использовании «Отвержения души».
+subDescWhiteMageSoulSpurn06|Soul spurn recovers a portion of your maximum mana on hit.|«Отторжение души» восполняет ману в размере части от вашего макс. запаса при попадании.
+subDescWhiteMageSoulSpurn07|Soul spurn recovers a portion of your maximum life on hit.|«Отторжение души» восполняет здоровье в размере части от вашего макс. запаса при попадании.
+subDescWhiteMageSoulSpurn08|Reduces movement diminish when using soul spurn.|Уменьшает штраф к скорости передвижения при использовании «Отторжения души».
 subDescWhiteMageSoulSpurn09|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
-subDescWhiteMageSoulSpurn10|Increases the area of effect radius of soul spurn.|Увеличивает радиус области действия «Отвержения души».
-subDescWhiteMageSoulSpurn11|Increases the damage dealt by soul spurn but decreases the area of effect radius.|Увеличивает урон «Отвержения души», но уменьшает радиус его действия.
-subDescWhiteMageSoulSpurn12|Soul spurn becomes a toggle skill ripping souls from monsters around you draining a portion of your maximum life frequently.|«Отвержение души» становится переключаемым умением; оно вырывает души у врагов вокруг вас, периодически поглощая часть вашего макс. здоровья.
+subDescWhiteMageSoulSpurn10|Increases the area of effect radius of soul spurn.|Увеличивает радиус области действия «Отторжения души».
+subDescWhiteMageSoulSpurn11|Increases the damage dealt by soul spurn but decreases the area of effect radius.|Увеличивает урон «Отторжения души», но уменьшает радиус его действия.
+subDescWhiteMageSoulSpurn12|Soul spurn becomes a toggle skill ripping souls from monsters around you draining a portion of your maximum life frequently.|«Отторжение души» становится переключаемым умением; оно вырывает души у врагов вокруг вас, периодически поглощая часть вашего макс. здоровья.
 subDescWhiteMageSoulSpurn13|Rip souls for all nearby allies restoring their mana and life.|Вырывает души у всех ближайших союзников, восстанавливая им ману и здоровье.
-subDescWhiteMageSoulSpurn14|Monsters killed by soul spurn inflicts you with a buff increasing your arcane damage, life replenish and mana replenish for a short duration.|Убийство монстров «Отвержением души» дает бафф, увеличивающий ваш урон тайной магией и скорость восстановления здоровья и маны.
+subDescWhiteMageSoulSpurn14|Monsters killed by soul spurn inflicts you with a buff increasing your arcane damage, life replenish and mana replenish for a short duration.|Убийство монстров «Отторжением души» дает бафф, увеличивающий ваш урон тайной магией и скорость восстановления здоровья и маны.
 ||
 subWhiteMageSatansMark01|Heil Satan|Слава Сатане
 subWhiteMageSatansMark02|Long Lasting Darkness|Долгая тьма
@@ -244,18 +244,18 @@ subWhiteMageChainOfHolyLight11|God´s Altar|Божий алтарь
 subWhiteMageChainOfHolyLight12|Recursive Light|Возвратный свет
 subWhiteMageChainOfHolyLight13|Echo of Heavens|Эхо небес
 subWhiteMageChainOfHolyLight14|God's Grasp|Божественная хватка
-subDescWhiteMageChainOfHolyLight01|Increases the projectile speed of chain of holy light.|Увеличивает скорость снарядов «Цепи святого света».
-subDescWhiteMageChainOfHolyLight02|Increases the damage dealt by chain of holy light.|Увеличивает урон «Цепи святого света».
+subDescWhiteMageChainOfHolyLight01|Increases the projectile speed of chain of holy light.|Увеличивает скорость снарядов «Цепи святых молний».
+subDescWhiteMageChainOfHolyLight02|Increases the damage dealt by chain of holy light.|Увеличивает урон «Цепи святых молний».
 subDescWhiteMageChainOfHolyLight03|Chance to smite monsters with holy lightning on hit dealing additional damage.|Дает шанс поразить монстров святой молнией при попадании, нанося доп. урон.
-subDescWhiteMageChainOfHolyLight04|Chance to unleash an additional chain of holy light on hit.|Дает шанс выпустить дополнительную «Цепь святого света» при попадании.
-subDescWhiteMageChainOfHolyLight05|Increases the damage dealt by chain of holy light with each bounce.|Увеличивает урон «Цепи святого света» с каждым последующим отскоком.
+subDescWhiteMageChainOfHolyLight04|Chance to unleash an additional chain of holy light on hit.|Дает шанс выпустить дополнительную «Цепь святых молний» при попадании.
+subDescWhiteMageChainOfHolyLight05|Increases the damage dealt by chain of holy light with each bounce.|Увеличивает урон «Цепи святых молний» с каждым последующим отскоком.
 subDescWhiteMageChainOfHolyLight06|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
 subDescWhiteMageChainOfHolyLight07|Increases the amount of bounces.|Увеличивает количество отскоков.
-subDescWhiteMageChainOfHolyLight08|Decreases movement diminish when using chain of holy light.|Уменьшает штраф к скорости передвижения при использовании «Цепи святого света».
-subDescWhiteMageChainOfHolyLight09|Decreases the mana cost of chain of holy light.|Снижает затраты маны на «Цепь святого света».
-subDescWhiteMageChainOfHolyLight10|Chain of holy light heals you for a portion of your maximum life when hitting its last target.|«Цепь святого света» восполняет здоровье в размере части от макс. запаса при попадании в последнюю цель.
+subDescWhiteMageChainOfHolyLight08|Decreases movement diminish when using chain of holy light.|Уменьшает штраф к скорости передвижения при использовании «Цепи святых молний».
+subDescWhiteMageChainOfHolyLight09|Decreases the mana cost of chain of holy light.|Снижает затраты маны на «Цепь святых молний».
+subDescWhiteMageChainOfHolyLight10|Chain of holy light heals you for a portion of your maximum life when hitting its last target.|«Цепь святых молний» восполняет здоровье в размере части от макс. запаса при попадании в последнюю цель.
 subDescWhiteMageChainOfHolyLight11|Summon an altar of light unleashing chain of holy light on nearby monsters. Chain of holy light now has a cooldown.|Призывает Алтарь света, выпускающий цепи света в ближайших врагов. Умение теперь имеет время восстановления.
-subDescWhiteMageChainOfHolyLight12|Chain of holy light strikes the same target multiple times if there are no monsters nearby dealing a portion of its damage.|«Цепь святого света» может многократно поражать одну цель, если рядом нет других врагов (с пониженным уроном).
+subDescWhiteMageChainOfHolyLight12|Chain of holy light strikes the same target multiple times if there are no monsters nearby dealing a portion of its damage.|«Цепь святых молний» может многократно поражать одну цель, если рядом нет других врагов (с пониженным уроном).
 subDescWhiteMageChainOfHolyLight13|Unleash holy bolts towards targets on hit with a chance to proc heavenly fire on hit.|При попадании выпускает в цели святые стрелы, которые могут вызвать «Небесный огонь».
 subDescWhiteMageChainOfHolyLight14|Pull monsters towards the first target on hit unleashing a divine explosion dealing increased damage with increased area of effect radius.|Притягивает монстров к первой цели и вызывает божественный взрыв с увеличенным уроном и радиусом.
 ||

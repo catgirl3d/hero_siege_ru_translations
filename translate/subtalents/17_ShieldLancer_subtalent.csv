@@ -99,20 +99,20 @@ subShieldLancerLanceThrust11|Head Collector|Собиратель голов
 subShieldLancerLanceThrust12|Legion Exterminator|Истребитель легионов
 subShieldLancerLanceThrust13|Trust in the Thrust|Верный выпад
 subShieldLancerLanceThrust14|Commend to Onslaught|Приказ к натиску
-subDescShieldLancerLanceThrust01|Increases the damage dealt by lance thrust.|Увеличивает урон «Укола копьем».
-subDescShieldLancerLanceThrust02|Increases the range of lance thrust.|Увеличивает дальность «Укола копьем».
-subDescShieldLancerLanceThrust03|Increases stun duration and damage when colliding with commending banner.|Увеличивает длительность оглушения и урон при столкновении с «Воодушевляющим знаменем».
+subDescShieldLancerLanceThrust01|Increases the damage dealt by lance thrust.|Увеличивает урон «Выпада копьем».
+subDescShieldLancerLanceThrust02|Increases the range of lance thrust.|Увеличивает дальность «Выпада копьем».
+subDescShieldLancerLanceThrust03|Increases stun duration and damage when colliding with commending banner.|Увеличивает длительность оглушения и урон при столкновении с «Знаменем доблести».
 subDescShieldLancerLanceThrust04|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
 subDescShieldLancerLanceThrust05|Knock monsters back on hit dealing increased damage.|Отбрасывает монстров назад, нанося увеличенный урон при попадании.
 subDescShieldLancerLanceThrust06|Chance to gain a stack of swift strikes on hit increasing your attack speed and attack rating.|Дает шанс получить заряд «Стремительных ударов» при попадании, повышая скорость и рейтинг атаки.
-subDescShieldLancerLanceThrust07|Increases the critical strike damage dealt by lance thrust when using polearms.|Увеличивает критический урон «Укола копьем» при использовании древкового оружия.
+subDescShieldLancerLanceThrust07|Increases the critical strike damage dealt by lance thrust when using polearms.|Увеличивает критический урон «Выпада копьем» при использовании древкового оружия.
 subDescShieldLancerLanceThrust08|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
-subDescShieldLancerLanceThrust09|Every third attack with lance thrust is empowered increasing range and damage slowing monsters on hit.|Каждая третья атака «Уколом копьем» усиливается, увеличивая дальность и урон, а также замедляя врагов.
-subDescShieldLancerLanceThrust10|Collision with commending banner causes it to explode dealing area of effect damage.|При столкновении с «Воодушевляющим знаменем» оно взрывается, нанося урон по области.
-subDescShieldLancerLanceThrust11|Lance thrust pulls monsters towards you and stuns them on hit.|«Укол копьем» притягивает и оглушает монстров при попадании.
-subDescShieldLancerLanceThrust12|Unleash a whirl attack with increased area of effect radius. Lance thrust no longer collides with commending banner.|Вы совершаете круговую атаку с увеличенным радиусом. «Укол копьем» больше не взаимодействует с «Воодушевляющим знаменем».
+subDescShieldLancerLanceThrust09|Every third attack with lance thrust is empowered increasing range and damage slowing monsters on hit.|Каждая третья атака «Выпадом копьем» усиливается, увеличивая дальность и урон, а также замедляя врагов.
+subDescShieldLancerLanceThrust10|Collision with commending banner causes it to explode dealing area of effect damage.|При столкновении с «Знаменем доблести» оно взрывается, нанося урон по области.
+subDescShieldLancerLanceThrust11|Lance thrust pulls monsters towards you and stuns them on hit.|«Выпад копьем» притягивает и оглушает монстров при попадании.
+subDescShieldLancerLanceThrust12|Unleash a whirl attack with increased area of effect radius. Lance thrust no longer collides with commending banner.|Вы совершаете круговую атаку с увеличенным радиусом. «Выпад копьем» больше не взаимодействует с «Знаменем доблести».
 subDescShieldLancerLanceThrust13|Unleash a circle of lances thrusting the first target on hit from all directions.|Выпускает кольцо копий, которые пронзают первую цель со всех сторон.
-subDescShieldLancerLanceThrust14|Unleash additional lance thrusts towards nearby monsters from commending banner on banner impact.|При ударе по «Воодушевляющему знамени» оно выпускает дополнительные «Уколы копьем» в ближайших врагов.
+subDescShieldLancerLanceThrust14|Unleash additional lance thrusts towards nearby monsters from commending banner on banner impact.|При ударе по «Знамени доблести» оно выпускает дополнительные «Выпады копьем» в ближайших врагов.
 ||
 subShieldLancerShieldSlam01|Obsidian Shield|Обсидиановый щит
 subShieldLancerShieldSlam02|Gradient Strikes|Нарастающие удары
@@ -157,20 +157,20 @@ subShieldLancerHonedDefenses11|Sky Bulwark|Небесный оплот
 subShieldLancerHonedDefenses12|Hauling Surge|Стягивающий всплеск
 subShieldLancerHonedDefenses13|Risen Guards|Восставшие стражи
 subShieldLancerHonedDefenses14|Unstoppable Goliath|Неудержимый Голиаф
-subDescShieldLancerHonedDefenses01|Increases the damage dealt by honed defenses.|Увеличивает урон «Отточенной защиты».
+subDescShieldLancerHonedDefenses01|Increases the damage dealt by honed defenses.|Увеличивает урон «Мастерства обороны».
 subDescShieldLancerHonedDefenses02|Chance to increase the amount of stacks gained when struck.|Дает шанс получить больше зарядов при получении удара.
-subDescShieldLancerHonedDefenses03|Increases the area of effect radius of honed defenses.|Увеличивает радиус области действия «Отточенной защиты».
-subDescShieldLancerHonedDefenses04|Increases damage return per stack of honed defenses.|Увеличивает возврат урона за каждый заряд «Отточенной защиты».
-subDescShieldLancerHonedDefenses05|Increases the damage dealt by honed defenses based on your armor.|Увеличивает урон «Отточенной защиты» в зависимости от вашей брони.
-subDescShieldLancerHonedDefenses06|Increases the duration of honed defenses.|Увеличивает длительность действия «Отточенной защиты».
-subDescShieldLancerHonedDefenses07|Increases the maximum amount of stacks for honed defenses.|Увеличивает максимальное количество зарядов «Отточенной защиты».
+subDescShieldLancerHonedDefenses03|Increases the area of effect radius of honed defenses.|Увеличивает радиус области действия «Мастерства обороны».
+subDescShieldLancerHonedDefenses04|Increases damage return per stack of honed defenses.|Увеличивает возврат урона за каждый заряд «Мастерства обороны».
+subDescShieldLancerHonedDefenses05|Increases the damage dealt by honed defenses based on your armor.|Увеличивает урон «Мастерства обороны» в зависимости от вашей брони.
+subDescShieldLancerHonedDefenses06|Increases the duration of honed defenses.|Увеличивает длительность действия «Мастерства обороны».
+subDescShieldLancerHonedDefenses07|Increases the maximum amount of stacks for honed defenses.|Увеличивает максимальное количество зарядов «Мастерства обороны».
 subDescShieldLancerHonedDefenses08|Chance to inflict armor break when struck.|Дает шанс вызвать пробивание брони при получении удара.
-subDescShieldLancerHonedDefenses09|Chance to unleash a ground slam on the attacker when struck dealing damage based on honed defenses stacks.|Дает шанс ответить атакующему ударом по земле; урон зависит от количества зарядов «Отточенной защиты».
-subDescShieldLancerHonedDefenses10|Gain increased damage return per stack of honed defenses decreasing its damage dealt.|Увеличивает возврат урона за каждый заряд «Отточенной защиты», но снижает наносимый ею прямой урон.
+subDescShieldLancerHonedDefenses09|Chance to unleash a ground slam on the attacker when struck dealing damage based on honed defenses stacks.|Дает шанс ответить атакующему ударом по земле; урон зависит от количества зарядов «Мастерства обороны».
+subDescShieldLancerHonedDefenses10|Gain increased damage return per stack of honed defenses decreasing its damage dealt.|Увеличивает возврат урона за каждый заряд «Мастерства обороны», но снижает наносимый ею прямой урон.
 subDescShieldLancerHonedDefenses11|Giant bulwarks fall down from the sky on hit dealing increased area of effect damage inflicting elemental break.|При попадании с неба падают гигантские оплоты, наносящие урон по области и вызывающие игнорирование сопр. стихиям.
-subDescShieldLancerHonedDefenses12|Pull monsters towards you dealing increased damage and stunning them when reaching maximum stacks of honed defenses.|При достижении максимума зарядов «Отточенной защиты» притягивает, оглушает и наносит монстрам увеличенный урон.
-subDescShieldLancerHonedDefenses13|Increases the amount of maximum stacks. At maximum stacks honed defenses calls forth a legion of skeleton warriors fighting on your side for a short duration dealing 10% of the damage of honed defenses.|Увеличивает лимит зарядов. При максимуме зарядов призывает легион скелетов-воинов, сражающихся на вашей стороне и наносящих 10% от урона умения.
-subDescShieldLancerHonedDefenses14|Honed defenses no longer causes ground slam at maximum stacks increasing your maximum life, damage return and life replenish for each stack.|При максимуме зарядов «Отточенная защита» больше не бьет по земле; каждый заряд увеличивает ваше макс. здоровье, возврат урона и регенерацию.
+subDescShieldLancerHonedDefenses12|Pull monsters towards you dealing increased damage and stunning them when reaching maximum stacks of honed defenses.|При достижении максимума зарядов «Мастерства обороны» притягивает, оглушает и наносит монстрам увеличенный урон.
+subDescShieldLancerHonedDefenses13|Increases the amount of maximum stacks. At maximum stacks honed defenses calls forth a legion of skeleton warriors fighting on your side for a short duration dealing 10% of the damage of honed defenses.|Увеличивает лимит зарядов. При максимуме зарядов призывает легион скелетов-воинов, сражающихся на вашей стороне и наносящих 10% от урона «Мастерства обороны».
+subDescShieldLancerHonedDefenses14|Honed defenses no longer causes ground slam at maximum stacks increasing your maximum life, damage return and life replenish for each stack.|При максимуме зарядов «Мастерство обороны» больше не бьет по земле; каждый заряд увеличивает ваше макс. здоровье, возврат урона и регенерацию.
 ||
 subShieldLancerCounter01|Sharp Vengeance|Острое возмездие
 subShieldLancerCounter02|Vengeful Hit|Мстительный удар
@@ -186,20 +186,20 @@ subShieldLancerCounter11|Insatiable Challenger|Ненасытный дуэлян
 subShieldLancerCounter12|Volley Build-up|Подготовка залпа
 subShieldLancerCounter13|Give No Quarter|Пощады не будет
 subShieldLancerCounter14|Versus the World|Один против всех
-subDescShieldLancerCounter01|Increases the damage dealt by counter.|Увеличивает урон «Контратаки».
+subDescShieldLancerCounter01|Increases the damage dealt by counter.|Увеличивает урон «Контрудара».
 subDescShieldLancerCounter02|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
 subDescShieldLancerCounter03|Chance to throw additional lances when struck.|Дает шанс метнуть дополнительные копья при получении удара.
 subDescShieldLancerCounter04|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
-subDescShieldLancerCounter05|Counter also reflects non-physical projectiles and attacks dealing a portion of the damage.|«Контратака» также отражает нефизические атаки и снаряды, возвращая врагу часть урона.
-subDescShieldLancerCounter06|Increases the duration of counter.|Увеличивает длительность «Контратаки».
+subDescShieldLancerCounter05|Counter also reflects non-physical projectiles and attacks dealing a portion of the damage.|«Контрудар» также отражает нефизические атаки и снаряды, возвращая врагу часть урона.
+subDescShieldLancerCounter06|Increases the duration of counter.|Увеличивает длительность «Контрудара».
 subDescShieldLancerCounter07|Chance to replenish a portion of your maximum life on hit.|Дает шанс восполнить часть макс. здоровья при попадании.
 subDescShieldLancerCounter08|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
 subDescShieldLancerCounter09|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
 subDescShieldLancerCounter10|Chance to throw multiple piercing lances around you when struck.|Дает шанс при получении удара выпустить веер пронзающих копий.
-subDescShieldLancerCounter11|Casting counter taunts all nearby monsters inflicting armor break.|Использование «Контратаки» провоцирует всех ближайших монстров и вызывает пробивание брони.
-subDescShieldLancerCounter12|During its duration counter stores all damage taken. When expiring throw javelins at nearby monsters unleashing the stored damage taken.|Во время действия «Контратака» накапливает полученный урон. По истечении времени вы мечете дротики, высвобождая накопленный урон.
-subDescShieldLancerCounter13|Counter no longer has a duration but instead frequently drains your life and mana. Counter can be activated and deactivated and no longer has a cooldown.|«Контратака» больше не ограничена по времени, но периодически расходует здоровье и ману. Умение становится переключаемым и не имеет перезарядки.
-subDescShieldLancerCounter14|Counter no longer throws lances at monsters but gives you a chance to block incoming damage reflecting it back to the attacker with intense power. |«Контратака» больше не мечет копья, но дает шанс заблокировать урон и с огромной силой отразить его обратно в атакующего.
+subDescShieldLancerCounter11|Casting counter taunts all nearby monsters inflicting armor break.|Использование «Контрудара» провоцирует всех ближайших монстров и вызывает пробивание брони.
+subDescShieldLancerCounter12|During its duration counter stores all damage taken. When expiring throw javelins at nearby monsters unleashing the stored damage taken.|Во время действия «Контрудара» накапливает полученный урон. По истечении времени вы мечете дротики, высвобождая накопленный урон.
+subDescShieldLancerCounter13|Counter no longer has a duration but instead frequently drains your life and mana. Counter can be activated and deactivated and no longer has a cooldown.|«Контрудар» больше не ограничен по времени, но периодически расходует здоровье и ману. Умение становится переключаемым и не имеет перезарядки.
+subDescShieldLancerCounter14|Counter no longer throws lances at monsters but gives you a chance to block incoming damage reflecting it back to the attacker with intense power. |«Контрудар» больше не мечет копья, но дает шанс заблокировать урон и с огромной силой отразить его обратно в атакующего.
 ||
 subShieldLancerShieldWall01|Spiked Shields|Шипастые щиты
 subShieldLancerShieldWall02|Durable Wall|Прочная стена

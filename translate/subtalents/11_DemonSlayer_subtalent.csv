@@ -41,15 +41,15 @@ subDemonSlayerBulletHell11|Bullet Storm|Шторм пуль
 subDemonSlayerBulletHell12|Nowhere to Hide|Негде спрятаться
 subDemonSlayerBulletHell13|Demon´s Hurricane|Демонический ураган
 subDemonSlayerBulletHell14|Gunpowder|Порох
-subDescDemonSlayerBulletHell01|Increases damage dealt by bullet hell.|Увеличивает урон умения «Пулевой ад».
-subDescDemonSlayerBulletHell02|Increases the amount of projectiles fired by bullet hell.|Увеличивает количество снарядов умения «Пулевой ад».
+subDescDemonSlayerBulletHell01|Increases damage dealt by bullet hell.|Увеличивает урон умения «Свинцовый ад».
+subDescDemonSlayerBulletHell02|Increases the amount of projectiles fired by bullet hell.|Увеличивает количество снарядов умения «Свинцовый ад».
 subDescDemonSlayerBulletHell03|Chance on attack to fire an additional wave of bullets.|Дает шанс выпустить дополнительную волну пуль при атаке.
-subDescDemonSlayerBulletHell04|Increases attack rating when using bullet hell.|Увеличивает рейтинг атаки при использовании умения «Пулевой ад».
+subDescDemonSlayerBulletHell04|Increases attack rating when using bullet hell.|Увеличивает рейтинг атаки при использовании умения «Свинцовый ад».
 subDescDemonSlayerBulletHell05|Chance to knock monsters back on hit stunning them.|Дает шанс отбросить и оглушить монстров при попадании.
 subDescDemonSlayerBulletHell06|Increases projectile speed.|Увеличивает скорость снарядов.
-subDescDemonSlayerBulletHell07|Increases the size of bullet hell projectiles.|Увеличивает размер снарядов умения «Пулевой ад».
-subDescDemonSlayerBulletHell08|Increases critical strike damage when using bullet hell.|Увеличивает критический урон умения «Пулевой ад».
-subDescDemonSlayerBulletHell09|Decreased movement diminish when using bullet hell.|Уменьшает штраф к скорости передвижения при использовании умения «Пулевой ад».
+subDescDemonSlayerBulletHell07|Increases the size of bullet hell projectiles.|Увеличивает размер снарядов умения «Свинцовый ад».
+subDescDemonSlayerBulletHell08|Increases critical strike damage when using bullet hell.|Увеличивает критический урон умения «Свинцовый ад».
+subDescDemonSlayerBulletHell09|Decreased movement diminish when using bullet hell.|Уменьшает штраф к скорости передвижения при использовании умения «Свинцовый ад».
 subDescDemonSlayerBulletHell10|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
 subDescDemonSlayerBulletHell11|Fire a circle of orbitting bullets traveling forward.|Выпускает кольцо вращающихся пуль, летящих вперед.
 subDescDemonSlayerBulletHell12|Fire additional projectiles in a wider radius.|Выпускает дополнительные снаряды в более широком радиусе.
@@ -157,15 +157,15 @@ subDemonSlayerFastSlices11|Flaming Blades|Огненные клинки
 subDemonSlayerFastSlices12|Detonation Slice|Взрывной разрез
 subDemonSlayerFastSlices13|Shadow Daggers|Теневые кинжалы
 subDemonSlayerFastSlices14|High Strike|Подбрасывающий удар
-subDescDemonSlayerFastSlices01|Increases the area of effect radius of fast slices.|Увеличивает радиус области действия «Быстрых разрезов».
-subDescDemonSlayerFastSlices02|Increases damage dealt by fast slices.|Увеличивает урон «Быстрых разрезов».
-subDescDemonSlayerFastSlices03|Increases attack rating when using fast slices.|Увеличивает рейтинг атаки при использовании «Быстрых разрезов».
+subDescDemonSlayerFastSlices01|Increases the area of effect radius of fast slices.|Увеличивает радиус области действия «Стремительных клинков».
+subDescDemonSlayerFastSlices02|Increases damage dealt by fast slices.|Увеличивает урон «Стремительных клинков».
+subDescDemonSlayerFastSlices03|Increases attack rating when using fast slices.|Увеличивает рейтинг атаки при использовании «Стремительных клинков».
 subDescDemonSlayerFastSlices04|Chance to heat target souls causing them to explode after a brief moment dealing area of effect damage.|Дает шанс раскалить души целей; спустя мгновение они взрываются, нанося урон по области.
 subDescDemonSlayerFastSlices05|Chance to knock monsters airborne causing them to deal area of effect damage upon landing on the third hit.|При каждом третьем ударе дает шанс подбросить монстров в воздух; при приземлении они наносят урон по области.
 subDescDemonSlayerFastSlices06|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
 subDescDemonSlayerFastSlices07|Increases damage to burning targets.|Увеличивает урон по горящим целям.
-subDescDemonSlayerFastSlices08|Decreases mana cost when using fast slices.|Снижает затраты маны на «Быстрые разрезы».
-subDescDemonSlayerFastSlices09|Increases critical strike damage when using fast slices.|Увеличивает критический урон «Быстрых разрезов».
+subDescDemonSlayerFastSlices08|Decreases mana cost when using fast slices.|Снижает затраты маны на «Стремительные клинки».
+subDescDemonSlayerFastSlices09|Increases critical strike damage when using fast slices.|Увеличивает критический урон «Стремительных клинков».
 subDescDemonSlayerFastSlices10|Execute low life monsters.|Казнит монстров с низким уровнем здоровья.
 subDescDemonSlayerFastSlices11|Every slice additionally unleashes a wave of fire inflicting burning for a portion of the damage.|Каждый разрез дополнительно выпускает волну огня, накладывающую горение в размере части от нанесенного урона.
 subDescDemonSlayerFastSlices12|Your third attack now causes monsters to unleash an explosion dealing area of effect damage.|Ваша третья атака вызывает взрыв монстров, наносящий урон по области.
@@ -216,15 +216,15 @@ subDemonSlayerSliceOfShadows12|Shadow's Arc|Теневая дуга
 subDemonSlayerSliceOfShadows13|Lingering Shadows|Остаточные тени
 subDemonSlayerSliceOfShadows14|Scorching Shadow|Палящая тень
 subDescDemonSlayerSliceOfShadows01|Increases projectile speed.|Увеличивает скорость снарядов.
-subDescDemonSlayerSliceOfShadows02|Increases damage dealt by slice of shadows based on your strength.|Увеличивает урон «Теневого разреза» в зависимости от вашей силы.
-subDescDemonSlayerSliceOfShadows03|Chance to unleash an additional slice of shadows on attack.|Дает шанс выпустить дополнительный «Теневой разрез» при атаке.
-subDescDemonSlayerSliceOfShadows04|Increases attack rating when using slice of shadows.|Увеличивает рейтинг атаки при использовании «Теневого разреза».
+subDescDemonSlayerSliceOfShadows02|Increases damage dealt by slice of shadows based on your strength.|Увеличивает урон «Теневого рассечения» в зависимости от вашей силы.
+subDescDemonSlayerSliceOfShadows03|Chance to unleash an additional slice of shadows on attack.|Дает шанс выпустить дополнительное «Теневое рассечение» при атаке.
+subDescDemonSlayerSliceOfShadows04|Increases attack rating when using slice of shadows.|Увеличивает рейтинг атаки при использовании «Теневого рассечения».
 subDescDemonSlayerSliceOfShadows05|Gain a stacking damage buff for a short period on hit.|При попадании дает суммирующийся эффект усиления урона на короткое время.
 subDescDemonSlayerSliceOfShadows06|Chance to inflict armor break on hit.|Дает шанс вызвать пробивание брони при попадании.
 subDescDemonSlayerSliceOfShadows07|Chance on hit to freeze enemies.|Дает шанс заморозить врагов при попадании.
 subDescDemonSlayerSliceOfShadows08|Increases damage dealt to frozen targets.|Увеличивает урон по замороженным целям.
-subDescDemonSlayerSliceOfShadows09|Increases critical strike damage when using slice of shadows.|Увеличивает критический урон «Теневого разреза».
-subDescDemonSlayerSliceOfShadows10|Increases the size of slice of shadows.|Увеличивает размер «Теневого разреза».
-subDescDemonSlayerSliceOfShadows11|Perform an empowered attack unleashing small shadows from the target on hit. Slice of shadows now has a cooldown.|Вы проводите усиленную атаку, вырывающую малые тени из цели при попадании. «Теневой разрез» теперь имеет время восстановления.
+subDescDemonSlayerSliceOfShadows09|Increases critical strike damage when using slice of shadows.|Увеличивает критический урон «Теневого рассечения».
+subDescDemonSlayerSliceOfShadows10|Increases the size of slice of shadows.|Увеличивает размер «Теневого рассечения».
+subDescDemonSlayerSliceOfShadows11|Perform an empowered attack unleashing small shadows from the target on hit. Slice of shadows now has a cooldown.|Вы проводите усиленную атаку, вырывающую малые тени из цели при попадании. «Теневое рассечение» теперь имеет время восстановления.
 subDescDemonSlayerSliceOfShadows12|Unleash additional shadows in an arc.|Выпускает дополнительные тени по дуге.
-subDescDemonSlayerSliceOfShadows13|Gain stacks of lingering shadows on hit. At maximum stacks your next slice of shadows deals increased damage with increased size.|При попадании дает заряды «Остаточных теней». При максимуме зарядов ваш следующий «Теневой разрез» нанесет увеличенный урон и будет больше в размере.
+subDescDemonSlayerSliceOfShadows13|Gain stacks of lingering shadows on hit. At maximum stacks your next slice of shadows deals increased damage with increased size.|При попадании дает заряды «Остаточных теней». При максимуме зарядов ваше следующее «Теневое рассечение» нанесет увеличенный урон и будет больше в размере.

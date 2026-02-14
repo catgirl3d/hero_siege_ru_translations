@@ -12,20 +12,20 @@ subMarauderBouncingGrenade11|Resetting Fuse|Обновляемый запал
 subMarauderBouncingGrenade12|Blazing Rebound|Пылающий рикошет
 subMarauderBouncingGrenade13|Fiery Charge|Огненный заряд
 subMarauderBouncingGrenade14|Coast to Coast|От края до края
-subDescMarauderBouncingGrenade01|Increases area of effect radius of bouncing grenade.|Увеличивает радиус взрыва «Отскакивающей гранаты».
-subDescMarauderBouncingGrenade02|Increased the projecile speed of bouncing grenade.|Увеличивает скорость полета «Отскакивающей гранаты».
-subDescMarauderBouncingGrenade03|Increases the damage dealt by bouncing grenade.|Увеличивает урон «Отскакивающей гранаты».
-subDescMarauderBouncingGrenade04|Increases the amount of bounces for bouncing grenade.|Увеличивает количество отскоков «Отскакивающей гранаты».
-subDescMarauderBouncingGrenade05|Chance on cast to unleash an additional bouncing grenade.|Дает шанс при броске выпустить дополнительную «Отскакивающую гранату».
-subDescMarauderBouncingGrenade06|Increases the size of bouncing grenade.|Увеличивает размер «Отскакивающей гранаты».
+subDescMarauderBouncingGrenade01|Increases area of effect radius of bouncing grenade.|Увеличивает радиус взрыва «Скачущей гранаты».
+subDescMarauderBouncingGrenade02|Increased the projecile speed of bouncing grenade.|Увеличивает скорость полета «Скачущей гранаты».
+subDescMarauderBouncingGrenade03|Increases the damage dealt by bouncing grenade.|Увеличивает урон «Скачущей гранаты».
+subDescMarauderBouncingGrenade04|Increases the amount of bounces for bouncing grenade.|Увеличивает количество отскоков «Скачущей гранаты».
+subDescMarauderBouncingGrenade05|Chance on cast to unleash an additional bouncing grenade.|Дает шанс при броске выпустить дополнительную «Скачущую гранату».
+subDescMarauderBouncingGrenade06|Increases the size of bouncing grenade.|Увеличивает размер «Скачущей гранаты».
 subDescMarauderBouncingGrenade07|Decreases the distance between bounces.|Уменьшает дистанцию между отскоками.
-subDescMarauderBouncingGrenade08|Chance for bouncing grenades to bounce off of terrain.|Дает шанс «Отскакивающим гранатам» рикошетить от препятствий.
+subDescMarauderBouncingGrenade08|Chance for bouncing grenades to bounce off of terrain.|Дает шанс «Скачущим гранатам» рикошетить от препятствий.
 subDescMarauderBouncingGrenade09|Chance to inflict fire break on hit.|Дает шанс вызвать игнорирование сопр. огню при попадании.
 subDescMarauderBouncingGrenade10|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
-subDescMarauderBouncingGrenade11|Bouncing from terrain resets the duration of bouncing grenade.|Отскок от препятствия обновляет время действия «Отскакивающей гранаты».
+subDescMarauderBouncingGrenade11|Bouncing from terrain resets the duration of bouncing grenade.|Отскок от препятствия обновляет время действия «Скачущей гранаты».
 subDescMarauderBouncingGrenade12|Hitting a monster causes bouncing grenade to bounce towards another nearby monster increasing its damage.|При попадании в монстра граната отскакивает к другой ближайшей цели, нанося увеличенный урон.
 subDescMarauderBouncingGrenade13|Each bounce increases the size of the molten trail. Unleash flames on a large radius inflicting burning after exploding.|Каждый отскок расширяет оставляемый огненный след. Взрыв вызывает вспышку пламени в большом радиусе, накладывая горение.
-subDescMarauderBouncingGrenade14|Throw multiple bouncing grenades in an arc.|Вы бросаете сразу несколько «Отскакивающих гранат» по дуге.
+subDescMarauderBouncingGrenade14|Throw multiple bouncing grenades in an arc.|Вы бросаете сразу несколько «Скачущих гранат» по дуге.
 ||
 subMarauderHeavyBall01|The Bigger the Better|Чем больше, тем лучше
 subMarauderHeavyBall02|Log Sized Arms|Руки-бревна
@@ -41,20 +41,20 @@ subMarauderHeavyBall11|Heavy Swing|Тяжелый замах
 subMarauderHeavyBall12|Sharpened Spikes|Острые шипы
 subMarauderHeavyBall13|Warlord Lee's Apprentice|Ученик полководца Ли
 subMarauderHeavyBall14|Terrain Collision|Сокрушительное столкновение
-subDescMarauderHeavyBall01|Increases the size of heavy ball.|Увеличивает размер «Тяжелого шара».
-subDescMarauderHeavyBall02|Increased projectile speed for heavy ball.|Увеличивает скорость полета «Тяжелого шара».
-subDescMarauderHeavyBall03|Chance to unleash a big bo-om on hit.|Дает шанс вызвать «Большой бум» при попадании.
+subDescMarauderHeavyBall01|Increases the size of heavy ball.|Увеличивает размер «Тяжелого ядра».
+subDescMarauderHeavyBall02|Increased projectile speed for heavy ball.|Увеличивает скорость полета «Тяжелого ядра».
+subDescMarauderHeavyBall03|Chance to unleash a big bo-om on hit.|Дает шанс вызвать «Большой бу-ум» при попадании.
 subDescMarauderHeavyBall04|Chance to unleash burning flames below the target on hit.|Дает шанс создать пламя под целью при попадании.
-subDescMarauderHeavyBall05|Increases the amount of heavy balls.|Увеличивает количество «Тяжелых шаров».
+subDescMarauderHeavyBall05|Increases the amount of heavy balls.|Увеличивает количество «Тяжелых ядер».
 subDescMarauderHeavyBall06|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
-subDescMarauderHeavyBall07|Increases the range of heavy ball.|Увеличивает дальность полета «Тяжелого шара».
-subDescMarauderHeavyBall08|Increases the attack rating and damage dealt by heavy ball.|Увеличивает рейтинг атаки и урон «Тяжелого шара».
-subDescMarauderHeavyBall09|Decreased movement diminish when using heavy ball.|Уменьшает штраф к скорости передвижения при использовании «Тяжелого шара».
-subDescMarauderHeavyBall10|Increases the critical strike chance of heavy ball.|Увеличивает шанс критического удара «Тяжелого шара».
-subDescMarauderHeavyBall11|Swing the heavy ball around you dealing increased damage and critical strike damage.|Вы раскручиваете шар вокруг себя, нанося увеличенный урон и критический урон.
-subDescMarauderHeavyBall12|Unleash multiple smaller heavy balls dealing a portion of the damage dealing increased damage to bleeding targets.|Выпускает несколько малых шаров, наносящих часть урона; урон по истекающим кровью целям увеличен.
-subDescMarauderHeavyBall13|Summon multiple heavy balls permanently dragging them behind you. When attacking or casting unleash the heavy balls towards a nearby enemy. Using this skill again will destroy the heavy balls.|Вы призываете несколько шаров, которые следуют за вами. При атаке или касте они летят в сторону ближайшего врага. Повторное использование умения уничтожит шары.
-subDescMarauderHeavyBall14|Hitting terrain or monsters with heavy ball unleashes fiery shockwaves into all directions inflicting burning on hit.|При столкновении с целью или препятствием шар выпускает огненные ударные волны во все стороны, накладывая горение.
+subDescMarauderHeavyBall07|Increases the range of heavy ball.|Увеличивает дальность полета «Тяжелого ядра».
+subDescMarauderHeavyBall08|Increases the attack rating and damage dealt by heavy ball.|Увеличивает рейтинг атаки и урон «Тяжелого ядра».
+subDescMarauderHeavyBall09|Decreased movement diminish when using heavy ball.|Уменьшает штраф к скорости передвижения при использовании «Тяжелого ядра».
+subDescMarauderHeavyBall10|Increases the critical strike chance of heavy ball.|Увеличивает шанс критического удара «Тяжелого ядра».
+subDescMarauderHeavyBall11|Swing the heavy ball around you dealing increased damage and critical strike damage.|Вы раскручиваете ядро вокруг себя, нанося увеличенный урон и критический урон.
+subDescMarauderHeavyBall12|Unleash multiple smaller heavy balls dealing a portion of the damage dealing increased damage to bleeding targets.|Выпускает несколько малых ядер, наносящих часть урона; урон по истекающим кровью целям увеличен.
+subDescMarauderHeavyBall13|Summon multiple heavy balls permanently dragging them behind you. When attacking or casting unleash the heavy balls towards a nearby enemy. Using this skill again will destroy the heavy balls.|Вы призываете несколько ядер, которые следуют за вами. При атаке или касте они летят в сторону ближайшего врага. Повторное использование умения уничтожит ядра.
+subDescMarauderHeavyBall14|Hitting terrain or monsters with heavy ball unleashes fiery shockwaves into all directions inflicting burning on hit.|При столкновении с целью или препятствием ядро выпускает огненные ударные волны во все стороны, накладывая горение.
 ||
 subMarauderTheBigBoom01|Boomage|Бу-бух
 subMarauderTheBigBoom02|Even Bigger Bo-oM!|Бу-бух еще мощнее!
@@ -70,16 +70,16 @@ subMarauderTheBigBoom11|Bouncing Boom|Прыгучий взрыв
 subMarauderTheBigBoom12|Crashboom|Мощный бабах
 subMarauderTheBigBoom13|Scattering Boom|Рассеивающийся взрыв
 subMarauderTheBigBoom14|Molten Boom|Раскаленный взрыв
-subDescMarauderTheBigBoom01|Increases the damage dealt by big bo-om.|Увеличивает урон «Большого бума».
-subDescMarauderTheBigBoom02|Increases the area of effect radius of big bo-om.|Увеличивает радиус взрыва «Большого бума».
-subDescMarauderTheBigBoom03|Decreases movement diminish when using big bo-om.|Уменьшает штраф к скорости передвижения при использовании «Большого бума».
-subDescMarauderTheBigBoom04|Decreases the mana cost of big bo-om.|Снижает затраты маны на «Большой бум».
-subDescMarauderTheBigBoom05|Big bo-om bounces once when hitting the ground dealing increased damage.|«Большой бум» один раз отскакивает от земли, нанося увеличенный урон.
+subDescMarauderTheBigBoom01|Increases the damage dealt by big bo-om.|Увеличивает урон «Большого бу-ума».
+subDescMarauderTheBigBoom02|Increases the area of effect radius of big bo-om.|Увеличивает радиус взрыва «Большого бу-ума».
+subDescMarauderTheBigBoom03|Decreases movement diminish when using big bo-om.|Уменьшает штраф к скорости передвижения при использовании «Большого бу-ума».
+subDescMarauderTheBigBoom04|Decreases the mana cost of big bo-om.|Снижает затраты маны на «Большой бу-ум».
+subDescMarauderTheBigBoom05|Big bo-om bounces once when hitting the ground dealing increased damage.|«Большой бу-ум» один раз отскакивает от земли, нанося увеличенный урон.
 subDescMarauderTheBigBoom06|Chance to inflict fire break on hit.|Дает шанс вызвать игнорирование сопр. огню при попадании.
-subDescMarauderTheBigBoom07|Increased projectile speed for the big bo-om.|Увеличивает скорость полета «Большого бума».
+subDescMarauderTheBigBoom07|Increased projectile speed for the big bo-om.|Увеличивает скорость полета «Большого бу-ума».
 subDescMarauderTheBigBoom08|Chance to inflict burning on hit.|Дает шанс наложить горение при попадании.
 subDescMarauderTheBigBoom09|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
-subDescMarauderTheBigBoom10|Big bo-om rolls on the ground leaving behind a trail of burning flames.|«Большой бум» катится по земле, оставляя за собой пылающий след.
+subDescMarauderTheBigBoom10|Big bo-om rolls on the ground leaving behind a trail of burning flames.|«Большой бу-ум» катится по земле, оставляя за собой пылающий след.
 subDescMarauderTheBigBoom11|Unleash additional bombs traveling forward in an arc after exploding.|После взрыва выпускает дополнительные бомбы, летящие вперед по дуге.
 subDescMarauderTheBigBoom12|Throw big bo-om high into the air scattering additional bombs into all directions.|Вы подбрасываете бомбу высоко вверх; при взрыве она разбрасывает малые бомбы во все стороны.
 subDescMarauderTheBigBoom13|Hitting a monster with big bo-om unleashes an explosion and causes it to ricochet towards another nearby monster with increased damage and area of effect radius. Big bo-om now has a cooldown.|При попадании в монстра бомба взрывается и рикошетит в следующую цель, нанося повышенный урон в большем радиусе. У умения теперь есть время восстановления.
@@ -126,7 +126,7 @@ subMarauderBombardment09|Solid Explosive Fuel|Твердое топливо
 subMarauderBombardment10|Casual Bombing|Дежурная бомбардировка
 subMarauderBombardment11|All Around Annihilation|Круговое уничтожение
 subMarauderBombardment12|Clusterbombing|Кассетная бомбардировка
-subMarauderBombardment13|Big Bo-Ombing|Большой Бум
+subMarauderBombardment13|Big Bo-Ombing|Большой бу-ум
 subMarauderBombardment14|ICBM|МБР
 subDescMarauderBombardment01|Increases the damage dealt by bombardment.|Увеличивает урон «Бомбардировки».
 subDescMarauderBombardment02|Chance for bombs to turn into spike balls dealing increased physical damage.|Дает шанс бомбам превратиться в шипастые шары, наносящие увеличенный физический урон.
@@ -140,7 +140,7 @@ subDescMarauderBombardment09|Increases the area of effect radius of bombardment 
 subDescMarauderBombardment10|Throw a single wave of bombs removing the cooldown from bombardment.|Выпускает одну волну бомб; время восстановления «Бомбардировки» убрано.
 subDescMarauderBombardment11|Unleash bombardment in a circle around you increasing bomb damage over time.|Выпускает снаряды по кругу вокруг вас; урон бомб постепенно увеличивается.
 subDescMarauderBombardment12|Call down raining bombs on multiple nearby monsters. The raining bombs have a chance to unleash smaller bombs after exploding.|Обрушивает град бомб на ближайших врагов; при взрыве бомбы могут разделиться на снаряды поменьше.
-subDescMarauderBombardment13|Unleash a single trail of big bo-oms with increased damage and area of effect radius.|Выпускает одну линию мощных взрывов с увеличенным уроном и радиусом действия.
+subDescMarauderBombardment13|Unleash a single trail of big bo-oms with increased damage and area of effect radius.|Выпускает одну линию «Больших бу-умов» с увеличенным уроном и радиусом действия.
 subDescMarauderBombardment14|Launch an intercontinental ballistic missile towards target location dealing damage on a large radius leaving the ground blazing with flames dealing a portion of the damage over time.|Запускает большую ракету в указанную точку; она наносит урон в большом радиусе и выжигает землю, нанося периодический урон.
 ||
 subMarauderSerratedChains01|More Reach|Широкий охват
@@ -216,7 +216,7 @@ subMarauderChainTrap12|Spinning Trap|Вращающаяся ловушка
 subMarauderChainTrap13|Betrayal|Предательство
 subMarauderChainTrap14|Wait for the Prey|В ожидании добычи
 subDescMarauderChainTrap01|Increases the cast range of chain trap.|Увеличивает дальность применения «Цепной ловушки».
-subDescMarauderChainTrap02|Chance to inflict serrated chains on hit.|Дает шанс наложить эффект «Зазубренные цепи» при попадании.
+subDescMarauderChainTrap02|Chance to inflict serrated chains on hit.|Дает шанс наложить эффект «Зазубренных цепей» при попадании.
 subDescMarauderChainTrap03|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
 subDescMarauderChainTrap04|Increases the amount of targets for chain trap.|Увеличивает количество целей «Цепной ловушки».
 subDescMarauderChainTrap05|Chance on cast to unleash an additional chain trap.|Дает шанс при использовании выпустить дополнительную «Цепную ловушку».
@@ -244,13 +244,13 @@ subMarauderAnnihilation11|Rusted Chains|Ржавые цепи
 subMarauderAnnihilation12|Symphony of Chains|Симфония цепей
 subMarauderAnnihilation13|Megadeath|Мега-смерть
 subMarauderAnnihilation14|Total Annihilation|Тотальное истребление
-subDescMarauderAnnihilation01|Increases the area of effect radius of annihilation.|Увеличивает радиус области действия «Истребления».
-subDescMarauderAnnihilation02|Increases the damage dealt by annihilation.|Увеличивает урон «Истребления».
-subDescMarauderAnnihilation03|Decreases the cooldown of annihilation.|Снижает время восстановления «Истребления».
+subDescMarauderAnnihilation01|Increases the area of effect radius of annihilation.|Увеличивает радиус области действия «Аннигиляции».
+subDescMarauderAnnihilation02|Increases the damage dealt by annihilation.|Увеличивает урон «Аннигиляции».
+subDescMarauderAnnihilation03|Decreases the cooldown of annihilation.|Снижает время восстановления «Аннигиляции».
 subDescMarauderAnnihilation04|Increases damage dealt to targets inflicted with serrated chains.|Увеличивает урон по целям под действием «Зазубренных цепей».
-subDescMarauderAnnihilation05|Annihilation pulls monsters towards you with increased force.|«Истребление» притягивает монстров к вам с увеличенной силой.
-subDescMarauderAnnihilation06|Increases the critical strike damage dealt by annihilation.|Увеличивает критический урон «Истребления».
-subDescMarauderAnnihilation07|Increases the amount of annihilated targets.|Увеличивает количество целей, поражаемых «Истреблением».
+subDescMarauderAnnihilation05|Annihilation pulls monsters towards you with increased force.|«Аннигиляция» притягивает монстров к вам с увеличенной силой.
+subDescMarauderAnnihilation06|Increases the critical strike damage dealt by annihilation.|Увеличивает критический урон «Аннигиляции».
+subDescMarauderAnnihilation07|Increases the amount of annihilated targets.|Увеличивает количество целей, поражаемых «Аннигиляцией».
 subDescMarauderAnnihilation08|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
 subDescMarauderAnnihilation09|Chance to inflict bleeding on hit.|Дает шанс вызвать кровотечение при попадании.
 subDescMarauderAnnihilation10|Chance to unleash a bloody explosion on hit.|Дает шанс вызвать кровавый взрыв при попадании.

@@ -128,13 +128,13 @@ subAmazonEnvenom11|Stacked Weakness|Накопленная слабость
 subAmazonEnvenom12|Rapid End|Скорая кончина
 subAmazonEnvenom13|Envenova|Ядовитая нова
 subAmazonEnvenom14|Venomwave|Ядовитая волна
-subDescAmazonEnvenom01|Increases envenom proc chance.|Увеличивает шанс срабатывания «Отравления».
-subDescAmazonEnvenom02|Increases poisoned damage inflicted by envenom.|Увеличивает урон от яда, наносимый «Отравлением».
+subDescAmazonEnvenom01|Increases envenom proc chance.|Увеличивает шанс срабатывания «Токсичного разлома».
+subDescAmazonEnvenom02|Increases poisoned damage inflicted by envenom.|Увеличивает урон от яда, наносимый «Токсичным разломом».
 subDescAmazonEnvenom03|Chance for a fissure to burst twice on hit.|Дает шанс трещине взорваться дважды при попадании.
-subDescAmazonEnvenom04|Increases damage dealt by envenom.|Увеличивает урон «Отравления».
+subDescAmazonEnvenom04|Increases damage dealt by envenom.|Увеличивает урон «Токсичного разлома».
 subDescAmazonEnvenom05|Chance to unleash a venomous nova dealing poison damage.|Дает шанс выпустить ядовитую нову, наносящую урон ядом.
-subDescAmazonEnvenom06|Increases the area of effect radius of envenom.|Увеличивает радиус области действия «Отравления».
-subDescAmazonEnvenom07|Chance to unleash an additional envenom on a nearby monster on hit.|При попадании дает шанс вызвать дополнительное «Отравление» на ближайшем монстре.
+subDescAmazonEnvenom06|Increases the area of effect radius of envenom.|Увеличивает радиус области действия «Токсичного разлома».
+subDescAmazonEnvenom07|Chance to unleash an additional envenom on a nearby monster on hit.|При попадании дает шанс вызвать дополнительный «Токсичный разлом» на ближайшем монстре.
 subDescAmazonEnvenom08|Inflicts slow on hit.|При попадании накладывает замедление.
 subDescAmazonEnvenom09|Increases damage to poisoned targets.|Увеличивает урон по отравленным целям.
 subDescAmazonEnvenom10|Chance to increase poisoned damage on hit.|Дает шанс увеличить урон от отравления при попадании.

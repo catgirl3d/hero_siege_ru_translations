@@ -12,20 +12,20 @@ subJotunnFrozenBoulder11|Rolling Winterstone|Катящийся ледник
 subJotunnFrozenBoulder12|Overgrowing Boulder|Растущий валун
 subJotunnFrozenBoulder13|Splinter Stones|Каменное крошево
 subJotunnFrozenBoulder14|Boulder Barrage|Шквал валунов
-subDescJotunnFrozenBoulder01|Increases the projectile speed of frozen boulder. |Увеличивает скорость полета «Замороженного валуна».
-subDescJotunnFrozenBoulder02|Increases the damage dealt by frozen boulder.|Увеличивает урон «Замороженного валуна».
-subDescJotunnFrozenBoulder03|Increases the amount of frozen boulder bounces.|Увеличивает количество отскоков «Замороженного валуна».
+subDescJotunnFrozenBoulder01|Increases the projectile speed of frozen boulder. |Увеличивает скорость полета «Ледяного валуна».
+subDescJotunnFrozenBoulder02|Increases the damage dealt by frozen boulder.|Увеличивает урон «Ледяного валуна».
+subDescJotunnFrozenBoulder03|Increases the amount of frozen boulder bounces.|Увеличивает количество отскоков «Ледяного валуна».
 subDescJotunnFrozenBoulder04|Chance to inflict cold break on hit.|Дает шанс вызвать игнорирование сопр. холоду при попадании.
-subDescJotunnFrozenBoulder05|Increases the size of frozen boulder.|Увеличивает размер «Замороженного валуна».
+subDescJotunnFrozenBoulder05|Increases the size of frozen boulder.|Увеличивает размер «Ледяного валуна».
 subDescJotunnFrozenBoulder06|Chance to inflict freeze on hit.|Дает шанс заморозить цель при попадании.
 subDescJotunnFrozenBoulder07|Increases damage dealt to frozen targets.|Увеличивает урон по замороженным целям.
-subDescJotunnFrozenBoulder08|Frozen boulder unleashes a frozen nova with each bounce dealing a portion of its damage.|«Замороженный валун» выпускает кольцо холода при каждом отскоке; урон кольца составляет часть от урона умения.
-subDescJotunnFrozenBoulder09|Decreases the mana cost of frozen boulder.|Снижает затраты маны на «Замороженный валун».
+subDescJotunnFrozenBoulder08|Frozen boulder unleashes a frozen nova with each bounce dealing a portion of its damage.|«Ледяной валун» выпускает кольцо холода при каждом отскоке; урон кольца составляет часть от урона умения.
+subDescJotunnFrozenBoulder09|Decreases the mana cost of frozen boulder.|Снижает затраты маны на «Ледяной валун».
 subDescJotunnFrozenBoulder10|Chance to knock monsters back on hit dealing increased damage.|Дает шанс отбросить монстров при попадании, нанося увеличенный урон.
-subDescJotunnFrozenBoulder11|Frozen boulder rolls on the ground gathering monsters on its path exploding when hitting terrain and dealing increased damage per monster gathered.|«Замороженный валун» катится по земле, увлекая за собой монстров; при столкновении с препятствием он взрывается, нанося бонусный урон за каждого захваченного врага.
-subDescJotunnFrozenBoulder12|Frozen boulder grows in size gaining increased damage with each bounce also bouncing off of terrain.|«Замороженный валун» увеличивается в размере и наносит больше урона с каждым отскоком; теперь он также отскакивает от препятствий.
-subDescJotunnFrozenBoulder13|Frozen boulder explodes into chunks of ice on hit dealing increased damage.|«Замороженный валун» при попадании разлетается на глыбы льда, наносящие увеличенный урон.
-subDescJotunnFrozenBoulder14|Unleash a barrage of smaller frozen boulders in an arc. Frozen boulder has a cooldown.|Выпускает шквал малых замороженных валунов по дуге. «Замороженный валун» теперь имеет время восстановления.
+subDescJotunnFrozenBoulder11|Frozen boulder rolls on the ground gathering monsters on its path exploding when hitting terrain and dealing increased damage per monster gathered.|«Ледяной валун» катится по земле, увлекая за собой монстров; при столкновении с препятствием он взрывается, нанося бонусный урон за каждого захваченного врага.
+subDescJotunnFrozenBoulder12|Frozen boulder grows in size gaining increased damage with each bounce also bouncing off of terrain.|«Ледяной валун» увеличивается в размере и наносит больше урона с каждым отскоком; теперь он также отскакивает от препятствий.
+subDescJotunnFrozenBoulder13|Frozen boulder explodes into chunks of ice on hit dealing increased damage.|«Ледяной валун» при попадании разлетается на глыбы льда, наносящие увеличенный урон.
+subDescJotunnFrozenBoulder14|Unleash a barrage of smaller frozen boulders in an arc. Frozen boulder has a cooldown.|Выпускает шквал малых замороженных валунов по дуге. «Ледяной валун» теперь имеет время восстановления.
 ||
 subJotunnBreathOfIce01|Fresh Mint|Студеный порыв
 subJotunnBreathOfIce02|Crumbling Winds|Сокрушающий ветер
@@ -41,20 +41,20 @@ subJotunnBreathOfIce11|Frostbitten Lungs|Обмороженные легкие
 subJotunnBreathOfIce12|Frost Charged Breath|Дыхание стужи
 subJotunnBreathOfIce13|Absolute Control|Абсолютная власть
 subJotunnBreathOfIce14|Frosted Throat|Хладное нутро
-subDescJotunnBreathOfIce01|Increases the damage dealt by breath of ice.|Увеличивает урон «Дыхания льда».
+subDescJotunnBreathOfIce01|Increases the damage dealt by breath of ice.|Увеличивает урон «Ледяного дыхания».
 subDescJotunnBreathOfIce02|Chance to inflict cold break on hit.|Дает шанс вызвать игнорирование сопр. холоду при попадании.
-subDescJotunnBreathOfIce03|Increases the area of effect of breath of ice.|Увеличивает область действия «Дыхания льда».
-subDescJotunnBreathOfIce04|Increases the duration of breath of ice.|Увеличивает длительность «Дыхания льда».
+subDescJotunnBreathOfIce03|Increases the area of effect of breath of ice.|Увеличивает область действия «Ледяного дыхания».
+subDescJotunnBreathOfIce04|Increases the duration of breath of ice.|Увеличивает длительность «Ледяного дыхания».
 subDescJotunnBreathOfIce05|Knock monsters back slowly dealing increased damage.|Медленно отбрасывает монстров назад, нанося увеличенный урон.
 subDescJotunnBreathOfIce06|Increases damage dealt to frozen targets.|Увеличивает урон по замороженным целям.
 subDescJotunnBreathOfIce07|Chance on cast to conjure a trail of ice dealing damage over time and slowing monsters on hit.|Дает шанс при касте оставить ледяной след, наносящий периодический урон и замедляющий врагов.
 subDescJotunnBreathOfIce08|Chance to inflict frostbite on hit.|Дает шанс вызвать обморожение при попадании.
-subDescJotunnBreathOfIce09|Chance to unleash additional breath of ice from target location on hit.|Дает шанс выпустить дополнительное «Дыхание льда» из точки нахождения цели.
+subDescJotunnBreathOfIce09|Chance to unleash additional breath of ice from target location on hit.|Дает шанс выпустить дополнительное «Ледяное дыхание» из точки нахождения цели.
 subDescJotunnBreathOfIce10|Chance to pull monsters towards you on hit.|Дает шанс притянуть монстров к себе при попадании.
-subDescJotunnBreathOfIce11|Increases breath of ice duration dealing damage over time.|Увеличивает длительность «Дыхания льда», нанося периодический урон.
+subDescJotunnBreathOfIce11|Increases breath of ice duration dealing damage over time.|Увеличивает длительность «Ледяного дыхания», нанося периодический урон.
 subDescJotunnBreathOfIce12|Inflict targets with a stack of frost charged on hit unleashing an avalance at maximum stacks dealing area of effect damage.|При попадании накладывает на цели заряды стужи; при максимуме зарядов сходит лавина, наносящая урон по области.
-subDescJotunnBreathOfIce13|Increases the length of breath of ice significantly inflicting strong slow and freeze on hit.|Значительно увеличивает дальность «Дыхания льда», вызывая сильное замедление и заморозку при попадании.
-subDescJotunnBreathOfIce14|Unleash multiple breaths of ice with chance to critically hit dealing increased critical strike damage.|Выпускает несколько потоков «Дыхания льда» с шансом нанести критический удар; критический урон увеличен.
+subDescJotunnBreathOfIce13|Increases the length of breath of ice significantly inflicting strong slow and freeze on hit.|Значительно увеличивает дальность «Ледяного дыхания», вызывая сильное замедление и заморозку при попадании.
+subDescJotunnBreathOfIce14|Unleash multiple breaths of ice with chance to critically hit dealing increased critical strike damage.|Выпускает несколько потоков «Ледяного дыхания» с шансом нанести критический удар; критический урон увеличен.
 ||
 subJotunnOrbOfFrost01|Festering Cold|Лютая стужа
 subJotunnOrbOfFrost02|Frost Icicles|Ледяные сосульки
@@ -70,20 +70,20 @@ subJotunnOrbOfFrost11|Glacial Shredder|Ледяной терзатель
 subJotunnOrbOfFrost12|Enlargening Frost Orb|Растущая сфера холода
 subJotunnOrbOfFrost13|Chaining Frost|Цепной мороз
 subJotunnOrbOfFrost14|Orb of Duality|Сфера двойственности
-subDescJotunnOrbOfFrost01|Increases the damage dealt by orb of frost.|Увеличивает урон «Сферы холода».
-subDescJotunnOrbOfFrost02|Increases the amount of orb of frost icicles.|Увеличивает количество сосулек «Сферы холода».
-subDescJotunnOrbOfFrost03|Increases the size of orb of frost.|Увеличивает размер «Сферы холода».
+subDescJotunnOrbOfFrost01|Increases the damage dealt by orb of frost.|Увеличивает урон «Сферы мороза».
+subDescJotunnOrbOfFrost02|Increases the amount of orb of frost icicles.|Увеличивает количество сосулек «Сферы мороза».
+subDescJotunnOrbOfFrost03|Increases the size of orb of frost.|Увеличивает размер «Сферы мороза».
 subDescJotunnOrbOfFrost04|Increases the projectile speed of icicles.|Увеличивает скорость полета сосулек.
 subDescJotunnOrbOfFrost05|Decreases the orbiting radius of icicles.|Уменьшает радиус вращения сосулек.
 subDescJotunnOrbOfFrost06|Chance to inflict cold break on hit.|Дает шанс вызвать игнорирование сопр. холоду при попадании.
 subDescJotunnOrbOfFrost07|Increases damage dealt to frozen targets.|Увеличивает урон по замороженным целям.
-subDescJotunnOrbOfFrost08|Decreases the cooldown of orb of frost.|Снижает время восстановления «Сферы холода».
+subDescJotunnOrbOfFrost08|Decreases the cooldown of orb of frost.|Снижает время восстановления «Сферы мороза».
 subDescJotunnOrbOfFrost09|Chance on pulse to unleash additional icicles.|Дает шанс выпустить дополнительные сосульки при каждом импульсе сферы.
-subDescJotunnOrbOfFrost10|Orb of frost bounces off of terrain dealing increased damage.|«Сфера холода» отскакивает от препятствий, нанося увеличенный урон.
+subDescJotunnOrbOfFrost10|Orb of frost bounces off of terrain dealing increased damage.|«Сфера мороза» отскакивает от препятствий, нанося увеличенный урон.
 subDescJotunnOrbOfFrost11|Unleash a glacial shredder with increased size and damage. Icicles are now attached around the orb.|Выпускает ледяной терзатель увеличенного размера и урона; сосульки теперь закреплены прямо на сфере.
-subDescJotunnOrbOfFrost12|Orb of frost increases its size and damage over time while traveling.|«Сфера холода» постепенно увеличивается в размере и наносит больше урона в полете.
-subDescJotunnOrbOfFrost13|Icicles from orb of frost chain from targets unleashing frozen pulses on hit dealing a portion of the damage.|Сосульки «Сферы холода» поражают врагов по цепочке, вызывая ледяные вспышки при попадании.
-subDescJotunnOrbOfFrost14|Unleash multiple smaller orbs of frost in an arc.|Выпускает несколько малых сфер холода по дуге перед собой.
+subDescJotunnOrbOfFrost12|Orb of frost increases its size and damage over time while traveling.|«Сфера мороза» постепенно увеличивается в размере и наносит больше урона в полете.
+subDescJotunnOrbOfFrost13|Icicles from orb of frost chain from targets unleashing frozen pulses on hit dealing a portion of the damage.|Сосульки «Сферы мороза» поражают врагов по цепочке, вызывая ледяные вспышки при попадании.
+subDescJotunnOrbOfFrost14|Unleash multiple smaller orbs of frost in an arc.|Выпускает несколько малых сфер мороза по дуге перед собой.
 ||
 subJotunnPortalOfIce01|Ice Travel|Странствие во льдах
 subJotunnPortalOfIce02|Cold-enhanced Warp|Усиленное смещение
@@ -99,17 +99,17 @@ subJotunnPortalOfIce11|Hailstorm Orb|Сфера ледяного града
 subJotunnPortalOfIce12|Winter Aparition|Зимний призрак
 subJotunnPortalOfIce13|Permafrost Voidpull|Притяжение вечной мерзлоты
 subJotunnPortalOfIce14|Crystallized Pinnacles|Кристальные пики
-subDescJotunnPortalOfIce01|Increases the range of portal of ice.|Увеличивает дальность «Портала льда».
-subDescJotunnPortalOfIce02|Increases the damage dealt by portal of ice.|Увеличивает урон «Портала льда».
+subDescJotunnPortalOfIce01|Increases the range of portal of ice.|Увеличивает дальность «Ледяного портала».
+subDescJotunnPortalOfIce02|Increases the damage dealt by portal of ice.|Увеличивает урон «Ледяного портала».
 subDescJotunnPortalOfIce03|Chance on cast to conjure multiple orbiting icicles dealing a portion of the damage.|Дает шанс при касте призвать несколько ледяных шипов, вращающихся вокруг вас и наносящих часть урона.
-subDescJotunnPortalOfIce04|Increases the area of effect radius of portal of ice.|Увеличивает радиус области действия «Портала льда».
-subDescJotunnPortalOfIce05|Increases cast rate when using portal of ice.|Увеличивает скорость каста при использовании «Портала льда».
+subDescJotunnPortalOfIce04|Increases the area of effect radius of portal of ice.|Увеличивает радиус области действия «Ледяного портала».
+subDescJotunnPortalOfIce05|Increases cast rate when using portal of ice.|Увеличивает скорость каста при использовании «Ледяного портала».
 subDescJotunnPortalOfIce06|Chance to inflict cold break on hit.|Дает шанс вызвать игнорирование сопр. холоду при попадании.
 subDescJotunnPortalOfIce07|Gain a stack of shredding chillstep on cast increasing your cold skill damage for a short duration.|При касте дает заряд «Раздирающей стужи», увеличивающий урон ваших умений холода на короткое время.
-subDescJotunnPortalOfIce08|Reduces the mana cost of portal of ice.|Снижает затраты маны на «Портал льда».
+subDescJotunnPortalOfIce08|Reduces the mana cost of portal of ice.|Снижает затраты маны на «Ледяной портал».
 subDescJotunnPortalOfIce09|Increases your all resistances on cast for a short duration.|На короткое время увеличивает все ваши сопротивления при использовании умения.
 subDescJotunnPortalOfIce10|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
-subDescJotunnPortalOfIce11|Conjure a static orb of frost at target location for a short duration.|На короткое время призывает в указанной точке неподвижную сферу льда.
+subDescJotunnPortalOfIce11|Conjure a static orb of frost at target location for a short duration.|На короткое время призывает в указанной точке неподвижную сферу мороза.
 subDescJotunnPortalOfIce12|Chance to summon a small blizzard on hit for a short duration.|Дает шанс при попадании вызвать кратковременный снежный буран.
 subDescJotunnPortalOfIce13|Increases damage and area of effect radius pulling monsters towards you on hit.|Увеличивает урон и радиус действия; при попадании притягивает монстров к вам.
 subDescJotunnPortalOfIce14|Chance to unleash small frost novas on hit inflicting frostbite.|Дает шанс выпустить малые кольца льда при попадании, накладывающие обморожение.
@@ -158,18 +158,18 @@ subJotunnFlashFreeze12|Recurving Stalactites|Кружащие сталактит
 subJotunnFlashFreeze13|Swirling Wintershard|Вихрь зимних осколков
 subJotunnFlashFreeze14|Coldflash Volley|Холодный залп
 subDescJotunnFlashFreeze01|Increases the damage dealt by flash freeze.|Увеличивает урон «Мгновенной заморозки».
-subDescJotunnFlashFreeze02|Increases the amount of icicles unleashed by frost orb.|Увеличивает количество сосулек, выпускаемых «Ледяной сферой».
+subDescJotunnFlashFreeze02|Increases the amount of icicles unleashed by frost orb.|Увеличивает количество сосулек, выпускаемых «Сферой мороза».
 subDescJotunnFlashFreeze03|Increases attack rating when using flash freeze.|Повышает рейтинг атаки при использовании «Мгновенной заморозки».
 subDescJotunnFlashFreeze04|Chance for icicles to fork on hit.|Дает сосулькам шанс разделиться при попадании.
 subDescJotunnFlashFreeze05|Increases damage dealt to frozen targets.|Увеличивает урон по замороженным целям.
 subDescJotunnFlashFreeze06|Increases the area of effect radius of flash freeze.|Увеличивает радиус области действия «Мгновенной заморозки».
 subDescJotunnFlashFreeze07|Gain a stack of freezing rage on hit increasing your damage and attack speed.|При попадании дает заряд «Ледяной ярости», увеличивающий ваш урон и скорость атаки.
 subDescJotunnFlashFreeze08|Increases the amount of bounces for flash freeze.|Увеличивает количество рикошетов «Мгновенной заморозки».
-subDescJotunnFlashFreeze09|Chance to unleash another frost orb when it expires.|Дает шанс выпустить еще одну «Ледяную сферу» после исчезновения первой.
+subDescJotunnFlashFreeze09|Chance to unleash another frost orb when it expires.|Дает шанс выпустить еще одну «Сферу мороза» после исчезновения первой.
 subDescJotunnFlashFreeze10|Decreases movement diminish when using flash freeze.|Уменьшает штраф к скорости передвижения при использовании «Мгновенной заморозки».
-subDescJotunnFlashFreeze11|Frost orb now unleashes icicles with every hit.|«Ледяная сфера» теперь выпускает сосульки при каждом попадании.
-subDescJotunnFlashFreeze12|Icicles from frost orb return to target location after a short duration dealing additional damage.|Сосульки «Ледяной сферы» через короткое время возвращаются в указанную точку, нанося доп. урон.
-subDescJotunnFlashFreeze13|Frost orb now orbits you for a short duration frequently unleashing icicles.|«Ледяная сфера» кружит вокруг вас, периодически выпуская сосульки.
+subDescJotunnFlashFreeze11|Frost orb now unleashes icicles with every hit.|«Сфера мороза» теперь выпускает сосульки при каждом попадании.
+subDescJotunnFlashFreeze12|Icicles from frost orb return to target location after a short duration dealing additional damage.|Сосульки «Сферы мороза» через короткое время возвращаются в указанную точку, нанося доп. урон.
+subDescJotunnFlashFreeze13|Frost orb now orbits you for a short duration frequently unleashing icicles.|«Сфера мороза» кружит вокруг вас, периодически выпуская сосульки.
 subDescJotunnFlashFreeze14|Unleash multiple icicles in an arc dealing increased damage and inflicting cold break. Does not require hitting a monster.|Выпускает веер сосулек, наносящих увеличенный урон и вызывающих игнорирование сопр. холоду. Не требует попадания по врагу.
 ||
 subJotunnFreezingLeap01|Leap Force|Мощь прыжка
@@ -186,13 +186,13 @@ subJotunnFreezingLeap11|Superhero Landing|Героическое приземл�
 subJotunnFreezingLeap12|Seismic Icequake|Ледяной разлом
 subJotunnFreezingLeap13|Tectonic Stampede|Тектонический натиск
 subJotunnFreezingLeap14|Frostbending Leap|Прыжок повелителя льда
-subDescJotunnFreezingLeap01|Increases the damage dealt by freezing leap.|Увеличивает урон «Замораживающего прыжка».
-subDescJotunnFreezingLeap02|Increases the maximum range of freezing leap.|Увеличивает максимальную дальность «Замораживающего прыжка».
+subDescJotunnFreezingLeap01|Increases the damage dealt by freezing leap.|Увеличивает урон «Ледяного прыжка».
+subDescJotunnFreezingLeap02|Increases the maximum range of freezing leap.|Увеличивает максимальную дальность «Ледяного прыжка».
 subDescJotunnFreezingLeap03|Chance to stun targets on hit.|Дает шанс оглушить цели при попадании.
-subDescJotunnFreezingLeap04|Increases the area of effect radius of freezing leap.|Увеличивает радиус области действия «Замораживающего прыжка».
-subDescJotunnFreezingLeap05|Increases the damage dealt of freezing leap decreasing its area of effect radius.|Увеличивает урон «Замораживающего прыжка», но уменьшает его радиус действия.
+subDescJotunnFreezingLeap04|Increases the area of effect radius of freezing leap.|Увеличивает радиус области действия «Ледяного прыжка».
+subDescJotunnFreezingLeap05|Increases the damage dealt of freezing leap decreasing its area of effect radius.|Увеличивает урон «Ледяного прыжка», но уменьшает его радиус действия.
 subDescJotunnFreezingLeap06|Chance to unleash an additional shockwave when landing.|Дает шанс вызвать дополнительную ударную волну при приземлении.
-subDescJotunnFreezingLeap07|Increases landing recovery when using freezing leap.|Ускоряет восстановление после приземления при использовании «Замораживающего прыжка».
+subDescJotunnFreezingLeap07|Increases landing recovery when using freezing leap.|Ускоряет восстановление после приземления при использовании «Ледяного прыжка».
 subDescJotunnFreezingLeap08|Chance to inflict cold break on hit.|Дает шанс вызвать игнорирование сопр. холоду при попадании.
 subDescJotunnFreezingLeap09|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
 subDescJotunnFreezingLeap10|Ground below landing location is left frosted dealing damage over time and slowing monsters.|Земля в месте приземления покрывается коркой льда, нанося периодический урон и замедляя врагов.
@@ -240,20 +240,20 @@ subJotunnSweepFreeze07|Lingering Fissure|Незаживающий разлом
 subJotunnSweepFreeze08|Frost Shrapnel|Ледяные осколки
 subJotunnSweepFreeze09|Frozen Death|Ледяная смерть
 subJotunnSweepFreeze10|Death´s Touch|Касание смерти
-subJotunnSweepFreeze11|Frost Sunder Onslaught|Натиск Морозного раскола
+subJotunnSweepFreeze11|Frost Sunder Onslaught|Натиск Разрушения холодом
 subJotunnSweepFreeze12|Dissecting Vortex|Рассекающий вихрь
 subJotunnSweepFreeze13|Gelid Riptide|Ледяное течение
 subJotunnSweepFreeze14|Unstoppable Assault|Неудержимый натиск
-subDescJotunnSweepFreeze01|Increases the damage dealt by frost sunder.|Увеличивает урон «Морозного раскола».
+subDescJotunnSweepFreeze01|Increases the damage dealt by frost sunder.|Увеличивает урон «Разрушения холодом».
 subDescJotunnSweepFreeze02|A portion of the cold damage can critically hit.|Часть урона холодом теперь может наносить критические удары.
 subDescJotunnSweepFreeze03|Chance on attack to gain increased movement speed for a short period.|Дает шанс при атаке на короткое время увеличить скорость передвижения.
-subDescJotunnSweepFreeze04|Increases attack speed when using frost sunder.|Увеличивает скорость атак «Морозного раскола».
+subDescJotunnSweepFreeze04|Increases attack speed when using frost sunder.|Увеличивает скорость атак «Разрушения холодом».
 subDescJotunnSweepFreeze05|Chance to inflict frostbite on hit.|Дает шанс наложить обморожение при попадании.
 subDescJotunnSweepFreeze06|Chance to inflict cold break on hit.|Дает шанс вызвать игнорирование сопр. холоду при попадании.
-subDescJotunnSweepFreeze07|Decreases movement diminish when using frost sunder.|Уменьшает штраф к скорости передвижения при использовании «Морозного раскола».
-subDescJotunnSweepFreeze08|Increases the amount of icicles unleashed by frost sunder.|Увеличивает количество сосулек, выпускаемых «Морозным расколом».
-subDescJotunnSweepFreeze09|Increases the critical strike damage dealt by frost sunder.|Увеличивает критический урон «Морозного раскола».
-subDescJotunnSweepFreeze10|Increases the critical strike chance of frost sunder.|Увеличивает шанс критического удара «Морозного раскола».
+subDescJotunnSweepFreeze07|Decreases movement diminish when using frost sunder.|Уменьшает штраф к скорости передвижения при использовании «Разрушения холодом».
+subDescJotunnSweepFreeze08|Increases the amount of icicles unleashed by frost sunder.|Увеличивает количество сосулек, выпускаемых «Разрушением холодом».
+subDescJotunnSweepFreeze09|Increases the critical strike damage dealt by frost sunder.|Увеличивает критический урон «Разрушения холодом».
+subDescJotunnSweepFreeze10|Increases the critical strike chance of frost sunder.|Увеличивает шанс критического удара «Разрушения холодом».
 subDescJotunnSweepFreeze11|Icicles explode on contact unleashing an explosion dealing damage on a large radius.|Сосульки взрываются при контакте, нанося урон по площади в большом радиусе.
 subDescJotunnSweepFreeze12|Icicles seek targets when proccing frost bite dealing increased damage to frostbitten monsters.|Сосульки сами наводятся на врагов при срабатывании обморожения и наносят им увеличенный урон.
 subDescJotunnSweepFreeze13|Chance to unleash multiple waves of icicles.|Дает шанс выпустить несколько волн сосулек.

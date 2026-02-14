@@ -41,20 +41,20 @@ subIllusionistCircleOfGuardians11|Desert´s Army|Армия пустыни
 subIllusionistCircleOfGuardians12|Ancient Sand Goliath|Древний песчаный голиаф
 subIllusionistCircleOfGuardians13|Arcanic Sand Tether|Магические путы
 subIllusionistCircleOfGuardians14|Seven Nation Army|Армия семи народов
-subDescIllusionistCircleOfGuardians01|Decreases the cooldown of circle of guardians.|Снижает время восстановления «Круга стражей».
-subDescIllusionistCircleOfGuardians02|Increases the damage dealt by circle of guardians.|Увеличивает урон «Круга стражей».
-subDescIllusionistCircleOfGuardians03|Increases the amount of sand guardians summoned.|Увеличивает количество стражей в круге.
+subDescIllusionistCircleOfGuardians01|Decreases the cooldown of circle of guardians.|Снижает время восстановления «Кольца стражей».
+subDescIllusionistCircleOfGuardians02|Increases the damage dealt by circle of guardians.|Увеличивает урон «Кольца стражей».
+subDescIllusionistCircleOfGuardians03|Increases the amount of sand guardians summoned.|Увеличивает количество песчаных стражей, призываемых «Кольцом стражей».
 subDescIllusionistCircleOfGuardians04|Chance to stun monsters on hit.|Дает шанс оглушить монстров при попадании.
-subDescIllusionistCircleOfGuardians05|Increases the duration of circle of guardians.|Увеличивает длительность существования «Круга стражей».
-subDescIllusionistCircleOfGuardians06|Increases the attack speed of circle of guardians.|Увеличивает скорость атаки стражей «Круга».
+subDescIllusionistCircleOfGuardians05|Increases the duration of circle of guardians.|Увеличивает длительность существования «Кольца стражей».
+subDescIllusionistCircleOfGuardians06|Increases the attack speed of circle of guardians.|Увеличивает скорость атаки стражей, призванных «Кольцом стражей».
 subDescIllusionistCircleOfGuardians07|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
-subDescIllusionistCircleOfGuardians08|Increases the attack range of circle of guardians.|Увеличивает дальность атаки «Круга стражей».
+subDescIllusionistCircleOfGuardians08|Increases the attack range of circle of guardians.|Увеличивает дальность атаки «Кольца стражей».
 subDescIllusionistCircleOfGuardians09|Sand guardians gain increased duration based on your energy.|Длительность существования стражей увеличена в зависимости от вашего показателя энергии.
-subDescIllusionistCircleOfGuardians10|Increases the damage dealt by circle of guardians but each active guardian frequently drains your mana.|Увеличивает урон «Круга стражей», но каждый активный страж периодически поглощает вашу ману.
+subDescIllusionistCircleOfGuardians10|Increases the damage dealt by circle of guardians but each active guardian frequently drains your mana.|Увеличивает урон «Кольца стражей», но каждый активный страж периодически поглощает вашу ману.
 subDescIllusionistCircleOfGuardians11|Summon a wall of guardians marching forward dealing increased damage, knocking monsters back on hit.|Призывает стену стражей, которые маршируют вперед, нанося увеличенный урон и отбрасывая врагов.
 subDescIllusionistCircleOfGuardians12|Summon an ancient sand goliath with increased size and damage based on summon amount for a short duration.|На короткое время призывает огромного голиафа; его размер и урон зависят от вашего лимита призыва.
-subDescIllusionistCircleOfGuardians13|Create an arcanic sand tether between you and the circle of guardians dealing damage over time to monsters on hit.|Создает магическую связь между вами и стражами; узы наносят периодический урон всем задетым врагам.
-subDescIllusionistCircleOfGuardians14|Increases the amount and damage of circle of guardians.|Увеличивает количество и урон стражей в «Круге».
+subDescIllusionistCircleOfGuardians13|Create an arcanic sand tether between you and the circle of guardians dealing damage over time to monsters on hit.|Создает магическую связь между вами и стражами «Кольца стражей»; узы наносят периодический урон всем задетым врагам.
+subDescIllusionistCircleOfGuardians14|Increases the amount and damage of circle of guardians.|Увеличивает количество и урон стражей в «Кольце стражей».
 ||
 subIllusionistAgeProliferation01|Ancient Magic|Древняя магия
 subIllusionistAgeProliferation02|Eons Ago|Минувшие эпохи
@@ -128,17 +128,17 @@ subIllusionistTemporalHeroes11|Augmented Heroics|Славные подвиги
 subIllusionistTemporalHeroes12|The Four Horsemen|Четыре всадника
 subIllusionistTemporalHeroes13|The Singularity|Сингулярность
 subIllusionistTemporalHeroes14|Summon Support|Призыв соратников
-subDescIllusionistTemporalHeroes01|Increases the damage dealt by temporal heroes.|Увеличивает урон «Временных героев».
-subDescIllusionistTemporalHeroes02|Increases the attack speed of temporal heroes.|Увеличивает скорость атаки «Временных героев».
-subDescIllusionistTemporalHeroes03|Increases the life of temporal heroes.|Увеличивает здоровье «Временных героев».
-subDescIllusionistTemporalHeroes04|Increases the duration of temporal heroes.|Увеличивает длительность существования «Временных героев».
-subDescIllusionistTemporalHeroes05|Decreases the cooldown of temporal heroes.|Снижает время восстановления «Временных героев».
-subDescIllusionistTemporalHeroes06|Increases the skill levels of temporal heroes.|Повышает уровень навыков «Временных героев».
-subDescIllusionistTemporalHeroes07|Increases all resistances for temporal heroes.|Увеличивает все сопротивления «Временных героев».
+subDescIllusionistTemporalHeroes01|Increases the damage dealt by temporal heroes.|Увеличивает урон «Героев былого».
+subDescIllusionistTemporalHeroes02|Increases the attack speed of temporal heroes.|Увеличивает скорость атаки «Героев былого».
+subDescIllusionistTemporalHeroes03|Increases the life of temporal heroes.|Увеличивает здоровье «Героев былого».
+subDescIllusionistTemporalHeroes04|Increases the duration of temporal heroes.|Увеличивает длительность существования «Героев былого».
+subDescIllusionistTemporalHeroes05|Decreases the cooldown of temporal heroes.|Снижает время восстановления «Героев былого».
+subDescIllusionistTemporalHeroes06|Increases the skill levels of temporal heroes.|Повышает уровень навыков «Героев былого».
+subDescIllusionistTemporalHeroes07|Increases all resistances for temporal heroes.|Увеличивает все сопротивления «Героев былого».
 subDescIllusionistTemporalHeroes08|Chance to critically hit dealing increased critical strike damage.|Дает шанс нанести критический удар с увеличенным критическим уроном.
 subDescIllusionistTemporalHeroes09|Chance to inflict arcane break on hit.|Дает шанс вызвать игнорирование сопр. тайной магии при попадании.
-subDescIllusionistTemporalHeroes10|Increases the dodge chance of temporal heroes.|Увеличивает шанс уклонения «Временных героев».
-subDescIllusionistTemporalHeroes11|Temporal heroes gain augmented skills and increased damage.|«Временные герои» получают усиленные навыки и наносят больше урона.
-subDescIllusionistTemporalHeroes12|Gain an additional temporal hero increasing the damage, life and movement speed of all temporal heroes.|Вы призываете дополнительного героя; урон, здоровье и скорость передвижения всех «Временных героев» увеличены.
+subDescIllusionistTemporalHeroes10|Increases the dodge chance of temporal heroes.|Увеличивает шанс уклонения «Героев былого».
+subDescIllusionistTemporalHeroes11|Temporal heroes gain augmented skills and increased damage.|«Герои былого» получают усиленные навыки и наносят больше урона.
+subDescIllusionistTemporalHeroes12|Gain an additional temporal hero increasing the damage, life and movement speed of all temporal heroes.|Вы призываете дополнительного героя; урон, здоровье и скорость передвижения всех «Героев былого» увеличены.
 subDescIllusionistTemporalHeroes13|Summon a temporal demonspawn with increased stats.|Призывает временное отродье демона с повышенными характеристиками.
-subDescIllusionistTemporalHeroes14|Temporal heroes cast buffs when summoned. Viking casts combat orders, pyromancer casts fire shield and marksman casts agility.|При появлении «Временные герои» используют усиления: викинг — «Боевые приказы», пиромант — «Огненный щит», а стрелок — «Ловкость».
+subDescIllusionistTemporalHeroes14|Temporal heroes cast buffs when summoned. Viking casts combat orders, pyromancer casts fire shield and marksman casts agility.|При появлении «Герои былого» используют усиления: викинг — «Боевой приказ», пиромант — «Огненный щит», а стрелок — «Ловкость».

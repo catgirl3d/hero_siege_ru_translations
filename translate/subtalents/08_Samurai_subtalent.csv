@@ -7,25 +7,25 @@ subSamuraiBattleGlance06|Restorative Strikes|Восстанавливающие 
 subSamuraiBattleGlance07|Spinning Katanas|Вращающиеся катаны
 subSamuraiBattleGlance08|From Behind|Удар в спину
 subSamuraiBattleGlance09|Guided Swing|Выверенный взмах
-subSamuraiBattleGlance10|Burst of Speed|Всплеск скорости
+subSamuraiBattleGlance10|Burst of Speed|Вспышка скорости
 subSamuraiBattleGlance11|Shadow From Within|Тень изнутри
 subSamuraiBattleGlance12|Blood Harvest|Жатва крови
 subSamuraiBattleGlance13|Perfection|Совершенство
 subSamuraiBattleGlance14|Evasive Prodigy|Мастер уклонения
-subDescSamuraiBattleGlance01|Increases the amount of attacks performed by battle glance.|Увеличивает количество атак умения «Боевой взгляд».
-subDescSamuraiBattleGlance02|Increases the damage dealt by battle glance.|Увеличивает урон «Боевого взгляда».
-subDescSamuraiBattleGlance03|Increases the area of effect radius of battle glance.|Увеличивает радиус области действия «Боевого взгляда».
+subDescSamuraiBattleGlance01|Increases the amount of attacks performed by battle glance.|Увеличивает количество атак умения «Боевой взор».
+subDescSamuraiBattleGlance02|Increases the damage dealt by battle glance.|Увеличивает урон «Боевого взора».
+subDescSamuraiBattleGlance03|Increases the area of effect radius of battle glance.|Увеличивает радиус области действия «Боевого взора».
 subDescSamuraiBattleGlance04|Chance on hit to gain increased dodge chance for a short period.|Дает шанс при попадании на короткое время увеличить вероятность уклонения.
 subDescSamuraiBattleGlance05|Execute monsters with low life.|Казнит монстров с низким уровнем здоровья.
 subDescSamuraiBattleGlance06|Leech life and mana on hit.|Похищает здоровье и ману при попадании.
 subDescSamuraiBattleGlance07|Chance on attack to summon a rotating blade orbiting around you for a short period inflicting bleeding on hit.|Дает шанс при атаке призвать вращающийся клинок; он кружит вокруг вас в течение короткого времени и вызывает кровотечение при попадании.
 subDescSamuraiBattleGlance08|Increases damage dealt to bleeding targets.|Увеличивает урон по истекающим кровью целям.
-subDescSamuraiBattleGlance09|Increases critical strike damage by battle glance.|Увеличивает критический урон «Боевого взгляда».
+subDescSamuraiBattleGlance09|Increases critical strike damage by battle glance.|Увеличивает критический урон «Боевого взора».
 subDescSamuraiBattleGlance10|Chance on kill to gain increased movement speed for a short period.|Дает шанс при убийстве на короткое время увеличить скорость передвижения.
 subDescSamuraiBattleGlance11|Chance on attack to unleash a shadowy ball of energy traveling towards your blade causing monsters to be cloned to harm them selves on hit.|Дает шанс при атаке выпустить сферу теневой энергии; при попадании она создает призрачных двойников монстров, которые атакуют сами себя.
 subDescSamuraiBattleGlance12|Gain stacks of blood harvest when killing monsters. At maximum stacks gain increased damage and attack speed based on your vitality.|Убийство монстров дает заряды жатвы крови. При максимуме зарядов ваши урон и скорость атаки увеличиваются в зависимости от показателя живучести.
-subDescSamuraiBattleGlance13|Battle Glance now deals increased cleave damage to all monsters within your blade’s reach.|«Боевой взгляд» теперь наносит увеличенный рассекающий урон всем монстрам в пределах досягаемости клинка.
-subDescSamuraiBattleGlance14|Dodging or blocking an attack causes your next battle glance to unleash bouncing katanas in an arc infront of you dealing increased damage.|Уклонение от атаки или блок заставляют ваш следующий «Боевой взгляд» выпустить веер отскакивающих катан перед собой, наносящих увеличенный урон.
+subDescSamuraiBattleGlance13|Battle Glance now deals increased cleave damage to all monsters within your blade’s reach.|«Боевой взор» теперь наносит увеличенный рассекающий урон всем монстрам в пределах досягаемости клинка.
+subDescSamuraiBattleGlance14|Dodging or blocking an attack causes your next battle glance to unleash bouncing katanas in an arc infront of you dealing increased damage.|Уклонение от атаки или блок заставляют ваш следующий «Боевой взор» выпустить веер отскакивающих катан перед собой, наносящих увеличенный урон.
 ||
 subSamuraiShurikenThrow01|Pointy Edges|Зазубренные края
 subSamuraiShurikenThrow02|Quickthrow|Беглый бросок
@@ -45,7 +45,7 @@ subDescSamuraiShurikenThrow01|Increases critical strike chance.|Увеличив
 subDescSamuraiShurikenThrow02|Increases projectile speed.|Увеличивает скорость полета снаряда.
 subDescSamuraiShurikenThrow03|Increases damage dealt by shurikens.|Увеличивает урон сюрикенов.
 subDescSamuraiShurikenThrow04|Throw additional shurikens with increased mana cost.|Вы бросаете дополнительные сюрикены, но затраты маны увеличены.
-subDescSamuraiShurikenThrow05|While standing in smoke bomb thrown shurikens grant you a brief moment of invisibility and increased dodge chance.|Пока вы находитесь в области действия «Дымовой шашки», броски сюрикенов дают вам кратковременную невидимость и повышают шанс уклонения.
+subDescSamuraiShurikenThrow05|While standing in smoke bomb thrown shurikens grant you a brief moment of invisibility and increased dodge chance.|Пока вы находитесь в области действия «Дымовой бомбы», броски сюрикенов дают вам кратковременную невидимость и повышают шанс уклонения.
 subDescSamuraiShurikenThrow06|Chance on critical strikes to split shurikens into smaller shurikens in a cone behind the target.|При критическом ударе сюрикен может разделиться на несколько малых, летящих конусом позади цели.
 subDescSamuraiShurikenThrow07|Chance on hit to increase your attack speed and attack damage for a short duration.|Дает шанс при попадании на короткое время увеличить скорость и урон ваших атак.
 subDescSamuraiShurikenThrow08|Increases critical strike damage dealt by shurikens.|Увеличивает критический урон сюрикенов.
@@ -71,19 +71,19 @@ subSamuraiQuickslash12|Multiplicative Duality|Теневое эхо
 subSamuraiQuickslash13|Mechanical Advantage|Взрывной рывок
 subSamuraiQuickslash14|Now You See Me|Неуловимый
 subDescSamuraiQuickslash01|Increases dash speed.|Увеличивает скорость рывка.
-subDescSamuraiQuickslash02|Increases quickslash area of effect radius.|Увеличивает радиус области действия «Быстрого разреза».
+subDescSamuraiQuickslash02|Increases quickslash area of effect radius.|Увеличивает радиус области действия «Быстрого рассечения».
 subDescSamuraiQuickslash03|Increases the amount of performed slashes.|Увеличивает количество совершаемых ударов.
 subDescSamuraiQuickslash04|Chance on hit to stun the target.|Дает шанс оглушить цель при попадании.
-subDescSamuraiQuickslash05|Increases attack rating when using quickslash.|Увеличивает рейтинг атаки при использовании «Быстрого разреза».
+subDescSamuraiQuickslash05|Increases attack rating when using quickslash.|Увеличивает рейтинг атаки при использовании «Быстрого рассечения».
 subDescSamuraiQuickslash06|Increases the damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
-subDescSamuraiQuickslash07|Summon shadow performing quickslash towards a nearby monster dealing a portion of the damage.|Призывает тень, которая совершает «Быстрый разрез» в сторону ближайшего монстра, нанося часть урона.
+subDescSamuraiQuickslash07|Summon shadow performing quickslash towards a nearby monster dealing a portion of the damage.|Призывает тень, которая совершает «Быстрое рассечение» в сторону ближайшего монстра, нанося часть урона.
 subDescSamuraiQuickslash08|Leave a shadow behind slashing monsters around it dealing a portion of the damage.|Оставляет за собой тень, которая рубит врагов вокруг себя, нанося им часть урона.
-subDescSamuraiQuickslash09|Increases the range of quickslash.|Увеличивает дальность «Быстрого разреза».
-subDescSamuraiQuickslash10|Quickslash no longer deals damage in a circle and instead deals damage to the closest target and a cone behind them firing multiple piercing kunai.|«Быстрый разрез» больше не наносит урон по кругу; теперь он поражает ближайшую цель и противников в конусе за ней, выпуская несколько пронзающих кунаев.
+subDescSamuraiQuickslash09|Increases the range of quickslash.|Увеличивает дальность «Быстрого рассечения».
+subDescSamuraiQuickslash10|Quickslash no longer deals damage in a circle and instead deals damage to the closest target and a cone behind them firing multiple piercing kunai.|«Быстрое рассечение» больше не наносит урон по кругу; теперь он поражает ближайшую цель и противников в конусе за ней, выпуская несколько пронзающих кунаев.
 subDescSamuraiQuickslash11|Summon a shadow dashing towards your aim multiple times dealing damage to all monsters hit. After it expires you quickly dash following the same path with massively increased damage.|Призывает тень, которая несколько раз совершает рывок в сторону цели, нанося урон всем задетым монстрам. После этого вы быстро совершаете рывок по тому же пути, нанося огромный урон.
 subDescSamuraiQuickslash12|Spirit double now spawns multiple shadows dashing with increased speed and damage.|«Призрачный двойник» теперь порождает несколько теней, совершающих рывки с увеличенной скоростью и уроном.
 subDescSamuraiQuickslash13|Dash an increased range sending explosive kunai in an aura at your wake.|Увеличивает дальность рывка; при движении вы оставляете за собой шлейф из взрывных кунаев.
-subDescSamuraiQuickslash14|Slash with increased area of effect radius and damage dropping a smoke bomb at target location.|Совершает удар с увеличенным радиусом и уроном, оставляя «Дымовую шашку» в точке назначения.
+subDescSamuraiQuickslash14|Slash with increased area of effect radius and damage dropping a smoke bomb at target location.|Совершает удар с увеличенным радиусом и уроном, оставляя «Дымовую бомбу» в точке назначения.
 ||
 subSamuraiSmokeBomb01|Weakening Powder|Изнуряющая пыль
 subSamuraiSmokeBomb02|Key to Precision|Залог точности
@@ -102,17 +102,17 @@ subSamuraiSmokeBomb14|Smoke Trail|Дымовой шлейф
 subDescSamuraiSmokeBomb01|Slows and reduces attack rating of targets hit.|Замедляет врагов и снижает их рейтинг атаки при попадании.
 subDescSamuraiSmokeBomb02|Increases projectile speed.|Увеличивает скорость полета снаряда.
 subDescSamuraiSmokeBomb03|Chance on hit to inflict armor break.|Дает шанс вызвать пробивание брони при попадании.
-subDescSamuraiSmokeBomb04|Increases smoke bomb area of effect radius.|Увеличивает радиус области действия «Дымовой шашки».
+subDescSamuraiSmokeBomb04|Increases smoke bomb area of effect radius.|Увеличивает радиус области действия «Дымовой бомбы».
 subDescSamuraiSmokeBomb05|Inflict arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
-subDescSamuraiSmokeBomb06|Increases damage dealt by smoke bomb.|Увеличивает урон «Дымовой шашки».
-subDescSamuraiSmokeBomb07|Smoke bomb has a chance to bounce releasing an additional smoke cloud.|«Дымовая шашка» может отрикошетить от земли, создавая дополнительное облако дыма.
-subDescSamuraiSmokeBomb08|Increases cast rate when using smoke bomb.|Увеличивает скорость каста при использовании «Дымовой шашки».
+subDescSamuraiSmokeBomb06|Increases damage dealt by smoke bomb.|Увеличивает урон «Дымовой бомбы».
+subDescSamuraiSmokeBomb07|Smoke bomb has a chance to bounce releasing an additional smoke cloud.|«Дымовая бомба» может отрикошетить от земли, создавая дополнительное облако дыма.
+subDescSamuraiSmokeBomb08|Increases cast rate when using smoke bomb.|Увеличивает скорость каста при использовании «Дымовой бомбы».
 subDescSamuraiSmokeBomb09|Inflicts burning on hit.|При попадании накладывает горение.
 subDescSamuraiSmokeBomb10|Increases damage dealt to burning targets.|Увеличивает урон по горящим целям.
 subDescSamuraiSmokeBomb11|Significantly reduce enemy attack rating and increase monster damage taken when inside smoke bomb.|Находясь в дыму, враги теряют рейтинг атаки и получают значительно больше урона.
-subDescSamuraiSmokeBomb12|Throw out smoke bombs in all directions forming a massive cloud increasing your movement speed inside of it. Smoke bomb now has a cooldown.|Вы выбрасываете шашки во все стороны, создавая плотную завесу, которая ускоряет ваше передвижение. «Дымовая шашка» теперь имеет время восстановления.
+subDescSamuraiSmokeBomb12|Throw out smoke bombs in all directions forming a massive cloud increasing your movement speed inside of it. Smoke bomb now has a cooldown.|Вы выбрасываете бомбы во все стороны, создавая плотную завесу, которая ускоряет ваше передвижение. «Дымовая бомба» теперь имеет время восстановления.
 subDescSamuraiSmokeBomb13|Smoke bomb consumes damage over time debuffs from monsters inside of it dealing full damage instantly.|Дым поглощает все эффекты периодического урона на врагах, мгновенно нанося им весь суммарный урон.
-subDescSamuraiSmokeBomb14|Smoke bomb now leaves a trail of smoke behind you dealing increased damage. Smoke bomb now has a cooldown.|Теперь вы оставляете за собой шлейф ядовитого дыма, наносящий увеличенный урон. «Дымовая шашка» теперь имеет время восстановления.
+subDescSamuraiSmokeBomb14|Smoke bomb now leaves a trail of smoke behind you dealing increased damage. Smoke bomb now has a cooldown.|Теперь вы оставляете за собой шлейф ядовитого дыма, наносящий увеличенный урон. «Дымовая бомба» теперь имеет время восстановления.
 ||
 subSamuraiExplosiveKunai01|Stronger Explosives|Усиленный заряд
 subSamuraiExplosiveKunai02|Packed Up Kunai|Начиненный кунай
@@ -176,7 +176,7 @@ subSamuraiExplodingBolas01|Explosive Outburst|Взрывная волна
 subSamuraiExplodingBolas02|Improved Design|Улучшенная конструкция
 subSamuraiExplodingBolas03|Close Impact|Сокрушительный контакт
 subSamuraiExplodingBolas04|Fastbol|Стремительный бросок
-subSamuraiExplodingBolas05|Multibolas|Связка боласов
+subSamuraiExplodingBolas05|Multibolas|Связка бола
 subSamuraiExplodingBolas06|Low Blow|Подлый удар
 subSamuraiExplodingBolas07|Another One|Повторная детонация
 subSamuraiExplodingBolas08|Tough Fall|Жесткое падение
@@ -186,20 +186,20 @@ subSamuraiExplodingBolas11|Loaded Charge|Полный заряд
 subSamuraiExplodingBolas12|Clusterducks|Разрывные утята
 subSamuraiExplodingBolas13|Magnetic String|Стягивающая нить
 subSamuraiExplodingBolas14|Bola'd Stasis|Сковывающий стазис
-subDescSamuraiExplodingBolas01|Increases the explosion area of effect radius of exploding bolas.|Увеличивает радиус взрыва «Взрывных боласов».
-subDescSamuraiExplodingBolas02|Increases the damage dealt by exploding bolas.|Увеличивает урон «Взрывных боласов».
+subDescSamuraiExplodingBolas01|Increases the explosion area of effect radius of exploding bolas.|Увеличивает радиус взрыва «Взрывных бола».
+subDescSamuraiExplodingBolas02|Increases the damage dealt by exploding bolas.|Увеличивает урон «Взрывных бола».
 subDescSamuraiExplodingBolas03|Inflicts arcane break on hit.|При попадании вызывает игнорирование сопр. тайной магии.
 subDescSamuraiExplodingBolas04|Increases projectile speed.|Увеличивает скорость полета снарядов.
-subDescSamuraiExplodingBolas05|Throw multiple bolas in an arc.|Вы бросаете несколько боласов по дуге.
-subDescSamuraiExplodingBolas06|Bolas have a chance on hit to stun the enemy.|Дает шанс оглушить врага при попадании боласа.
-subDescSamuraiExplodingBolas07|Chance for bolas to explode an additional time.|Боласы могут взорваться повторно.
+subDescSamuraiExplodingBolas05|Throw multiple bolas in an arc.|Вы бросаете несколько бола по дуге.
+subDescSamuraiExplodingBolas06|Bolas have a chance on hit to stun the enemy.|Дает шанс оглушить врага при попадании бола.
+subDescSamuraiExplodingBolas07|Chance for bolas to explode an additional time.|Бола могут взорваться повторно.
 subDescSamuraiExplodingBolas08|Increases damage dealt to stunned targets.|Увеличивает урон по оглушенным целям.
-subDescSamuraiExplodingBolas09|Increases cast rate when using exploding bolas.|Увеличивает скорость каста при использовании «Взрывных боласов».
-subDescSamuraiExplodingBolas10|Bolas now pierce allowing them to attach to multiple targets dealing increased damage.|Боласы теперь пронзают врагов насквозь, прикрепляясь к нескольким целям и нанося увеличенный урон.
-subDescSamuraiExplodingBolas11|Bolas are stuck on enemies for a longer period of time, dealing damage to them during this period causes the explosion to gain increased damage & size up to 5 times.|Боласы дольше остаются на врагах. Нанесение урона цели в это время увеличивает радиус и силу финального взрыва (до 5 раз).
+subDescSamuraiExplodingBolas09|Increases cast rate when using exploding bolas.|Увеличивает скорость каста при использовании «Взрывных бола».
+subDescSamuraiExplodingBolas10|Bolas now pierce allowing them to attach to multiple targets dealing increased damage.|Бола теперь пронзают врагов насквозь, прикрепляясь к нескольким целям и нанося увеличенный урон.
+subDescSamuraiExplodingBolas11|Bolas are stuck on enemies for a longer period of time, dealing damage to them during this period causes the explosion to gain increased damage & size up to 5 times.|Бола дольше остаются на врагах. Нанесение урона цели в это время увеличивает радиус и силу финального взрыва (до 5 раз).
 subDescSamuraiExplodingBolas12|Throw multiple explosive rubberducks that bounce towards a nearby target before exploding.|Вы бросаете несколько взрывных резиновых утят, которые скачут к ближайшей цели и детонируют.
-subDescSamuraiExplodingBolas13|Monsters caught by bolas are pulled towards the first target.|Монстры, задетые боласами, притягиваются к первой цели.
-subDescSamuraiExplodingBolas14|Bola now grabs all enemies on its path and pulls nearby enemies towards it when hitting terrain.|Болас теперь захватывает всех врагов на своем пути и притягивает окружающих противников к точке удара о препятствие.
+subDescSamuraiExplodingBolas13|Monsters caught by bolas are pulled towards the first target.|Монстры, задетые бола, притягиваются к первой цели.
+subDescSamuraiExplodingBolas14|Bola now grabs all enemies on its path and pulls nearby enemies towards it when hitting terrain.|Бола теперь захватывают всех врагов на своем пути и притягивают окружающих противников к точке удара о препятствие.
 ||
 subSamuraiOmnislash01|Clean Hits|Безупречные удары
 subSamuraiOmnislash02|Extra Cut|Дополнительный разрез
@@ -215,16 +215,16 @@ subSamuraiOmnislash11|Lucky Strikes|Перст судьбы
 subSamuraiOmnislash12|Rain Of Chaos|Дождь хаоса
 subSamuraiOmnislash13|Poison Coated Daggers|Отравленные кинжалы
 subSamuraiOmnislash14|Thunder Slashes|Громовые удары
-subDescSamuraiOmnislash01|Increases attack rating when using omnislash.|Повышает рейтинг атаки при использовании «Всеразрезающего удара».
+subDescSamuraiOmnislash01|Increases attack rating when using omnislash.|Повышает рейтинг атаки при использовании «Всесокрушающего разреза».
 subDescSamuraiOmnislash02|Increases the amount of slashes.|Увеличивает количество ударов.
-subDescSamuraiOmnislash03|Reduces the cooldown of omnislash.|Снижает время восстановления «Всеразрезающего удара».
-subDescSamuraiOmnislash04|Increases the damage dealt by omnislash.|Увеличивает урон «Всеразрезающего удара».
-subDescSamuraiOmnislash05|When cast inside a smoke bomb invulnerability lasts for a small duration after omnislash ends.|Если умение применено внутри «Дымовой шашки», неуязвимость сохраняется на короткое время после завершения атаки.
+subDescSamuraiOmnislash03|Reduces the cooldown of omnislash.|Снижает время восстановления «Всесокрушающего разреза».
+subDescSamuraiOmnislash04|Increases the damage dealt by omnislash.|Увеличивает урон «Всесокрушающего разреза».
+subDescSamuraiOmnislash05|When cast inside a smoke bomb invulnerability lasts for a small duration after omnislash ends.|Если умение применено внутри «Дымовой бомбы», неуязвимость сохраняется на короткое время после завершения атаки.
 subDescSamuraiOmnislash06|Throw a piercing kunai at a nearby enemy with reduced damage each strike.|Каждый удар выпускает в ближайшего врага пронзающий кунай, наносящий сниженный урон.
-subDescSamuraiOmnislash07|Striking monsters with Omnislash has a chance to cast empires slash.|Удары «Всеразрезающим ударом» могут с некоторой вероятностью вызвать «Разрез империи».
-subDescSamuraiOmnislash08|Increases critical chance with omnislash.|Увеличивает шанс критического удара «Всеразрезающего удара».
+subDescSamuraiOmnislash07|Striking monsters with Omnislash has a chance to cast empires slash.|Удары «Всесокрушающим разрезом» могут с некоторой вероятностью вызвать «Имперский разрез».
+subDescSamuraiOmnislash08|Increases critical chance with omnislash.|Увеличивает шанс критического удара «Всесокрушающего разреза».
 subDescSamuraiOmnislash09|Chance to increase the amount of slashes depending on your critical strike chance.|Дает шанс увеличить количество ударов; вероятность зависит от вашего шанса критического удара.
-subDescSamuraiOmnislash10|Increases critical strike damage dealt by omnislash.|Увеличивает критический урон «Всеразрезающего удара».
+subDescSamuraiOmnislash10|Increases critical strike damage dealt by omnislash.|Увеличивает критический урон «Всесокрушающего разреза».
 subDescSamuraiOmnislash11|Omnislash now always procs all your striking effects on hit with halved amount of slashes and decreased damage. Omnislash cooldown is increased.|Удары теперь всегда активируют ваши эффекты при попадании, но количество разрезов и урон снижены вдвое. Время восстановления увеличено.
 subDescSamuraiOmnislash12|Each slash now drops a shadow meteor down from the sky dealing area of effect damage when landing.|С каждым ударом с неба обрушивается теневой метеор, наносящий урон по области при приземлении.
 subDescSamuraiOmnislash13|Throw poison coated daggers around with each slash inflicting poisoned and dealing increased damage to poisoned targets.|С каждым ударом вы разбрасываете отравленные кинжалы, которые накладывают отравление и наносят увеличенный урон уже отравленным целям.
@@ -245,19 +245,19 @@ subSamuraiShadowStep12|Bargain With Demons|Сделка с демонами
 subSamuraiShadowStep13|Vortex Step|Вихревой шаг
 subSamuraiShadowStep14|Pulsating Shadows|Пульсирующие тени
 subDescSamuraiShadowStep01|Increases teleport distance.|Увеличивает дальность телепортации.
-subDescSamuraiShadowStep02|Decreases the mana cost of shadow step.|Снижает затраты маны на «Шаг тени».
+subDescSamuraiShadowStep02|Decreases the mana cost of shadow step.|Снижает затраты маны на «Теневой шаг».
 subDescSamuraiShadowStep03|Chance to stun monsters on hit.|Дает шанс оглушить монстров в точке появления.
 subDescSamuraiShadowStep04|Increases damage dealt to stunned enemies.|Увеличивает урон по оглушенным врагам.
-subDescSamuraiShadowStep05|Chance on cast to summon shadow clones to mimic your shadow step on a nearby target.|Дает шанс при использовании призвать теневых клонов, которые повторяют «Шаг тени» на ближайших целях.
-subDescSamuraiShadowStep06|Stunning an enemy with shadow step increases your damage & cast rate for a short period stacking up to eight times.|Оглушение врага «Шагом тени» увеличивает ваш урон и скорость каста на короткое время (суммируется до 8 раз).
+subDescSamuraiShadowStep05|Chance on cast to summon shadow clones to mimic your shadow step on a nearby target.|Дает шанс при использовании призвать теневых клонов, которые повторяют «Теневой шаг» на ближайших целях.
+subDescSamuraiShadowStep06|Stunning an enemy with shadow step increases your damage & cast rate for a short period stacking up to eight times.|Оглушение врага «Теневым шагом» увеличивает ваш урон и скорость каста на короткое время (суммируется до 8 раз).
 subDescSamuraiShadowStep07|Chance on cast to deal damage additional times upon arrival.|Дает шанс нанести урон повторно сразу после появления.
 subDescSamuraiShadowStep08|Inflict armor break on hit.|При появлении вызывает пробивание брони.
-subDescSamuraiShadowStep09|Increases cast rate when using shadow step.|Увеличивает скорость каста при использовании «Шага тени».
+subDescSamuraiShadowStep09|Increases cast rate when using shadow step.|Увеличивает скорость каста при использовании «Теневого шага».
 subDescSamuraiShadowStep10|Increases area of effect radius for a portion of your bonus movement speed.|Увеличивает радиус области действия в зависимости от вашего бонуса к скорости передвижения.
 subDescSamuraiShadowStep11|Additionally summons a storm of daggers from the sky on hit.|При появлении дополнительно обрушивает град кинжалов с небес.
 subDescSamuraiShadowStep12|When landing nearby corpses are consumed to unleash a shadow explosion dealing area of effect damage and inflict burning.|При появлении поглощает ближайшие трупы, вызывая теневой взрыв с уроном по области и накладывая горение.
 subDescSamuraiShadowStep13|Pull nearby monsters towards you unleashing bolts of shadow energy into all directions when landing dealing additional damage and stunning them.|При появлении притягивает ближайших монстров и выпускает во все стороны разряды теневой энергии, нанося доп. урон и оглушая врагов.
-subDescSamuraiShadowStep14|Shadow step now pulsates additional times inflicting arcane break.|«Шаг тени» теперь пульсирует несколько раз, вызывая игнорирование сопр. тайной магии.
+subDescSamuraiShadowStep14|Shadow step now pulsates additional times inflicting arcane break.|«Теневой шаг» теперь пульсирует несколько раз, вызывая игнорирование сопр. тайной магии.
 ||
 subSamuraiEmpiresSlash01|Steel Cutter|Рассекатель стали
 subSamuraiEmpiresSlash02|Destructive Force|Разрушительная сила
@@ -273,17 +273,17 @@ subSamuraiEmpiresSlash11|Unbridled Rage|Необузданная ярость
 subSamuraiEmpiresSlash12|Bloodcovered Edge|Окровавленная сталь
 subSamuraiEmpiresSlash13|Cone Of Death|Смертоносный веер
 subSamuraiEmpiresSlash14|Muda Muda Muda Muda Muda|Муда-муда-муда!
-subDescSamuraiEmpiresSlash01|Increases the damage dealt by empire´s slash.|Увеличивает урон «Удара империи».
-subDescSamuraiEmpiresSlash02|Increases the area of effect of empire´s slash.|Увеличивает область действия «Удара империи».
-subDescSamuraiEmpiresSlash03|Increases the attack speed of empire’s slash when wielding a 2-handed weapon.|Увеличивает скорость атаки «Удара империи» при использовании двуручного оружия.
-subDescSamuraiEmpiresSlash04|Increases the attack rating when using empire´s slash.|Увеличивает рейтинг атаки при использовании «Удара империи».
+subDescSamuraiEmpiresSlash01|Increases the damage dealt by empire´s slash.|Увеличивает урон «Имперского разреза».
+subDescSamuraiEmpiresSlash02|Increases the area of effect of empire´s slash.|Увеличивает область действия «Имперского разреза».
+subDescSamuraiEmpiresSlash03|Increases the attack speed of empire’s slash when wielding a 2-handed weapon.|Увеличивает скорость атаки «Имперского разреза» при использовании двуручного оружия.
+subDescSamuraiEmpiresSlash04|Increases the attack rating when using empire´s slash.|Увеличивает рейтинг атаки при использовании «Имперского разреза».
 subDescSamuraiEmpiresSlash05|Executes monsters after a threshold.|Казнит монстров, чей уровень здоровья ниже определенного порога.
-subDescSamuraiEmpiresSlash06|Gain additional critical strike damage when using empire’s slash.|Увеличивает критический урон «Удара империи».
-subDescSamuraiEmpiresSlash07|Gain additional critical strike chance when using empire’s slash.|Увеличивает шанс критического удара «Удара империи».
-subDescSamuraiEmpiresSlash08|Increases life steal when using empire´s slash.|Увеличивает похищение здоровья при использовании «Удара империи».
+subDescSamuraiEmpiresSlash06|Gain additional critical strike damage when using empire’s slash.|Увеличивает критический урон «Имперского разреза».
+subDescSamuraiEmpiresSlash07|Gain additional critical strike chance when using empire’s slash.|Увеличивает шанс критического удара «Имперского разреза».
+subDescSamuraiEmpiresSlash08|Increases life steal when using empire´s slash.|Увеличивает похищение здоровья при использовании «Имперского разреза».
 subDescSamuraiEmpiresSlash09|Chance to inflict bleed on hit.|Дает шанс вызвать кровотечение при попадании.
 subDescSamuraiEmpiresSlash10|You no longer teleport a fixed distance. Teleport range increased.|Вы больше не ограничены фиксированной дистанцией; дальность перемещения увеличена.
 subDescSamuraiEmpiresSlash11|Perform a series of slashes in multiple directions after teleporting.|После телепортации вы проводите серию ударов в разных направлениях.
-subDescSamuraiEmpiresSlash12|Monsters hit by empire´s slash rebound an additional empire´s slash towards a nearby monster. Empire´s slash now has a cooldown.|При попадании «Удар империи» порождает дополнительный выпад в сторону ближайшего врага. Умение теперь имеет время восстановления.
+subDescSamuraiEmpiresSlash12|Monsters hit by empire´s slash rebound an additional empire´s slash towards a nearby monster. Empire´s slash now has a cooldown.|При попадании «Имперский разрез» порождает дополнительный имперский разрез в сторону ближайшего врага. Умение теперь имеет время восстановления.
 subDescSamuraiEmpiresSlash13|Empire slash no longer teleports and attacks with multiple smaller slashes in a cone infront of you.|Вы больше не телепортируетесь, а наносите серию быстрых ударов веером перед собой.
 subDescSamuraiEmpiresSlash14|Perform a huge attack covering the whole screen dealing high damage. Empire´s slash no longer teleports you and now has a cooldown.|Вы проводите сокрушительную атаку по всему экрану. Умение больше не телепортирует вас и имеет время восстановления.
