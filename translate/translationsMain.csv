@@ -363,7 +363,7 @@ guild_tab|Guild|Гильдия
 login|Login|Войти
 register|Register|Регистрация
 logout|Logout|Выйти
-username|Username|Имя пользователя
+username|Username|Логин
 password|Password|Пароль
 remember_username|Remember login|Запомнить логин
 retype_password|Re-type password|Повторите пароль
