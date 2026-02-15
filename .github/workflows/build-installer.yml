@@ -20,6 +20,15 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
     
+    - name: Update version from tag
+      if: startsWith(github.ref, 'refs/tags/v')
+      shell: pwsh
+      run: |
+        $version = "${{ github.ref_name }}".TrimStart('v')
+        Write-Host "Setting version to $version"
+        (Get-Content installer.iss) -replace 'AppVersion=.*', "AppVersion=$version" | Set-Content installer.iss
+        (Get-Content translate/README.txt) -replace 'Версия: .*', "Версия: $version" | Set-Content translate/README.txt
+
     - name: Compile Inno Setup Script
       uses: Minionguyjpro/Inno-Setup-Action@v1.2.4
       with:
