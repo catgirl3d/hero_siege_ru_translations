@@ -20,7 +20,7 @@ DirExistsWarning=no
 Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"
 
 [Files]
-Source: "translate\*"; DestDir: "{app}"; Flags: ignoreversion
+Source: "translate\*"; DestDir: "{app}"; Flags: ignoreversion; Excludes: "subtalents"
 
 [Run]
 Filename: "{app}\README.txt"; Description: "Показать README"; Flags: postinstall shellexec skipifsilent
